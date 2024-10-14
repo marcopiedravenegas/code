@@ -1,0 +1,584 @@
+I still remember how we spent like half a day on a time management workshop, at my last full-time paid job. All of the software development team had to attend.
+
+https://en.wikipedia.org/wiki/Time_management
+
+My tasks included CI/CD scripting, technical documentation, legacy systems reversing, and writing APIs in the telecommunications industry.
+
+At that job, I learned that hubris and bad management are far more damaging than technical issues.
+
+Bugs can be fixed, but not people.
+
+Some attitudes persist for a lifetime.
+
+----
+
+Publication paywalls, patent law and "intellectual property" law, non-disclosure agreements, non-open data, and preposterous fees for publishing, are inherently antiscientific practices.
+
+Doing science, any science, requires people actively checking what's already there.
+
+Hindering the ways to make research publicly shareable, and so protecting private interests, limits what can be known from work by others.
+
+They might have been researching on similar topics and questions as one's own research.
+
+----
+
+There is a reason why capitalists tell you Philosophy (ethics, epistemology,…), Social Sciences, Humanities, History,… are "useless".
+
+It's not because they are, but because the critical questions on society they endlessly explore represent a threat to structures of power.
+
+While many of them can't verbalize it, they know they fear what's in those discussions.
+
+Those disciplines exist outside the reach of the system of wealth and power. Their research is defunded, but critical questions remain.
+
+----
+
+Modern society, with all its bells and whistles, and layer upon layer of constructions and concepts, has to be reminded of the core, timeless foundations time and again. That's why there are mathematicians, physicists, chemists, biologists, and even computer scientists.
+
+Also, in the computer trade, Unix sysadmins remind everyone else that works can get done with relatively "low-tech" tools: CSV, AWK, SQL, Unix tools, shell scripts. Huge, convoluted platforms using XML, etc. aren't the only way.
+
+----
+
+Despite all the information gathering and processing we have access to, there's always the core intellectual capacity to consider.
+
+I think of myself as a sloppy, faulty, convoluted thinker.
+
+Behind all the veils of computing theory and practice I can apparently handle, I'm aware I can't solve core problems that require serious, deep, creative thinking.
+
+Sharp insights, like Dijkstra's shortest-path algorithm or Tarjan's splay tree, are beyond my reach if I were to reconstruct them from scratch.
+
+----
+
+Learning Kotlin and other modern languages feels alienating, in the sense that they seem out of historical context.
+
+While they grew from the ideas in other languages, I perceive them as soulless, hollow shells.
+
+In contrast, Fortran, COBOL, Lisp, C, C++, BASIC, Pascal, Ada, Prolog, Python, Ruby, Perl, and even Java, have a historical lore behind them.
+
+Their technics is enriched by a cultural ecosystem of sorts, including institutions like Bell Labs, CWI, Sun Microsystems, MIT, Dartmouth, etc.
+
+----
+
+The interfacing between the discrete and the continuous domains is of profound interest to me.
+
+Discrete models are easy to setup, but often hard to analyze. Continuous models can be more difficult to build, but the underlying calculus has centuries of well-understood theory.
+
+Computer science, when shunning continuous models just because computing seems discrete in nature, is neglecting all that mostly untapped foundation.
+
+But, indeed, moving back and forth between these worlds is hard enough.
+
+----
+
+In a sense, the usual teaching of economics, studying how material incentives evolve and interact but never asking why study them in the first place, also happens in computer science.
+
+In computing, it's about programming languages and their ecosystems, algorithms and their complexity, operating systems and their approaches, computer networks and their dynamics, computer security and its adversariality, etc.
+
+But it's never why we actually need to compute in the first place. That's out of scope.
+
+----
+
+I've been dead inside for the last 20 years. Or even more. I'm an empty shell of a person, devoid of any kind of personality.
+
+It's all too usual that others find me hostile or intrusive out there in the real world. Most don't say anything. But some speak their minds. Or convey their utter disgust of me in some more subtle way.
+
+The next 20-40 years, provided I live that long, will be even worse. I didn't fit anywhere in my youth. Fitting somewhere will be even more implausible in later years.
+
+----
+
+I always end up leaving when things get rough to me. Like the uni community work with the civil engineers. I'm considered a serial quitter that doesn't amount to anything.
+
+My CS classmates wonder why I'm almost 40 and haven't graduated. I've told them I've worked at an ISP (over a year), Akamai (about 1 month), and a Cisco partner (almost 3 years).
+
+I've also told them I enrolled in the math major, only to crash, time and again, against an insurmountable wall of expected mathematical maturity.
+
+----
+
+Interactions in society are politics as well as economics. But the status quo is about benefiting elites, making the rich richer and the powerful more powerful.
+
+The countermovement, i.e., making the poor less poor and giving power to the powerless, still hasn't become the norm in most of academia. It's still the exception.
+
+In computer science, where algorithmic pricing and algorithmic decision-making are designed, based on principled criteria, that countermovement is quite rarely considered.
+
+----
+
+At some point, I was interested in programming language theory, category theory, mathematical logic. I was attracted by structures in semantics of formal languages.
+
+But I never got anywhere, as I don't have the focus or stamina to delve deep into higher abstractions, much higher than the usual algorithmics.
+
+I find theory of computation (models of computation, complexity, etc.) interesting. But perhaps I don't have the right mindset for that area.
+
+I guess I'll stay as a lowly dev or sysadmin.
+
+----
+
+I'm fully aware I'm a subpar, mediocre, underqualified, incompetent "computer expert". If you ask my CS profs, classmates, and former coworkers, I'm at the rock bottom of what it takes to be a professional.
+
+I'm not, in any way, in a morally valid position to make decisions on information systems. Especially for people outside computing.
+
+But that's what they expect from me. It's just plain wrong. I'm misguiding them, confusing them, wasting their time and resources.
+
+Why do I even exist at all?
+
+----
+
+Civil Engineering, Electrical Engineering, Mechanical Engineering, Chemical Engineering are real engineering. Engineers in those disciplines use forces of Nature.
+
+They need solid criteria on how to build systems, for the real world, using forces of Nature.
+
+Apart from core body of knowledge, they need physics, chemistry, calculus, statistics, differential equations, and aspects like occupational safety.
+
+In contrast, computer science is not a real engineering. It's a shallow, hollow discipline.
+
+----
+
+A huge problem with the AI hype and frenzy consists in the myriad of non-use cases or misuse cases.
+
+Valid use cases include finding patterns in large amounts of scientific data, where results are meant for further work and decision-making by humans.
+
+For instance, computer vision on cell tissue. Or statistical signal processing on climate time series.
+
+But trying to replace humans with potentially useless results from pattern generators (LLMs, GenAI) is not even wrong ("nicht einmal falsch").
+
+----
+
+Designing nothing, developing nothing, or deploying nothing, looks like a non-solution. But it's the right thing to do in plenty of situations where computing is apparently a solution. A wrong solution usually becomes a problem in itself.
+
+There's an obsessive drive towards "progress for all of humanity". But in tech industry, which is materially devoid of humanity, it's incredibly easy to lose sight of the actual, real, underlying problems.
+
+Often, it's mismanagement or mutual misunderstanding.
+
+----
+
+I gradually learned to understand that a reasonable foundational assumption is that capitalism is wrong. Just plain wrong.
+
+Capitalism is wrong in probably all human systems of ethics, except of a system internal to capitalism, meant for its own self-preservation.
+
+An "ethical" for-profit corporation is an absolute oxymoron to me. Making a profit implicitly means taking advantage of power and wealth inequality. Which implies that keeping inequality in place is quintessential for their existence.
+
+----
+
+I argue that capitalism isn't just an economic system, but also a well-known political ideology in disguise: fascism.
+
+There's probably a causality between being a fan of capitalism and being a fascist.
+
+Fans of capitalism don't believe in state welfare. They rather think of poverty as a system failure addressed by the "free market".
+
+The problem is that the "free market" solution never happens. It's computationally infeasible.
+
+In turn, capitalism directly benefits from poverty (cheap labor).
+
+----
+
+Math is intellectually beautiful, but executionally hard. However, the one and only way to experience math is to do math.
+
+In computing, you do the thinking and try it out against the machine in an iterative, interactive process of refinement (and frustration).
+
+In math, you are your own compiler and interpreter. You process and validate your own (or others') reasoning.
+
+Theorem provers and assistants could help (without LLMs, thank you very much). But higher-order reasoning is hard to automate.
+
+----
+
+The computational "paradigm" (that odious, pompous, usually overused term) works alongside theoretical models to make sense of physical phenomena out there. It's not a groundbreaking substitute nor a puny utensil of theory.
+
+Computational science, as in the integration of science and computing, has gone a long way since, say, the 1940s.
+
+But both overreliance and underuse of computational, algorithmic, and programmatic approaches persist.
+
+Programs aren't oracles nor notepads. Just other models.
+
+----
+
+Learning a programming language, just by studying its syntax and semantics, reading and writing examples, and how it compares to other languages, is often underwhelming.
+
+In contrast, learning how to implement the (core) language, i.e., how to build interpreters and compilers for it (frontends & backends), makes for a far more insightful learning process.
+
+Programming languages can be appreciated well beyond their utilitarian purpose, just like classical human languages (Sanskrit, Greek, Latin…)
+
+----
+
+In my mind's "ear", I speak Spanish, English, and German clear enough. But when I hear my own voice in a record, I perceive the sheer schism between my self-perception and the physical materialization of my voice.
+
+I can't come close to imagining the many difficulties I've caused other people when they've tried to decode what I'm even saying.
+
+No wonder why I prefer to write as much as possible. Still, I know I'd have to improve my phonetics (in all languages) if I want to teach anything at all.
+
+----
+
+I still wonder what's the evolutionary advantage of me having social anxiety disorder and Asperger's and a form of clinical depression. That must be some probabilistic accident on the grandest of scales, unless they are genetically correlated.
+
+The actual effects of that combination include me sabotaging my own efforts, being impulsive, thinking in discrete instead of continuous terms, focusing on everything I know I've done wrong, preventively or preemptively growing anxiety on future mistakes.
+
+----
+
+It turns out to be counterintuitive, and even moronic, to be "thankful" to a boss or employer. Sure, they give money in exchange for work, and money covers food and shelter and other needs. But at what social cost?
+
+Work is far more valuable than the face value of a monthly salary or hourly wage.
+
+Money is a qualitatively poor incentive to make a person do something they don't really want to, for someone they don't really like.
+
+Capitalism says "you're lazy" to avoid saying "I'm exploiting you".
+
+----
+
+If I were to teach a discrete math course, I wouldn't follow a textbook verbatim.
+
+Rather, I'd pick and choose examples in some historical order: Euler and Königsberg, molecular diagrams by Sylvester, four-color theorem and automated theorem proving, etc.
+
+I'm aware that history of technology by itself is hard enough to teach to computer science students.
+
+But introducing methods without any underlying narrative, or context on where and why they appeared, feels deeply alienating and confusing.
+
+----
+
+On the one hand, Costa Rica has fundamental infrastructural and resource utilization problems, which need to be addressed immediately.
+
+Whatever computer science can provide to the Costa Rican society is useful.
+
+On the other hand, putting all that effort in immediate problems leaves the country short-sighted for the long term.
+
+That is, agile dev and tech infra for industry and institutions are important.
+
+But theoretical computer science research can't be discarded altogether as "irrelevant".
+
+----
+
+My motivation for engaging in theoretical computer science is, on the one side, the potential impact it has on applied CS areas and, on the other side, new approaches or phenomena that are discovered.
+
+To me, it's like moving in a vast network of existing tunnels, some left abandoned for decades. Or opening new tunnels, which eventually connect existing tunneling areas or seem to lead nowhere. But I keep digging anyways.
+
+"The network is vast and infinite."
+—Ghost in the Shell (1995)
+
+----
+
+To make sense of the present and plan for the future, it's absolutely necessary to deeply and profoundly understand the past.
+
+Historians of society, culture, art, science, technology, language, law, and other domains have a clear advantage.
+
+However, capitalism, which sets the agenda for investment and focus, is all about obliterating the mere idea of history.
+
+That's why ignoramuses moneymakers bully and humiliate scholars of history and social sciences. Their criticism is well beyond invalid.
+
+----
+
+There are representation theorems and classification theorems in some areas of math.
+
+I might try proving "computation theorems": what mathematical structures can compute what mathematical structures?
+
+For instance, can an Abelian group, seen as a model of computation, compute (virtualize/emulate) objects in some topological vector space?
+
+I'd require depth in computability, and breadth in various areas of analysis and algebra.
+
+To what extent is math a source of abstract computer architectures?
+
+----
+
+A historically-informed sequence of technically-deep courses would be an insightful twist on how computer networking, operating systems, computer architecture, and database systems are taught to CS majors.
+
+But there are limitations in that approach:
+
+First, the professor would have to be particularly well acquainted with historical computing, both in hardware and software.
+
+Second, interest in the history of computing would be expected from the class for the courses to be (hopefully) enjoyable.
+
+----
+
+Implementing and running simulations of various dynamic scheduling algorithms is indeed fun and insightful.
+
+Their behavior can be modeled by difference or differential equations. But applying them on actual test data, as well as running statistical experiments on the simulations, gives an idea of how they'd perform in a realistic setting.
+
+Especially when test data is representative of several kinds of usual and unusual workloads.
+
+Several languages even appeared in the context of simulation.
+
+----
+
+There are indeed languages that, incidentally, are meant for lone developers or for small teams. Like C.
+
+All those abstraction layers in CSharp, Java, etc., which support object-oriented programming, are suitable for large enterprises. But their overhead for the lone dev or the small team is quite a burden.
+
+Real-world, large-scale software development is collaborative. Or so they tell us. But it's possible to create nice and useful software projects by oneself, or with a few other developers.
+
+----
+
+I really enjoy science documentaries broadcast by DW from Germany (usually produced by ARTE, ARD, or ZDF, often in collaboration with other EU countries). They usually feature plenty of substance, in the form of interviews, with few graphical distractions.
+
+In contrast, Discovery, NatGeo, and other American channels broadcast science documentaries with little substance, but plenty of fanfare. They make it look like you learned something new, whereas the actual scientific subject is secondary.
+
+----
+
+As for the "innovative" folks who think retrocomputing and historical computers are dead in the water, we have but barely scratched the surface of what is or was possible with decades-old computing technology.
+
+Tomasulo's algorithm appeared in IBM System/360 Model 91 from 1964.
+
+https://en.wikipedia.org/wiki/Tomasulo%27s_algorithm
+
+Severe computation constraints call for actual innovations, which cleverly leverage the capacities of the machine.
+
+We take too much for granted. Even the concept of 'stack' by Dijkstra in 1960.
+
+----
+
+«Hilbert himself was astonished that the spectra of his quadratic forms should come to be interpreted as atomic spectra. "I developed my theory of infinitely many variables from purely mathematical interests, and even called it 'spectral analysis' without any presentiment that it would later find an application to the actual spectrum of physics".»
+
+Steen, L. A. (1973). Highlights in the History of Spectral Theory. The American Mathematical Monthly, 80(4), 359–381. https://doi.org/10.1080/00029890.1973.11993292
+
+----
+
+I'm convinced that graphical interfaces should be considered mere representations of underlying data, not the main way to work on that data.
+
+Workflow editors, circuit design tools (and CAD in general), etc. are often tightly tied to the work that is being edited.
+
+Instead, they could make use of domain-specific languages, perhaps similar to "dot" for Graphviz, to separate content from presentation.
+
+But most people prefer clicking to typing, which is why those design tools are built like that.
+
+----
+
+Conputer science, being at the crossroads of mathematical theory and engineering application, has the additional pressure that its models "must be useful in practice".
+
+Somehow, the study of obsolete, unfeasible or inefficient forms of computation (e.g., mechanical implementations of continuous models, computing with black holes) is frowned upon or outright attacked.
+
+But the underlying aspects of physical computation, like interactions between thermodynamics and information, are worth studying.
+
+----
+
+Classifying computer science as a discipline has become quite a difficult task. In terms of foundations (theory of computation and algorithms), it's applied math. In terms of how it's used, it's an engineering field. In terms of the substance it works on (i.e., data), it's a form of applied statistics.
+
+The boundaries of computer science are ill-defined. I prefer to stick to the foundational view as applied math. Everything else is applied computer science (also known as informatics, computing).
+
+----
+
+If I were to teach CS courses, I guess I'd pick discrete math. It's a fun course: recurrence/difference relations (the discrete version of differential equations), applied elementary number theory (like modulo arithmetic), the basics of graph theory (I'd emphasize that, as graphs are instrumentally important in advanced data structures).
+
+It's the kind of math a computer science student can relate to, as opposed to calculus. Linear algebra is quintessential, but rather abstract to many students.
+
+----
+
+Courses on concrete information systems, like operating systems, network stack implementations, and database systems, are there not only to teach how to use existing platforms, but also to learn to reframe the problems they solve for another domain.
+
+Message queues (for interprocess communication in an OS) is a tried-and-tested solution, which can be used for coordinating distributed systems. It's not just yet another OS feature.
+
+Also, an analogy of packet encapsulation works in file formats.
+
+----
+
+Lassen sich mathematische Objekte als Computerprogramme interpretieren? Was für ein "Programm" sollte die quadratische Funktion sein? Was bedeutet eine Differentialgleichung, etwa die Wellengleichung, wenn man sie als ein abstrakter "Computer" betrachtet.
+
+Darüber will ich eine Doktorarbeit schreiben. Es lohnt sich, solche Fragen zu untersuchen. Insbesonders, sie erstens sinnvoll zu machen, denn man entdeckt neue Verknüpfungen zwischen schon bekannten Ideen und nützliche Darstellungen davon.
+
+----
+
+I'm somehow convinced (or pathologically delusional) that mathematical objects like polynomials, differential equations, square matrices, etc. are programs themselves, or even computers (as in models of computation).
+
+What they do in a computational sense is still a mystery to me. While we write programs in R, Python, Julia,  C, etc., they might already be represented in a given mathematical object, waiting to be decoded.
+
+For instance, a sorting algorithm as multiplication of given matrices.
+
+----
+
+The research question I know I want to address is the nature itself of models of computation, both discrete and continuous.
+
+For instance, I want to know the computational expressiveness of a quintic polynomial in the reals. Or, the wave equation, with given boundary and initial conditions.
+
+What does the (un)solvability of that polynomial in the reals mean computationally? Is it like a program with a stack overflow error in runtime? Can the wave equation be interpreted as a software library?
+
+----
+
+A career in (political) journalism only make (social) sense when working in active opposition to power. It's the investigative journalists that bring corruption and abuse to light.
+
+If they aren't explicitly against the powerful, journos end up becoming their unofficial mouthpieces. They become mere entertainers, bringing pseudoinformation to the masses.
+
+----
+
+"Algorithm", as the mechanism by which corporations, governments, and other organizations automate social injustice, is rather a misnomer. "Data" isn't the core issue itself, either.
+
+The problem is their purposes and the execution of their intents. In general, science and technology are the means of amplification of all the damage they want to inflict to the rest of us. Or, don't care to inflict, as we're merely collateral to their goals.
+
+Mainstream media usually distracts from the root cause.
+
+----
+
+LaTeX is indeed effective for academic publication, especially for anything including formulas.
+
+Making things look nice takes plenty of time, though. And no, WYSIWYG is not a solution: it's more like a source of problems.
+
+It should be acceptable to deliver a branch of a Git repo, with a given directory layout and plain text documentation format, as an academic publication.
+
+But making a repo branch a first-class citizen in academic publication might have plenty of opposition outside computing.
+
+----
+
+Languages like Perl and PHP are generally frowned upon at best, or hated in the average case, despite them being effective for a professional programmer.
+
+They can be (and are) easily misused. But code written in them can also be well-documented (names of variables, functions, and modules). They can't be regarded as "dead languages".
+
+To me, no language is properly dead. Even PL/I, MUMPS, COBOL, are still around. Somehow (emulated or in bare metal), somewhere in the world, because of somebody.
+
+----
+
+I've been wondering about models of computation as elements of a high-dimensional space.
+
+An analytical (as in, say, functional analysis) characterization of the space of Turing-equivalent models would be an incredible research program in theory of computation.
+
+Obviously, some specialist in mathematical analysis, who is also comfortable with studying models of computation, must have thought of that long ago. For instance, the Computable Analysis folks.
+
+----
+
+If I implement a computer algebra system, my guess is that it'll be a one-developer project, despite the complexity of such a system.
+
+I never sync with people. I find it difficult to work with others on software projects. I can perceive them defending their territory in source code.
+
+A system written from scratch by oneself isn't meant to be a working platform for everyone to use, but a personal voyage to understand design/implementation aspects in depth (solving dependencies in graphs, etc.)
+
+----
+
+Several years ago, I considered the idea of programming by data (i.e., data as programs).
+
+That idea has been around ever since Lisp appeared in 1960, and it's the goal of declarative programming: define how the result should look like, and the compiler or interpreter will do the rest.
+
+Nevertheless, adding layer upon layer of declarative abstractions leaves one astray in how to concretely think about the execution of the program. Delegating the fulfullment of computational tasks is just arcane.
+
+----
+
+Database theory turns out to be quite useful. Instead of reinventing the wheel in an application, use the tried-and-tested facilities in a DBMS: multiversion concurrency control, ARIES recovery with WAL, etc.
+
+SQL, with efficient query execution plans, is a wonder of informatics. There's not really a need for brand new query languages, when SQL suffices for most use cases.
+
+An application developed as a database (e.g., application logic as stored procedures) doesn't seem that far-fetched.
+
+----
+
+Biology was my least favorite subject in school. I perceived it as rather boring, in comparison to, say, chemistry.
+
+However, the mathematical modeling of biological phenomena seemed particularly interesting.
+
+My prof mentioned the Lotka-Volterra equations in 9th grade. I encountered them much later in the differential equations course.
+
+Also, Turing (1952) modeled the reaction-diffusion phenomenon in morphogenesis using differential equations.
+
+There's even a whole field: mathematical biology.
+
+----
+
+The idea of a phase space (which we bizarrely didn't study in our differential equations course, only solutions methods) is easy to understand (a dimension for each variable in the system), yet strange somehow.
+
+Trajectories in a phase space are not necessarily trails of the system in 3D, but a more abstract kind of trail.
+
+It's quite powerful to be able to study the geometry of those curves in a phase space. Equilibrium points tell a lot about the behavior of a system.
+
+https://en.m.wikipedia.org/wiki/Phase_space
+
+----
+
+Ich vermisse Matheunterricht an der Schule. Ich hätte viel mehr (und zwar, viel, viel mehr) Mathe üben können.
+
+Seit den ersten Mathevorlesungen an der Uni fühle ich, als ob der Sinn des Lebens wäre, Mathe lebenslang zu lernen: Funktionentheorie, algebraische Topologie, differentiale Geometrie, mathematische Logik (nicht nur klassiche), Theorie der gewöhnlichen, partiellen, und stochastischen Differentialgleichungen, usw.
+
+Selbst wenn ich kein Mathematiker, sondern Informatiker, werden will.
+
+----
+
+I could even try implementing a computer algebra system as a database in PostgreSQL. Common integrals, Laplace transforms, and other usual expressions are databaseable.
+
+For instance, by including a table "term" that has self-relations, like "term1 adds to term2". Akin to the employee-supervisor example in myriads of database textbooks.
+
+Hierarchies of terms are even more complex to model, though. Also, relations are often not commutative (eg., matrices). Or even associative (e.g., quaternions).
+
+----
+
+There's this obsession of many people over power and status. But, when we die, we are usually forgotten for eternity.
+
+Some are remembered because of useful ideas (e.g., mathematicians, physicists, chemists, biologists), or because of the beauty of their works (e.g., painters, novelists, sculptors), or because of them starting something (e.g., founders of institutions). But, otherwise, people are forgotten by everyone else.
+
+Even worse, they might be remembered because of the damage they did.
+
+----
+
+Uni, apart from systematic exposure to old and new ideas, is a place for networking (e.g., for future work in academia). But I never got along with classmates.
+
+My sense of self-reliance, which is not a good thing in an inherently social environment like academia, has been guiding me through uni as an undergrad. It will be the same in grad school (provided I get accepted).
+
+I never really sync or tune in with people anywhere. I'm on my own dissonant frequency, totally and absolutely on my own.
+
+----
+
+There are models of computation that might be considered impractical. For instance, esoteric programming languages, like Malbolge, as models of computation.
+
+That situation is an epigraph by Perlis: «Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.»
+
+Still, their very existence tells something about what it means to compute. Or, at least, what it means to represent a computation.
+
+There's indeed unfathomable depth in representations of abstractions.
+
+----
+
+Silly Cone Valleys overengineer solutions in search of problems. But, the way to go is practical mid-tech solutions instead of state-of-the-art high-tech.
+
+Instead of orbital serverless DAOs and other concoctions, why not usable, day-to-day, small-business platforms, using Debian, Postgres, Apache, and PHP?
+
+As for security, keep it on a Intranet without Internet access. As for maintenance, brush up your plain, old SQL and shell scripting skills.
+
+In 20 years, that solution will still be around.
+
+----
+
+The social anarchist in me says today:
+
+- "Sharing piracy content is caring: media corporations are unable to care."
+
+- "Become a digital archivist today and rescue the future: upload whole series, movies, and books to IPFS."
+
+- "Private intellectual property is corporate theft: copyright legislation is ethically illegitimate."
+
+----
+
+I'm not particularly convinced that betting most of computer science research efforts on ML/DL/LLM is a reasonable choice.
+
+To me, "traditional" aspects of research, like models of computation, complexity, algorithms for "classical" tasks, and data structures, are not passé at all.
+
+There's always room for improvement, akin to "classical" analysis in math.
+
+----
+
+I ended up choosing R instead of Python as my main higher-level language. While Python is perceived as the be-all and end-all programming ecosystem, I prefer the way the R ecosystem has been growing.
+
+Originally, it was meant to be an S language implementation (which started at Bell Labs), designed and developed by academic statisticians.
+
+Then came tidyverse, tidymodels, and many other projects and metapackages. That expansion democratized the R ecosystem to many fields well beyond statistics.
+
+----
+
+In a sense, my posting, on several social network accounts over several years, has been a very long exercise in composition in English.
+
+When writing in English, I feel compelled to reframe my thinking, pick and choose idioms and phrases, and make other adjustments. (Sapir-Whorf isn't that far-fetched, after all.)
+
+Also, when writing in Spanish, I sound as boring and uneventful as in English. I totally refuse to ignore capitalization, punctuation, and spelling when expressing myself.
+
+----
+
+Perhaps all those agile software methodologies and aspects like technical debt are actually hiding the real burden of creating an information system: organizational dysfunction.
+
+If the client organization worked in some organized way, requirements would make sense and implementation would get done on time.
+
+But most of the time, management doesn't even know how to manage. Let alone what to ask to a development team.
+
+If an evident organizational problem hasn't been addressed, that's a red flag.
+
+----
+
+Several years ago, I witnessed a superb example of software engineering: a telephone central implemented as a database on SQL Server.
+
+Every single rule of business logic was implemented as stored procedures, triggers, and tables for the application state. No backend. Just T-SQL.
+
+There were some client applications written in Microsoft C++ (with MCF and ATL) from the 1990s, using named pipes. But the application core was the database itself.
+
+----
+
+I refuse to regularly use ChatGPT or any other LLM for any task whatsoever: summarizing a paper, generating code, etc.
+
+I need to have some degree of control over deliverables that I produce: reports, programs, etc.
+
+While running functions written in a high-level programming language (like R, Python, or PL/pgSQL) usually abstracts many layers of the machine, their execution is at least deterministically reproducible. Unless getting external resources or generating pseudorandom numbers.
+
+----

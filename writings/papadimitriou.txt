@@ -1,0 +1,3 @@
+The realization that optimization problems are intractable led us to approximation algorithms; the unavailability of information about the future, or the lack of coordination between distributed decision makers, brought us online algorithms; the price of anarchy is the result of one further obstacle: now the distributed decision makers have different objective functions.
+
+Nisan, N., Roughgarden, T., Tardos, E., and Vazirani, V. V. (2007). Algorithmic Game Theory. Cambridge University Press.

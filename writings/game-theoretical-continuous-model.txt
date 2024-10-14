@@ -1,0 +1,7 @@
+It just dawned on me: game-theoretical continuous models of computation.
+
+What if we had a computational manifold (i.e., a high-dimensional surface where computations take place) that fought against and collaborated with itself?
+
+Decisions of agents in a game (even an infinite noncountable game with infinite noncountable agents, say, numbers in Rn as game-theoretical agents) are computations. Effects of decisions are computations.
+
+Then bring everything together in a single computational object.

@@ -1,0 +1,24 @@
+Codeberg:
+
+Theoretical computer science student at University of Costa Rica. Interested in unconventional models of computation. {C, Debian, LaTeX, R, SQL} {EN, ES, DE}
+
+
+Mastodon:
+
+Theoretical computer science student at University of Costa Rica. Interested in unconventional models of computation.
+
+Profile picture: a selfie of a dark-haired Latino with glasses, a stern look, a red jacket, a green shirt, and black Under Armour underneath, on the left. Taken from Liberty Island, beneath the Statue of Liberty. In the background, to the right, is Manhattan.
+
+Header picture: an R plot of Anscombe's quartet, a classic, counterintuitive dataset in statistics.
+
+Joined
+    Jun 22, 2024
+
+Codeberg
+    https://codeberg.org/mpiedrav32
+
+Tech stack
+    C, Debian, LaTeX, R, SQL
+
+Languages
+    English, Español, Deutsch

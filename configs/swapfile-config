@@ -1,0 +1,14 @@
+sudo dd if=/dev/zero of=/swapfile bs=1G count=10
+sudo chmod 0600 /swapfile
+mkswap /swapfile
+
+# In /etc/fstab comment swap partition entry and add:
+/swapfile none swap sw 0 0
+
+# In /etc/initramfs-tools/conf.d/resume change line to:
+RESUME=/swapfile
+
+update-initramfs -u
+update-grub
+
+# Reboot

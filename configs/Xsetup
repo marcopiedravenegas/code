@@ -1,0 +1,11 @@
+#!/bin/sh
+# Xsetup - run as root before the login dialog appears
+
+## /etc/sddm/Xsetup
+
+xrandr --output eDP-1 --off
+
+if [ -e /sbin/prime-offload ]; then
+    echo running NVIDIA Prime setup /sbin/prime-offload
+    /sbin/prime-offload
+fi

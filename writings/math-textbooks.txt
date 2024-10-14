@@ -1,0 +1,9 @@
+total 31900
+drwxr-xr-x  2 mpiedrav mpiedrav    4096 Jul 24 21:05 .
+drwx------ 20 mpiedrav mpiedrav    4096 Jul 24 21:07 ..
+-rw-r--r--  1 mpiedrav mpiedrav 3230789 Jul 24 20:22 Ahlfors - Complex Analysis - McGraw-Hill (1979).djvu
+-rw-r--r--  1 mpiedrav mpiedrav 4059953 Jul 24 20:22 Bartle - The Elements of Real Analysis - Wiley (1976).djvu
+-rw-r--r--  1 mpiedrav mpiedrav 3581157 Jul 24 20:16 Dugundji - Topology - Allyn and Bacon (1966).djvu
+-rw-r--r--  1 mpiedrav mpiedrav 8460777 Jul 24 20:28 Hall - The Theory of Groups - Macmillan (1959).djvu
+-rw-r--r--  1 mpiedrav mpiedrav 4095769 Jul 24 20:52 Herstein - Topics in Algebra - Xerox (1975).djvu
+-rw-r--r--  1 mpiedrav mpiedrav 9211611 Jul 24 20:26 Hoffman and Kunze - Linear Algebra - Prentice Hall (1971).djvu
