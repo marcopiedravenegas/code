@@ -25275,6 +25275,7 @@ https://github.com/dmarx/anthology-of-modern-ml/blob/main/README.md
 https://github.com/dmlc/dgl
 https://github.com/dmlc/xgboost
 https://github.com/doctest/doctest
+https://github.com/donnemartin/system-design-primer
 https://github.com/dotnet
 https://github.com/dotnet-architecture/eBooks
 https://github.com/dotnet-architecture/eShopOnContainers
@@ -26060,6 +26061,7 @@ https://github.com/nushell/nushell
 https://github.com/nvm-sh/nvm
 https://github.com/o3de/o3de
 https://github.com/obsproject/obs-studio
+https://github.com/obspy/obspy
 https://github.com/obss/sahi
 https://github.com/ocaml-community/awesome-ocaml
 https://github.com/ocaml/Zarith
@@ -27421,6 +27423,7 @@ https://hidora.io/
 https://high5.nl/
 https://high5.nl/gist/tmux-cheatsheet.html
 https://highs.dev/
+https://highscalability.com/
 https://hintigo.pl/artykul/stanislaw-lem-wizjoner-przyszlosci/
 https://hir.harvard.edu/
 https://histocrypt.org/
@@ -33219,6 +33222,7 @@ https://pynacl.readthedocs.io/en/latest/
 https://pyodide.org/en/stable/
 https://pyomo.readthedocs.io/en/stable/
 https://pypdf.readthedocs.io/en/latest/
+https://pypi.org/
 https://pypi.org/project/PyGeodesy/
 https://pypi.org/project/cbor2/
 https://pypi.org/project/cryptography/
@@ -42529,6 +42533,8 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780429295225/g%C3%B6del-theore
 https://www.taylorfrancis.com/books/mono/10.1201/9780429398490/nonlinear-dynamics-chaos-steven-strogatz
 https://www.taylorfrancis.com/books/mono/10.1201/9780429466335/handbook-applied-cryptography-alfred-menezes-kenneth-rosen-scott-vanstone-paul-van-oorschot
 https://www.taylorfrancis.com/books/mono/10.1201/9780429492952/art-probability-richard-hamming
+https://www.taylorfrancis.com/books/mono/10.1201/9780429493911/elements-algebraic-topology-james-munkres-james-munkres
+https://www.taylorfrancis.com/books/mono/10.1201/9780429494147/analysis-manifolds-james-munkres
 https://www.taylorfrancis.com/books/mono/10.1201/9780429502859/feynman-lectures-gravitation-richard-feynman
 https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-algorithms-donald-kreher-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003081845/secure-data-science-bhavani-thuraisingham-murat-kantarcioglu-latifur-khan
