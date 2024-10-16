@@ -447,6 +447,7 @@ https://aclweb.org/aclwiki/Main_Page
 https://acm-stoc.org/
 https://aco.gatech.edu/
 https://act.eff.org/
+https://activemq.apache.org/
 https://activitypub.rocks/
 https://ad1m.github.io/GANs/
 https://ad1m.github.io/GANs/blog_html_files/main.html
@@ -457,6 +458,8 @@ https://adeptinitiates.com/
 https://adobe-fonts.github.io/source-code-pro/
 https://adobe-fonts.github.io/source-sans/
 https://adobe-fonts.github.io/source-serif/
+https://adoptium.net/
+https://adoptium.net/
 https://adoptium.net/
 https://adriann.github.io/npc/npc.html
 https://ads.microsoft.com/
@@ -664,6 +667,7 @@ https://anr.fr/
 https://anr.fr/Project-ANR-11-BS02-0013
 https://anr.hal.science/
 https://anson.ucdavis.edu/~mueller/Review151106.pdf
+https://ant.apache.org/
 https://ant.apache.org/
 https://antmicro.com/
 https://antonz.org/sqlite-is-not-a-toy-database/
@@ -1255,6 +1259,7 @@ https://arxiv.org/search/cs?searchtype=author&query=Bournez,+O
 https://asaip.psu.edu/resources/cran-packages-in-r-for-astronomy/
 https://asciidoc.org/
 https://asciidoctor.org/
+https://asciidoctor.org/
 https://ascon.iaik.tugraz.at/
 https://asecuritysite.com/
 https://asecuritysite.com/blog/2023-11-18_Few-Remember-The-Beaten-Finalists---Here-s-The-Mighty-Serpent-644424dcd0b7.html
@@ -1418,6 +1423,8 @@ https://baguette.tidymodels.org/
 https://bair.berkeley.edu/
 https://bair.berkeley.edu/blog/
 https://balasys.eu/blogs/modern-techniques-to-prevent-malware-instead-of-detecting-it
+https://ballerina.io/
+https://ballerina.io/
 https://ballerina.io/
 https://banana-pi.org/
 https://bansal.engin.umich.edu/
@@ -1948,6 +1955,7 @@ https://calyxir.org/
 https://calyxos.org/
 https://cam.uchicago.edu/
 https://camel.apache.org/
+https://camel.apache.org/
 https://canary.tools/
 https://canarytokens.org/generate
 https://cantera.org/
@@ -2260,6 +2268,7 @@ https://codeberg.org/flohmarkt/flohmarkt
 https://codeberg.org/forgejo/forgejo
 https://codeberg.org/gitnex/GitNex
 https://codeberg.org/keyoxide/keyoxide-web
+https://codeberg.org/leiningen/leiningen
 https://codeberg.org/librewolf/source
 https://codeberg.org/nobody/LocalCDN
 https://codeberg.page/
@@ -3102,6 +3111,7 @@ https://cvxr.rbind.io/
 https://cwe.mitre.org/data/definitions/362.html
 https://cwe.mitre.org/data/definitions/640.html
 https://cwe.mitre.org/data/definitions/840.html
+https://cxf.apache.org/
 https://cyber.gc.ca/en/
 https://cyber.harvard.edu/
 https://cyber.umd.edu/
@@ -3633,6 +3643,7 @@ https://desapublications.un.org/publications/world-population-prospects-2024-sum
 https://desfontain.es/privacy/differential-privacy-reading-list.html
 https://designexptr.org/
 https://desktop.arcgis.com/en/arcmap/latest/map/projections/list-of-supported-map-projections.htm
+https://detekt.dev/
 https://dev.ampl.com/
 https://dev.java/
 https://dev.mysql.com/
@@ -4418,6 +4429,7 @@ https://doc.rust-lang.org/std/time/index.html
 https://doc.rust-lang.org/std/vec/index.html
 https://doc.rust-lang.org/std/vec/struct.Vec.html
 https://docs.acados.org/
+https://docs.asciidoctor.org/
 https://docs.authlib.org/en/latest/index.html
 https://docs.aws.amazon.com/data-exchange/latest/userguide/open-data.html
 https://docs.bokeh.org/en/latest/
@@ -4637,6 +4649,7 @@ https://docs.wand-py.org/en/0.6.13/
 https://docs.xarray.dev/en/stable/
 https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
 https://docs.zephyrproject.org/latest/
+https://doctoolchain.org/
 https://dogbolt.org/
 https://doi.org/10.1002/047174882X
 https://doi.org/10.1002/9780470148778
@@ -6187,6 +6200,7 @@ https://en.wikipedia.org/wiki/AP_Stylebook
 https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant
 https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/Apache_Accumulo
+https://en.wikipedia.org/wiki/Apache_ActiveMQ
 https://en.wikipedia.org/wiki/Apache_Allura
 https://en.wikipedia.org/wiki/Apache_Ant
 https://en.wikipedia.org/wiki/Apache_Arrow
@@ -12493,6 +12507,7 @@ https://en.wikipedia.org/wiki/Gradient_boosting
 https://en.wikipedia.org/wiki/Gradient_descent
 https://en.wikipedia.org/wiki/Gradient_theorem
 https://en.wikipedia.org/wiki/Gradle
+https://en.wikipedia.org/wiki/Gradle
 https://en.wikipedia.org/wiki/Gradshteyn_and_Ryzhik
 https://en.wikipedia.org/wiki/Gradual_typing
 https://en.wikipedia.org/wiki/Graeffe%27s_method
@@ -16405,6 +16420,7 @@ https://en.wikipedia.org/wiki/Mesoeconomics
 https://en.wikipedia.org/wiki/Meson_(software)
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Message_authentication_code
+https://en.wikipedia.org/wiki/Message_broker
 https://en.wikipedia.org/wiki/Message_broker
 https://en.wikipedia.org/wiki/Message_passing
 https://en.wikipedia.org/wiki/Message_passing_in_computer_clusters
@@ -24245,6 +24261,8 @@ https://flatpak.org/
 https://fleetdm.com/
 https://fletcher.tufts.edu/
 https://flink.apache.org/
+https://flink.apache.org/
+https://flink.apache.org/
 https://flintlib.org/
 https://flintlib.org/doc/references.html
 https://flipperzero.one/
@@ -24461,6 +24479,7 @@ https://geotrellis.io/
 https://gephi.org/
 https://gerbil.scheme.org/
 https://germanyworks.com/
+https://get-coursier.io/
 https://get.dev/
 https://get.scheme.org/
 https://getakka.net/
@@ -24604,28 +24623,39 @@ https://github.com/antirez/kilo
 https://github.com/antirez/linenoise
 https://github.com/antirez/load81
 https://github.com/antirez/smaz
+https://github.com/apache/activemq
 https://github.com/apache/airflow
+https://github.com/apache/ant
 https://github.com/apache/arrow
 https://github.com/apache/avro
+https://github.com/apache/camel
 https://github.com/apache/camel
 https://github.com/apache/camel/
 https://github.com/apache/cassandra
 https://github.com/apache/couchdb
+https://github.com/apache/cxf
 https://github.com/apache/doris
 https://github.com/apache/drill
 https://github.com/apache/druid
 https://github.com/apache/dubbo
 https://github.com/apache/echarts
 https://github.com/apache/flink
+https://github.com/apache/flink
+https://github.com/apache/groovy
 https://github.com/apache/groovy
 https://github.com/apache/guacamole-server
+https://github.com/apache/hadoop
 https://github.com/apache/hadoop
 https://github.com/apache/hbase
 https://github.com/apache/httpd
 https://github.com/apache/jmeter
+https://github.com/apache/jmeter
 https://github.com/apache/kafka
+https://github.com/apache/karaf
 https://github.com/apache/lucene
 https://github.com/apache/maven
+https://github.com/apache/maven
+https://github.com/apache/maven-mvnd
 https://github.com/apache/netbeans
 https://github.com/apache/parquet-mr
 https://github.com/apache/pinot
@@ -24633,6 +24663,8 @@ https://github.com/apache/rocketmq
 https://github.com/apache/sedona
 https://github.com/apache/singa
 https://github.com/apache/skywalking
+https://github.com/apache/spark
+https://github.com/apache/spark
 https://github.com/apache/spark
 https://github.com/apache/storm
 https://github.com/apache/superset
@@ -24658,7 +24690,10 @@ https://github.com/arximboldi/immer
 https://github.com/arXiv/arxiv-browse
 https://github.com/arXiv/arxiv-search
 https://github.com/asciidoctor/asciidoctor
+https://github.com/asciidoctor/asciidoctor
 https://github.com/asciidoctor/asciidoctor-vscode
+https://github.com/asciidoctor/asciidoctor.js
+https://github.com/asciidoctor/asciidoctorj
 https://github.com/ashalaginov/SOM-Self-Organizing-Map-C-library
 https://github.com/asl/svd
 https://github.com/AspirinCode/papers-for-molecular-design-using-DL
@@ -24691,6 +24726,7 @@ https://github.com/azavea/raster-vision
 https://github.com/b0o/awesome-by-example
 https://github.com/babel/babel
 https://github.com/balderdashy/sails
+https://github.com/ballerina-platform/ballerina-lang
 https://github.com/ballerina-platform/ballerina-lang
 https://github.com/Bam4d/Griddly
 https://github.com/bayesian-optimization/BayesianOptimization
@@ -24756,6 +24792,7 @@ https://github.com/brix/crypto-js
 https://github.com/brndnmtthws/dryoc
 https://github.com/bromite/bromite
 https://github.com/BrowserWorks/Waterfox
+https://github.com/btraceio/btrace
 https://github.com/BuddiesOfBudgie/budgie-desktop
 https://github.com/BurntSushi
 https://github.com/BurntSushi/aho-corasick
@@ -24844,6 +24881,7 @@ https://github.com/colah
 https://github.com/coltonhurst/language-by-example
 https://github.com/comeetie/greed
 https://github.com/commaai/openpilot/
+https://github.com/commonhaus/foundation
 https://github.com/commonmark/cmark
 https://github.com/company-mode/company-mode
 https://github.com/complexdb/zincbase
@@ -24858,6 +24896,7 @@ https://github.com/coq-community/math-classes
 https://github.com/coq-community/vscoq
 https://github.com/coq/coq
 https://github.com/CosmiQ/solaris
+https://github.com/coursier/coursier
 https://github.com/cplusplus
 https://github.com/cplusplus/draft
 https://github.com/cplusplus/papers
@@ -24930,6 +24969,7 @@ https://github.com/defermelowie/bare-metal-rust-on-riscv
 https://github.com/dendisuhubdy/scythe
 https://github.com/DenisIzmaylov/awesome-telegram-bots
 https://github.com/denji/awesome-http-benchmark
+https://github.com/detekt/detekt
 https://github.com/developmentseed/label-maker
 https://github.com/devio/mod0keecrack
 https://github.com/devsecops/awesome-devsecops
@@ -24959,6 +24999,7 @@ https://github.com/dmarx/anthology-of-modern-ml/blob/main/README.md
 https://github.com/dmlc/dgl
 https://github.com/dmlc/xgboost
 https://github.com/doctest/doctest
+https://github.com/doctoolchain/doctoolchain
 https://github.com/donnemartin/system-design-primer
 https://github.com/dotnet
 https://github.com/dotnet-architecture/eBooks
@@ -25013,6 +25054,7 @@ https://github.com/ebrahimpichka/awesome-optimization
 https://github.com/eclipse-corrosion/corrosion
 https://github.com/eclipse-sumo/sumo
 https://github.com/eclipse-theia/theia
+https://github.com/eclipse-vertx/vert.x
 https://github.com/eclipse/openvsx
 https://github.com/eclipsesource/jsonforms
 https://github.com/eddelbuettel
@@ -25272,6 +25314,8 @@ https://github.com/gperftools/gperftools
 https://github.com/GPUOpen-LibrariesAndSDKs
 https://github.com/gradio-app/gradio
 https://github.com/gradle/gradle
+https://github.com/gradle/gradle
+https://github.com/gradle/gradle
 https://github.com/grails/grails-core
 https://github.com/graphhopper/graphhopper
 https://github.com/graphhopper/jsprit
@@ -25312,6 +25356,7 @@ https://github.com/haskell/cabal
 https://github.com/haskell/ghcup-hs
 https://github.com/haskell/haskell-language-server
 https://github.com/haskell/vscode-haskell
+https://github.com/helidon-io/helidon
 https://github.com/hellman/cry
 https://github.com/help-14/mechanical-keyboard
 https://github.com/herrbischoff
@@ -25368,6 +25413,7 @@ https://github.com/intel/optimization-manual
 https://github.com/Interlisp/medley
 https://github.com/interregna/arraylanguage-companies
 https://github.com/inveniosoftware/invenio
+https://github.com/IoT-Technology/IoT-Toolkit
 https://github.com/ip2location/ip2location-go
 https://github.com/ipfs
 https://github.com/ipfs/awesome-ipfs
@@ -25391,6 +25437,7 @@ https://github.com/jashkenas/backbone
 https://github.com/Jasmine/Jasmine
 https://github.com/jauhien/iron-llvm
 https://github.com/jayleetx/nycflights
+https://github.com/jbake-org/jbake
 https://github.com/jbhuang0604/awesome-computer-vision
 https://github.com/jblindsay/whitebox-tools
 https://github.com/jbmusso/awesome-graph
@@ -25428,7 +25475,9 @@ https://github.com/jinningwang/best-of-ps
 https://github.com/jitsi/jitsi
 https://github.com/jlaurens/synctex
 https://github.com/jMetal/jMetal
+https://github.com/jmix-framework/jmix
 https://github.com/joaotavora/eglot
+https://github.com/joernio/joern
 https://github.com/johnfactotum/foliate
 https://github.com/johnfound/asmbb
 https://github.com/johnmchambers
@@ -25485,6 +25534,7 @@ https://github.com/kanaka/mal
 https://github.com/kanaka/mal/blob/master/process/guide.md
 https://github.com/karpathy
 https://github.com/karpathy/arxiv-sanity-preserver
+https://github.com/kcctl/kcctl
 https://github.com/KDE/kwallet
 https://github.com/kdeldycke/awesome-falsehood
 https://github.com/keepassxreboot/keepassxc
@@ -25511,6 +25561,8 @@ https://github.com/knime/knime-core
 https://github.com/ko-ichi-h/khcoder
 https://github.com/KokaKiwi/rust-hex
 https://github.com/Kong/kong
+https://github.com/kordamp/jarviz
+https://github.com/Kotlin/kotlin-interactive-shell
 https://github.com/kovidgoyal/calibre
 https://github.com/kovidgoyal/kitty
 https://github.com/kra-mo/cartridges
@@ -25520,6 +25572,7 @@ https://github.com/krille-chan/fluffychat
 https://github.com/kristapsdz/openrsync
 https://github.com/krlmlr/awesome-vctrs
 https://github.com/krzyzanowskim/CryptoSwift
+https://github.com/kscripting/kscript
 https://github.com/kspalaiologos/Maja
 https://github.com/kubero-dev/ladder
 https://github.com/kurtosis-tech/kurtosis
@@ -25579,6 +25632,7 @@ https://github.com/limine-bootloader/limine
 https://github.com/linuxmint/cinnamon
 https://github.com/linuxmint/cinnamon/
 https://github.com/linuxmint/nemo
+https://github.com/liquibase/liquibase
 https://github.com/lirantal/awesome-nodejs-security
 https://github.com/lissy93/awesome-privacy
 https://github.com/Lissy93/personal-security-checklist?tab=readme-ov-file
@@ -25790,7 +25844,9 @@ https://github.com/mozilla/Fira
 https://github.com/mozilla/mozjpeg
 https://github.com/mozilla/pdf.js
 https://github.com/mozilla/sccache
+https://github.com/mozilla/sccache
 https://github.com/mpatacchiola/pyERA
+https://github.com/mpetuska/ktx
 https://github.com/mpi-forum
 https://github.com/mpmath/mpmath
 https://github.com/mpusz/units
@@ -25799,6 +25855,7 @@ https://github.com/mratsim/constantine
 https://github.com/mrdoob/three.js/
 https://github.com/mrgloom/awesome-semantic-segmentation
 https://github.com/msoos/cryptominisat
+https://github.com/mthmulders/mcs
 https://github.com/mthom/scryer-prolog
 https://github.com/mullvad
 https://github.com/mullvad/mullvadvpn-app
@@ -25979,6 +26036,7 @@ https://github.com/OpenWhiteBox/Generic
 https://github.com/oprecomp/FloatX
 https://github.com/optuna/optuna
 https://github.com/oracle/javavscode
+https://github.com/oracle/visualvm
 https://github.com/orientechnologies/orientdb
 https://github.com/osbuild/osbuild
 https://github.com/OscarKjell/text/
@@ -26240,6 +26298,7 @@ https://github.com/rhboot/efibootmgr
 https://github.com/rhboot/shim
 https://github.com/RichardLitt/awesome-fantasy
 https://github.com/ridiculousfish/libdivide
+https://github.com/rife2/bld
 https://github.com/rigtorp/awesome-modern-cpp
 https://github.com/ripxorip/crackmes
 https://github.com/riscv-admin/risc-v-getting-started-guide
@@ -26413,6 +26472,9 @@ https://github.com/sarabander/sicp-pdf
 https://github.com/satellite-image-deep-learning/techniques
 https://github.com/sbcl/sbcl
 https://github.com/sbilly/awesome-security
+https://github.com/sbt/sbt
+https://github.com/scala/scala
+https://github.com/scala/scala3
 https://github.com/scala/vscode-scala-syntax
 https://github.com/schoeberl/chisel-book
 https://github.com/schrodinger/pymol-open-source
@@ -26527,6 +26589,7 @@ https://github.com/sql-js/sql.js
 https://github.com/sqlalchemy/sqlalchemy
 https://github.com/sqlancer/sqlancer
 https://github.com/squid-cache/squid
+https://github.com/ssadedin/bpipe/
 https://github.com/ssdeep-project/ssdeep
 https://github.com/sshuair/awesome-gis
 https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
@@ -26600,6 +26663,8 @@ https://github.com/tensorflow/tensorflow
 https://github.com/terminusdb/terminusdb
 https://github.com/termux/termux-app
 https://github.com/tesseract-ocr/tesseract
+https://github.com/testingisdocumenting/webtau
+https://github.com/testingisdocumenting/znai
 https://github.com/textbrowser/dooble
 https://github.com/Textualize/toolong
 https://github.com/thangchung/awesome-dotnet-core
@@ -26769,6 +26834,7 @@ https://github.com/veorq/BLAKE
 https://github.com/veorq/SipHash
 https://github.com/vercel/next.js
 https://github.com/VerifyTests/Verify
+https://github.com/vert-x3/vertx-awesome
 https://github.com/vertica/DistributedR
 https://github.com/vesoft-inc/nebula
 https://github.com/viatsko/awesome-vscode
@@ -27104,11 +27170,17 @@ https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=CRI&tresh
 https://gpseducation.oecd.org/CountryReports?primaryCountry=CRI
 https://gpsjam.org/?lat=51.96728&lon=26.46496&z=2.3&date=2023-10-10
 https://gpuopen.com/
+https://graal.cloud/
+https://graceframework.org/
 https://gradientdescending.com/deep-neural-network-from-scratch-in-r/
 https://gradientdescending.com/simple-parallel-processing-in-r/
 https://gradle.org/
+https://gradle.org/
+https://gradle.org/
 https://gradschool.princeton.edu/
 https://grahamcluley.com/
+https://grails.org/
+https://grails.org/
 https://grails.org/
 https://grammle.de/
 https://granta.com/
@@ -27355,6 +27427,7 @@ https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata
 https://hacks.mozilla.org/
 https://hadley.nz/
 https://hadoop.apache.org/
+https://hadoop.apache.org/
 https://hal.science/
 https://hal.science/browse/portal
 https://hal.science/hal-00113779
@@ -27407,6 +27480,7 @@ https://heath.cs.illinois.edu/scicomp/
 https://hedgehogreview.com/
 https://hedgehogreview.com/web-features/thr/posts/you-cant-fact-check-propaganda
 https://hefferon.net/linearalgebra/
+https://helidon.io/
 https://helix-editor.com/
 https://helix.apache.org/
 https://hellofuture.orange.com/en/lightweight-cryptography-for-strong-security-of-the-internet-of-things/
@@ -28150,6 +28224,7 @@ https://jax.readthedocs.io/en/latest/
 https://jaycarlson.net/embedded-linux/
 https://jaycarlson.net/microcontrollers/
 https://jaycarlson.net/pf/st-stm32f0/
+https://jbake.org/
 https://jcgt.org/
 https://jcheminf.biomedcentral.com/
 https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-4-17
@@ -28172,6 +28247,7 @@ https://jeroenjanssens.com/dsatcl/
 https://jessecambon.github.io/
 https://jessecambon.github.io/tidygeocoder/
 https://jestjs.io/
+https://jetty.org/
 https://jfr.unibo.it/
 https://jfuzzylogic.sourceforge.net/html/index.html
 https://jianh.web.engr.illinois.edu/papers/sdc-ics2019.pdf
@@ -28185,6 +28261,8 @@ https://jkorpela.fi/forms/cgic.html
 https://jl.geocompx.org/
 https://jlinalg.sourceforge.net/
 https://jlogic.sourceforge.net/
+https://jmeter.apache.org/
+https://jmeter.apache.org/
 https://jmeter.apache.org/
 https://jmlr.csail.mit.edu/
 https://jmlr.csail.mit.edu/mloss/
@@ -28205,6 +28283,7 @@ https://joaotavora.github.io/eglot/
 https://jobs.acm.org/
 https://jocg.org/index.php/jocg
 https://joe-editor.sourceforge.io/
+https://joern.io/
 https://joeyh.name/
 https://joeyh.name/code/moreutils/
 https://johncremona.github.io/
@@ -28287,6 +28366,7 @@ https://jqlang.github.io/jq/
 https://jquery.com/
 https://jqueryui.com/
 https://jqueryvalidation.org/
+https://jreleaser.org/
 https://jrjohansson.github.io/numericalpython.html
 https://jrmf.org/
 https://jrwb.de/
@@ -28344,6 +28424,7 @@ https://kaikki.org/
 https://kakoune.org/
 https://kalker.xyz/
 https://kallithea-scm.org/
+https://karaf.apache.org/
 https://karpathy.github.io/
 https://karthinks.com/
 https://katex.org/
@@ -28387,6 +28468,7 @@ https://knowablemagazine.org/
 https://knowledge.uchicago.edu/record/3396
 https://ko-fi.com/
 https://kobra.uni-kassel.de/handle/123456789/13612
+https://kobweb.varabyte.com/
 https://kodi.tv/
 https://koha-community.org/
 https://koji.fedoraproject.org/koji/
@@ -28396,6 +28478,7 @@ https://kore.io/
 https://koreascience.kr/article/JAKO200710737025670.page
 https://kornel.ski/rust-c-speed
 https://koschei.fedoraproject.org/
+https://kotlinlang.org/
 https://kotlinlang.org/
 https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free
 https://kr2ml.github.io/
@@ -28811,6 +28894,7 @@ https://leftwingbooks.net/
 https://legacy.cs.indiana.edu/scheme-repository/home.html
 https://legacy.cs.indiana.edu/scheme-repository/R4RS/r4rs_toc.html
 https://legomenon.com/waste-meaning-radiohead-thomas-pynchon-crying-of-lot-49.html
+https://leiningen.org/
 https://lem-project.github.io/
 https://lemire.me/blog/
 https://lemire.me/blog/2004/10/02/victor-shoups-a-computational-introduction-to-number-theory-and-algebra/
@@ -31147,6 +31231,8 @@ https://mattturck.com/mad2023-part-iii/
 https://mattturck.com/mad2023-part-iv/
 https://mattturck.com/mad2023/
 https://maven.apache.org/
+https://maven.apache.org/
+https://maven.apache.org/
 https://maxima.sourceforge.io/
 https://maxima.sourceforge.io/compalg.html
 https://maxima.sourceforge.io/docs/tutorial/en/gaertner-tutorial-revision/Pages/SI001.htm
@@ -31236,6 +31322,7 @@ https://mickens.seas.harvard.edu/
 https://microbit.org/
 https://microblog.cr.yp.to/
 https://microcorruption.com/
+https://micronaut.io/
 https://micronews.debian.org/
 https://micropython.org/
 https://microsoft.github.io/AzureTipsAndTricks/blog/tip113.html
@@ -31544,6 +31631,7 @@ https://ncses.nsf.gov/
 https://neglectedbooks.com/
 https://nemocas.github.io/Nemo.jl/stable/
 https://neo.lcc.uma.es/vrp/vehicle-routing-problem/
+https://neo4j.com/
 https://neo4j.com/
 https://neo4j.com/docs/
 https://neo4j.com/docs/bolt/current/
@@ -33077,6 +33165,8 @@ https://projecteuler.net/
 https://projector.tensorflow.org/
 https://projector.tensorflow.org/?_gl=1*l8xiil*_ga*NjM1OTUxNjUwLjE3MDA3MDcxNzA.*_ga_W0YLR4190T*MTcwMDcwNzE3MC4xLjAuMTcwMDcwNzI4My4wLjAuMA..
 https://projects.csail.mit.edu/itcs/
+https://projects.eclipse.org/projects/adoptium.temurin
+https://projects.eclipse.org/projects/adoptium.temurin
 https://projects.eclipse.org/projects/locationtech
 https://projects.linuxmint.com/cinnamon/
 https://projects.scipy.org/
@@ -33303,6 +33393,7 @@ https://quantum.microsoft.com/en-us/explore/concepts/what-is-quantum-computing
 https://quantumai.google/
 https://quantumai.google/qecmilestone
 https://quantumcomputinginc.com/
+https://quarkus.io/
 https://quarto.org/
 https://quarto.org/docs/faq/rmarkdown.html
 https://quarto.org/docs/presentations/revealjs/
@@ -33606,6 +33697,7 @@ https://rgz.ee/
 https://rhash.sourceforge.io/
 https://riaus.org.au/
 https://rich-iannone.github.io/DiagrammeR/
+https://rife2.com/bld
 https://rigaux.org/hexedit.html
 https://ringzer0ctf.com/
 https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
@@ -33851,6 +33943,7 @@ https://savannah.gnu.org/projects/unifont/
 https://savannah.nongnu.org/projects/oath-toolkit/
 https://saweis.net/crypto.html
 https://sc23.supercomputing.org/2023/08/exploring-the-data-frontier/
+https://scala-cli.virtuslab.org/
 https://scales.r-lib.org/
 https://scalia.nl/
 https://scanalyst.fourmilab.ch/
@@ -33931,6 +34024,7 @@ https://sdf.lonestar.org/
 https://sdf.org/
 https://sdfeu.org/
 https://sdkman.io/
+https://sdkman.io/
 https://se-radio.net/
 https://se-radio.net/2007/07/episode-61-internals-of-gcc/
 https://se-radio.net/2019/04/363-jonathan-boccara-on-understanding-legacy-code/
@@ -33938,6 +34032,7 @@ https://se-radio.net/2020/06/episode-414-jens-gustedt-on-modern-c/
 https://seaborn.pydata.org/
 https://seaborn.pydata.org/tutorial.html
 https://search.asu.edu/profile/10123
+https://search.maven.org/
 https://search.r-project.org/
 https://search.r-project.org/CRAN/refmans/greed/html/fashion.html
 https://search.r-project.org/CRAN/refmans/keras/html/dataset_fashion_mnist.html
@@ -34352,6 +34447,8 @@ https://spamassassin.apache.org/
 https://spar.isi.jhu.edu/~mgreen/
 https://spar.isi.jhu.edu/~mgreen/650.445/650.445__Main.html
 https://spark.apache.org/
+https://spark.apache.org/
+https://spark.apache.org/
 https://spark.rstudio.com/
 https://sparse.tamu.edu/
 https://spatial.mathdotnet.com/
@@ -34483,6 +34580,7 @@ https://spinroot.com/spin/whatispin.html
 https://spj.science.org/
 https://spring.io/
 https://spring.io/projects
+https://spring.io/projects/spring-boot
 https://spring.io/projects/spring-boot
 https://spring.io/projects/spring-framework
 https://springerhealthcare.com/
@@ -34909,6 +35007,7 @@ https://taplo.tamasfe.dev/
 https://tardis-sn.github.io/
 https://tarides.com/
 https://taskandpurpose.com/culture/realistic-aerial-combat-movie-patlabor-2/
+https://taxilang.org/
 https://taylorandfrancis.com/
 https://taylorandfrancis.com/knowledge/humanities-and-social-sciences/international-relations/
 https://taz.de/
@@ -34955,6 +35054,9 @@ https://test-ipv6.com/
 https://testdriven.io/blog/modern-tdd/
 https://testdriven.io/guides/django-celery/
 https://testdriven.io/guides/flask-deep-dive/
+https://testingisdocumenting.org/
+https://testingisdocumenting.org/webtau/getting-started/what-is-this
+https://testingisdocumenting.org/znai/introduction/what-is-this
 https://testthat.r-lib.org/
 https://texample.net/tikz/examples/
 https://texdoc.org/index.html
@@ -35184,6 +35286,8 @@ https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-w
 https://togaware.com/
 https://toitlang.org/
 https://tokio.rs/
+https://tomcat.apache.org/
+https://tomcat.apache.org/
 https://tomcat.apache.org/
 https://toml.io/en/
 https://tomscii.sig7.se/zutty/
@@ -35439,6 +35543,8 @@ https://vercel.com/
 https://vern.cc/
 https://vertabelo.com/blog/database-design-for-audit-logging/
 https://vertabelo.com/blog/database-design-how-to-keep-track-of-what-the-users-do/
+https://vertx.io/
+https://vertx.io/
 https://verwaltung.bund.de/
 https://vespa.ai/
 https://vetiver.rstudio.com/
@@ -35468,6 +35574,7 @@ https://vision.berkeley.edu/people/bruno-a-olshausen-phd/
 https://vispy.org/
 https://visualisingdata.com/
 https://visualstudiomagazine.com/articles/2022/05/02/naive-bayes-classification-csharp.aspx
+https://visualvm.github.io/
 https://viterbi-web.usc.edu/~cstheory/
 https://vivaldi.com/
 https://vladris.com/blog/2019/04/28/programming-with-types.html
@@ -37023,6 +37130,7 @@ https://www.commitstrip.com
 https://www.commodore.ca/
 https://www.commodore.ca/commodore-history/computers-using-the-mos-6502-cpu/
 https://www.commodore.ca/commodore-history/the-rise-of-mos-technology-the-6502/
+https://www.commonhaus.org/
 https://www.commonlounge.com/
 https://www.commonwl.org/
 https://www.compilers.cs.uni-saarland.de/teaching/seminar/ad/2021/
@@ -37723,6 +37831,7 @@ https://www.eccouncil.org/cybersecurity-exchange/
 https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 https://www.eccpage.com/
 https://www.ece.umn.edu/users/sachin/jnl/FnT08.pdf
+https://www.eclipse.org/
 https://www.eclipse.org/
 https://www.eclipse.org/acceleo/
 https://www.eclipse.org/modeling/
@@ -38762,6 +38871,8 @@ https://www.greenend.org.uk/rjk/tech/inline.html
 https://www.greenwoodsoftware.com/less/
 https://www.grid5000.fr/w/Grid5000:Home
 https://www.gromacs.org/
+https://www.groovy-lang.org/
+https://www.groovy-lang.org/
 https://www.grpc.io/
 https://www.gsa.gov/
 https://www.gtessentials.org/
@@ -38895,6 +39006,7 @@ https://www.hr.de/index.html
 https://www.hsph.harvard.edu/
 https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 https://www.hsu-hh.de/logistik/research/challenges
+https://www.http4k.org/
 https://www.http4k.org/
 https://www.hu-berlin.de/
 https://www.hu-berlin.de/de
@@ -39258,6 +39370,7 @@ https://www.jessebett.com/
 https://www.jetbrains.com/
 https://www.jgc.org/
 https://www.jiia.or.jp/en/
+https://www.jikkou.io/
 https://www.jirka.org/ca/
 https://www.jirka.org/diffyqs/
 https://www.jirka.org/ra/
@@ -39270,6 +39383,7 @@ https://www.jmeiners.com/sgi-stl-docs/
 https://www.jmilne.org/math/Books/index.html
 https://www.jmilne.org/math/CourseNotes/ANT.pdf
 https://www.jmilne.org/math/index.html
+https://www.jmix.io/
 https://www.jmlr.org/
 https://www.jmlr.org/mloss/
 https://www.jmlr.org/papers/v11/bifet10a.html
@@ -39556,6 +39670,7 @@ https://www.linuxfromscratch.org/
 https://www.linuxjournal.com/
 https://www.linuxmint.com/
 https://www.linx.net/
+https://www.liquibase.com/
 https://www.lirmm.fr/~giorgi/
 https://www.lispworks.com/
 https://www.lispworks.com/documentation/common-lisp.html
@@ -40736,6 +40851,7 @@ https://www.oracle.com/java/
 https://www.oracle.com/java/technologies/
 https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 https://www.oracle.com/java/technologies/javase/seccodeguide.html
+https://www.oracle.com/java/technologies/jdk-mission-control.html
 https://www.oracle.com/linux/
 https://www.oracle.com/mysql/
 https://www.oracle.com/mysql/enterprise/
@@ -41633,9 +41749,12 @@ https://www.sara-achour.me/
 https://www.sbcl.org/
 https://www.scala-exercises.org/
 https://www.scala-lang.org/
+https://www.scala-lang.org/
+https://www.scala-sbt.org/
 https://www.scaleway.com/
 https://www.scb.se/en/
 https://www.scg.uwaterloo.ca/
+https://www.schemacrawler.com/
 https://www.scheme.com/
 https://www.scheme.org/
 https://www.scheme.org/schemers/
