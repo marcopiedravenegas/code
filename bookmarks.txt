@@ -3601,6 +3601,7 @@ https://deepmind.google/discover/blog/nowcasting-the-next-hour-of-rain/
 https://deepmind.google/discover/blog/using-ai-to-fight-climate-change/
 https://deepmind.google/technologies/alphago/
 https://deepmind.google/technologies/gemini/
+https://deepnote.com/
 https://defcon.org/
 https://defcon.org/html/links/book-list.html
 https://defendtheweb.net/
@@ -3615,6 +3616,7 @@ https://delightful.club/delightful-forgejo/
 https://delightful.club/delightful_c_software/
 https://delta.io/
 https://deluge-torrent.org/
+https://demin.ws/blog/english/2012/08/25/interview-with-charles-wetherell/
 https://demo.yubico.com/
 https://demonstrations.wolfram.com/
 https://demoscene-the-art-of-coding.net/
@@ -9909,6 +9911,7 @@ https://en.wikipedia.org/wiki/Dark_Passion_Play
 https://en.wikipedia.org/wiki/Dark_academia
 https://en.wikipedia.org/wiki/Dark_wave
 https://en.wikipedia.org/wiki/Darkness_at_Noon
+https://en.wikipedia.org/wiki/Daron_Acemoglu
 https://en.wikipedia.org/wiki/Dart_(programming_language)
 https://en.wikipedia.org/wiki/Dartmouth_BASIC
 https://en.wikipedia.org/wiki/Dartmouth_Time_Sharing_System
@@ -31494,6 +31497,7 @@ https://my.siam.org/Store/Product/viewproduct/?ProductId=39300058
 https://my.siam.org/Store/Product/viewproduct/?ProductId=41831895
 https://myanimelist.net/anime/43/Koukaku_Kidoutai
 https://mybiasedcoin.blogspot.com/
+https://mybinder.org/
 https://mypy-lang.org/
 https://mysterytwister.org/home/welcome/
 https://naacl.org/
@@ -31528,6 +31532,7 @@ https://nautil.us/the-magic-of-the-blackboard-487759/
 https://nautil.us/what-counts-as-science-236150/
 https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/
 https://nbomber.com/
+https://nbviewer.org/
 https://ncatlab.org/nlab/show/Functorial+Semantics+of+Algebraic+Theories
 https://ncatlab.org/nlab/show/denotational+semantics
 https://ncatlab.org/nlab/show/exact+real+computer+arithmetic
@@ -37085,6 +37090,7 @@ https://www.computerworld.com/
 https://www.computerworld.com/category/security/
 https://www.computinghistory.org.uk/
 https://www.computinghistory.org.uk/det/6026/The-first-Ferranti-Pegasus-goes-into-service/
+https://www.computinghistory.org.uk/sec/1603/Programming/
 https://www.computinghistory.org.uk/sec/2397/6502-Microprocessor/
 https://www.computingreviews.com/
 https://www.computingreviews.com/review/Review_review.cfm?review_id=143829&listname=search
