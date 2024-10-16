@@ -457,6 +457,7 @@ https://adeptinitiates.com/
 https://adobe-fonts.github.io/source-code-pro/
 https://adobe-fonts.github.io/source-sans/
 https://adobe-fonts.github.io/source-serif/
+https://adoptium.net/
 https://adriann.github.io/npc/npc.html
 https://ads.microsoft.com/
 https://adtinfo.org/
@@ -33928,6 +33929,7 @@ https://scythe.lsa.umich.edu/
 https://sdf.lonestar.org/
 https://sdf.org/
 https://sdfeu.org/
+https://sdkman.io/
 https://se-radio.net/
 https://se-radio.net/2007/07/episode-61-internals-of-gcc/
 https://se-radio.net/2019/04/363-jonathan-boccara-on-understanding-legacy-code/
@@ -35564,6 +35566,7 @@ https://wesmckinney.com/book/
 https://whatjapanthinks.com/
 https://whatjapanthinks.com/2017/05/11/japanese-and-physical-newspaper-consumption/
 https://whatwg.org/
+https://whichjdk.com/
 https://whitherthewest.com/2024/03/08/why-tolkien-hated-dune/
 https://wholeearth.info/
 https://why-openbsd.rocks/
