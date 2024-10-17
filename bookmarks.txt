@@ -1215,6 +1215,7 @@ https://arxiv.org/abs/2312.04836
 https://arxiv.org/abs/2312.08361
 https://arxiv.org/abs/2312.10256
 https://arxiv.org/abs/2312.14688
+https://arxiv.org/abs/2312.15268v6
 https://arxiv.org/abs/2401.14428v1
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
@@ -1226,6 +1227,7 @@ https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/2407.18443v1
+https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
@@ -24826,6 +24828,7 @@ https://github.com/BYU-PRISM/GEKKO
 https://github.com/C2SP/CCTV
 https://github.com/c3js/c3
 https://github.com/caddyserver/caddy
+https://github.com/cake-lab/Mobile-AR-Depth-Estimation
 https://github.com/cakephp/cakephp
 https://github.com/calvin-zcx/moflow
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
@@ -25132,6 +25135,7 @@ https://github.com/expipiplus1/vector-sized
 https://github.com/explosion/spaCy
 https://github.com/extremecoders-re/re-list
 https://github.com/fabacab/awesome-cybersecurity-blueteam
+https://github.com/fabio-sim/Depth-Anything-ONNX
 https://github.com/fabionoth/awesome-cyber-security
 https://github.com/facebook/create-react-app
 https://github.com/facebook/folly
@@ -25365,6 +25369,7 @@ https://github.com/handlebars-lang/handlebars.js
 https://github.com/hannob/vacdec
 https://github.com/haofanwang/Awesome-Computer-Vision
 https://github.com/haproxy/haproxy/
+https://github.com/haruncetin/MonocularDepthEstimation
 https://github.com/hashcat/hashcat
 https://github.com/HashPals/Name-That-Hash
 https://github.com/haskell/base64-bytestring
@@ -25405,6 +25410,7 @@ https://github.com/hyperium/hyper
 https://github.com/hyperledger/fabric
 https://github.com/hyperopt/hyperopt-sklearn
 https://github.com/i2p/i2p.i2p
+https://github.com/ibaiGorordo/ONNX-MobileStereoNet
 https://github.com/ibireme/yyjson
 https://github.com/ibus/ibus
 https://github.com/icecc/icecream
@@ -25544,6 +25550,7 @@ https://github.com/junit-team/junit5
 https://github.com/junlingm/ABM
 https://github.com/just-the-docs/just-the-docs
 https://github.com/Kaggle/kaggle-api
+https://github.com/kaichen-z/Manydepth2
 https://github.com/KaisenAmin/c_std
 https://github.com/kaitai-io
 https://github.com/kanaka/mal
@@ -26938,6 +26945,7 @@ https://github.com/zcash/zcash
 https://github.com/zealdocs/zeal/
 https://github.com/ZenGo-X/white-city
 https://github.com/zitadel/zitadel
+https://github.com/ziyc/drivestudio
 https://github.com/zolrath/wemux
 https://github.com/zotero/zotero
 https://github.com/zotero/zoterobib
@@ -28453,6 +28461,7 @@ https://keeweb.info/
 https://keithp.com/
 https://keithp.com/picolibc/
 https://keras.io/
+https://keras.io/examples/vision/depth_estimation/
 https://kernel.org/
 https://kernel.org/,The Linux Kernel Archives
 https://kerwa.ucr.ac.cr/handle/10669/15621
@@ -32441,6 +32450,7 @@ https://pandas.pydata.org/
 https://pandas.pydata.org/docs/
 https://pandas.pydata.org/docs/index.html
 https://pandas.pydata.org/docs/user_guide/index.html
+https://pandaset.org/
 https://pandoc.org/
 https://papeeria.com/
 https://paperpile.com/
@@ -32541,6 +32551,7 @@ https://paperswithcode.com/sota/image-classification-on-fashion-mnist
 https://paperswithcode.com/sota/image-classification-on-mnist
 https://paperswithcode.com/sota/semantic-segmentation-on-ade20k
 https://paperswithcode.com/task/automated-theorem-proving
+https://paperswithcode.com/task/camera-pose-estimation
 https://paperswithcode.com/task/common-sense-reasoning
 https://paperswithcode.com/task/decision-making
 https://paperswithcode.com/task/depth-estimation
@@ -32549,6 +32560,7 @@ https://paperswithcode.com/task/imitation-learning
 https://paperswithcode.com/task/information-plane
 https://paperswithcode.com/task/irregular-time-series
 https://paperswithcode.com/task/logical-reasoning
+https://paperswithcode.com/task/monocular-depth-estimation
 https://paperswithcode.com/task/multi-agent-reinforcement-learning
 https://paperswithcode.com/task/multivariate-time-series-forecasting
 https://paperswithcode.com/task/multivariate-time-series-imputation
@@ -35601,6 +35613,7 @@ https://warwick.ac.uk/fac/sci/maths/research/miraw/days/computation/
 https://wasmtime.dev/
 https://waste.org/mailman/listinfo/pynchon-l
 https://wayland.freedesktop.org/
+https://waymo.com/open/
 https://wccftech.com/
 https://weakdh.org/
 https://web.archive.org/
@@ -36204,6 +36217,7 @@ https://www.arduino.cc/reference/en/libraries/crypto/
 https://www.arewelearningyet.com/
 https://www.arewelearningyet.com/scientific-computing/
 https://www.arewewebyet.org/topics/crypto/
+https://www.argoverse.org/
 https://www.arin.net/blog/2022/05/12/other-ip-version-numbers/
 https://www.arin.net/reference/research/statistics/address_filters/
 https://www.arirang.com/
@@ -37465,6 +37479,7 @@ https://www.cut-the-knot.org/blue/LamesTheorem.shtml
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html
 https://www.cve.org/
+https://www.cvlibs.net/datasets/kitti/
 https://www.cvxpy.org/
 https://www.cwi.nl/en/
 https://www.cwi.nl/en/about/history/
@@ -40638,6 +40653,7 @@ https://www.nuget.org/packages/Selenium.WebDriver
 https://www.nuget.org/profiles/dotnetframework
 https://www.nuget.org/profiles/mathnet
 https://www.nuget.org/profiles/RoslynTeam
+https://www.nuscenes.org/
 https://www.nushell.sh/
 https://www.nutsvolts.com/
 https://www.nvidia.com/en-us/
@@ -41960,6 +41976,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0950705120301350
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X07000772
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001433?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S096007799800215X
+https://www.sciencedirect.com/science/article/abs/pii/S1077314216301412
 https://www.sciencedirect.com/science/article/abs/pii/S135521980300039X?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S1568494611001761
 https://www.sciencedirect.com/science/article/abs/pii/S1574013709000203
@@ -43978,6 +43995,7 @@ https://zetter.substack.com/
 https://ziglang.org/
 https://zimpl.zib.de/
 https://zine.dev/
+https://ziyc.github.io/omnire/
 https://zlib.net/
 https://zoneminder.com/
 https://zoo-project.org/site/
