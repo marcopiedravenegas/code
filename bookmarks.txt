@@ -1226,6 +1226,7 @@ https://arxiv.org/abs/2312.08361
 https://arxiv.org/abs/2312.10256
 https://arxiv.org/abs/2312.14688
 https://arxiv.org/abs/2312.15268v6
+https://arxiv.org/abs/2401.10891
 https://arxiv.org/abs/2401.14428v1
 https://arxiv.org/abs/2402.06539
 https://arxiv.org/abs/2402.09842
@@ -2259,6 +2260,7 @@ https://cnes.fr/fr
 https://cnrs.hal.science/
 https://cobra.dev/
 https://cocalc.com/
+https://cocodataset.org/
 https://code.dlang.org/
 https://code.google.com/archive/p/cpp-btree/
 https://code.google.com/archive/p/cryptospecs
@@ -25950,6 +25952,7 @@ https://github.com/nholthaus/units
 https://github.com/NicChr/timeplyr
 https://github.com/NickCH-K/causaldata
 https://github.com/NicolasHug/Surprise
+https://github.com/NielsRogge/Transformers-Tutorials/blob/master/Depth%20Anything/Predicting_depth_in_an_image_with_Depth_Anything.ipynb
 https://github.com/niklas-heer/speed-comparison
 https://github.com/nikomatsakis/lalrpop
 https://github.com/nim-lang/bigints
@@ -27618,6 +27621,7 @@ https://huggingface.co/bert-base-uncased
 https://huggingface.co/blog
 https://huggingface.co/blog/fine-tune-clip-rsicd
 https://huggingface.co/blog/intro-graphml
+https://huggingface.co/blog/Isayoften/monocular-depth-estimation-guide
 https://huggingface.co/coqui/XTTS-v2
 https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
 https://huggingface.co/datasets
@@ -27654,6 +27658,7 @@ https://huggingface.co/docs/transformers/en/model_doc/depth_anything_v2
 https://huggingface.co/docs/transformers/en/model_doc/dpt
 https://huggingface.co/docs/transformers/en/model_doc/zoedepth
 https://huggingface.co/docs/transformers/index
+https://huggingface.co/docs/transformers/main/en/model_doc/depth_anything
 https://huggingface.co/docs/transformers/main/en/model_doc/zoedepth
 https://huggingface.co/docs/transformers/model_doc/bert
 https://huggingface.co/docs/transformers/model_doc/clip
@@ -32097,6 +32102,7 @@ https://onlinelibrary.wiley.com/doi/10.1002/sapm1941201337
 https://onlinelibrary.wiley.com/doi/10.1002/spe.4380020202
 https://onlinelibrary.wiley.com/doi/10.1002/spe.4380150604
 https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12319
+https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13150
 https://onlinelibrary.wiley.com/doi/10.1111/j.1469-1809.1936.tb02137.x
 https://onlinelibrary.wiley.com/doi/10.1111/j.1758-5899.2010.00066.x
 https://onlinelibrary.wiley.com/doi/10.1155/2020/8877128

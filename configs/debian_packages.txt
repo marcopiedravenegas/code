@@ -92,6 +92,7 @@ libharfbuzz-dev
 liblapack-dev
 libncurses-dev
 libopenblas-dev
+libopencv-dev
 libpari-dev
 libpcre3-dev
 libproj-dev
@@ -144,6 +145,7 @@ python3-matplotlib
 python3-networkx
 python3-nltk
 python3-numpy
+python3-opencv
 python3-pandas
 python3-paramiko
 python3-pep8
