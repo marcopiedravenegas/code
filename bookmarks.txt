@@ -516,6 +516,10 @@ https://ai-watch.ec.europa.eu/countries/germany/germany-ai-strategy-report_en
 https://ai.google.dev/
 https://ai.google.dev/edge
 https://ai.google.dev/edge/litert
+https://ai.google.dev/edge/litert/android
+https://ai.google.dev/edge/mediapipe/solutions/guide
+https://ai.google.dev/edge/mediapipe/solutions/vision/image_segmenter
+https://ai.google.dev/edge/model-explorer
 https://ai.google/
 https://ai.googleblog.com/
 https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html
@@ -1005,6 +1009,7 @@ https://arxiv.org/abs/1712.00600
 https://arxiv.org/abs/1712.01815
 https://arxiv.org/abs/1712.08500
 https://arxiv.org/abs/1801.05894
+https://arxiv.org/abs/1801.09847
 https://arxiv.org/abs/1802.01528
 https://arxiv.org/abs/1804.02973
 https://arxiv.org/abs/1805.04272
@@ -1089,11 +1094,14 @@ https://arxiv.org/abs/2011.05847
 https://arxiv.org/abs/2012.01714
 https://arxiv.org/abs/2012.05893
 https://arxiv.org/abs/2012.13635
+https://arxiv.org/abs/2101.07422
 https://arxiv.org/abs/2101.09126
 https://arxiv.org/abs/2102.07268
 https://arxiv.org/abs/2103.00020
+https://arxiv.org/abs/2103.13413
 https://arxiv.org/abs/2103.15341
 https://arxiv.org/abs/2104.13478
+https://arxiv.org/abs/2105.12053
 https://arxiv.org/abs/2105.15203
 https://arxiv.org/abs/2106.06947
 https://arxiv.org/abs/2106.07032
@@ -1107,6 +1115,7 @@ https://arxiv.org/abs/2108.08481
 https://arxiv.org/abs/2109.01483
 https://arxiv.org/abs/2109.09432
 https://arxiv.org/abs/2109.15102
+https://arxiv.org/abs/2110.02178
 https://arxiv.org/abs/2110.06209
 https://arxiv.org/abs/2111.10672
 https://arxiv.org/abs/2111.14377
@@ -1165,6 +1174,7 @@ https://arxiv.org/abs/2301.08210
 https://arxiv.org/abs/2301.13007
 https://arxiv.org/abs/2301.13867
 https://arxiv.org/abs/2302.04752
+https://arxiv.org/abs/2302.12288
 https://arxiv.org/abs/2302.12949
 https://arxiv.org/abs/2303.00814
 https://arxiv.org/abs/2303.12712
@@ -1217,6 +1227,7 @@ https://arxiv.org/abs/2312.10256
 https://arxiv.org/abs/2312.14688
 https://arxiv.org/abs/2312.15268v6
 https://arxiv.org/abs/2401.14428v1
+https://arxiv.org/abs/2402.06539
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
@@ -1226,9 +1237,11 @@ https://arxiv.org/abs/2405.08007
 https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/2406.01637
+https://arxiv.org/abs/2406.09414
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
+https://arxiv.org/abs/2410.02073
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
@@ -3630,6 +3643,7 @@ https://demozoo.org/
 https://dennybritz.com/
 https://deploy.equinix.com/
 https://deploy.equinix.com/blog/bare-metal-bear-metal/
+https://depth-anything-v2.github.io/
 https://depthsecurity.com/
 https://depthsecurity.com/blog/cracking-wpa-psks-in-the-cloud
 https://derekbruff.org/blogs/fywscrypto/
@@ -3669,6 +3683,8 @@ https://devclass.com/category/development/
 https://develop.kde.org/
 https://develop.kde.org/products/frameworks/
 https://developer.android.com/
+https://developer.android.com/ai
+https://developer.android.com/ai/custom
 https://developer.android.com/series/now-in-android
 https://developer.apple.com/documentation/security/keychain_services
 https://developer.apple.com/passkeys/
@@ -4425,6 +4441,7 @@ https://doc.rust-lang.org/std/time/index.html
 https://doc.rust-lang.org/std/vec/index.html
 https://doc.rust-lang.org/std/vec/struct.Vec.html
 https://docs.acados.org/
+https://docs.argilla.io/latest/
 https://docs.asciidoctor.org/
 https://docs.authlib.org/en/latest/index.html
 https://docs.aws.amazon.com/data-exchange/latest/userguide/open-data.html
@@ -24245,6 +24262,7 @@ https://figshare.com/
 https://fiji.sc/
 https://files.devuan.org/
 https://filippo.io/
+https://filippoaleotti.github.io/demo_live/
 https://filtering.mathdotnet.com/
 https://finance.yahoo.com/
 https://finance.yahoo.com/news/capitalism-unfolding-exactly-karl-marx-090050146.html
@@ -24698,9 +24716,11 @@ https://github.com/apavlo/h-store
 https://github.com/apolloconfig/apollo
 https://github.com/appelmar/gdalcubes
 https://github.com/apple-oss-distributions/xnu
+https://github.com/apple/ml-depth-pro
 https://github.com/apsdehal/awesome-ctf
 https://github.com/arangodb/arangodb
 https://github.com/arclanguage/anarki
+https://github.com/argilla-io/argilla/
 https://github.com/argmin-rs/argmin
 https://github.com/armedbear/abcl
 https://github.com/arplaboratory/learning-to-fly
@@ -25398,9 +25418,12 @@ https://github.com/hsutter/cppfront/
 https://github.com/http4k/http4k
 https://github.com/httperf/httperf
 https://github.com/huggingface
+https://github.com/huggingface/accelerate
 https://github.com/huggingface/datasets
 https://github.com/huggingface/diffusers
+https://github.com/huggingface/optimum
 https://github.com/huggingface/peft
+https://github.com/huggingface/pytorch-image-models
 https://github.com/huggingface/safetensors
 https://github.com/huggingface/transformers
 https://github.com/Humanizr/Humanizer
@@ -27589,6 +27612,7 @@ https://hub.docker.com/
 https://hub.docker.com/_/r-base
 https://hub.docker.com/search?image_filter=official&q=
 https://huggingface.co/
+https://huggingface.co/apple/DepthPro
 https://huggingface.co/autotrain
 https://huggingface.co/bert-base-uncased
 https://huggingface.co/blog
@@ -27599,20 +27623,25 @@ https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
 https://huggingface.co/datasets
 https://huggingface.co/datasets/bookcorpus
 https://huggingface.co/datasets/wikipedia
+https://huggingface.co/depth-anything/Depth-Anything-V2-Small
 https://huggingface.co/docs
 https://huggingface.co/docs/accelerate/index
 https://huggingface.co/docs/api-inference/index
 https://huggingface.co/docs/autotrain/index
+https://huggingface.co/docs/dataset-viewer/index
 https://huggingface.co/docs/datasets-server/index
 https://huggingface.co/docs/datasets/index
 https://huggingface.co/docs/diffusers/index
 https://huggingface.co/docs/evaluate/index
+https://huggingface.co/docs/google-cloud/index
 https://huggingface.co/docs/hub/spaces
 https://huggingface.co/docs/huggingface_hub/index
 https://huggingface.co/docs/huggingface.js/index
 https://huggingface.co/docs/inference-endpoints/index
 https://huggingface.co/docs/optimum-neuron/index
+https://huggingface.co/docs/optimum-tpu/index
 https://huggingface.co/docs/optimum/index
+https://huggingface.co/docs/optimum/intel/index
 https://huggingface.co/docs/peft/index
 https://huggingface.co/docs/safetensors/index
 https://huggingface.co/docs/sagemaker/index
@@ -27621,7 +27650,11 @@ https://huggingface.co/docs/text-generation-inference/index
 https://huggingface.co/docs/timm/index
 https://huggingface.co/docs/tokenizers/index
 https://huggingface.co/docs/transformers.js/index
+https://huggingface.co/docs/transformers/en/model_doc/depth_anything_v2
+https://huggingface.co/docs/transformers/en/model_doc/dpt
+https://huggingface.co/docs/transformers/en/model_doc/zoedepth
 https://huggingface.co/docs/transformers/index
+https://huggingface.co/docs/transformers/main/en/model_doc/zoedepth
 https://huggingface.co/docs/transformers/model_doc/bert
 https://huggingface.co/docs/transformers/model_doc/clip
 https://huggingface.co/docs/transformers/model_doc/distilbert
@@ -27633,6 +27666,8 @@ https://huggingface.co/docs/transformers/model_doc/vision-text-dual-encoder
 https://huggingface.co/docs/transformers/model_doc/vit
 https://huggingface.co/docs/transformers/model_doc/xclip
 https://huggingface.co/docs/transformers/task_summary
+https://huggingface.co/docs/transformers/v4.43.0/tasks/monocular_depth_estimation
+https://huggingface.co/docs/transformers/v4.45.2/tasks/semantic_segmentation
 https://huggingface.co/docs/trl/index
 https://huggingface.co/facebook/bart-large-cnn
 https://huggingface.co/facebook/detr-resnet-50
@@ -27655,6 +27690,7 @@ https://huggingface.co/papers/2308.00352
 https://huggingface.co/papers/2309.07062
 https://huggingface.co/roberta-large
 https://huggingface.co/spaces
+https://huggingface.co/spaces/JUGGHM/Metric3D
 https://huggingface.co/t5-base
 https://huggingface.co/tasks
 https://huggingface.co/tasks/audio-classification
@@ -32485,6 +32521,7 @@ https://paperswithcode.com/method/autoint
 https://paperswithcode.com/method/bert
 https://paperswithcode.com/method/clip
 https://paperswithcode.com/method/ddpg
+https://paperswithcode.com/method/dense-prediction-transformer
 https://paperswithcode.com/method/distillbert
 https://paperswithcode.com/method/dropout
 https://paperswithcode.com/method/gan
@@ -32569,6 +32606,7 @@ https://paperswithcode.com/task/optical-character-recognition
 https://paperswithcode.com/task/program-synthesis
 https://paperswithcode.com/task/self-organized-clustering
 https://paperswithcode.com/task/self-supervised-image-classification/latest
+https://paperswithcode.com/task/surface-normals-estimation
 https://paperswithcode.com/task/time-series
 https://paperswithcode.com/task/time-series-1
 https://paradigm4.com/
@@ -33957,6 +33995,7 @@ https://savannah.gnu.org/projects/spell/
 https://savannah.gnu.org/projects/unifont/
 https://savannah.nongnu.org/projects/oath-toolkit/
 https://saweis.net/crypto.html
+https://sbert.net/
 https://sc23.supercomputing.org/2023/08/exploring-the-data-frontier/
 https://scala-cli.virtuslab.org/
 https://scales.r-lib.org/
@@ -38869,6 +38908,7 @@ https://www.gps.gov/
 https://www.gps.gov/support/faq/
 https://www.gqlstandards.org/
 https://www.gradio.app/
+https://www.gradio.app/docs
 https://www.gradio.app/docs/interface
 https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://www.grandcanyontrust.org/baaj-nwaavjo-itah-kukveni-grand-canyon-national-monument
@@ -40749,6 +40789,7 @@ https://www.open-mpi.org/
 https://www.open-rmf.org/
 https://www.open-std.org/jtc1/sc22/wg14/www/projects
 https://www.open-telekom-cloud.com/
+https://www.open3d.org/
 https://www.openacc.org/
 https://www.openagua.org/
 https://www.openaire.eu/
@@ -41972,6 +42013,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S089982569990790X
 https://www.sciencedirect.com/science/article/abs/pii/S0925231212006571
 https://www.sciencedirect.com/science/article/abs/pii/S0925231214007127
 https://www.sciencedirect.com/science/article/abs/pii/S0927050703100011
+https://www.sciencedirect.com/science/article/abs/pii/S0950061823022158
 https://www.sciencedirect.com/science/article/abs/pii/S0950705120301350
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X07000772
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001433?via%3Dihub
@@ -42619,6 +42661,7 @@ https://www.tandfonline.com/doi/full/10.1080/01611194.2017.1357983
 https://www.tandfonline.com/doi/full/10.1080/01611194.2018.1548390
 https://www.tandfonline.com/doi/full/10.1080/01611194.2020.1814447
 https://www.tandfonline.com/doi/full/10.1080/01611194.2023.2257696?src=
+https://www.tandfonline.com/doi/full/10.1080/08839514.2024.2364159
 https://www.tandfonline.com/doi/full/10.1080/08850607.2023.2245708
 https://www.tandfonline.com/doi/full/10.1080/09296174.2017.1341724
 https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2210887
@@ -43996,6 +44039,7 @@ https://ziglang.org/
 https://zimpl.zib.de/
 https://zine.dev/
 https://ziyc.github.io/omnire/
+https://zju3dv.github.io/mobile3drecon/
 https://zlib.net/
 https://zoneminder.com/
 https://zoo-project.org/site/

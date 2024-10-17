@@ -82,10 +82,13 @@ libbzip3-dev
 libcgal-dev
 libclang-dev
 libeigen3-dev
+libfontconfig1-dev
+libfribidi-dev
 libgap-dev
 libgdal-dev
 libgmp-dev
 libgsl-dev
+libharfbuzz-dev
 liblapack-dev
 libncurses-dev
 libopenblas-dev

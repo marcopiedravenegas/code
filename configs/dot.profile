@@ -12,7 +12,7 @@
 if [ -n "$BASH_VERSION" ]; then
     # include .bashrc if it exists
     if [ -f "$HOME/.bashrc" ]; then
-	. "$HOME/.bashrc"
+        . "$HOME/.bashrc"
     fi
 fi
 
@@ -26,8 +26,17 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-export RSTUDIO_WHICH_R="/usr/local/bin/R"
-
 export EDITOR="vim"
 
-export MANWIDTH=80
+export MANWIDTH="80"
+
+# Eclipse Temurin (Adoptium JDK)
+# Recommended JDK: https://whichjdk.com/#adoptium-eclipse-temurin
+
+export JAVA_HOME="$HOME/JDK/21"
+
+# MATLAB options
+
+export JAVA_TOOL_OPTIONS="-Djogl.disable.openglarbcontext=1"
+
+export MESA_LOADER_DRIVER_OVERRIDE="iris"
