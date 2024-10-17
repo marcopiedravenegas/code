@@ -459,8 +459,6 @@ https://adobe-fonts.github.io/source-code-pro/
 https://adobe-fonts.github.io/source-sans/
 https://adobe-fonts.github.io/source-serif/
 https://adoptium.net/
-https://adoptium.net/
-https://adoptium.net/
 https://adriann.github.io/npc/npc.html
 https://ads.microsoft.com/
 https://adtinfo.org/
@@ -667,7 +665,6 @@ https://anr.fr/
 https://anr.fr/Project-ANR-11-BS02-0013
 https://anr.hal.science/
 https://anson.ucdavis.edu/~mueller/Review151106.pdf
-https://ant.apache.org/
 https://ant.apache.org/
 https://antmicro.com/
 https://antonz.org/sqlite-is-not-a-toy-database/
@@ -1259,7 +1256,6 @@ https://arxiv.org/search/cs?searchtype=author&query=Bournez,+O
 https://asaip.psu.edu/resources/cran-packages-in-r-for-astronomy/
 https://asciidoc.org/
 https://asciidoctor.org/
-https://asciidoctor.org/
 https://ascon.iaik.tugraz.at/
 https://asecuritysite.com/
 https://asecuritysite.com/blog/2023-11-18_Few-Remember-The-Beaten-Finalists---Here-s-The-Mighty-Serpent-644424dcd0b7.html
@@ -1423,8 +1419,6 @@ https://baguette.tidymodels.org/
 https://bair.berkeley.edu/
 https://bair.berkeley.edu/blog/
 https://balasys.eu/blogs/modern-techniques-to-prevent-malware-instead-of-detecting-it
-https://ballerina.io/
-https://ballerina.io/
 https://ballerina.io/
 https://banana-pi.org/
 https://bansal.engin.umich.edu/
@@ -1954,7 +1948,6 @@ https://calyxinstitute.org/
 https://calyxir.org/
 https://calyxos.org/
 https://cam.uchicago.edu/
-https://camel.apache.org/
 https://camel.apache.org/
 https://canary.tools/
 https://canarytokens.org/generate
@@ -3674,6 +3667,7 @@ https://devclass.com/category/development/
 https://develop.kde.org/
 https://develop.kde.org/products/frameworks/
 https://developer.android.com/
+https://developer.android.com/series/now-in-android
 https://developer.apple.com/documentation/security/keychain_services
 https://developer.apple.com/passkeys/
 https://developer.apple.com/swift/
@@ -5834,6 +5828,7 @@ https://en.wikipedia.org/wiki/Alessandra_Celletti_(mathematician)
 https://en.wikipedia.org/wiki/Alex_Graves_(computer_scientist)
 https://en.wikipedia.org/wiki/Alex_Krizhevsky
 https://en.wikipedia.org/wiki/Alex_Krycek
+https://en.wikipedia.org/wiki/Alex_Staropoli
 https://en.wikipedia.org/wiki/Alexander_Bogomolny
 https://en.wikipedia.org/wiki/Alexander_Hamilton
 https://en.wikipedia.org/wiki/Alexander_Osterwalder
@@ -8530,6 +8525,7 @@ https://en.wikipedia.org/wiki/Chainer
 https://en.wikipedia.org/wiki/Chaitin%27s_algorithm
 https://en.wikipedia.org/wiki/Chaitin%27s_constant
 https://en.wikipedia.org/wiki/Chalcolithic
+https://en.wikipedia.org/wiki/Challenge_the_Wind
 https://en.wikipedia.org/wiki/Challenge%E2%80%93response_authentication
 https://en.wikipedia.org/wiki/Chalmers_University_of_Technology
 https://en.wikipedia.org/wiki/Champ_de_Mars
@@ -8722,6 +8718,7 @@ https://en.wikipedia.org/wiki/Christopher_Bishop
 https://en.wikipedia.org/wiki/Christopher_Hitchens
 https://en.wikipedia.org/wiki/Christopher_J._Hadnagy
 https://en.wikipedia.org/wiki/Christopher_Langton
+https://en.wikipedia.org/wiki/Christopher_Lee
 https://en.wikipedia.org/wiki/Chromebook
 https://en.wikipedia.org/wiki/ChromeOS
 https://en.wikipedia.org/wiki/Chromium_(web_browser)
@@ -9655,6 +9652,7 @@ https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic
 https://en.wikipedia.org/wiki/Crisis_theory
 https://en.wikipedia.org/wiki/Criss-cross_algorithm
 https://en.wikipedia.org/wiki/Cristian_S._Calude
+https://en.wikipedia.org/wiki/Cristina_Scabbia
 https://en.wikipedia.org/wiki/Critical_discourse_analysis
 https://en.wikipedia.org/wiki/Critical_philosophy
 https://en.wikipedia.org/wiki/Critical_theory
@@ -9868,6 +9866,7 @@ https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
 https://en.wikipedia.org/wiki/Dark_Avenger
 https://en.wikipedia.org/wiki/Dark_Passion_Play
 https://en.wikipedia.org/wiki/Dark_wave
+https://en.wikipedia.org/wiki/Dark_Wings_of_Steel
 https://en.wikipedia.org/wiki/Darkness_at_Noon
 https://en.wikipedia.org/wiki/Daron_Acemoglu
 https://en.wikipedia.org/wiki/DARPA
@@ -10043,6 +10042,7 @@ https://en.wikipedia.org/wiki/Davidon%E2%80%93Fletcher%E2%80%93Powell_formula
 https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index
 https://en.wikipedia.org/wiki/Davis%E2%80%93Putnam_algorithm
 https://en.wikipedia.org/wiki/Davy_Jones%27s_locker
+https://en.wikipedia.org/wiki/Dawn_of_Victory
 https://en.wikipedia.org/wiki/Dawson_function
 https://en.wikipedia.org/wiki/DB-Engines_ranking
 https://en.wikipedia.org/wiki/DBase
@@ -11617,6 +11617,7 @@ https://en.wikipedia.org/wiki/Floating-point_unit
 https://en.wikipedia.org/wiki/Flood_fill
 https://en.wikipedia.org/wiki/Flood_myth
 https://en.wikipedia.org/wiki/Flooding_algorithm
+https://en.wikipedia.org/wiki/Floor_Jansen
 https://en.wikipedia.org/wiki/Floorp
 https://en.wikipedia.org/wiki/FLOPS
 https://en.wikipedia.org/wiki/Florence_and_the_Machine
@@ -11653,6 +11654,7 @@ https://en.wikipedia.org/wiki/Folk_metal
 https://en.wikipedia.org/wiki/Folk_psychology
 https://en.wikipedia.org/wiki/Folk_rock
 https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)
+https://en.wikipedia.org/wiki/Folklore
 https://en.wikipedia.org/wiki/Follett%27s_Modern_American_Usage
 https://en.wikipedia.org/wiki/Font_superfamily
 https://en.wikipedia.org/wiki/FontForge
@@ -11866,6 +11868,7 @@ https://en.wikipedia.org/wiki/Frobenius_method
 https://en.wikipedia.org/wiki/Frobenius_normal_form
 https://en.wikipedia.org/wiki/Frobenius_solution_to_the_hypergeometric_equation
 https://en.wikipedia.org/wiki/FROG
+https://en.wikipedia.org/wiki/From_Chaos_to_Eternity
 https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs
 https://en.wikipedia.org/wiki/Front_organization
 https://en.wikipedia.org/wiki/Front_panel
@@ -12329,6 +12332,7 @@ https://en.wikipedia.org/wiki/GLOH
 https://en.wikipedia.org/wiki/GLONASS
 https://en.wikipedia.org/wiki/GLOP
 https://en.wikipedia.org/wiki/Glorious_Revolution
+https://en.wikipedia.org/wiki/Glory_for_Salvation
 https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics
 https://en.wikipedia.org/wiki/Glossary_of_ballet
 https://en.wikipedia.org/wiki/Glossary_of_chemical_formulae
@@ -12357,6 +12361,7 @@ https://en.wikipedia.org/wiki/GNOME_Project
 https://en.wikipedia.org/wiki/GNOME_Shell
 https://en.wikipedia.org/wiki/GNOME_Web
 https://en.wikipedia.org/wiki/Gnosis
+https://en.wikipedia.org/wiki/Gnosis_(Russian_Circles_album)
 https://en.wikipedia.org/wiki/Gnosticism
 https://en.wikipedia.org/wiki/Gnosticism_in_modern_times
 https://en.wikipedia.org/wiki/GNRS_conjecture
@@ -12506,7 +12511,6 @@ https://en.wikipedia.org/wiki/Gradient
 https://en.wikipedia.org/wiki/Gradient_boosting
 https://en.wikipedia.org/wiki/Gradient_descent
 https://en.wikipedia.org/wiki/Gradient_theorem
-https://en.wikipedia.org/wiki/Gradle
 https://en.wikipedia.org/wiki/Gradle
 https://en.wikipedia.org/wiki/Gradshteyn_and_Ryzhik
 https://en.wikipedia.org/wiki/Gradual_typing
@@ -13630,6 +13634,7 @@ https://en.wikipedia.org/wiki/Instructions_per_cycle
 https://en.wikipedia.org/wiki/Instructions_per_second
 https://en.wikipedia.org/wiki/Instrument_flight_rules
 https://en.wikipedia.org/wiki/Instrumental_convergence
+https://en.wikipedia.org/wiki/Instrumental_rock
 https://en.wikipedia.org/wiki/Instrumental_variables_estimation
 https://en.wikipedia.org/wiki/Instrumentation
 https://en.wikipedia.org/wiki/Instrumentation_(computer_programming)
@@ -13830,6 +13835,7 @@ https://en.wikipedia.org/wiki/Intertemporal_equilibrium
 https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone
 https://en.wikipedia.org/wiki/Interval_arithmetic
 https://en.wikipedia.org/wiki/Interval_estimation
+https://en.wikipedia.org/wiki/Into_the_Legend
 https://en.wikipedia.org/wiki/Into_the_Pandemonium
 https://en.wikipedia.org/wiki/Intransitive_dice
 https://en.wikipedia.org/wiki/Intrinsic_dimension
@@ -14894,6 +14900,7 @@ https://en.wikipedia.org/wiki/Leftover_hash_lemma
 https://en.wikipedia.org/wiki/Legal_expert_system
 https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes
 https://en.wikipedia.org/wiki/Legendary_saga
+https://en.wikipedia.org/wiki/Legendary_Tales
 https://en.wikipedia.org/wiki/Legendre_function
 https://en.wikipedia.org/wiki/Legendre_polynomials
 https://en.wikipedia.org/wiki/Legendre_symbol
@@ -15349,6 +15356,7 @@ https://en.wikipedia.org/wiki/List_of_hash_functions
 https://en.wikipedia.org/wiki/List_of_HDL_simulators
 https://en.wikipedia.org/wiki/List_of_healthcare_journals
 https://en.wikipedia.org/wiki/List_of_heavy_metal_bands
+https://en.wikipedia.org/wiki/List_of_high_fantasy_fiction
 https://en.wikipedia.org/wiki/List_of_highest-income_counties_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_historical_fiction_by_time_period
 https://en.wikipedia.org/wiki/List_of_historical_novels
@@ -15863,6 +15871,7 @@ https://en.wikipedia.org/wiki/LU_decomposition
 https://en.wikipedia.org/wiki/Lua_(programming_language)
 https://en.wikipedia.org/wiki/LuaRocks
 https://en.wikipedia.org/wiki/Lublin
+https://en.wikipedia.org/wiki/Luca_Turilli
 https://en.wikipedia.org/wiki/Lucas_number
 https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test
 https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics
@@ -15873,6 +15882,7 @@ https://en.wikipedia.org/wiki/Luciferianism
 https://en.wikipedia.org/wiki/Lucio_Russo
 https://en.wikipedia.org/wiki/Lucknow
 https://en.wikipedia.org/wiki/Lucky_Starr_series
+https://en.wikipedia.org/wiki/Ludovico_Einaudi
 https://en.wikipedia.org/wiki/Ludus_duodecim_scriptorum
 https://en.wikipedia.org/wiki/Ludwig_Boltzmann
 https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich
@@ -16091,6 +16101,7 @@ https://en.wikipedia.org/wiki/Maritime_republics
 https://en.wikipedia.org/wiki/Maritime_Southeast_Asia
 https://en.wikipedia.org/wiki/Mark_and_space
 https://en.wikipedia.org/wiki/Mark_Felt
+https://en.wikipedia.org/wiki/Mark_Jansen
 https://en.wikipedia.org/wiki/Mark_Kac
 https://en.wikipedia.org/wiki/Mark_P._McCahill
 https://en.wikipedia.org/wiki/Mark-8
@@ -16421,7 +16432,6 @@ https://en.wikipedia.org/wiki/Meson_(software)
 https://en.wikipedia.org/wiki/Mesopotamia
 https://en.wikipedia.org/wiki/Message_authentication_code
 https://en.wikipedia.org/wiki/Message_broker
-https://en.wikipedia.org/wiki/Message_broker
 https://en.wikipedia.org/wiki/Message_passing
 https://en.wikipedia.org/wiki/Message_passing_in_computer_clusters
 https://en.wikipedia.org/wiki/Message_Passing_Interface
@@ -16554,6 +16564,7 @@ https://en.wikipedia.org/wiki/Microstate_(statistical_mechanics)
 https://en.wikipedia.org/wiki/Microwave_cavity
 https://en.wikipedia.org/wiki/MicroWorlds
 https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly
+https://en.wikipedia.org/wiki/Middle_Ages
 https://en.wikipedia.org/wiki/Middle_English
 https://en.wikipedia.org/wiki/Middle_English_literature
 https://en.wikipedia.org/wiki/Middle_Way
@@ -18802,6 +18813,7 @@ https://en.wikipedia.org/wiki/Power_law
 https://en.wikipedia.org/wiki/Power_metal
 https://en.wikipedia.org/wiki/Power_MOSFET
 https://en.wikipedia.org/wiki/Power_of_a_test
+https://en.wikipedia.org/wiki/Power_of_the_Dragonflame
 https://en.wikipedia.org/wiki/Power_politics
 https://en.wikipedia.org/wiki/Power_series
 https://en.wikipedia.org/wiki/Power_series_solution_of_differential_equations
@@ -18885,6 +18897,7 @@ https://en.wikipedia.org/wiki/Price_of_stability
 https://en.wikipedia.org/wiki/Pricing
 https://en.wikipedia.org/wiki/Pricing_strategies
 https://en.wikipedia.org/wiki/Prigogine%27s_theorem
+https://en.wikipedia.org/wiki/Primal_Fear_(band)
 https://en.wikipedia.org/wiki/Primality_certificate
 https://en.wikipedia.org/wiki/Primality_test
 https://en.wikipedia.org/wiki/Primary_source
@@ -19362,6 +19375,7 @@ https://en.wikipedia.org/wiki/Ragnar%C3%B6k
 https://en.wikipedia.org/wiki/RAI
 https://en.wikipedia.org/wiki/Rai_Italia
 https://en.wikipedia.org/wiki/Rai_News_24
+https://en.wikipedia.org/wiki/Rain_of_a_Thousand_Flames
 https://en.wikipedia.org/wiki/Rainbow_table
 https://en.wikipedia.org/wiki/Raj_Chandra_Bose
 https://en.wikipedia.org/wiki/Rajasthan
@@ -19731,6 +19745,7 @@ https://en.wikipedia.org/wiki/RFB_protocol
 https://en.wikipedia.org/wiki/RGtk2
 https://en.wikipedia.org/wiki/Rhaetian_people
 https://en.wikipedia.org/wiki/Rhapsody_of_Fire
+https://en.wikipedia.org/wiki/Rhapsody_of_Fire_discography
 https://en.wikipedia.org/wiki/Rhea_(pipeline)
 https://en.wikipedia.org/wiki/Rheonomous
 https://en.wikipedia.org/wiki/Rhetoric_of_science
@@ -20631,6 +20646,7 @@ https://en.wikipedia.org/wiki/Simon_Kuznets
 https://en.wikipedia.org/wiki/Simon_Newcomb
 https://en.wikipedia.org/wiki/Simon_Peyton_Jones
 https://en.wikipedia.org/wiki/Simon_Wardley
+https://en.wikipedia.org/wiki/Simone_Simons
 https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
 https://en.wikipedia.org/wiki/Simple_cell
@@ -21548,6 +21564,8 @@ https://en.wikipedia.org/wiki/Symmetric-key_algorithm
 https://en.wikipedia.org/wiki/Symmetry_of_second_derivatives
 https://en.wikipedia.org/wiki/Symphonic_metal
 https://en.wikipedia.org/wiki/Symphony_Masses:_Ho_Drakon_Ho_Megas
+https://en.wikipedia.org/wiki/Symphony_of_Enchanted_Lands
+https://en.wikipedia.org/wiki/Symphony_of_Enchanted_Lands_II_%E2%80%93_The_Dark_Secret
 https://en.wikipedia.org/wiki/SYMPL
 https://en.wikipedia.org/wiki/Symplectic_integrator
 https://en.wikipedia.org/wiki/Symposium_on_Principles_of_Database_Systems
@@ -21888,6 +21906,7 @@ https://en.wikipedia.org/wiki/The_Duellists
 https://en.wikipedia.org/wiki/The_Economic_Times
 https://en.wikipedia.org/wiki/The_Economist_Democracy_Index
 https://en.wikipedia.org/wiki/The_Egyptian
+https://en.wikipedia.org/wiki/The_Eighth_Mountain
 https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style
 https://en.wikipedia.org/wiki/The_Elements_of_Style
 https://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style
@@ -21903,6 +21922,7 @@ https://en.wikipedia.org/wiki/The_Final_Cut_(TV_serial)
 https://en.wikipedia.org/wiki/The_Fletcher_Forum_of_World_Affairs
 https://en.wikipedia.org/wiki/The_Fletcher_School_at_Tufts_University
 https://en.wikipedia.org/wiki/The_Fog_of_War
+https://en.wikipedia.org/wiki/The_Frozen_Tears_of_Angels
 https://en.wikipedia.org/wiki/The_Future_Sound_of_London
 https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths
 https://en.wikipedia.org/wiki/The_Gathering_(band)
@@ -22040,6 +22060,7 @@ https://en.wikipedia.org/wiki/The_Washington_Post_Writers_Group
 https://en.wikipedia.org/wiki/The_Way_Home_(TV_series)
 https://en.wikipedia.org/wiki/The_Web_Conference
 https://en.wikipedia.org/wiki/The_WELL
+https://en.wikipedia.org/wiki/The_Well_at_the_World%27s_End
 https://en.wikipedia.org/wiki/The_Well-Spoken_Thesaurus
 https://en.wikipedia.org/wiki/The_Wheel_of_Time
 https://en.wikipedia.org/wiki/The_White_Guard
@@ -22476,6 +22497,7 @@ https://en.wikipedia.org/wiki/Trisquel
 https://en.wikipedia.org/wiki/Tristania_(band)
 https://en.wikipedia.org/wiki/Tritium
 https://en.wikipedia.org/wiki/Triumph_of_the_Nerds
+https://en.wikipedia.org/wiki/Triumph_or_Agony
 https://en.wikipedia.org/wiki/Trivium_(cipher)
 https://en.wikipedia.org/wiki/Troff
 https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot
@@ -23565,6 +23587,7 @@ https://en.wikipedia.org/wiki/Yakov_Sinai
 https://en.wikipedia.org/wiki/Yale_Journal_of_International_Affairs
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Yann_LeCun
+https://en.wikipedia.org/wiki/Yann_Tiersen
 https://en.wikipedia.org/wiki/YAP_(Prolog)
 https://en.wikipedia.org/wiki/Yarn_(package_manager)
 https://en.wikipedia.org/wiki/Yarrow_algorithm
@@ -23585,6 +23608,7 @@ https://en.wikipedia.org/wiki/Yetzer_hara
 https://en.wikipedia.org/wiki/Yevamot
 https://en.wikipedia.org/wiki/YIFY
 https://en.wikipedia.org/wiki/Yihui_Xie
+https://en.wikipedia.org/wiki/Yiruma
 https://en.wikipedia.org/wiki/Yle
 https://en.wikipedia.org/wiki/Ynglinga_saga
 https://en.wikipedia.org/wiki/Yocto_Project
@@ -24261,8 +24285,6 @@ https://flatpak.org/
 https://fleetdm.com/
 https://fletcher.tufts.edu/
 https://flink.apache.org/
-https://flink.apache.org/
-https://flink.apache.org/
 https://flintlib.org/
 https://flintlib.org/doc/references.html
 https://flipperzero.one/
@@ -24612,6 +24634,12 @@ https://github.com/ampl/amplpy
 https://github.com/ampl/colab.ampl.com/blob/master/authors/glebbelov/miscellaneous/nqueens.ipynb
 https://github.com/ampl/mp
 https://github.com/AmziLS/AmziProlog
+https://github.com/android/architecture-components-samples
+https://github.com/android/architecture-samples
+https://github.com/android/camera-samples
+https://github.com/android/compose-samples
+https://github.com/android/ndk-samples
+https://github.com/android/nowinandroid
 https://github.com/AndySouth/rworldmap
 https://github.com/angea/pocorgtfo
 https://github.com/Anniepoo/prolog-examples
@@ -24629,7 +24657,6 @@ https://github.com/apache/ant
 https://github.com/apache/arrow
 https://github.com/apache/avro
 https://github.com/apache/camel
-https://github.com/apache/camel
 https://github.com/apache/camel/
 https://github.com/apache/cassandra
 https://github.com/apache/couchdb
@@ -24640,20 +24667,15 @@ https://github.com/apache/druid
 https://github.com/apache/dubbo
 https://github.com/apache/echarts
 https://github.com/apache/flink
-https://github.com/apache/flink
-https://github.com/apache/groovy
 https://github.com/apache/groovy
 https://github.com/apache/guacamole-server
-https://github.com/apache/hadoop
 https://github.com/apache/hadoop
 https://github.com/apache/hbase
 https://github.com/apache/httpd
 https://github.com/apache/jmeter
-https://github.com/apache/jmeter
 https://github.com/apache/kafka
 https://github.com/apache/karaf
 https://github.com/apache/lucene
-https://github.com/apache/maven
 https://github.com/apache/maven
 https://github.com/apache/maven-mvnd
 https://github.com/apache/netbeans
@@ -24663,8 +24685,6 @@ https://github.com/apache/rocketmq
 https://github.com/apache/sedona
 https://github.com/apache/singa
 https://github.com/apache/skywalking
-https://github.com/apache/spark
-https://github.com/apache/spark
 https://github.com/apache/spark
 https://github.com/apache/storm
 https://github.com/apache/superset
@@ -24689,7 +24709,6 @@ https://github.com/arun-babu/freestyle
 https://github.com/arximboldi/immer
 https://github.com/arXiv/arxiv-browse
 https://github.com/arXiv/arxiv-search
-https://github.com/asciidoctor/asciidoctor
 https://github.com/asciidoctor/asciidoctor
 https://github.com/asciidoctor/asciidoctor-vscode
 https://github.com/asciidoctor/asciidoctor.js
@@ -24726,7 +24745,6 @@ https://github.com/azavea/raster-vision
 https://github.com/b0o/awesome-by-example
 https://github.com/babel/babel
 https://github.com/balderdashy/sails
-https://github.com/ballerina-platform/ballerina-lang
 https://github.com/ballerina-platform/ballerina-lang
 https://github.com/Bam4d/Griddly
 https://github.com/bayesian-optimization/BayesianOptimization
@@ -25314,8 +25332,6 @@ https://github.com/gperftools/gperftools
 https://github.com/GPUOpen-LibrariesAndSDKs
 https://github.com/gradio-app/gradio
 https://github.com/gradle/gradle
-https://github.com/gradle/gradle
-https://github.com/gradle/gradle
 https://github.com/grails/grails-core
 https://github.com/graphhopper/graphhopper
 https://github.com/graphhopper/jsprit
@@ -25843,7 +25859,6 @@ https://github.com/Morwenn/cpp-sort
 https://github.com/mozilla/Fira
 https://github.com/mozilla/mozjpeg
 https://github.com/mozilla/pdf.js
-https://github.com/mozilla/sccache
 https://github.com/mozilla/sccache
 https://github.com/mpatacchiola/pyERA
 https://github.com/mpetuska/ktx
@@ -27175,12 +27190,8 @@ https://graceframework.org/
 https://gradientdescending.com/deep-neural-network-from-scratch-in-r/
 https://gradientdescending.com/simple-parallel-processing-in-r/
 https://gradle.org/
-https://gradle.org/
-https://gradle.org/
 https://gradschool.princeton.edu/
 https://grahamcluley.com/
-https://grails.org/
-https://grails.org/
 https://grails.org/
 https://grammle.de/
 https://granta.com/
@@ -27426,7 +27437,6 @@ https://hackmd.io/@MarconiJiang/qemu_beginner
 https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata
 https://hacks.mozilla.org/
 https://hadley.nz/
-https://hadoop.apache.org/
 https://hadoop.apache.org/
 https://hal.science/
 https://hal.science/browse/portal
@@ -28262,8 +28272,6 @@ https://jl.geocompx.org/
 https://jlinalg.sourceforge.net/
 https://jlogic.sourceforge.net/
 https://jmeter.apache.org/
-https://jmeter.apache.org/
-https://jmeter.apache.org/
 https://jmlr.csail.mit.edu/
 https://jmlr.csail.mit.edu/mloss/
 https://jmlr.org/
@@ -28478,7 +28486,6 @@ https://kore.io/
 https://koreascience.kr/article/JAKO200710737025670.page
 https://kornel.ski/rust-c-speed
 https://koschei.fedoraproject.org/
-https://kotlinlang.org/
 https://kotlinlang.org/
 https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free
 https://kr2ml.github.io/
@@ -31231,8 +31238,6 @@ https://mattturck.com/mad2023-part-iii/
 https://mattturck.com/mad2023-part-iv/
 https://mattturck.com/mad2023/
 https://maven.apache.org/
-https://maven.apache.org/
-https://maven.apache.org/
 https://maxima.sourceforge.io/
 https://maxima.sourceforge.io/compalg.html
 https://maxima.sourceforge.io/docs/tutorial/en/gaertner-tutorial-revision/Pages/SI001.htm
@@ -31631,7 +31636,6 @@ https://ncses.nsf.gov/
 https://neglectedbooks.com/
 https://nemocas.github.io/Nemo.jl/stable/
 https://neo.lcc.uma.es/vrp/vehicle-routing-problem/
-https://neo4j.com/
 https://neo4j.com/
 https://neo4j.com/docs/
 https://neo4j.com/docs/bolt/current/
@@ -33166,7 +33170,6 @@ https://projector.tensorflow.org/
 https://projector.tensorflow.org/?_gl=1*l8xiil*_ga*NjM1OTUxNjUwLjE3MDA3MDcxNzA.*_ga_W0YLR4190T*MTcwMDcwNzE3MC4xLjAuMTcwMDcwNzI4My4wLjAuMA..
 https://projects.csail.mit.edu/itcs/
 https://projects.eclipse.org/projects/adoptium.temurin
-https://projects.eclipse.org/projects/adoptium.temurin
 https://projects.eclipse.org/projects/locationtech
 https://projects.linuxmint.com/cinnamon/
 https://projects.scipy.org/
@@ -34024,7 +34027,6 @@ https://sdf.lonestar.org/
 https://sdf.org/
 https://sdfeu.org/
 https://sdkman.io/
-https://sdkman.io/
 https://se-radio.net/
 https://se-radio.net/2007/07/episode-61-internals-of-gcc/
 https://se-radio.net/2019/04/363-jonathan-boccara-on-understanding-legacy-code/
@@ -34447,8 +34449,6 @@ https://spamassassin.apache.org/
 https://spar.isi.jhu.edu/~mgreen/
 https://spar.isi.jhu.edu/~mgreen/650.445/650.445__Main.html
 https://spark.apache.org/
-https://spark.apache.org/
-https://spark.apache.org/
 https://spark.rstudio.com/
 https://sparse.tamu.edu/
 https://spatial.mathdotnet.com/
@@ -34580,7 +34580,6 @@ https://spinroot.com/spin/whatispin.html
 https://spj.science.org/
 https://spring.io/
 https://spring.io/projects
-https://spring.io/projects/spring-boot
 https://spring.io/projects/spring-boot
 https://spring.io/projects/spring-framework
 https://springerhealthcare.com/
@@ -35287,8 +35286,6 @@ https://togaware.com/
 https://toitlang.org/
 https://tokio.rs/
 https://tomcat.apache.org/
-https://tomcat.apache.org/
-https://tomcat.apache.org/
 https://toml.io/en/
 https://tomscii.sig7.se/zutty/
 https://tools.pingdom.com/
@@ -35543,7 +35540,6 @@ https://vercel.com/
 https://vern.cc/
 https://vertabelo.com/blog/database-design-for-audit-logging/
 https://vertabelo.com/blog/database-design-how-to-keep-track-of-what-the-users-do/
-https://vertx.io/
 https://vertx.io/
 https://verwaltung.bund.de/
 https://vespa.ai/
@@ -37832,7 +37828,6 @@ https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 https://www.eccpage.com/
 https://www.ece.umn.edu/users/sachin/jnl/FnT08.pdf
 https://www.eclipse.org/
-https://www.eclipse.org/
 https://www.eclipse.org/acceleo/
 https://www.eclipse.org/modeling/
 https://www.ecmwf.int/
@@ -38872,7 +38867,6 @@ https://www.greenwoodsoftware.com/less/
 https://www.grid5000.fr/w/Grid5000:Home
 https://www.gromacs.org/
 https://www.groovy-lang.org/
-https://www.groovy-lang.org/
 https://www.grpc.io/
 https://www.gsa.gov/
 https://www.gtessentials.org/
@@ -39006,7 +39000,6 @@ https://www.hr.de/index.html
 https://www.hsph.harvard.edu/
 https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 https://www.hsu-hh.de/logistik/research/challenges
-https://www.http4k.org/
 https://www.http4k.org/
 https://www.hu-berlin.de/
 https://www.hu-berlin.de/de
@@ -41748,7 +41741,6 @@ https://www.sap.com/products/technology-platform/crystal-reports.html
 https://www.sara-achour.me/
 https://www.sbcl.org/
 https://www.scala-exercises.org/
-https://www.scala-lang.org/
 https://www.scala-lang.org/
 https://www.scala-sbt.org/
 https://www.scaleway.com/
