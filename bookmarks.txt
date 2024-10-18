@@ -5208,7 +5208,10 @@ https://ecfr.eu/
 https://echarts.apache.org/
 https://echarts.apache.org/en/index.html
 https://ecl.common-lisp.dev/
+https://eclipse.dev/che/
+https://eclipse.dev/collections/
 https://eclipse.dev/sumo/
+https://eclipseide.org/
 https://ecommons.cornell.edu/
 https://ecommons.cornell.edu/home
 https://ecommons.cornell.edu/items/1d27c661-0ad6-487c-9c93-e97ddc4d8e9a
@@ -12328,6 +12331,7 @@ https://en.wikipedia.org/wiki/Giuseppe_Garibaldi
 https://en.wikipedia.org/wiki/Giuseppe_Mazzini
 https://en.wikipedia.org/wiki/Glam_rock
 https://en.wikipedia.org/wiki/Glasgow_Haskell_Compiler
+https://en.wikipedia.org/wiki/GlassFish
 https://en.wikipedia.org/wiki/Glay
 https://en.wikipedia.org/wiki/Glenda_Schroeder
 https://en.wikipedia.org/wiki/Glenn_T._Seaborg
@@ -15210,6 +15214,7 @@ https://en.wikipedia.org/wiki/List_of_antioxidants_in_food
 https://en.wikipedia.org/wiki/List_of_Apache_modules
 https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects
 https://en.wikipedia.org/wiki/List_of_Apple_products
+https://en.wikipedia.org/wiki/List_of_application_servers
 https://en.wikipedia.org/wiki/List_of_arbitrary-precision_arithmetic_software
 https://en.wikipedia.org/wiki/List_of_archive_formats
 https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
@@ -21110,6 +21115,7 @@ https://en.wikipedia.org/wiki/Spotlight_(Apple)
 https://en.wikipedia.org/wiki/Sprachbund
 https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem
 https://en.wikipedia.org/wiki/Sprawl_trilogy
+https://en.wikipedia.org/wiki/Spring_Boot
 https://en.wikipedia.org/wiki/Spring_equinox
 https://en.wikipedia.org/wiki/Spring_Framework
 https://en.wikipedia.org/wiki/Springer_Nature
@@ -25094,10 +25100,14 @@ https://github.com/easystats/easystats
 https://github.com/easystats/easystats/
 https://github.com/easystats/insight
 https://github.com/ebrahimpichka/awesome-optimization
+https://github.com/eclipse-che/che
 https://github.com/eclipse-corrosion/corrosion
+https://github.com/eclipse-ee4j/glassfish
 https://github.com/eclipse-sumo/sumo
 https://github.com/eclipse-theia/theia
 https://github.com/eclipse-vertx/vert.x
+https://github.com/eclipse/eclipse-collections
+https://github.com/eclipse/mosquitto
 https://github.com/eclipse/openvsx
 https://github.com/eclipsesource/jsonforms
 https://github.com/eddelbuettel
@@ -25515,6 +25525,7 @@ https://github.com/jeroen/openssl/
 https://github.com/jeroenjanssens/data-science-at-the-command-line
 https://github.com/jestjs/jest
 https://github.com/JetBrains/intellij-community
+https://github.com/jetty/jetty.project
 https://github.com/jgrahamc
 https://github.com/jimblandy
 https://github.com/jimmejardine/qiqqa-open-source
@@ -26713,6 +26724,7 @@ https://github.com/termux/termux-app
 https://github.com/tesseract-ocr/tesseract
 https://github.com/testingisdocumenting/webtau
 https://github.com/testingisdocumenting/znai
+https://github.com/testng-team/testng
 https://github.com/textbrowser/dooble
 https://github.com/Textualize/toolong
 https://github.com/thangchung/awesome-dotnet-core
@@ -27101,6 +27113,7 @@ https://gitlab.xiph.org/xiph
 https://gitstar-ranking.com/
 https://gitter.im/
 https://glasgowreviewofbooks.com/
+https://glassfish.org/
 https://glmnet.stanford.edu/
 https://global.canon/en/
 https://global.canon/en/c-museum/special/exhibition2.html
@@ -28782,6 +28795,7 @@ https://learn.microsoft.com/en-us/dotnet/core/introduction
 https://learn.microsoft.com/en-us/dotnet/core/testing/
 https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
 https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-code-coverage?tabs=windows
+https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
 https://learn.microsoft.com/en-us/dotnet/core/tools/global-tools
 https://learn.microsoft.com/en-us/dotnet/csharp/
 https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/expression-trees/
@@ -31568,6 +31582,7 @@ https://moser-isi.ethz.ch/manuals.html
 https://mosh.monaos.org/files/doc/text/About-txt.html
 https://mosh.org/
 https://mosimtec.com/agent-based-modeling-examples/
+https://mosquitto.org/
 https://motherduck.com/
 https://motherduck.com/blog/big-data-is-dead/
 https://mouha.be/
@@ -33226,6 +33241,7 @@ https://projector.tensorflow.org/
 https://projector.tensorflow.org/?_gl=1*l8xiil*_ga*NjM1OTUxNjUwLjE3MDA3MDcxNzA.*_ga_W0YLR4190T*MTcwMDcwNzE3MC4xLjAuMTcwMDcwNzI4My4wLjAuMA..
 https://projects.csail.mit.edu/itcs/
 https://projects.eclipse.org/projects/adoptium.temurin
+https://projects.eclipse.org/projects/ee4j.glassfish
 https://projects.eclipse.org/projects/locationtech
 https://projects.linuxmint.com/cinnamon/
 https://projects.scipy.org/
@@ -35113,6 +35129,7 @@ https://testdriven.io/guides/flask-deep-dive/
 https://testingisdocumenting.org/
 https://testingisdocumenting.org/webtau/getting-started/what-is-this
 https://testingisdocumenting.org/znai/introduction/what-is-this
+https://testng.org/
 https://testthat.r-lib.org/
 https://texample.net/tikz/examples/
 https://texdoc.org/index.html
@@ -40990,6 +41007,7 @@ https://www.password-hashing.net/
 https://www.passwordstore.org/
 https://www.patreon.com/
 https://www.paulgraham.com/acl.html
+https://www.payara.fish/
 https://www.pbs.org/
 https://www.pbs.org/newshour
 https://www.pbs.org/newshour/
