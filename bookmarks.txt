@@ -1929,6 +1929,7 @@ https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-p
 https://cacm.acm.org/opinion/a-vision-to-compute-like-nature/
 https://cacm.acm.org/opinion/generative-ai-and-cs-education/
 https://cacm.acm.org/opinion/what-is-a-bug/
+https://cacm.acm.org/opinion/what-is-theoretical-computer-science/
 https://cacm.acm.org/research/50-years-of-queries/
 https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/
 https://cacm.acm.org/research/algorithmic-game-theory/
@@ -25648,6 +25649,7 @@ https://github.com/krlmlr/awesome-vctrs
 https://github.com/krzyzanowskim/CryptoSwift
 https://github.com/kscripting/kscript
 https://github.com/kspalaiologos/Maja
+https://github.com/ktorio/ktor
 https://github.com/kubero-dev/ladder
 https://github.com/kurtosis-tech/kurtosis
 https://github.com/kvoyager/GmdhPy/
@@ -28582,6 +28584,7 @@ https://krusader.org/
 https://kryptera.ca/paper/2019-03/
 https://ktakashi.github.io/
 https://ktiml.mff.cuni.cz/~bartak/constraints/stochastic.html
+https://ktor.io/
 https://ktye.github.io/pdp11/index.html
 https://kubernetes.io/
 https://kubernetes.io/case-studies/wikimedia/
