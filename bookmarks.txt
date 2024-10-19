@@ -24301,6 +24301,7 @@ https://fias.institute/
 https://fias.institute/de/projekte/condynet/
 https://fido2-net-lib.passwordless.dev/
 https://fidoalliance.org/
+https://fidoalliance.org/passkeys-directory/
 https://fidoalliance.org/specifications/
 https://fieldeffect.com/
 https://fieldeffect.com/blog/capture-the-flag-cybersecurity
@@ -32700,6 +32701,7 @@ https://pascal.sources.ru/crypt/frog.htm
 https://pascal.sources.ru/crypt/godsave.htm
 https://passkey.org/
 https://passkeys.dev/
+https://passkeys.directory/
 https://passkeys.guru/
 https://passwordresearch.com/
 https://passwords.google/
@@ -41071,7 +41073,10 @@ https://www.parrotsec.org/
 https://www.partow.net/programming/exprtk/index.html
 https://www.passay.org/
 https://www.passbolt.com/
+https://www.passkeycentral.org/
+https://www.passkeys.com/
 https://www.passkeys.io/
+https://www.passkeys.io/who-supports-passkeys
 https://www.password-hashing.net/
 https://www.passwordstore.org/
 https://www.patreon.com/
