@@ -24959,6 +24959,7 @@ https://github.com/cmu-db/peloton
 https://github.com/coatless-rpkg/sitmo
 https://github.com/cockroachdb/cockroach
 https://github.com/cocodataset/cocoapi
+https://github.com/cocos/cocos-engine
 https://github.com/codelabs-ch/muen
 https://github.com/codereport/array-language-comparisons
 https://github.com/codexlynx/hardware-attacks-state-of-the-art
@@ -25825,6 +25826,7 @@ https://github.com/maxto/R-Books
 https://github.com/MaxwellRebo/awesome-2vec
 https://github.com/Mayitzin/ahrs
 https://github.com/maziarraissi/PINNs/
+https://github.com/Mbed-TLS/mbedtls
 https://github.com/mdlayher
 https://github.com/mechatroner/vscode_rainbow_csv
 https://github.com/MEGA65/open-roms
@@ -26650,6 +26652,7 @@ https://github.com/sinhrks/ggfortify
 https://github.com/skeeto
 https://github.com/skeeto/w64devkit
 https://github.com/skiselev/8088_bios
+https://github.com/sktime/sktime
 https://github.com/slicer69/sysvinit
 https://github.com/slime/slime
 https://github.com/slowkow/ggrepel
@@ -36791,6 +36794,7 @@ https://www.cambridge.org/core/books/treatise-on-the-calculus-of-finite-differen
 https://www.cambridge.org/core/books/trigonometric-series/14770B6E25C9C2A3447D8F56C622201F
 https://www.cambridge.org/core/books/twenty-lectures-on-algorithmic-game-theory/A9D9427C8F43E7DAEF8C702755B6D72B
 https://www.cambridge.org/core/books/vorlesungen-uber-zahlentheorie/69AC77D2DB55A196FCE1FF3018108FF4
+https://www.cambridge.org/core/books/vox-latina/0D460CEF06E5B2210ABA29EDB6AB5F2A
 https://www.cambridge.org/core/books/weather-prediction-by-numerical-process/209AB84257409CF1BB624F97EC9CCA79
 https://www.cambridge.org/core/books/works-of-archimedes/E5F35917BA320E2B40696056CB6ED610
 https://www.cambridge.org/core/books/writing-scientific-software/23206704175AF868E43FE3FB399C2F53
@@ -36844,6 +36848,8 @@ https://www.cambridge.org/core/series/cambridge-history-of-russia/3A1986470F824B
 https://www.cambridge.org/core/series/cambridge-library-collection-mathematics/5A30CD613E77074BE6AE746A4A379C51
 https://www.cambridge.org/core/series/cambridge-mathematical-library/F04D2C33279B5B7ED261AE5111C064D2
 https://www.cambridge.org/core/series/canto-classics/272D3146AB49765AB57FDE56EF24EB71
+https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition
+https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-latina-guide-pronunciation-classical-latin-2nd-edition
 https://www.cambridge.org/elt/blog/2021/06/22/the-influence-other-languages-english/
 https://www.cambridge.org/highereducation/books/bayesian-reasoning-and-machine-learning/37DAFA214EEE41064543384033D2ECF0
 https://www.cambridge.org/highereducation/books/communication-theory/9CA477FACEB728B8F56CC100BE9200D3
@@ -37227,6 +37233,7 @@ https://www.cnx-software.com/2021/04/17/loongson-loongarch-cpu-instruction-set-a
 https://www.cnx-software.com/2022/08/29/starfive-jh7110-risc-v-processor-specifications/
 https://www.cnx-software.com/2023/12/14/lichee-console-4a-risc-v-mini-laptop/
 https://www.cochranelibrary.com/
+https://www.cocos.com/
 https://www.codeblocks.org/
 https://www.codelite.org/
 https://www.codemag.com/
@@ -42335,6 +42342,7 @@ https://www.sjsu.edu/faculty/wooda/149/149syllabus2gerns.html
 https://www.skepdic.com/coldread.html
 https://www.skepdic.com/subjectivevalidation.html
 https://www.sketchingbigdata.org/
+https://www.sktime.net/
 https://www.slamtec.com/en
 https://www.slamtec.com/en/S3
 https://www.slashgear.com/
