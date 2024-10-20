@@ -25536,6 +25536,7 @@ https://github.com/jarun/nnn
 https://github.com/jashkenas/backbone
 https://github.com/Jasmine/Jasmine
 https://github.com/jauhien/iron-llvm
+https://github.com/jax-ml/jax
 https://github.com/jayleetx/nycflights
 https://github.com/jbake-org/jbake
 https://github.com/jbhuang0604/awesome-computer-vision
@@ -26249,6 +26250,8 @@ https://github.com/pq-crystals/kyber
 https://github.com/PragmaticFlow/NBomber
 https://github.com/PrivateBin/PrivateBin
 https://github.com/PRML/PRMLT
+https://github.com/probml/pml-book
+https://github.com/probml/pyprobml
 https://github.com/processing/p5.js
 https://github.com/ProgrammingRust
 https://github.com/Project-OSRM/osrm-backend
@@ -31524,8 +31527,10 @@ https://mitpress.mit.edu/9780262043793/introduction-to-machine-learning/
 https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/
 https://mitpress.mit.edu/9780262046305/
 https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+https://mitpress.mit.edu/9780262046824/probabilistic-machine-learning/
 https://mitpress.mit.edu/9780262047012/algorithms-for-decision-making/
 https://mitpress.mit.edu/9780262048248/essentials-of-compilation/
+https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning/
 https://mitpress.mit.edu/9780262049375/multi-agent-reinforcement-learning/
 https://mitpress.mit.edu/9780262061414/game-theory/
 https://mitpress.mit.edu/9780262220699/concepts-techniques-and-models-of-computer-programming/
