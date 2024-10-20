@@ -713,6 +713,7 @@ https://ars-inveniendi-analytica.com/
 https://arstechnica.com/
 https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/
 https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/
+https://arstechnica.com/gadgets/2015/07/even-vegas-strangers-agree-340-audiophile-cables-make-no-difference/
 https://arstechnica.com/gadgets/2017/06/ibm-pc-history-part-1/
 https://arstechnica.com/gadgets/2017/07/ibm-pc-history-part-2/
 https://arstechnica.com/gadgets/2021/09/whatsapp-end-to-end-encrypted-messages-arent-that-private-after-all/
@@ -809,8 +810,10 @@ https://arxiv.org/abs/1512.06789
 https://arxiv.org/abs/1602.02830
 https://arxiv.org/abs/1605.05362
 https://arxiv.org/abs/1605.05420
+https://arxiv.org/abs/1606.00915
 https://arxiv.org/abs/1606.04422
 https://arxiv.org/abs/1607.00653
+https://arxiv.org/abs/1609.00222
 https://arxiv.org/abs/1609.02907
 https://arxiv.org/abs/1609.04747
 https://arxiv.org/abs/1609.05807
@@ -865,6 +868,7 @@ https://arxiv.org/abs/1811.12823
 https://arxiv.org/abs/1812.04202
 https://arxiv.org/abs/1812.09411
 https://arxiv.org/abs/1901.00596
+https://arxiv.org/abs/1901.02358
 https://arxiv.org/abs/1901.10961
 https://arxiv.org/abs/1902.02376
 https://arxiv.org/abs/1903.02831
@@ -907,8 +911,10 @@ https://arxiv.org/abs/2002.02798
 https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.08071
 https://arxiv.org/abs/2002.10078
+https://arxiv.org/abs/2004.03333
 https://arxiv.org/abs/2004.14974
 https://arxiv.org/abs/2005.08926
+https://arxiv.org/abs/2005.11138
 https://arxiv.org/abs/2006.04641
 https://arxiv.org/abs/2006.05398
 https://arxiv.org/abs/2006.13026
@@ -925,6 +931,7 @@ https://arxiv.org/abs/2009.12637
 https://arxiv.org/abs/2009.13632
 https://arxiv.org/abs/2010.00506
 https://arxiv.org/abs/2010.05234
+https://arxiv.org/abs/2010.11267
 https://arxiv.org/abs/2010.11929
 https://arxiv.org/abs/2011.00583
 https://arxiv.org/abs/2011.01307
@@ -1022,6 +1029,7 @@ https://arxiv.org/abs/2302.12949
 https://arxiv.org/abs/2303.00814
 https://arxiv.org/abs/2303.12712
 https://arxiv.org/abs/2303.13569
+https://arxiv.org/abs/2304.01821
 https://arxiv.org/abs/2304.11534
 https://arxiv.org/abs/2305.00813
 https://arxiv.org/abs/2305.05191
@@ -1056,6 +1064,7 @@ https://arxiv.org/abs/2310.14084
 https://arxiv.org/abs/2310.15978
 https://arxiv.org/abs/2310.19387
 https://arxiv.org/abs/2311.01024
+https://arxiv.org/abs/2311.01759
 https://arxiv.org/abs/2311.01864
 https://arxiv.org/abs/2311.03757
 https://arxiv.org/abs/2311.10770
@@ -1084,6 +1093,7 @@ https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/2406.09414
+https://arxiv.org/abs/2406.18591
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
@@ -3920,6 +3930,7 @@ https://dl.acm.org/doi/10.1145/3400903.3401691
 https://dl.acm.org/doi/10.1145/3406534
 https://dl.acm.org/doi/10.1145/3430936
 https://dl.acm.org/doi/10.1145/3434237
+https://dl.acm.org/doi/10.1145/3437984.3458836
 https://dl.acm.org/doi/10.1145/3442188.3445922
 https://dl.acm.org/doi/10.1145/3453930
 https://dl.acm.org/doi/10.1145/3454122.3456125
@@ -4038,6 +4049,7 @@ https://dl.acm.org/doi/abs/10.1145/3431282
 https://dl.acm.org/doi/abs/10.1145/3445814.3446724
 https://dl.acm.org/doi/abs/10.1145/3457168
 https://dl.acm.org/doi/abs/10.1145/3505243
+https://dl.acm.org/doi/abs/10.1145/3524458.3547258
 https://dl.acm.org/doi/abs/10.1145/355604.361591
 https://dl.acm.org/doi/abs/10.1145/3626717
 https://dl.acm.org/doi/abs/10.1145/37401.37406
@@ -11669,6 +11681,7 @@ https://en.wikipedia.org/wiki/Foundation_and_Earth
 https://en.wikipedia.org/wiki/Foundation_and_Empire
 https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)
 https://en.wikipedia.org/wiki/FoundationDB
+https://en.wikipedia.org/wiki/Foundation_model
 https://en.wikipedia.org/wiki/Foundation_models
 https://en.wikipedia.org/wiki/Foundation_series
 https://en.wikipedia.org/wiki/Foundations_of_Computational_Mathematics
@@ -22408,6 +22421,7 @@ https://en.wikipedia.org/wiki/Transfer_learning
 https://en.wikipedia.org/wiki/Transfer_operator
 https://en.wikipedia.org/wiki/Transformation_language
 https://en.wikipedia.org/wiki/Transformation_matrix
+https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
 https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
 https://en.wikipedia.org/wiki/Transhumanism
 https://en.wikipedia.org/wiki/Transistor
@@ -25545,6 +25559,7 @@ https://github.com/libtom/tomsfastmath
 https://github.com/libusb/libusb
 https://github.com/libvips/libvips
 https://github.com/lichess-org/lila
+https://github.com/liliu-avril/Awesome-Segment-Anything
 https://github.com/limine-bootloader/limine
 https://github.com/linuxmint/cinnamon
 https://github.com/linuxmint/cinnamon/
@@ -25670,6 +25685,7 @@ https://github.com/microsoft
 https://github.com/microsoft/cascadia-code
 https://github.com/microsoft/Data-Science-For-Beginners
 https://github.com/microsoft/DeepSpeed
+https://github.com/Microsoft/EdgeML
 https://github.com/microsoft/evodiff
 https://github.com/microsoft/foss-fund
 https://github.com/Microsoft/GSL
@@ -25709,6 +25725,7 @@ https://github.com/miracl/MIRACL
 https://github.com/mirage/mirage
 https://github.com/mirage/ocaml-base64
 https://github.com/mit-carbon/Graphite
+https://github.com/mit-han-lab/mcunet
 https://github.com/mitmproxy/mitmproxy
 https://github.com/mit-pdos
 https://github.com/mit-pdos/biscuit
@@ -27385,6 +27402,8 @@ https://handbook.mit.edu/
 https://handbook.mit.edu/intro
 https://handbrake.fr/
 https://handlebarsjs.com/
+https://hanlab.mit.edu/courses/2024-fall-65940
+https://hanlab.mit.edu/projects/efficientvit
 https://hanlab.mit.edu/projects/tinyml
 https://hanxiao.io/2018/09/28/Fashion-MNIST-Year-In-Review/
 http://shapelib.maptools.org/
@@ -27597,6 +27616,7 @@ https://huggingface.co/papers/2309.07062
 https://huggingface.co/roberta-large
 https://huggingface.co/spaces
 https://huggingface.co/spaces/JUGGHM/Metric3D
+https://huggingface.co/spaces/theaiinstitute/theia
 https://huggingface.co/t5-base
 https://huggingface.co/tasks
 https://huggingface.co/tasks/audio-classification
@@ -27631,6 +27651,7 @@ https://huggingface.co/tasks/video-classification
 https://huggingface.co/tasks/visual-question-answering
 https://huggingface.co/tasks/zero-shot-classification
 https://huggingface.co/tasks/zero-shot-image-classification
+https://huggingface.co/theaiinstitute/theia-tiny-patch16-224-cddsv
 https://huggingface.co/welcome
 https://hugodaniel.com/posts/vi-is-not-vim/
 https://humanclock.com/atariserver.php
@@ -27927,6 +27948,7 @@ https://ieeexplore.ieee.org/document/9806142
 https://ieeexplore.ieee.org/document/9810097
 https://ieeexplore.ieee.org/document/9816655
 https://ieeexplore.ieee.org/document/9897990
+https://ieeexplore.ieee.org/document/9912325
 https://ieeexplore.ieee.org/document/9946889
 https://ieeexplore.ieee.org/document/9996124
 https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=18
@@ -36235,6 +36257,8 @@ https://www.arm.com/architecture/cpu/morello
 https://www.arm.com/architecture/learn-the-architecture
 https://www.arm.com/markets/storage/computational-storage
 https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
+https://www.arm.com/resources/guide/machine-learning-on-cortex-m
+https://www.arm.com/technologies/cmsis
 https://www.arte.tv/de
 https://www.arte.tv/de/live/
 https://www.arte.tv/de/videos/RC-021159/42-die-antwort-auf-fast-alles/
@@ -36727,7 +36751,9 @@ https://www.cambridge.org/core/series/cambridge-library-collection-mathematics/5
 https://www.cambridge.org/core/series/cambridge-mathematical-library/F04D2C33279B5B7ED261AE5111C064D2
 https://www.cambridge.org/core/series/canto-classics/272D3146AB49765AB57FDE56EF24EB71
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition
+https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition?format=PB&isbn=9780521335553
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-latina-guide-pronunciation-classical-latin-2nd-edition
+https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-latina-guide-pronunciation-classical-latin-2nd-edition?format=PB&isbn=9780521379366
 https://www.cambridge.org/elt/blog/2021/06/22/the-influence-other-languages-english/
 https://www.cambridge.org/highereducation/books/bayesian-reasoning-and-machine-learning/37DAFA214EEE41064543384033D2ECF0
 https://www.cambridge.org/highereducation/books/communication-theory/9CA477FACEB728B8F56CC100BE9200D3
