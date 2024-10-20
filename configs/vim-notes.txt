@@ -1,0 +1,2 @@
+:sort liu
+Sort using locale-based collation, ignore case, and select unique lines

@@ -1,0 +1,3 @@
+package_list <- read.table("rpackages.txt", col.names="packages")
+summary(package_list)
+install.packages(package_list$packages)
