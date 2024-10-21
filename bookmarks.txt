@@ -1,3 +1,7 @@
+https://timm.fast.ai/
+https://github.com/huggingface/pytorch-image-models
+https://huggingface.co/timm
+https://pytorch.org/vision/stable/models.html
 http://0x80.pl/notesen/2015-12-27-base64-encoding.html
 http://0xeb.net/
 http://9p.cat-v.org/
