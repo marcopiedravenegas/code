@@ -1,7 +1,3 @@
-https://timm.fast.ai/
-https://github.com/huggingface/pytorch-image-models
-https://huggingface.co/timm
-https://pytorch.org/vision/stable/models.html
 http://0x80.pl/notesen/2015-12-27-base64-encoding.html
 http://0xeb.net/
 http://9p.cat-v.org/
@@ -1000,6 +996,7 @@ https://arxiv.org/abs/2205.12371
 https://arxiv.org/abs/2205.14550
 https://arxiv.org/abs/2205.14612
 https://arxiv.org/abs/2205.14627
+https://arxiv.org/abs/2205.14756
 https://arxiv.org/abs/2205.15231
 https://arxiv.org/abs/2205.15659
 https://arxiv.org/abs/2205.15764
@@ -1125,6 +1122,7 @@ https://arxiv.org/list/cs.LG/recent
 https://arxiv.org/list/cs.MS/recent
 https://arxiv.org/list/cs.SC/recent
 https://arxiv.org/list/math.OC/recent
+https://arxiv.org/pdf/2105.01099
 https://arxiv.org/pdf/2210.04055
 https://arxiv.org/pdf/2310.09145
 https://arxiv.org/search/cs?searchtype=author&query=Bournez,+O
@@ -10774,6 +10772,7 @@ https://en.wikipedia.org/wiki/Effect_system
 https://en.wikipedia.org/wiki/Efficiency_(statistics)
 https://en.wikipedia.org/wiki/Efficient_envy-free_division
 https://en.wikipedia.org/wiki/Efficient_Java_Matrix_Library
+https://en.wikipedia.org/wiki/EfficientNet
 https://en.wikipedia.org/wiki/Efficient_Probabilistic_Public-Key_Encryption_Scheme
 https://en.wikipedia.org/wiki/Efimov_state
 https://en.wikipedia.org/wiki/EFI_system_partition
@@ -11500,6 +11499,7 @@ https://en.wikipedia.org/wiki/Financial_economics
 https://en.wikipedia.org/wiki/Financial_literacy
 https://en.wikipedia.org/wiki/Finder_(software)
 https://en.wikipedia.org/wiki/Fine-grained_reduction
+https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)
 https://en.wikipedia.org/wiki/Fin_field-effect_transistor
 https://en.wikipedia.org/wiki/Finite_difference
 https://en.wikipedia.org/wiki/Finite_difference_method
@@ -13443,6 +13443,7 @@ https://en.wikipedia.org/wiki/In_Absentia
 https://en.wikipedia.org/wiki/Inanna
 https://en.wikipedia.org/wiki/Incentive
 https://en.wikipedia.org/wiki/Incentive_compatibility
+https://en.wikipedia.org/wiki/Inception_(deep_learning_architecture)
 https://en.wikipedia.org/wiki/Inception_score
 https://en.wikipedia.org/wiki/Incidence_matrix
 https://en.wikipedia.org/wiki/Incircle_and_excircles
@@ -15795,6 +15796,7 @@ https://en.wikipedia.org/wiki/LogMeIn_Hamachi
 https://en.wikipedia.org/wiki/Logo_(programming_language)
 https://en.wikipedia.org/wiki/Logrank_test
 https://en.wikipedia.org/wiki/Log-structured_file_system
+https://en.wikipedia.org/wiki/Log-structured_merge-tree
 https://en.wikipedia.org/wiki/Logtalk
 https://en.wikipedia.org/wiki/London_After_Midnight_(band)
 https://en.wikipedia.org/wiki/London_Internet_Exchange
@@ -17217,6 +17219,7 @@ https://en.wikipedia.org/wiki/Neural_network_Gaussian_process
 https://en.wikipedia.org/wiki/Neural_Network_Intelligence
 https://en.wikipedia.org/wiki/Neural_network_software
 https://en.wikipedia.org/wiki/Neural_operators
+https://en.wikipedia.org/wiki/Neural_scaling_law
 https://en.wikipedia.org/wiki/Neural_tangent_kernel
 https://en.wikipedia.org/wiki/Neural_Turing_machine
 https://en.wikipedia.org/wiki/Neuroevolution
@@ -24413,6 +24416,7 @@ https://geoff.greer.fm/ag/
 https://geographiclib.sourceforge.io/
 https://geographiclib.sourceforge.io/geod.html
 https://geoip2.readthedocs.io/en/latest/
+https://geojson.org/
 https://geolibres.org.ar/
 https://geometricdeeplearning.com/
 https://geonetwork-opensource.org/
@@ -26756,6 +26760,7 @@ https://github.com/UpstandingHackers/hammer
 https://github.com/urllib3/urllib3
 https://github.com/USCiLab/cereal
 https://github.com/USEPA/spmodel
+https://github.com/usig
 https://github.com/usnistgov/fipy
 https://github.com/util-linux/util-linux
 https://github.com/uwplse/verdi
@@ -27611,6 +27616,8 @@ https://huggingface.co/learn/deep-rl-course/unit0/introduction
 https://huggingface.co/learn/deep-rl-course/unit7/introduction-to-marl
 https://huggingface.co/microsoft/Orca-2-13b
 https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593
+https://huggingface.co/mit-han-lab
+https://huggingface.co/mit-han-lab/efficientvit-sam
 https://huggingface.co/models
 https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512
 https://huggingface.co/openai/clip-vit-large-patch14
@@ -27620,6 +27627,7 @@ https://huggingface.co/papers/2309.07062
 https://huggingface.co/roberta-large
 https://huggingface.co/spaces
 https://huggingface.co/spaces/JUGGHM/Metric3D
+https://huggingface.co/spaces/lightly-ai/ml-depth-pro
 https://huggingface.co/spaces/theaiinstitute/theia
 https://huggingface.co/t5-base
 https://huggingface.co/tasks
@@ -27656,6 +27664,7 @@ https://huggingface.co/tasks/visual-question-answering
 https://huggingface.co/tasks/zero-shot-classification
 https://huggingface.co/tasks/zero-shot-image-classification
 https://huggingface.co/theaiinstitute/theia-tiny-patch16-224-cddsv
+https://huggingface.co/timm
 https://huggingface.co/welcome
 https://hugodaniel.com/posts/vi-is-not-vim/
 https://humanclock.com/atariserver.php
@@ -29490,6 +29499,7 @@ https://link.springer.com/article/10.1007/s13389-012-0027-1
 https://link.springer.com/article/10.1007/s40329-014-0049-x
 https://link.springer.com/article/10.1007/s41324-019-00269-x
 https://link.springer.com/article/10.1007/s41870-017-0067-y
+https://link.springer.com/article/10.1007/s43681-024-00498-3
 https://link.springer.com/article/10.1023/A:1009726021843
 https://link.springer.com/article/10.1023/A:1010933404324
 https://link.springer.com/article/10.1023/A:1022607331053
@@ -30854,6 +30864,7 @@ https://maa.org/the-basic-library-list-the-basic-library-list-maas-recommendatio
 https://maa.tandfonline.com/journals/uamm20
 https://macaulay2.com/
 https://machalliance.org/
+https://machinelearning.apple.com/research/depth-pro
 https://machinelearningmastery.com/blog/
 https://machinelearning.wtf/
 https://maciejczyzewski.github.io/retter/
@@ -31258,6 +31269,7 @@ https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology
 https://media.ccc.de/v/gpn18-129-practical-cryptography-patterns
 https://media.ed.ac.uk/media/Ross+AndersonA+Security+Engineering+and+Machine+Learning+%28ICSA+Colloquium+++SPT+Seminar+17+06+21%29/1_0nx38fyk
 https://media.hal.science/
+https://mediatum.ub.tum.de/doc/1576507/9aptthe6m5amhghi0j9154sxb.Qinglong_Master_thesis.pdf
 https://medium.com/@acidflask/this-guys-arrogance-takes-your-breath-away-5b903624ca5f
 https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d
 https://medium.com/kaggle-blog
@@ -35275,6 +35287,7 @@ https://timharford.com/
 https://timharford.com/2022/02/the-ten-best-books-for-thinking-clearly-about-statistics/
 https://timing.attacks.cr.yp.to/
 https://timing.attacks.cr.yp.to/programming.html
+https://timm.fast.ai/
 https://timroughgarden.org/
 https://timroughgarden.org/overview.html
 https://tinkerpop.apache.org/
@@ -37364,6 +37377,7 @@ https://www.cs.cmu.edu/~mheule/CADE28/
 https://www.cs.cmu.edu/~pavlo/
 https://www.cs.cmu.edu/~pavlo/blog/2014/06/open-problems-in-transaction-processing-part-1.html
 https://www.cs.cmu.edu/~pavlo/blog/2014/09/open-problems-in-transaction-processing-part-2.html
+https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html
 https://www.cs.cmu.edu/~pavlo/datasets/index.html
 https://www.cs.cmu.edu/~ralf/files.html
 https://www.cs.cmu.edu/~rwh/papers/langsec/dagstuhl.pdf
@@ -37541,6 +37555,7 @@ https://www.cybereason.com/blog
 https://www.cyber-valley.de/
 https://www.cypress.io/
 https://www.daad.de/
+https://www.daad.de/de/infos-services-fuer-hochschulen/weiterfuehrende-infos-zu-daad-foerderprogrammen/stibet-i/
 https://www.dagstuhl.de/de/
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/03411
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/23251
@@ -38924,6 +38939,7 @@ https://www.graphhopper.com/
 https://www.graph-signal-processing-book.org/
 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
 https://www.graylog.org/
+https://www.greatcirclemap.com/
 https://www.greeknewsagenda.gr/book-of-the-month-drifting-cities-by-stratis-tsirkas/
 https://www.greenend.org.uk/rjk/tech/inline.html
 https://www.greenwoodsoftware.com/less/
@@ -39559,6 +39575,7 @@ https://www.karlin.mff.cuni.cz/~krajicek/
 https://www.kas.de/de/home
 https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case
 https://www.kb.cert.org/vuls/
+https://www.kcl.ac.uk/abroad/module-options/module?id=c43edb5e-dafe-4f91-aba8-9cd7acf2ac50
 https://www.kdd.org/
 https://www.kdnuggets.com/
 https://www.keepassx.org/
@@ -40110,6 +40127,7 @@ https://www.mdpi.com/1424-8220/16/6/912
 https://www.mdpi.com/2072-4292/16/16/2910
 https://www.mdpi.com/2075-1680/12/1/32
 https://www.mdpi.com/2076-3417/13/17/9780
+https://www.mdpi.com/2079-9292/13/4/775
 https://www.mdpi.com/2220-9964/4/4/2306
 https://www.mdpi.com/2504-3900/47/1/23
 https://www.mdpi.com/journal/entropy
@@ -40339,6 +40357,7 @@ https://www.multicians.org/shell.html
 https://www.multicians.org/thvv/mail-history.html
 https://www.multiprecision.org/
 https://www.multiprecision.org/mpc/
+https://www.mundialis.de/
 https://www.mupdf.com/
 https://www.musanim.com/
 https://www.museumofplay.org/
@@ -41974,6 +41993,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0169023X07001401
 https://www.sciencedirect.com/science/article/abs/pii/S0169207006000021?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S0169207006000239?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
+https://www.sciencedirect.com/science/article/abs/pii/S019126152300173X
 https://www.sciencedirect.com/science/article/abs/pii/S0262407924001465
 https://www.sciencedirect.com/science/article/abs/pii/S0263224123001963
 https://www.sciencedirect.com/science/article/abs/pii/S036054421830879X
@@ -42043,6 +42063,7 @@ https://www.sciencedirect.com/science/article/pii/S0893608021002173
 https://www.sciencedirect.com/science/article/pii/S0898122197001843
 https://www.sciencedirect.com/science/article/pii/S0950584923001222
 https://www.sciencedirect.com/science/article/pii/S0968090X23003157
+https://www.sciencedirect.com/science/article/pii/S1018364724000193
 https://www.sciencedirect.com/science/article/pii/S1359644621002531
 https://www.sciencedirect.com/science/article/pii/S1569190X14000513
 https://www.sciencedirect.com/science/article/pii/S1877050922020944
@@ -42053,6 +42074,7 @@ https://www.sciencedirect.com/science/article/pii/S2542435123003653
 https://www.sciencedirect.com/science/article/pii/S2666379122003494
 https://www.sciencedirect.com/science/article/pii/S2666764923000103
 https://www.sciencedirect.com/science/article/pii/S2667345223000196
+https://www.sciencedirect.com/science/article/pii/S2772424722000257
 https://www.sciencefocus.com/
 https://www.science.gov/
 https://www.sciencenews.org/
@@ -43165,6 +43187,7 @@ https://www.unidata.ucar.edu/software/netcdf/
 https://www.unidata.ucar.edu/software/udunits/
 https://www.unido.org/
 https://www.unifiedkillchain.com/
+https://www.unifr.ch/ecopub/en/teaching/master/the-economics-of-politics.html#:~:text=The%20economics%20of%20politics%20is,instead%20of%20general%20social%20welfare.
 https://www.uni-goettingen.de/
 https://www.uni-hamburg.de/
 https://www.uni-hamburg.de/stellenangebote.html
