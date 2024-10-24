@@ -169,6 +169,8 @@ https://256bit.org/
 https://2600.com/
 https://2600.network/
 https://386bsd.org/
+https://3d.bk.tudelft.nl/
+https://3d.bk.tudelft.nl/opendata/opencities/
 https://3dblox.org/
 https://44con.com/
 https://5gaa.org/
@@ -1231,6 +1233,7 @@ https://awesomewm.org/
 https://awk.dev/
 https://awk.dev/eda.html
 https://aws.amazon.com/
+https://aws.amazon.com/amplify/
 https://aws.amazon.com/big-data/datalakes-and-analytics/
 https://aws.amazon.com/blogs/
 https://aws.amazon.com/blogs/big-data/
@@ -1902,6 +1905,8 @@ https://cerncourier.com/
 https://certificates.theodi.org/en
 https://certificate.transparency.dev/
 https://cervantes.org/
+https://cesium.com/
+https://cesium.com/platform/cesiumjs/
 https://cetinkayakoc.net/
 https://c-faq.com/
 https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html
@@ -3327,6 +3332,7 @@ https://developer.okta.com/blog/2019/03/11/node-sql-server
 https://developer.okta.com/blog/2022/02/08/cookies-vs-tokens
 https://developer.r-project.org/
 https://developer.r-project.org/TechDocs/
+https://developers.cloudflare.com/pages/configuration/serving-pages/
 https://developers.cloudflare.com/web3/ipfs-gateway/concepts/ipfs/
 https://developers.generativeai.google/guide
 https://developers.generativeai.google/tutorials/text_quickstart
@@ -4313,6 +4319,9 @@ https://docs.argilla.io/latest/
 https://docs.asciidoctor.org/
 https://docs.authlib.org/en/latest/index.html
 https://docs.aws.amazon.com/data-exchange/latest/userguide/open-data.html
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html
+https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-overview-of-traditional-web-hosting.html
 https://docs.bokeh.org/en/latest/
 https://docs.codeberg.org/
 https://docs.conda.io/projects/miniconda/en/latest/
@@ -5394,6 +5403,7 @@ https://en.wikipedia.org/wiki/2-opt
 https://en.wikipedia.org/wiki/30th_parallel_north
 https://en.wikipedia.org/wiki/386BSD
 https://en.wikipedia.org/wiki/389_Directory_Server
+https://en.wikipedia.org/wiki/3D_city_model
 https://en.wikipedia.org/wiki/3D_computer_graphics
 https://en.wikipedia.org/wiki/3DMark
 https://en.wikipedia.org/wiki/3D_rotation_group
@@ -5606,6 +5616,7 @@ https://en.wikipedia.org/wiki/Adolphe_Quetelet
 https://en.wikipedia.org/wiki/ADO.NET
 https://en.wikipedia.org/wiki/Adriaan_van_Wijngaarden
 https://en.wikipedia.org/wiki/Adrien-Marie_Legendre
+https://en.wikipedia.org/wiki/Ads.txt
 https://en.wikipedia.org/wiki/Advanced_electronic_signature
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 https://en.wikipedia.org/wiki/Advanced_Institute_of_Industrial_Technology
@@ -5649,6 +5660,7 @@ https://en.wikipedia.org/wiki/Affix_grammar
 https://en.wikipedia.org/wiki/AForge.NET
 https://en.wikipedia.org/wiki/African_IXP_Association
 https://en.wikipedia.org/wiki/After_Forever
+https://en.wikipedia.org/wiki/After_Forever_(album)
 https://en.wikipedia.org/wiki/After_Hours_(film)
 https://en.wikipedia.org/wiki/Against_the_Day
 https://en.wikipedia.org/wiki/Agamemnon
@@ -7754,6 +7766,7 @@ https://en.wikipedia.org/wiki/Category:Distributed_operating_systems
 https://en.wikipedia.org/wiki/Category:Divergent_series
 https://en.wikipedia.org/wiki/Category:DOS_games
 https://en.wikipedia.org/wiki/Category:Dutch_computer_scientists
+https://en.wikipedia.org/wiki/Category:Dutch_symphonic_metal_musical_groups
 https://en.wikipedia.org/wiki/Category:Dynamical_systems
 https://en.wikipedia.org/wiki/Category:Dynamic_programming
 https://en.wikipedia.org/wiki/Category:Dynamics_of_the_Solar_System
@@ -8668,6 +8681,7 @@ https://en.wikipedia.org/wiki/Christopher_Hitchens
 https://en.wikipedia.org/wiki/Christopher_J._Hadnagy
 https://en.wikipedia.org/wiki/Christopher_Langton
 https://en.wikipedia.org/wiki/Christopher_Lee
+https://en.wikipedia.org/wiki/Christopher_Wren
 https://en.wikipedia.org/wiki/Chromebook
 https://en.wikipedia.org/wiki/ChromeOS
 https://en.wikipedia.org/wiki/ChromiumOS
@@ -10032,6 +10046,8 @@ https://en.wikipedia.org/wiki/Dean_Acheson
 https://en.wikipedia.org/wiki/De_architectura
 https://en.wikipedia.org/wiki/Death%27s_End
 https://en.wikipedia.org/wiki/Death-doom
+https://en.wikipedia.org/wiki/Death_growl
+https://en.wikipedia.org/wiki/Death_metal
 https://en.wikipedia.org/wiki/Death_Note
 https://en.wikipedia.org/wiki/Deathrock
 https://en.wikipedia.org/wiki/Debasis_Mitra
@@ -10054,6 +10070,7 @@ https://en.wikipedia.org/wiki/Decider_(Turing_machine)
 https://en.wikipedia.org/wiki/Decimal_data_type
 https://en.wikipedia.org/wiki/Decimal_degrees
 https://en.wikipedia.org/wiki/Decimal_floating_point
+https://en.wikipedia.org/wiki/Decipher_(After_Forever_album)
 https://en.wikipedia.org/wiki/Decisional_composite_residuosity_assumption
 https://en.wikipedia.org/wiki/Decision_analysis
 https://en.wikipedia.org/wiki/Decision_boundary
@@ -10652,6 +10669,7 @@ https://en.wikipedia.org/wiki/Ealdorman
 https://en.wikipedia.org/wiki/Earl
 https://en.wikipedia.org/wiki/Earley_parser
 https://en.wikipedia.org/wiki/Early_Buddhist_texts
+https://en.wikipedia.org/wiki/Early_Gothic_architecture
 https://en.wikipedia.org/wiki/Early_Middle_Ages
 https://en.wikipedia.org/wiki/Early_Modern_English
 https://en.wikipedia.org/wiki/Early_modern_Europe
@@ -12269,6 +12287,7 @@ https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_equation
 https://en.wikipedia.org/wiki/Giordano_Bruno
 https://en.wikipedia.org/wiki/Giordano_Bruno_Foundation
 https://en.wikipedia.org/wiki/Giordano_Riccati
+https://en.wikipedia.org/wiki/Giorgio_Vasari
 https://en.wikipedia.org/wiki/Giovanni_De_Micheli
 https://en.wikipedia.org/wiki/Giovanni_Mercurio_da_Correggio
 https://en.wikipedia.org/wiki/Giovanni_Pico_della_Mirandola
@@ -12455,6 +12474,8 @@ https://en.wikipedia.org/wiki/GOST_(block_cipher)
 https://en.wikipedia.org/wiki/GOST_(hash_function)
 https://en.wikipedia.org/wiki/Go_strategy_and_tactics
 https://en.wikipedia.org/wiki/Gosu_(programming_language)
+https://en.wikipedia.org/wiki/Gothic_architecture
+https://en.wikipedia.org/wiki/Gothic_fiction
 https://en.wikipedia.org/wiki/Gothic_film
 https://en.wikipedia.org/wiki/Gothicism
 https://en.wikipedia.org/wiki/Gothic_Kabbalah
@@ -13852,6 +13873,7 @@ https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics)
 https://en.wikipedia.org/wiki/Inverted_index
 https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)
 https://en.wikipedia.org/wiki/InVesalius
+https://en.wikipedia.org/wiki/Invisible_Circles
 https://en.wikipedia.org/wiki/.io
 https://en.wikipedia.org/wiki/IOActive
 https://en.wikipedia.org/wiki/I/O_Controller_Hub
@@ -13907,6 +13929,7 @@ https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)
 https://en.wikipedia.org/wiki/Ishtar_Gate
 https://en.wikipedia.org/wiki/Ising_model
 https://en.wikipedia.org/wiki/Isis
+https://en.wikipedia.org/wiki/Islamic_architecture
 https://en.wikipedia.org/wiki/Islamic_holy_books
 https://en.wikipedia.org/wiki/Islands_in_the_Net
 https://en.wikipedia.org/wiki/ISLISP
@@ -15727,6 +15750,7 @@ https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm
 https://en.wikipedia.org/wiki/Live_Gothic
 https://en.wikipedia.org/wiki/Live_in_Midg%C3%A5rd
 https://en.wikipedia.org/wiki/Livermore_loops
+https://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects
 https://en.wikipedia.org/wiki/Livestreamed_news
 https://en.wikipedia.org/wiki/Living_creatures_(Bible)
 https://en.wikipedia.org/wiki/Liv_Kristine
@@ -16275,6 +16299,7 @@ https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution
 https://en.wikipedia.org/wiki/Maxwell_Rosenlicht
 https://en.wikipedia.org/wiki/Maya_civilization
 https://en.wikipedia.org/wiki/Maya_mythology
+https://en.wikipedia.org/wiki/Mayan_(band)
 https://en.wikipedia.org/wiki/Mayan_languages
 https://en.wikipedia.org/wiki/Maya_(religion)
 https://en.wikipedia.org/wiki/Maya_religion
@@ -17956,6 +17981,7 @@ https://en.wikipedia.org/wiki/Orientation_(graph_theory)
 https://en.wikipedia.org/wiki/OrientDB
 https://en.wikipedia.org/wiki/Oriented_projective_geometry
 https://en.wikipedia.org/wiki/Orient_Express
+https://en.wikipedia.org/wiki/Original_net_animation
 https://en.wikipedia.org/wiki/Original_video_animation
 https://en.wikipedia.org/wiki/Orlando_Furioso
 https://en.wikipedia.org/wiki/Orlando_Innamorato
@@ -17975,6 +18001,7 @@ https://en.wikipedia.org/wiki/Orthogonal_(series)
 https://en.wikipedia.org/wiki/Orthographic_depth
 https://en.wikipedia.org/wiki/Orthonormal_basis
 https://en.wikipedia.org/wiki/OSADL
+https://en.wikipedia.org/wiki/Osamu_Tezuka
 https://en.wikipedia.org/wiki/Osborne_1
 https://en.wikipedia.org/wiki/Oscar_Zariski
 https://en.wikipedia.org/wiki/Oscillation
@@ -18618,6 +18645,8 @@ https://en.wikipedia.org/wiki/Plumber_(program)
 https://en.wikipedia.org/wiki/Pluralism_in_economics
 https://en.wikipedia.org/wiki/Plurality_voting
 https://en.wikipedia.org/wiki/Plus_Magazine
+https://en.wikipedia.org/wiki/Pluto_(TV_series)
+https://en.wikipedia.org/wiki/Pluto:_Urasawa_x_Tezuka
 https://en.wikipedia.org/wiki/PMAC_(cryptography)
 https://en.wikipedia.org/wiki/P-matrix
 https://en.wikipedia.org/wiki/PMOS_logic
@@ -18945,6 +18974,7 @@ https://en.wikipedia.org/wiki/Prion
 https://en.wikipedia.org/wiki/Priority_inversion
 https://en.wikipedia.org/wiki/Priority_queue
 https://en.wikipedia.org/wiki/Prior_probability
+https://en.wikipedia.org/wiki/Prison_of_Desire
 https://en.wikipedia.org/wiki/Privacy
 https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail
 https://en.wikipedia.org/wiki/Privacy_for_research_participants
@@ -19630,6 +19660,7 @@ https://en.wikipedia.org/wiki/Religion_in_Tibet
 https://en.wikipedia.org/wiki/Religions_of_the_ancient_Near_East
 https://en.wikipedia.org/wiki/Religious_terrorism
 https://en.wikipedia.org/wiki/Relying_party
+https://en.wikipedia.org/wiki/Remagine
 https://en.wikipedia.org/wiki/Remarkable_(tablet)
 https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past
 https://en.wikipedia.org/wiki/Remez_algorithm
@@ -19880,6 +19911,7 @@ https://en.wikipedia.org/wiki/Roboto
 https://en.wikipedia.org/wiki/Robot_Operating_System
 https://en.wikipedia.org/wiki/Robots_and_Empire
 https://en.wikipedia.org/wiki/Robot_series
+https://en.wikipedia.org/wiki/Robots.txt
 https://en.wikipedia.org/wiki/Rob_Pike
 https://en.wikipedia.org/wiki/Robust_decision-making
 https://en.wikipedia.org/wiki/Robust_geometric_computation
@@ -19894,6 +19926,7 @@ https://en.wikipedia.org/wiki/Rockchip
 https://en.wikipedia.org/wiki/Rock_cycle
 https://en.wikipedia.org/wiki/Rocket_(web_framework)
 https://en.wikipedia.org/wiki/Rock_music
+https://en.wikipedia.org/wiki/Rock_opera
 https://en.wikipedia.org/wiki/Rocks_Cluster_Distribution
 https://en.wikipedia.org/wiki/Rocky_Linux
 https://en.wikipedia.org/wiki/Rocky_Mountains
@@ -20155,6 +20188,7 @@ https://en.wikipedia.org/wiki/Santa_Fe_Institute
 https://en.wikipedia.org/wiki/SAP
 https://en.wikipedia.org/wiki/SAP_HANA
 https://en.wikipedia.org/wiki/Sapienza_University_of_Rome
+https://en.wikipedia.org/wiki/Saracen
 https://en.wikipedia.org/wiki/Saraswati
 https://en.wikipedia.org/wiki/Sarin
 https://en.wikipedia.org/wiki/SAS_Institute
@@ -20351,6 +20385,7 @@ https://en.wikipedia.org/wiki/Security_protocol
 https://en.wikipedia.org/wiki/Security_studies
 https://en.wikipedia.org/wiki/Security_Support_Provider_Interface
 https://en.wikipedia.org/wiki/Security_token_service
+https://en.wikipedia.org/wiki/Security.txt
 https://en.wikipedia.org/wiki/Security_type_system
 https://en.wikipedia.org/wiki/Sed
 https://en.wikipedia.org/wiki/Seed7
@@ -20536,6 +20571,7 @@ https://en.wikipedia.org/wiki/Shared_Source_Initiative
 https://en.wikipedia.org/wiki/Shared_Variables
 https://en.wikipedia.org/wiki/Sharing_economy
 https://en.wikipedia.org/wiki/SHARK
+https://en.wikipedia.org/wiki/Sharon_den_Adel
 https://en.wikipedia.org/wiki/Sharp_MZ
 https://en.wikipedia.org/wiki/Shaul_Foguel
 https://en.wikipedia.org/wiki/SheepShaver
@@ -21937,6 +21973,7 @@ https://en.wikipedia.org/wiki/The_Faerie_Queene
 https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics
 https://en.wikipedia.org/wiki/The_Final_Countdown_(film)
 https://en.wikipedia.org/wiki/The_Final_Cut_(TV_serial)
+https://en.wikipedia.org/wiki/The_Final_Experiment
 https://en.wikipedia.org/wiki/The_Fletcher_Forum_of_World_Affairs
 https://en.wikipedia.org/wiki/The_Fletcher_School_at_Tufts_University
 https://en.wikipedia.org/wiki/The_Fog_of_War
@@ -22175,6 +22212,7 @@ https://en.wikipedia.org/wiki/Thor_(video_codec)
 https://en.wikipedia.org/wiki/Thoth
 https://en.wikipedia.org/wiki/Thousand_Character_Classic
 https://en.wikipedia.org/wiki/Thrall
+https://en.wikipedia.org/wiki/Thrash_metal
 https://en.wikipedia.org/wiki/Thread_(computing)
 https://en.wikipedia.org/wiki/Threaded_code
 https://en.wikipedia.org/wiki/Threading_Building_Blocks
@@ -24487,6 +24525,7 @@ https://github.com/100/Solid
 https://github.com/13xforever/x86_64-assembly-vscode
 https://github.com/386bsd/386bsd
 https://github.com/389ds/389-ds-base
+https://github.com/3dcitydb/3dcitydb
 https://github.com/9fans/plan9port
 https://github.com/aalhour/awesome-compilers
 https://github.com/aaronpk
@@ -24747,6 +24786,7 @@ https://github.com/cdesjardins/libedit
 https://github.com/cdglabs/prolog-viz
 https://github.com/ceres-solver/ceres-solver
 https://github.com/Cervest/legere-coetus-chartam
+https://github.com/CesiumGS/cesium
 https://github.com/CGAL/cgal
 https://github.com/cgamboasanabria
 https://github.com/cgamboasanabria/popstudy
@@ -24924,6 +24964,7 @@ https://github.com/dmlc/dgl
 https://github.com/dmlc/xgboost
 https://github.com/doctest/doctest
 https://github.com/doctoolchain/doctoolchain
+https://github.com/donmccurdy/glTF-Transform
 https://github.com/donnemartin/system-design-primer
 https://github.com/dotnet
 https://github.com/dotnet-architecture/eBooks
@@ -25917,6 +25958,7 @@ https://github.com/ohmjs/ohm
 https://github.com/ohmyzsh/ohmyzsh
 https://github.com/ohmyzsh/ohmyzsh/
 https://github.com/oilshell/oil/wiki/Alternative-Shells
+https://github.com/OloOcki/awesome-citygml
 https://github.com/omeka/Omeka
 https://github.com/omnetpp/omnetpp
 https://github.com/omnigres/omnigres
@@ -25989,6 +26031,7 @@ https://github.com/OSGeo/OSGeoLive
 https://github.com/OSGeo/PROJ
 https://github.com/osmandapp/OsmAnd
 https://github.com/osmandapp/OsmAnd-iOS
+https://github.com/OSMBuildings/OSMBuildings
 https://github.com/osqp/osqp
 https://github.com/osquery/osquery
 https://github.com/ossrs/srs
@@ -27061,6 +27104,7 @@ https://glossary.informs.org/ver2/mpgwiki/index.php?title=Main_Page
 https://glossary.informs.org/ver2/mpgwiki/index.php?title=Min-conflicts_heuristic&1=Heuristic_search
 https://glottolog.org/
 https://glowing-bear.org/
+https://gltf-transform.dev/
 https://glue.tidyverse.org/
 https://gmd.copernicus.org/articles/10/3425/2017/
 https://gmplib.org/
@@ -32328,6 +32372,7 @@ https://osf.io/preprints/psyarxiv/293kt/
 https://osf.io/preprints/socarxiv/d5wqy/
 https://os.gnome.org/
 https://osmand.net/
+https://osmbuildings.org/
 https://osmc.tv/
 https://osmfoundation.org/
 https://osmit.it/
@@ -33955,6 +34000,7 @@ https://salsa.debian.org/fonts-team/fonts-cascadia-code
 https://samplics-org.github.io/samplics/
 https://samwho.dev/hashing/
 https://samwho.dev/numbers/
+https://sandcastle.cesium.com/
 https://sapientia.ualg.pt/bitstream/10400.1/15378/1/Preprint.pdf
 https://sarabander.github.io/sicp/
 https://sarabander.github.io/sicp/html/index.xhtml
@@ -34130,6 +34176,7 @@ https://securityscorecards.dev/
 https://security-tracker.debian.org/tracker/
 https://security-tracker.debian.org/tracker/CVE-2024-3094
 https://security-tracker.debian.org/tracker/status/release/stable
+https://securitytxt.org/
 https://sedgewick.io/
 https://sedona.apache.org/latest/
 https://seedsecuritylabs.org/Labs_20.04/Networking/
@@ -35560,6 +35607,7 @@ https://vanillaos.org/
 https://varnish-cache.org/
 https://vcl.apache.org/
 https://vcpkg.io/en/
+https://vc.systems/
 https://vctrs.r-lib.org/
 https://vectorinstitute.ai/
 https://vectorinstitute.ai/research/
@@ -35956,6 +36004,7 @@ https://www2.math.upenn.edu/~wilf/website/CombAlgDownld.html
 https://www2.telegeography.com/
 https://www3.cs.stonybrook.edu/~has/
 https://www3.cs.stonybrook.edu/~skiena/quant-shop/
+https://www.3dcitydb.org/3dcitydb/
 https://www3.nhk.or.jp/nhkworld/
 https://www3.risc.jku.at/education/courses/ss2014/ComputerAnalysis/
 https://www3.risc.jku.at/education/courses/ss2021/ComputerAnalysis/
@@ -36288,6 +36337,7 @@ https://www.arviz.org/en/latest/
 https://www.arxiv-vanity.com/
 https://www.asahi.com/ajw/
 https://www.ascii-codes.com/
+https://www.asg.ed.tum.de/gis/startseite/
 https://www.asg.ed.tum.de/lrt/startseite/
 https://www.asimovinstitute.org/
 https://www.asimovinstitute.org/neural-network-zoo/
@@ -37636,6 +37686,7 @@ https://www.datawrapper.de/
 https://www.datopian.com/
 https://www.davidhbailey.com/
 https://www.davidhbailey.com/dhbsoftware/
+https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess
 https://www.db2tutorial.com/
 https://www.db-book.com/
 https://www.dbos.dev/
@@ -40321,6 +40372,7 @@ https://www.morganmarzo.com/writing/2019/11/12/pagoda-construction-in-earthquake
 https://www.mortality.org/
 https://www.mosaic-web.org/
 https://www.mosek.com/
+https://www.moss.de/
 https://www.motherjones.com/
 https://www.mouser.com/
 https://www.mouser.com/c/embedded-solutions/engineering-tools/embedded-processor-development-kits/development-boards-kits-other-processors/?core=RISC-V
@@ -40803,6 +40855,7 @@ https://www.oecd.org/pisa/OECD_2022_PISA_Results_Comparing%20countries%E2%80%99%
 https://www.offsec.com/
 https://www.oftc.net/
 https://www.ogc.org/
+https://www.ogc.org/publications/standard/citygml/
 https://www.ogc.org/standard/sfa/
 https://www.ogc.org/standard/wkt-crs/
 https://www.ohse.de/
