@@ -5369,6 +5369,8 @@ https://en.ilmatieteenlaitos.fi/
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
+https://entwickler.de/
+https://entwickler.de/jaxenter/
 https://environmenthalfcentury.princeton.edu/experts/syukuro-suki-manabe
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
 https://en.wikibooks.org/wiki/Type-oriented_programming
@@ -34095,6 +34097,7 @@ https://scientific-python.org/
 https://sci-hub.ru/
 https://sci-hub.se/
 https://sci-hub.st/
+https://scijava.org/
 https://scikit-image.org/
 https://scikit-image.org/docs/stable/api/skimage.data.html
 https://scikit-learn.org/stable/
@@ -38182,6 +38185,7 @@ https://www.euro-online.org/web/pages/1/home
 https://www.europapress.es/
 https://www.europarl.europa.eu/portal/en
 https://www.euroscience.org/
+https://www.eurotopics.net/
 https://www.evidentlyai.com/
 https://www.evidentlyai.com/ml-system-design
 https://www.exein.io/
