@@ -1097,6 +1097,7 @@ https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/2406.09414
 https://arxiv.org/abs/2406.18591
+https://arxiv.org/abs/2407.06464
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
@@ -5600,7 +5601,10 @@ https://en.wikipedia.org/wiki/Adaptive_chosen-ciphertext_attack
 https://en.wikipedia.org/wiki/Adaptive_design_(medicine)
 https://en.wikipedia.org/wiki/Adaptive_Modeler
 https://en.wikipedia.org/wiki/Adaptive_neuro_fuzzy_inference_system
+https://en.wikipedia.org/wiki/Adaptive_quadrature
 https://en.wikipedia.org/wiki/Adaptive_resonance_theory
+https://en.wikipedia.org/wiki/Adaptive_Simpson%27s_method
+https://en.wikipedia.org/wiki/Adaptive_step_size
 https://en.wikipedia.org/wiki/Adder_(electronics)
 https://en.wikipedia.org/wiki/Addition_chain
 https://en.wikipedia.org/wiki/Additive_basis
@@ -6413,6 +6417,7 @@ https://en.wikipedia.org/wiki/Assay
 https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/Assembly_(Theatre_of_Tragedy_album)
 https://en.wikipedia.org/wiki/Assignment_problem
+https://en.wikipedia.org/wiki/Associated_Legendre_polynomials
 https://en.wikipedia.org/wiki/Associated_Press
 https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics
 https://en.wikipedia.org/wiki/Association_for_Computing_Machinery
@@ -12020,8 +12025,10 @@ https://en.wikipedia.org/wiki/Gaston_Gonnet
 https://en.wikipedia.org/wiki/Gated_recurrent_unit
 https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)
 https://en.wikipedia.org/wiki/Gauss%27s_law
+https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_method
+https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_quadrature
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_theorem
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method
@@ -12031,6 +12038,7 @@ https://en.wikipedia.org/wiki/Gaussian_grid
 https://en.wikipedia.org/wiki/Gaussian_integral
 https://en.wikipedia.org/wiki/Gaussian_process
 https://en.wikipedia.org/wiki/Gaussian_process_approximations
+https://en.wikipedia.org/wiki/Gaussian_quadrature
 https://en.wikipedia.org/wiki/Gaussian_units
 https://en.wikipedia.org/wiki/Gauss_map
 https://en.wikipedia.org/wiki/Gay-Lussac%27s_law
@@ -17578,6 +17586,7 @@ https://en.wikipedia.org/wiki/Number_needed_to_treat
 https://en.wikipedia.org/wiki/Number_theory
 https://en.wikipedia.org/wiki/Number_Theory_Library
 https://en.wikipedia.org/wiki/Numerical_analysis
+https://en.wikipedia.org/wiki/Numerical_differentiation
 https://en.wikipedia.org/wiki/Numerical_integration
 https://en.wikipedia.org/wiki/Numerical_linear_algebra
 https://en.wikipedia.org/wiki/Numerically_controlled_oscillator
@@ -25206,6 +25215,8 @@ https://github.com/geocompx/geocompr
 https://github.com/geocompx/geocompy
 https://github.com/geoext/geoext
 https://github.com/geogebra/geogebra
+https://github.com/geogebra/geogebra/blob/eb5ad18de6e0bfb315731b684a1873ca3a30420c/common/src/main/java/org/geogebra/common/kernel/cas/AlgoIntegralDefinite.java#L354
+https://github.com/geogebra/geogebra/blob/eb5ad18de6e0bfb315731b684a1873ca3a30420c/common/src/main/java/org/geogebra/common/kernel/cas/AlgoIntegralDefinite.java#L895
 https://github.com/geographiclib/geographiclib
 https://github.com/geonetwork/core-geonetwork
 https://github.com/GeoNode/geonode/
@@ -26218,6 +26229,7 @@ https://github.com/quotient-im/Quaternion
 https://github.com/quozd/awesome-dotnet
 https://github.com/R0GGER/public-iperf3-servers
 https://github.com/radeonopencompute/rocm
+https://github.com/rafaelpezzuto/multi-sensor-data-collection
 https://github.com/RaftLib/RaftLib
 https://github.com/RaghuHemadri/Multi-Agent-Reinforcement-Learning-Survey-Papers
 https://github.com/rails/rails
@@ -31260,6 +31272,7 @@ https://mathworld.wolfram.com/FrobeniusMethod.html
 https://mathworld.wolfram.com/HeavisideStepFunction.html
 https://mathworld.wolfram.com/IntegralEquation.html
 https://mathworld.wolfram.com/LatinSquare.html
+https://mathworld.wolfram.com/Legendre-GaussQuadrature.html
 https://mathworld.wolfram.com/LogarithmicIntegral.html
 https://mathworld.wolfram.com/LorenzAttractor.html
 https://mathworld.wolfram.com/Lotka-VolterraEquations.html
@@ -34383,6 +34396,7 @@ https://sites.research.google/trc/about/
 https://sites.research.google/weatherbench/
 https://sites.santafe.edu/~wbarthur/complexityeconomics.htm
 https://sites.stat.washington.edu/mmp/courses/535/fall22/resources.html
+https://sites.usp.br/sideseeing/
 https://sites.utexas.edu/sos/methods/
 https://sjgiorgi.github.io/
 https://skerritt.blog/
