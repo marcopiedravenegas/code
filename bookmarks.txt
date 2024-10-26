@@ -24128,6 +24128,7 @@ https://extensions.gnome.org/
 https://extract.me/
 https://ex-vi.sourceforge.net/
 https://eztvx.to/
+https://f3d.app/
 https://f4pga.org/
 https://fa23.cs161.org/
 https://fa.bianp.net/
@@ -24689,6 +24690,7 @@ https://github.com/asl/svd
 https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 https://github.com/aspnet/AspNetWebStack
 https://github.com/aspnetboilerplate/aspnetboilerplate
+https://github.com/assimp/assimp
 https://github.com/astropy/astropy
 https://github.com/atari800/atari800
 https://github.com/atheme/libmowgli-2
@@ -24816,6 +24818,7 @@ https://github.com/cdglabs/prolog-viz
 https://github.com/ceres-solver/ceres-solver
 https://github.com/Cervest/legere-coetus-chartam
 https://github.com/CesiumGS/cesium
+https://github.com/CesiumGS/gltf-pipeline
 https://github.com/CGAL/cgal
 https://github.com/cgamboasanabria
 https://github.com/cgamboasanabria/popstudy
@@ -25112,6 +25115,7 @@ https://github.com/expipiplus1/vector-sized
 https://github.com/explosion/ml-datasets
 https://github.com/explosion/spaCy
 https://github.com/extremecoders-re/re-list
+https://github.com/f3d-app/f3d
 https://github.com/fabacab/awesome-cybersecurity-blueteam
 https://github.com/fabionoth/awesome-cyber-security
 https://github.com/fabio-sim/Depth-Anything-ONNX
@@ -25280,6 +25284,7 @@ https://github.com/google-deepmind/graphcast
 https://github.com/google-deepmind/mathematics_dataset
 https://github.com/google-deepmind/meltingpot
 https://github.com/google-deepmind/open_spiel
+https://github.com/google/filament
 https://github.com/google/flatbuffers
 https://github.com/google/flax
 https://github.com/google/fully-homomorphic-encryption
@@ -25294,6 +25299,7 @@ https://github.com/google/leveldb
 https://github.com/google/lineax
 https://github.com/google/magika
 https://github.com/google/minimalloc
+https://github.com/google/model-viewer
 https://github.com/google/network-opt
 https://github.com/google/OpenSK
 https://github.com/google/or-tools
@@ -26141,10 +26147,12 @@ https://github.com/plasma-umass/scalene
 https://github.com/platformio/platformio-core
 https://github.com/platformio/platformio-examples
 https://github.com/platformio/platformio-vscode-ide
+https://github.com/playcanvas/engine
 https://github.com/plk/biber
 https://github.com/plk/biblatex
 https://github.com/plotly/plotly.py
 https://github.com/pluja/awesome-privacy
+https://github.com/pmndrs/gltfjsx
 https://github.com/pocoproject/poco
 https://github.com/podofo/podofo
 https://github.com/pola-rs/polars/
@@ -26771,6 +26779,7 @@ https://github.com/topics/discrete-diffusion
 https://github.com/topics/distributed-systems
 https://github.com/topics/emacs
 https://github.com/topics/geometric-deep-learning
+https://github.com/topics/gltf
 https://github.com/topics/graph-neural-networks
 https://github.com/topics/hacking
 https://github.com/topics/header-only
@@ -26922,6 +26931,7 @@ https://github.com/xoreaxeaxeax/movfuscator
 https://github.com/xorpd
 https://github.com/xorvoid/sectorc
 https://github.com/xournalpp/xournalpp
+https://github.com/Xpra-org/xpra/
 https://github.com/xunit/xunit
 https://github.com/yarnpkg/berry
 https://github.com/ycm-core/YouCompleteMe
@@ -27193,6 +27203,7 @@ https://google.github.io/comprehensive-rust/android.html
 https://google.github.io/comprehensive-rust/bare-metal.html
 https://google.github.io/comprehensive-rust/chromium.html
 https://google.github.io/comprehensive-rust/concurrency.html
+https://google.github.io/filament/
 https://google.github.io/googletest/
 https://google.github.io/magika/
 https://google.github.io/seq2seq/
@@ -28802,6 +28813,7 @@ https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection
 https://learn.microsoft.com/en-us/dotnet/core/extensions/generic-host?source=recommendations
 https://learn.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line
 https://learn.microsoft.com/en-us/dotnet/core/extensions/workers?pivots=dotnet-7-0
+https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian
 https://learn.microsoft.com/en-us/dotnet/core/introduction
 https://learn.microsoft.com/en-us/dotnet/core/testing/
 https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices
@@ -28904,6 +28916,7 @@ https://learn.microsoft.com/en-us/graph/overview
 https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture
 https://learn.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10-version-1709/new-features-introduced-in-iis-10-1709
 https://learn.microsoft.com/en-us/linux/
+https://learn.microsoft.com/en-us/linux/packages
 https://learn.microsoft.com/en-us/microsoft-365/compliance/?view=o365-worldwide
 https://learn.microsoft.com/en-us/nuget/create-packages/sign-a-package
 https://learn.microsoft.com/en-us/openapi/
@@ -31560,6 +31573,7 @@ https://modeldb.tidymodels.org/
 https://modelica.org/
 https://modelingcommons.org/
 https://modelr.tidyverse.org/
+https://modelviewer.dev/
 https://moderncrypto.org/
 https://moderncrypto.org/mailman/listinfo/curves
 https://moderncrypto.org/mailman/listinfo/messaging
@@ -32485,6 +32499,7 @@ https://packages.debian.org/bookworm/basez
 https://packages.debian.org/bookworm/cppreference-doc-en-html
 https://packages.debian.org/bookworm/dataset-fashion-mnist
 https://packages.debian.org/bookworm/devel/
+https://packages.debian.org/bookworm/extrepo
 https://packages.debian.org/bookworm/fonts-atarismall
 https://packages.debian.org/bookworm/fonts-spleen
 https://packages.debian.org/bookworm/fwupd
@@ -32997,6 +33012,7 @@ https://plato.stanford.edu/entries/simulations-science/
 https://plato.stanford.edu/entries/statistics/
 https://plato.stanford.edu/entries/turing-machine/
 https://play0ad.com/
+https://playcanvas.com/
 https://playclassic.games/
 https://playclassic.games/games/first-person-shooter-dos-games-online/play-descent-ii-online/
 https://playclassic.games/games/first-person-shooter-dos-games-online/play-descent-online/
@@ -34032,6 +34048,8 @@ https://saga-gis.sourceforge.io/en/index.html
 https://sahovski.com/
 https://sail.software/
 https://salsa.debian.org
+https://salsa.debian.org/extrepo-team/extrepo
+https://salsa.debian.org/extrepo-team/extrepo-data
 https://salsa.debian.org/fonts-team/fonts-cascadia-code
 https://samplics-org.github.io/samplics/
 https://samwho.dev/hashing/
@@ -35821,6 +35839,8 @@ https://wiki.debian.org/
 https://wiki.debian.org/CommonLisp
 https://wiki.debian.org/DebianBookworm
 https://wiki.debian.org/DebianNetDomains
+https://wiki.debian.org/DebianRepository
+https://wiki.debian.org/DebianRepository/Unofficial
 https://wiki.debian.org/DebianScience
 https://wiki.debian.org/DebianScience/Biology
 https://wiki.debian.org/DebianScience/Chemistry
@@ -35919,6 +35939,7 @@ https://wiki.osdev.org/Rust_Bare_Bones
 https://wiki.osgeo.org/wiki/Main_Page
 https://wiki.owasp.org/index.php/Category:OWASP_Cookies_Database
 https://wiki.portal.chalmers.se/agda/pmwiki.php
+https://wiki.postgresql.org/wiki/Apt
 https://wiki.postgresql.org/wiki/HTTP_API
 https://wiki.postmarketos.org/wiki/Device_Tree_(dtb)
 https://wiki.postmarketos.org/wiki/Main_Page
@@ -36386,6 +36407,7 @@ https://www.asist.org/
 https://www.asme.org/
 https://www.aspi.org.au/report/critical-technology-tracker
 https://www.aspistrategist.org.au/
+https://www.assimp.org/
 https://www.astronomy.com/
 https://www.astronomynotes.com/
 https://www.astropy.org/
@@ -36494,6 +36516,7 @@ https://www.benevolent.com/
 https://www.benfrederickson.com/blog/
 https://www.bennyapplebaum.sites.tau.ac.il/
 https://www.benryves.com/products/bbcbasic/
+https://www.bentley.com/
 https://www.berkeley.edu/
 https://www.berlin.de/
 https://www.bernoullisociety.org/
@@ -39006,6 +39029,7 @@ https://www.goodreads.com/shelf/show/security
 https://www.goodreads.com/shelf/show/statistics
 https://www.google.com/chrome/
 https://www.google.com/chromebook/
+https://www.google.com/linuxrepositories/
 https://www.gopass.pw/
 https://www.gophernicus.org/
 https://www.gopl.io/
