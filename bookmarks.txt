@@ -834,6 +834,7 @@ https://arxiv.org/abs/1704.02906
 https://arxiv.org/abs/1705.09406
 https://arxiv.org/abs/1706.02216
 https://arxiv.org/abs/1706.03762
+https://arxiv.org/abs/1706.05125
 https://arxiv.org/abs/1706.10009
 https://arxiv.org/abs/1707.06347
 https://arxiv.org/abs/1707.07435
@@ -850,6 +851,7 @@ https://arxiv.org/abs/1712.08500
 https://arxiv.org/abs/1801.05894
 https://arxiv.org/abs/1801.09847
 https://arxiv.org/abs/1802.01528
+https://arxiv.org/abs/1803.08884
 https://arxiv.org/abs/1804.02973
 https://arxiv.org/abs/1805.04272
 https://arxiv.org/abs/1805.05729
@@ -966,6 +968,7 @@ https://arxiv.org/abs/2109.15102
 https://arxiv.org/abs/2110.02178
 https://arxiv.org/abs/2110.06209
 https://arxiv.org/abs/2110.06804
+https://arxiv.org/abs/2110.11404v1
 https://arxiv.org/abs/2111.10672
 https://arxiv.org/abs/2111.14377
 https://arxiv.org/abs/2112.03460
@@ -6692,6 +6695,7 @@ https://en.wikipedia.org/wiki/Barebone_computer
 https://en.wikipedia.org/wiki/Bareiss_algorithm
 https://en.wikipedia.org/wiki/Bare_machine
 https://en.wikipedia.org/wiki/Bare_machine_computing
+https://en.wikipedia.org/wiki/Bargaining
 https://en.wikipedia.org/wiki/BARK_(computer)
 https://en.wikipedia.org/wiki/Barometer
 https://en.wikipedia.org/wiki/Barometric_formula
@@ -6878,6 +6882,7 @@ https://en.wikipedia.org/wiki/Bessel_function
 https://en.wikipedia.org/wiki/Bessel_polynomials
 https://en.wikipedia.org/wiki/Best-first_search
 https://en.wikipedia.org/wiki/Best_linear_unbiased_prediction
+https://en.wikipedia.org/wiki/Best_response
 https://en.wikipedia.org/wiki/Best,_worst_and_average_case
 https://en.wikipedia.org/wiki/Beta_decay
 https://en.wikipedia.org/wiki/Beta_function
@@ -8663,6 +8668,7 @@ https://en.wikipedia.org/wiki/Chinese_information_operations_and_information_war
 https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad
 https://en.wikipedia.org/wiki/Chinese_mythology
 https://en.wikipedia.org/wiki/Chinese_National_Vulnerability_Database
+https://en.wikipedia.org/wiki/Chinese_postman_problem
 https://en.wikipedia.org/wiki/Chinese_remainder_theorem
 https://en.wikipedia.org/wiki/Chinese_room
 https://en.wikipedia.org/wiki/Chip%27s_Challenge
@@ -9517,12 +9523,15 @@ https://en.wikipedia.org/wiki/Co-occurrence_matrix
 https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem
 https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm
 https://en.wikipedia.org/wiki/Cooperative
+https://en.wikipedia.org/wiki/Cooperative_bargaining
 https://en.wikipedia.org/wiki/Cooperative_game_theory
 https://en.wikipedia.org/wiki/Cooperative_multitasking
 https://en.wikipedia.org/wiki/Cooper_Union
 https://en.wikipedia.org/wiki/Coopetition
 https://en.wikipedia.org/wiki/Coordinate_descent
 https://en.wikipedia.org/wiki/Coordinating_Committee_for_Multilateral_Export_Controls
+https://en.wikipedia.org/wiki/Coordination_failure_(economics)
+https://en.wikipedia.org/wiki/Coordination_game
 https://en.wikipedia.org/wiki/Coppersmith%27s_attack
 https://en.wikipedia.org/wiki/Coprocessor
 https://en.wikipedia.org/wiki/Copycat_(software)
@@ -11655,6 +11664,7 @@ https://en.wikipedia.org/wiki/Flynn%27s_taxonomy
 https://en.wikipedia.org/wiki/FMRIB_Software_Library
 https://en.wikipedia.org/wiki/Fn_key
 https://en.wikipedia.org/wiki/FNP_(complexity)
+https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 https://en.wikipedia.org/wiki/Fog_computing
 https://en.wikipedia.org/wiki/Foggy_Bottom
 https://en.wikipedia.org/wiki/Fog_robotics
@@ -15007,6 +15017,7 @@ https://en.wikipedia.org/wiki/Leviathan_III
 https://en.wikipedia.org/wiki/Leviathan_(Therion_album)
 https://en.wikipedia.org/wiki/Lev_Pontryagin
 https://en.wikipedia.org/wiki/Lewisite
+https://en.wikipedia.org/wiki/Lewis_signaling_game
 https://en.wikipedia.org/wiki/Lexical_analysis
 https://en.wikipedia.org/wiki/Lexis_diagram
 https://en.wikipedia.org/wiki/Ley_(landform)
@@ -19708,6 +19719,7 @@ https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 https://en.wikipedia.org/wiki/Ren%C3%A9_Maurice_Fr%C3%A9chet
 https://en.wikipedia.org/wiki/Render_farm
 https://en.wikipedia.org/wiki/Rendering_equation
+https://en.wikipedia.org/wiki/Rendezvous_problem
 https://en.wikipedia.org/wiki/Renesas_Electronics
 https://en.wikipedia.org/wiki/Renewal_theory
 https://en.wikipedia.org/wiki/Renju
@@ -20355,6 +20367,7 @@ https://en.wikipedia.org/wiki/Search_engine
 https://en.wikipedia.org/wiki/Search_engine_indexing
 https://en.wikipedia.org/wiki/Search_engine_optimization
 https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence
+https://en.wikipedia.org/wiki/Search_game
 https://en.wikipedia.org/wiki/Search_problem
 https://en.wikipedia.org/wiki/Seasonal_adjustment
 https://en.wikipedia.org/wiki/Seasonality
@@ -20502,6 +20515,7 @@ https://en.wikipedia.org/wiki/Sequence_analysis
 https://en.wikipedia.org/wiki/Sequence_database
 https://en.wikipedia.org/wiki/Sequence_space
 https://en.wikipedia.org/wiki/Sequential_analysis
+https://en.wikipedia.org/wiki/Sequential_bargaining
 https://en.wikipedia.org/wiki/Sequential_decision_making
 https://en.wikipedia.org/wiki/Sequential_estimation
 https://en.wikipedia.org/wiki/Sequential_game
@@ -20669,6 +20683,7 @@ https://en.wikipedia.org/wiki/Sigmoid_function
 https://en.wikipedia.org/wiki/Sigmund
 https://en.wikipedia.org/wiki/Signal
 https://en.wikipedia.org/wiki/Signal_Foundation
+https://en.wikipedia.org/wiki/Signaling_game
 https://en.wikipedia.org/wiki/Signal_Intelligence_Service
 https://en.wikipedia.org/wiki/Signal_processing
 https://en.wikipedia.org/wiki/Signal_Protocol
@@ -21365,6 +21380,7 @@ https://en.wikipedia.org/wiki/Stephen_Stigler
 https://en.wikipedia.org/wiki/Step_response
 https://en.wikipedia.org/wiki/Stereochemistry
 https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
+https://en.wikipedia.org/wiki/Steve_Alpern
 https://en.wikipedia.org/wiki/Steven_G._Krantz
 https://en.wikipedia.org/wiki/Steven_Levy
 https://en.wikipedia.org/wiki/Steven_M._Bellovin
@@ -21545,6 +21561,7 @@ https://en.wikipedia.org/wiki/Sunni_Islam
 https://en.wikipedia.org/wiki/SunOS
 https://en.wikipedia.org/wiki/Sun_RPC
 https://en.wikipedia.org/wiki/Sunspot
+https://en.wikipedia.org/wiki/Sunspots_(economics)
 https://en.wikipedia.org/wiki/Sun-synchronous_orbit
 https://en.wikipedia.org/wiki/Sunway_(processor)
 https://en.wikipedia.org/wiki/Sunway_SW26010
@@ -27700,6 +27717,8 @@ https://huggingface.co/google/tapas-base-finetuned-wtq
 https://huggingface.co/google/vit-base-patch16-224
 https://huggingface.co/gpt2
 https://huggingface.co/huggingface
+https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome
+https://huggingface.co/learn/deep-rl-course/en/unit7/introduction-to-marl
 https://huggingface.co/learn/deep-rl-course/unit0/introduction
 https://huggingface.co/learn/deep-rl-course/unit7/introduction-to-marl
 https://huggingface.co/microsoft/Orca-2-13b
@@ -29222,6 +29241,7 @@ https://library.lol/main/4E9B320289F43FAC625FFDA649915458
 https://library.lol/main/4ED724E9930877F3F2A877D84B865B1B
 https://library.lol/main/4FBDD2B89E2C89AA47F4362F99DB9664
 https://library.lol/main/4FC478E0FDD568D4D21A493712E6FEA7
+https://library.lol/main/50789D6F84ACA9A0789508011A9884B1
 https://library.lol/main/507C03FAE37ED350DE84452C846CE74B
 https://library.lol/main/50C9C4815ED3679A10447835C26D9468
 https://library.lol/main/515ABD1570C511956502384ACFBCEEEF
