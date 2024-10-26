@@ -25297,9 +25297,11 @@ https://github.com/google-deepmind/acme
 https://github.com/google-deepmind/alphafold
 https://github.com/google-deepmind/clrs
 https://github.com/google-deepmind/deepmind-research
+https://github.com/google-deepmind/dm_control
 https://github.com/google-deepmind/graphcast
 https://github.com/google-deepmind/mathematics_dataset
 https://github.com/google-deepmind/meltingpot
+https://github.com/google-deepmind/mujoco
 https://github.com/google-deepmind/open_spiel
 https://github.com/google/filament
 https://github.com/google/flatbuffers
@@ -26236,6 +26238,8 @@ https://github.com/pytorch
 https://github.com/pytorch/examples
 https://github.com/pytorch/pytorch
 https://github.com/pytorch/rl
+https://github.com/pytorch/serve
+https://github.com/pytorch/torchrec
 https://github.com/pytorch/vision
 https://github.com/q2a/question2answer
 https://github.com/qazbnm456/awesome-web-security
@@ -31661,6 +31665,7 @@ https://mth.st/blog/riscv-qemu/
 https://mtlreviewofbooks.ca/
 https://muc.ccc.de/
 https://muen.sk/
+https://mujoco.org/
 https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
 https://mullvad.net/en
 https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/
@@ -33501,6 +33506,7 @@ https://pytorch-geometric.readthedocs.io/en/stable/
 https://pytorch-geometric.readthedocs.io/en/stable/get_started/introduction.html
 https://pytorch.org/
 https://pytorch.org/audio/stable/index.html
+https://pytorch.org/data/beta/index.html
 https://pytorch.org/docs/master/autograd.html
 https://pytorch.org/docs/stable/autograd.html
 https://pytorch.org/docs/stable/notes/autograd.html
@@ -33508,6 +33514,12 @@ https://pytorch.org/ecosystem/
 https://pytorch.org/hub/
 https://pytorch.org/rl/stable/index.html
 https://pytorch.org/rl/stable/tutorials/multiagent_ppo.html
+https://pytorch.org/serve/
+https://pytorch.org/tensordict/stable/index.html
+https://pytorch.org/text/stable/index.html
+https://pytorch.org/torcharrow/beta/index.html
+https://pytorch.org/torchrec/
+https://pytorch.org/torchtune/stable/index.html
 https://pytorch.org/tutorials/
 https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
@@ -33518,6 +33530,7 @@ https://pytorch.org/vision/stable/models.html
 https://pytorch.org/vision/stable/models/resnet.html
 https://pytorch.org/vision/stable/models/resnext.html
 https://pytorch.org/vision/stable/models/vision_transformer.html
+https://pytorch.org/xla/release/2.1/index.html
 https://pywps.org/
 https://pyxml.sourceforge.net/topics/xbel/
 https://qalculate.github.io/
