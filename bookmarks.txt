@@ -6882,6 +6882,7 @@ https://en.wikipedia.org/wiki/Bernstein%27s_theorem_(polynomials)
 https://en.wikipedia.org/wiki/Bernstein_polynomial
 https://en.wikipedia.org/wiki/BERT_(language_model)
 https://en.wikipedia.org/wiki/Bertrand%27s_postulate
+https://en.wikipedia.org/wiki/Bertrand_competition
 https://en.wikipedia.org/wiki/Bertrand_Meyer
 https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)
 https://en.wikipedia.org/wiki/Bertrand_Russell
@@ -7520,6 +7521,7 @@ https://en.wikipedia.org/wiki/Card_game
 https://en.wikipedia.org/wiki/Cardinal_Richelieu
 https://en.wikipedia.org/wiki/Carleson%27s_theorem
 https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss
+https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi
 https://en.wikipedia.org/wiki/Carl_Hewitt
 https://en.wikipedia.org/wiki/Carl_Jung
 https://en.wikipedia.org/wiki/Carl_Pomerance
@@ -9615,6 +9617,7 @@ https://en.wikipedia.org/wiki/Courage_the_Cowardly_Dog
 https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition
 https://en.wikipedia.org/wiki/Courant_Institute_of_Mathematical_Sciences
 https://en.wikipedia.org/wiki/Courcelle%27s_theorem
+https://en.wikipedia.org/wiki/Cournot_competition
 https://en.wikipedia.org/wiki/Courrier_International
 https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics
 https://en.wikipedia.org/wiki/Cours-la-Reine
@@ -10030,6 +10033,7 @@ https://en.wikipedia.org/wiki/David_Cox_(statistician)
 https://en.wikipedia.org/wiki/David_Duchovny
 https://en.wikipedia.org/wiki/David_Edward_Hughes
 https://en.wikipedia.org/wiki/David_E._Goldberg
+https://en.wikipedia.org/wiki/David_Gale
 https://en.wikipedia.org/wiki/David_George_Kendall
 https://en.wikipedia.org/wiki/David_H._Ahl
 https://en.wikipedia.org/wiki/David_Halliday_(physicist)
@@ -12017,6 +12021,7 @@ https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp
 https://en.wikipedia.org/wiki/Game_semantics
 https://en.wikipedia.org/wiki/Games_played_with_Go_equipment
 https://en.wikipedia.org/wiki/Game_theory
+https://en.wikipedia.org/wiki/Game_without_a_value
 https://en.wikipedia.org/wiki/Gamification
 https://en.wikipedia.org/wiki/Gamma_distribution
 https://en.wikipedia.org/wiki/Gamma_function
@@ -12842,6 +12847,7 @@ https://en.wikipedia.org/wiki/HarmonyOS
 https://en.wikipedia.org/wiki/Harold_Davenport
 https://en.wikipedia.org/wiki/Harold_Edwards_(mathematician)
 https://en.wikipedia.org/wiki/Harold_Hotelling
+https://en.wikipedia.org/wiki/Harold_W._Kuhn
 https://en.wikipedia.org/wiki/Harris_affine_region_detector
 https://en.wikipedia.org/wiki/Harris_corner_detector
 https://en.wikipedia.org/wiki/Harry_Dexter_White
@@ -13208,6 +13214,7 @@ https://en.wikipedia.org/wiki/Horror_aequi
 https://en.wikipedia.org/wiki/Horse_latitudes
 https://en.wikipedia.org/wiki/Horst_Feistel
 https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system_comparison
+https://en.wikipedia.org/wiki/Hotelling%27s_law
 https://en.wikipedia.org/wiki/Hotelling%27s_T-squared_distribution
 https://en.wikipedia.org/wiki/Hotspot_Shield
 https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)
@@ -13566,6 +13573,7 @@ https://en.wikipedia.org/wiki/Inductive_reasoning
 https://en.wikipedia.org/wiki/Industrial_complex
 https://en.wikipedia.org/wiki/Industrial_control_system
 https://en.wikipedia.org/wiki/Industrial_metal
+https://en.wikipedia.org/wiki/Industrial_organization
 https://en.wikipedia.org/wiki/Industrial_PC
 https://en.wikipedia.org/wiki/Industrial_policy
 https://en.wikipedia.org/wiki/Industrial_process_control
@@ -13574,6 +13582,7 @@ https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future
 https://en.wikipedia.org/wiki/Industry_Standard_Architecture
 https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
 https://en.wikipedia.org/wiki/Inequality_(mathematics)
+https://en.wikipedia.org/wiki/Inequity_aversion
 https://en.wikipedia.org/wiki/Inertial_measurement_unit
 https://en.wikipedia.org/wiki/Inertial_navigation_system
 https://en.wikipedia.org/wiki/Inertial_reference_unit
@@ -14704,6 +14713,7 @@ https://en.wikipedia.org/wiki/K-sorted_sequence
 https://en.wikipedia.org/wiki/K-SVD
 https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology
 https://en.wikipedia.org/wiki/Kuaishou
+https://en.wikipedia.org/wiki/Kuhn_poker
 https://en.wikipedia.org/wiki/KU_Leuven
 https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 https://en.wikipedia.org/wiki/Kulm_law
@@ -16053,6 +16063,7 @@ https://en.wikipedia.org/wiki/Magnetic_nano
 https://en.wikipedia.org/wiki/Magnetohydrodynamics
 https://en.wikipedia.org/wiki/Magnetometer
 https://en.wikipedia.org/wiki/Magnus_(computer_algebra_system)
+https://en.wikipedia.org/wiki/Magnus_Hestenes
 https://en.wikipedia.org/wiki/Mahabharata
 https://en.wikipedia.org/wiki/Mahalanobis_distance
 https://en.wikipedia.org/wiki/Maharajas%27_Express
@@ -16858,6 +16869,7 @@ https://en.wikipedia.org/wiki/MongoDB
 https://en.wikipedia.org/wiki/Mongoose-V
 https://en.wikipedia.org/wiki/Moni_Naor
 https://en.wikipedia.org/wiki/Monitor_(synchronization)
+https://en.wikipedia.org/wiki/Monopolistic_competition
 https://en.wikipedia.org/wiki/Monopoly
 https://en.wikipedia.org/wiki/Monotone_convergence_theorem
 https://en.wikipedia.org/wiki/Monotone_likelihood_ratio
@@ -17738,6 +17750,7 @@ https://en.wikipedia.org/wiki/Olga_Russakovsky
 https://en.wikipedia.org/wiki/Olga_Tokarczuk
 https://en.wikipedia.org/wiki/Oligonucleotide_synthesis
 https://en.wikipedia.org/wiki/Oligopoly
+https://en.wikipedia.org/wiki/Oligopsony
 https://en.wikipedia.org/wiki/Oliver_Cromwell
 https://en.wikipedia.org/wiki/Oliver_Heaviside
 https://en.wikipedia.org/wiki/Oliver_Lodge
@@ -18110,6 +18123,7 @@ https://en.wikipedia.org/wiki/Outline_of_educational_aims
 https://en.wikipedia.org/wiki/Outline_of_electrical_engineering
 https://en.wikipedia.org/wiki/Outline_of_free_software
 https://en.wikipedia.org/wiki/Outline_of_geometry
+https://en.wikipedia.org/wiki/Outline_of_industrial_organization
 https://en.wikipedia.org/wiki/Outline_of_linear_algebra
 https://en.wikipedia.org/wiki/Outline_of_machine_learning
 https://en.wikipedia.org/wiki/Outline_of_mathematics
@@ -19230,6 +19244,7 @@ https://en.wikipedia.org/wiki/Public_choice
 https://en.wikipedia.org/wiki/Public_domain
 https://en.wikipedia.org/wiki/Public-domain-equivalent_license
 https://en.wikipedia.org/wiki/Public-domain_software
+https://en.wikipedia.org/wiki/Public_goods_game
 https://en.wikipedia.org/wiki/Publicity_Department_of_the_Chinese_Communist_Party
 https://en.wikipedia.org/wiki/Public-key_cryptography
 https://en.wikipedia.org/wiki/Public_key_infrastructure
@@ -22557,6 +22572,7 @@ https://en.wikipedia.org/wiki/Transverse_wave
 https://en.wikipedia.org/wiki/Trapdoor_function
 https://en.wikipedia.org/wiki/Trapezoidal_rule_(differential_equations)
 https://en.wikipedia.org/wiki/Trapped-ion_quantum_computer
+https://en.wikipedia.org/wiki/Traveler%27s_dilemma
 https://en.wikipedia.org/wiki/Travelling_salesman_problem
 https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry
 https://en.wikipedia.org/wiki/Treaty_of_Lisbon
@@ -23500,6 +23516,7 @@ https://en.wikipedia.org/wiki/William_F._Friedman
 https://en.wikipedia.org/wiki/William_Gibson
 https://en.wikipedia.org/wiki/William_Henry_Bragg
 https://en.wikipedia.org/wiki/William_James
+https://en.wikipedia.org/wiki/William_Karush
 https://en.wikipedia.org/wiki/William_Kruskal
 https://en.wikipedia.org/wiki/William_Lawrence_Kocay
 https://en.wikipedia.org/wiki/William_Lowell_Putnam_Mathematical_Competition
@@ -40252,6 +40269,8 @@ https://www.mathopt.org/?nav=journal
 https://www.mathopt.org/?nav=optima_newsletter
 https://www.mathopt.org/?nav=publications
 https://www.math.princeton.edu/
+https://www.math.princeton.edu/people/faculty-memorials
+https://www.math.princeton.edu/people/harold-w-kuhn
 https://www.math.purdue.edu/~adebray/lecture_notes/468notes.pdf
 https://www.maths.ed.ac.uk/school-of-mathematics/research/acm
 https://www.maths.manchester.ac.uk/research/expertise/statistics/
