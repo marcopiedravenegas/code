@@ -396,6 +396,7 @@ https://akademie.dw.com/
 https://akademie.dw.com/en/is-fact-checking-effective-a-critical-review-of-what-works-and-what-doesnt/a-55248257
 https://alacritty.org/
 https://alecmuffett.com/muffett-passwords
+https://ale.farama.org/
 https://alephjs.org/
 https://alexandrasilva.org/
 https://alexandrasilva.org/files/thesis.pdf
@@ -793,6 +794,7 @@ https://arxiv.org/abs/1409.2378
 https://arxiv.org/abs/1409.3215
 https://arxiv.org/abs/1410.5401
 https://arxiv.org/abs/1412.6980
+https://arxiv.org/abs/1412.6980v9
 https://arxiv.org/abs/1502.05767
 https://arxiv.org/abs/1503.02406
 https://arxiv.org/abs/1505.00387
@@ -859,6 +861,7 @@ https://arxiv.org/abs/1805.10872
 https://arxiv.org/abs/1806.02693
 https://arxiv.org/abs/1806.07366
 https://arxiv.org/abs/1807.01456
+https://arxiv.org/abs/1808.07233
 https://arxiv.org/abs/1808.08271
 https://arxiv.org/abs/1808.08989
 https://arxiv.org/abs/1809.00366
@@ -946,6 +949,7 @@ https://arxiv.org/abs/2012.13635
 https://arxiv.org/abs/2101.07422
 https://arxiv.org/abs/2101.09126
 https://arxiv.org/abs/2102.07268
+https://arxiv.org/abs/2102.07359
 https://arxiv.org/abs/2103.00020
 https://arxiv.org/abs/2103.13413
 https://arxiv.org/abs/2103.15341
@@ -1033,6 +1037,7 @@ https://arxiv.org/abs/2302.04752
 https://arxiv.org/abs/2302.12288
 https://arxiv.org/abs/2302.12949
 https://arxiv.org/abs/2303.00814
+https://arxiv.org/abs/2303.11633
 https://arxiv.org/abs/2303.12712
 https://arxiv.org/abs/2303.13569
 https://arxiv.org/abs/2304.01821
@@ -1092,6 +1097,7 @@ https://arxiv.org/abs/2402.06539
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
+https://arxiv.org/abs/2403.08879
 https://arxiv.org/abs/2403.19546
 https://arxiv.org/abs/2405.00832
 https://arxiv.org/abs/2405.03725
@@ -1102,6 +1108,7 @@ https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/2406.09414
 https://arxiv.org/abs/2406.18591
 https://arxiv.org/abs/2407.06464
+https://arxiv.org/abs/2407.16312
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
@@ -3906,6 +3913,7 @@ https://dl.acm.org/doi/10.1145/279227.279229
 https://dl.acm.org/doi/10.1145/2805789.2805800
 https://dl.acm.org/doi/10.1145/2810103.2813611
 https://dl.acm.org/doi/10.1145/2810103.2813707
+https://dl.acm.org/doi/10.1145/2827872
 https://dl.acm.org/doi/10.1145/2829988.2787505
 https://dl.acm.org/doi/10.1145/28395.28420
 https://dl.acm.org/doi/10.1145/2854065.2854081
@@ -16901,6 +16909,7 @@ https://en.wikipedia.org/wiki/Motorola_68HC12
 https://en.wikipedia.org/wiki/Motorola_88000
 https://en.wikipedia.org/wiki/Motorola_S08
 https://en.wikipedia.org/wiki/Motor_speech_disorders
+https://en.wikipedia.org/wiki/Move_by_nature
 https://en.wikipedia.org/wiki/MovieCode
 https://en.wikipedia.org/wiki/MovieLens
 https://en.wikipedia.org/wiki/Moving_average
@@ -21225,6 +21234,7 @@ https://en.wikipedia.org/wiki/Stabs
 https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 https://en.wikipedia.org/wiki/Stack-based_memory_allocation
 https://en.wikipedia.org/wiki/Stack_buffer_overflow
+https://en.wikipedia.org/wiki/Stackelberg_competition
 https://en.wikipedia.org/wiki/Stack_machine
 https://en.wikipedia.org/wiki/Stack-oriented_programming
 https://en.wikipedia.org/wiki/Stack_overflow
@@ -24168,6 +24178,7 @@ https://fair.org/
 https://fanael.github.io/is-x86-risc-internally.html
 https://fanart.tv/
 https://farama.org/
+https://farama.org/blog
 https://faraz.work/awesome-cpp/
 https://farmanager.com/
 https://farnell.com/
@@ -25148,13 +25159,20 @@ https://github.com/facebookresearch/fastText
 https://github.com/facebookresearch/hydra
 https://github.com/facebookresearch/jacobian_regularizer
 https://github.com/facebookresearch/nevergrad
+https://github.com/facebookresearch/ReAgent
+https://github.com/facebookresearch/SparseConvNet
 https://github.com/facebookresearch/SymbolicMathematics
 https://github.com/facebook/rocksdb
 https://github.com/facebook/zstd
 https://github.com/Farama-Foundation
+https://github.com/Farama-Foundation/Arcade-Learning-Environment
+https://github.com/Farama-Foundation/D4RL
 https://github.com/Farama-Foundation/Gymnasium
 https://github.com/Farama-Foundation/MAgent2
+https://github.com/Farama-Foundation/momaland
 https://github.com/Farama-Foundation/PettingZoo
+https://github.com/Farama-Foundation/Shimmy
+https://github.com/Farama-Foundation/stable-retro
 https://github.com/FarGroup/FarManager
 https://github.com/fcambus
 https://github.com/fcambus/
@@ -25453,6 +25471,7 @@ https://github.com/ipfs/ipfs
 https://github.com/ipfs/ipfs-desktop
 https://github.com/ipfs/kubo
 https://github.com/iptv-org/iptv
+https://github.com/isl-org/Open3D-ML
 https://github.com/ivanr/bulletproof-tls
 https://github.com/ivmai/bdwgc
 https://github.com/ivpn
@@ -26106,6 +26125,7 @@ https://github.com/oxfordcontrol/Clarabel.rs
 https://github.com/oz123/awesome-c
 https://github.com/PaddiM8/kalker
 https://github.com/PaddlePaddle/Paddle
+https://github.com/PaddlePaddle/Paddle3D
 https://github.com/PaddlePaddle/PaddleOCR
 https://github.com/padloc/padloc
 https://github.com/paladin-t/fantasy
@@ -26174,6 +26194,7 @@ https://github.com/pluja/awesome-privacy
 https://github.com/pmndrs/gltfjsx
 https://github.com/pocoproject/poco
 https://github.com/podofo/podofo
+https://github.com/Pointcept/Pointcept
 https://github.com/pola-rs/polars/
 https://github.com/pop-os/pop
 https://github.com/p-org/P
@@ -26187,6 +26208,7 @@ https://github.com/PragmaticFlow/NBomber
 https://github.com/p-ranav/awesome-hpp
 https://github.com/PrivateBin/PrivateBin
 https://github.com/PRML/PRMLT
+https://github.com/probabilistic-numerics/probnum
 https://github.com/probml/pml-book
 https://github.com/probml/pyprobml
 https://github.com/processing/p5.js
@@ -26652,6 +26674,7 @@ https://github.com/StarRocks/StarRocks
 https://github.com/statsmodels/statsmodels
 https://github.com/statsmodels/statsmodels/
 https://github.com/stdlib-js/stdlib
+https://github.com/stella-emu/stella
 https://github.com/stellargraph/stellargraph
 https://github.com/Stellarium/stellarium
 https://github.com/stencillogic/astro-float
@@ -26829,6 +26852,7 @@ https://github.com/torch/torch7
 https://github.com/ToruNiina/toml11
 https://github.com/toruseo/UXsim
 https://github.com/torvalds/linux
+https://github.com/tqdm/tqdm
 https://github.com/trailofbits/publications
 https://github.com/trealla-prolog/trealla
 https://github.com/trendmicro/tlsh
@@ -26954,6 +26978,7 @@ https://github.com/xorvoid/sectorc
 https://github.com/xournalpp/xournalpp
 https://github.com/Xpra-org/xpra/
 https://github.com/xunit/xunit
+https://github.com/yangyanli/PointCNN
 https://github.com/yarnpkg/berry
 https://github.com/ycm-core/YouCompleteMe
 https://github.com/ydataai/ydata-profiling
@@ -27301,6 +27326,7 @@ https://grossack.site/2023/11/08/37-median.html
 https://grouplens.github.io/samantha/
 https://grouplens.org/
 https://grouplens.org/datasets/book-crossing/
+https://grouplens.org/datasets/movielens/
 https://grouplens.org/datasets/movielens/100k/
 https://grouplens.org/datasets/movielens/20m/
 https://groups.csail.mit.edu/cis/
@@ -27441,6 +27467,7 @@ https://gwern.net/doc/fiction/science-fiction/frank-herbert/1980-omni-july.pdf
 https://gwern.net/self-decrypting
 https://gwern.net/turing-complete
 https://gymnasium.farama.org/
+https://gymnasium.farama.org/introduction/create_custom_env/
 https://h01-release.storage.googleapis.com/data.html
 https://h2o.ai/
 https://h3geo.org/
@@ -27735,6 +27762,7 @@ https://huggingface.co/openai/clip-vit-large-patch14
 https://huggingface.co/papers
 https://huggingface.co/papers/2308.00352
 https://huggingface.co/papers/2309.07062
+https://huggingface.co/papers/2407.16312
 https://huggingface.co/roberta-large
 https://huggingface.co/spaces
 https://huggingface.co/spaces/JUGGHM/Metric3D
@@ -27875,6 +27903,7 @@ https://ieeexplore.ieee.org/document/10015503
 https://ieeexplore.ieee.org/document/10024749
 https://ieeexplore.ieee.org/document/1008855
 https://ieeexplore.ieee.org/document/10111514
+https://ieeexplore.ieee.org/document/10145811
 https://ieeexplore.ieee.org/document/10184754
 https://ieeexplore.ieee.org/document/1019833
 https://ieeexplore.ieee.org/document/1021819
@@ -29588,6 +29617,7 @@ https://link.springer.com/article/10.1007/s00894-021-04674-8
 https://link.springer.com/article/10.1007/s10040-018-1870-7
 https://link.springer.com/article/10.1007/s10115-007-0114-2
 https://link.springer.com/article/10.1007/s10441-005-2531-5
+https://link.springer.com/article/10.1007/s10458-022-09552-y
 https://link.springer.com/article/10.1007/s10462-018-9646-y
 https://link.springer.com/article/10.1007/s10462-021-09994-y
 https://link.springer.com/article/10.1007/s10462-021-09996-w
@@ -31430,6 +31460,7 @@ https://metal-map.com/map/NO
 https://metal-map.com/map/SE
 https://metal.mit.edu/
 https://meta.wikimedia.org/wiki/Pageviews_Analysis
+https://metaworld.farama.org/
 https://metric-time.com/
 https://mfem.org/
 https://michael.stapelberg.ch/
@@ -31459,8 +31490,11 @@ https://milkv.io/
 https://milkv.io/duo
 https://milokim.gitbooks.io/lbb/content/qemu-how-to-design-a-prototype-device.html
 https://milvus.io/
+https://minari.farama.org/
 https://minesweepergame.com/
 https://minifree.org/
+https://minigrid.farama.org/
+https://miniworld.farama.org/
 https://minnie.tuhs.org/CompArch/Tutes/week04.html
 https://minsky.ai/
 https://mintty.github.io/
@@ -31606,6 +31640,7 @@ https://moderndive.github.io/moderndive/
 https://modern-sql.com/
 https://modern-sql.com/caniuse/bigint_(column_type)
 https://moinmo.in/
+https://momaland.farama.org/
 https://momentjs.com/
 https://mondediplo.com/
 https://monde-diplomatique.de/
@@ -32585,6 +32620,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
 https://paperswelove.org/
 https://paperswithcode.com/
 https://paperswithcode.com/area/computer-vision
+https://paperswithcode.com/area/methodology
+https://paperswithcode.com/area/time-series
 https://paperswithcode.com/dataset/arxivpapers
 https://paperswithcode.com/dataset/big-bench
 https://paperswithcode.com/dataset/bookcorpus
@@ -32596,6 +32633,7 @@ https://paperswithcode.com/dataset/fashion-mnist
 https://paperswithcode.com/dataset/imagenet
 https://paperswithcode.com/dataset/kitti
 https://paperswithcode.com/dataset/mnist
+https://paperswithcode.com/dataset/movielens
 https://paperswithcode.com/dataset/netflix-prize
 https://paperswithcode.com/datasets
 https://paperswithcode.com/dataset/webtext
@@ -32658,6 +32696,7 @@ https://paperswithcode.com/paper/latent-odes-for-irregularly-sampled-time
 https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent
 https://paperswithcode.com/paper/molgensurvey-a-systematic-survey-in-machine
 https://paperswithcode.com/paper/molgensurvey-a-systematic-survey-in-machine/review/
+https://paperswithcode.com/paper/neural-architecture-optimization
 https://paperswithcode.com/paper/neural-jump-stochastic-differential-equations
 https://paperswithcode.com/paper/neural-logic-reasoning
 https://paperswithcode.com/paper/neural-network-entropy-nneten-eeg-signals-and
@@ -32677,6 +32716,8 @@ https://paperswithcode.com/sota/code-generation-on-humaneval
 https://paperswithcode.com/sota/image-classification-on-fashion-mnist
 https://paperswithcode.com/sota/image-classification-on-mnist
 https://paperswithcode.com/sota/semantic-segmentation-on-ade20k
+https://paperswithcode.com/task/3d-semantic-segmentation
+https://paperswithcode.com/task/anomaly-detection
 https://paperswithcode.com/task/automated-theorem-proving
 https://paperswithcode.com/task/camera-pose-estimation
 https://paperswithcode.com/task/common-sense-reasoning
@@ -32694,11 +32735,15 @@ https://paperswithcode.com/task/multivariate-time-series-imputation
 https://paperswithcode.com/task/operator-learning/
 https://paperswithcode.com/task/optical-character-recognition
 https://paperswithcode.com/task/program-synthesis
+https://paperswithcode.com/task/recommendation-systems
 https://paperswithcode.com/task/self-organized-clustering
 https://paperswithcode.com/task/self-supervised-image-classification/latest
+https://paperswithcode.com/task/semantic-segmentation
+https://paperswithcode.com/task/stochastic-optimization
 https://paperswithcode.com/task/surface-normals-estimation
 https://paperswithcode.com/task/time-series
 https://paperswithcode.com/task/time-series-1
+https://paperswithcode.com/task/transfer-learning
 https://paradigm4.com/
 https://paragonie.com/
 https://paragonie.com/blog/2015/08/gentle-introduction-application-security
@@ -32854,6 +32899,8 @@ https://petitcolas.net/kerckhoffs/index.html
 https://petitcolas.net/steganography/index.html
 https://petolau.github.io/
 https://petsc.org/release/
+https://pettingzoo.farama.org/
+https://pettingzoo.farama.org/tutorials/custom_environment/
 https://pganalyze.com/
 https://pganalyze.com/blog/5mins-postgres-17-streaming-io
 https://pgfplots.net/
@@ -33887,6 +33934,7 @@ https://robjhyndman.com/software/
 https://robjhyndman.com/tsdl/
 https://robobrowser.readthedocs.io/en/latest/readme.html
 https://robotattack.org/
+https://robotics.farama.org/
 https://robotsguide.com/
 https://robotsguide.com/robots/universal
 https://rocker-project.org/
@@ -34324,6 +34372,7 @@ https://shap.readthedocs.io/en/latest/
 https://shattered.io/
 https://shell-storm.org/
 https://shell-storm.org/x86doc/
+https://shimmy.farama.org/
 https://shinobi.video/
 https://shinymodels.tidymodels.org/
 https://shiny.posit.co/
@@ -34777,6 +34826,7 @@ https://sshx.io/
 https://ssl-config.mozilla.org/
 https://ssvlab.github.io/esbmc/
 https://stability.ai/
+https://stable-retro.farama.org/
 https://stackable.tech/en/open-source-data-platform/
 https://stackexchange.com/sites
 https://stackoverflow.blog/
@@ -35015,6 +35065,7 @@ https://stat.wisc.edu/
 https://stdlib.fortran-lang.org/
 https://stdlib.io/
 https://steffeneger.github.io/
+https://stella-emu.github.io/
 https://stellarium.org/
 https://steshaw.org/plt/
 https://steveicarus.github.io/iverilog/
@@ -35484,6 +35535,7 @@ https://toutestquantique.fr/en/
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 https://towardsdatascience.com/paper-summary-neural-ordinary-differential-equations-37c4e52df128
 https://tox.chat/
+https://tqdm.github.io/
 https://trac.edgewall.org/
 https://trac.edgewall.org/browser
 https://tracker.debian.org/pkg/apt
@@ -35767,6 +35819,7 @@ https://waferbaby.com/
 https://waikato.github.io/weka-wiki/
 https://waikato.github.io/weka-wiki/formats_and_processing/arff_stable/
 https://wandb.ai/fully-connected
+https://wandb.ai/site
 https://warisboring.com/its-time-to-start-watching-japans-best-military-sci-fi/
 https://warontherocks.com/
 https://warontherocks.com/2020/06/the-chip-wars-of-the-21st-century/
@@ -40344,6 +40397,7 @@ https://www.metal-archives.com/albums/Therion/Theli/412
 https://www.metal-archives.com/albums/Therion/Vovin/414
 https://www.metal-archives.com/bands/Artrosis/2526
 https://www.metal-archives.com/bands/Therion/94
+https://www.metalblade.com/us/artists/nuclear-power-trio/
 https://www.metalevel.at/ediprolog/
 https://www.metalevel.at/prolog
 https://www.metalevel.at/prolog/clpz
@@ -41404,6 +41458,7 @@ https://www.privateinternetaccess.com/
 https://www.privoxy.org/
 https://www.probabilistic-numerics.org/
 https://www.probabilistic-numerics.org/meetings/2016_NeurIPS/
+https://www.probabilistic-numerics.org/teaching/2022_Numerics_of_Machine_Learning/
 https://www.probabilitycourse.com/
 https://www.procon.org/
 https://www.proculther.eu/
@@ -43872,6 +43927,7 @@ https://www.youtube.com/playlist?list=OLAK5uy_nkm6YQvqhC5CfigSLJqmJq9fkk2arJilM
 https://www.youtube.com/playlist?list=OLAK5uy_nucN1UfY66949PN65YPLceQi7hntOnp0U
 https://www.youtube.com/playlist?list=OLAK5uy_nWbm1n0nx7GV9PMjwqdoF9a5MJuA_JBuI
 https://www.youtube.com/playlist?list=OLAK5uy_n-XIbklbBsPp2SKL79ovrWXeo0TzkpziM
+https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s
 https://www.youtube.com/playlist?list=PL0Z_X4HsY7E8-5YLJwDhD3aWwQYaoMGDO
 https://www.youtube.com/playlist?list=PL0Z_X4HsY7E8gCutB19N492fNUc2XpR5R
 https://www.youtube.com/playlist?list=PL0Z_X4HsY7E9988xnXc35pfk_XD1EESw6
