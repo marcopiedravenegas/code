@@ -2024,6 +2024,7 @@ https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-
 https://ci.ucr.ac.cr/
 https://ci.ucr.ac.cr/auri
 https://ckan.org/
+https://clace.io/
 https://clang.llvm.org/
 https://clang.llvm.org/docs/analyzer/checkers.html
 https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/
@@ -10607,6 +10608,7 @@ https://en.wikipedia.org/wiki/Dream_(character)
 https://en.wikipedia.org/wiki/Dream_pop
 https://en.wikipedia.org/wiki/Dremel_(software)
 https://en.wikipedia.org/wiki/Dresden_Codex
+https://en.wikipedia.org/wiki/Drew_Fudenberg
 https://en.wikipedia.org/wiki/Drew_McDermott
 https://en.wikipedia.org/wiki/Drexel_University
 https://en.wikipedia.org/wiki/Drive_Your_Plow_Over_the_Bones_of_the_Dead
@@ -11135,6 +11137,7 @@ https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)
 https://en.wikipedia.org/wiki/Eric_Corley
 https://en.wikipedia.org/wiki/Erich_Kamke
 https://en.wikipedia.org/wiki/Eric_Hobsbawm
+https://en.wikipedia.org/wiki/Eric_Maskin
 https://en.wikipedia.org/wiki/Ericsson
 https://en.wikipedia.org/wiki/Ericsson_Dialog
 https://en.wikipedia.org/wiki/Erik_Demaine
@@ -14992,6 +14995,7 @@ https://en.wikipedia.org/wiki/Leonard_Kleinrock
 https://en.wikipedia.org/wiki/Leon_Battista_Alberti
 https://en.wikipedia.org/wiki/Leonhard_Euler
 https://en.wikipedia.org/wiki/Leonid_Brezhnev
+https://en.wikipedia.org/wiki/Leonid_Hurwicz
 https://en.wikipedia.org/wiki/Leonid_Kantorovich
 https://en.wikipedia.org/wiki/Leon_M._Lederman
 https://en.wikipedia.org/wiki/Leon_O._Chua
@@ -24879,6 +24883,7 @@ https://github.com/citusdata/citus
 https://github.com/cityflow-project/CityFlow/
 https://github.com/ckan/ckan
 https://github.com/cksystemsteaching/selfie
+https://github.com/claceio/clace
 https://github.com/clasp-developers/clasp
 https://github.com/ClickHouse/ClickHouse
 https://github.com/ClickHouse/ClickHouse/
@@ -33221,12 +33226,14 @@ https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis
 https://press.princeton.edu/books/hardcover/9780691113852/complex-analysis
 https://press.princeton.edu/books/hardcover/9780691113869/real-analysis
 https://press.princeton.edu/books/hardcover/9780691113876/functional-analysis
+https://press.princeton.edu/books/hardcover/9780691125565/the-theory-of-corporate-finance
 https://press.princeton.edu/books/hardcover/9780691129082/game-theory
 https://press.princeton.edu/books/hardcover/9780691129730/the-mathematics-of-the-heavens-and-the-earth
 https://press.princeton.edu/books/hardcover/9780691145532/discrete-and-computational-geometry
 https://press.princeton.edu/books/hardcover/9780691151878/calculus-of-variations-and-optimal-control-theory
 https://press.princeton.edu/books/hardcover/9780691152721/invisible-in-the-storm
 https://press.princeton.edu/books/hardcover/9780691159027/modern-classical-physics
+https://press.princeton.edu/books/hardcover/9780691175164/economics-for-the-common-good
 https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics
 https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
 https://press.princeton.edu/books/hardcover/9780691179414/the-doctrine-of-triangles
@@ -33250,6 +33257,8 @@ https://press.princeton.edu/books/paperback/9780691146683/dynamic-programming
 https://press.princeton.edu/books/paperback/9780691152660/googles-pagerank-and-beyond
 https://press.princeton.edu/books/paperback/9780691162317/whos-1
 https://press.princeton.edu/books/paperback/9780691163529/in-pursuit-of-the-traveling-salesman
+https://press.princeton.edu/books/paperback/9780691167046/financial-crises-liquidity-and-the-international-monetary-system
+https://press.princeton.edu/books/paperback/9780691168197/balancing-the-banks
 https://press.princeton.edu/books/paperback/9780691175997/heavenly-mathematics
 https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
 https://press.princeton.edu/books/paperback/9780691208411/trust-in-numbers
@@ -33264,6 +33273,7 @@ https://press.princeton.edu/collections/princeton-science-library
 https://press.princeton.edu/our-authors/meyer-carl-d
 https://press.princeton.edu/our-authors/shakarchi-rami
 https://press.princeton.edu/our-authors/stein-elias-m
+https://press.princeton.edu/our-authors/tirole-jean-0
 https://press.princeton.edu/series/princeton-landmarks-in-mathematics-and-physics
 https://press.princeton.edu/series/princeton-mathematical-series
 https://press.princeton.edu/series/princeton-series-in-computer-science
@@ -37255,6 +37265,10 @@ https://www.chosenplaintext.ca/blog/
 https://www.christophermiller.net/semiconductors-1
 https://www.chromium.org/Home/
 https://www.chronicle.com/
+https://www.cia.gov/
+https://www.cia.gov/the-world-factbook/
+https://www.cia.gov/the-world-factbook/field/current-account-balance/country-comparison/
+https://www.cia.gov/the-world-factbook/references/guide-to-country-comparisons/
 https://www.cicero.de/
 https://www.cidrdb.org/
 https://www.cidrdb.org/cidr2005/papers/P19.pdf
@@ -37903,6 +37917,7 @@ https://www.degruyter.com/document/doi/10.1515/9781400874477/html
 https://www.degruyter.com/document/doi/10.1515/9781400883899/html
 https://www.degruyter.com/document/doi/10.1515/9781400883929
 https://www.degruyter.com/document/doi/10.1515/9781400884179/html
+https://www.degruyter.com/document/doi/10.1515/9781400889143/html
 https://www.degruyter.com/document/doi/10.1515/9783110652864/html
 https://www.degruyter.com/document/doi/10.1515/9783110662207/html
 https://www.degruyter.com/document/doi/10.1515/9783110780147/html
@@ -40990,6 +41005,7 @@ https://www.nytimes.com/2022/10/08/books/review/chip-war-chris-miller.html
 https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html
 https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-cost-vanderbilt.html
 https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html
+https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html
 https://www.nytimes.com/international/section/books/review
 https://www.nytimes.com/roomfordebate/2015/02/09/are-economists-overrated/overreliance-on-the-pseudo-science-of-economics
 https://www.nytimes.com/section/books/review
