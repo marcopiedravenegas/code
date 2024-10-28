@@ -1059,6 +1059,7 @@ https://arxiv.org/abs/2306.05836
 https://arxiv.org/abs/2306.06079
 https://arxiv.org/abs/2307.03759
 https://arxiv.org/abs/2307.04912
+https://arxiv.org/abs/2307.10984
 https://arxiv.org/abs/2308.00352
 https://arxiv.org/abs/2308.01899
 https://arxiv.org/abs/2308.04889
@@ -1088,6 +1089,7 @@ https://arxiv.org/abs/2311.11883
 https://arxiv.org/abs/2311.13081
 https://arxiv.org/abs/2311.16093
 https://arxiv.org/abs/2312.00752
+https://arxiv.org/abs/2312.02145
 https://arxiv.org/abs/2312.04556
 https://arxiv.org/abs/2312.04836
 https://arxiv.org/abs/2312.08361
@@ -8909,6 +8911,7 @@ https://en.wikipedia.org/wiki/Closure/Continuation
 https://en.wikipedia.org/wiki/Closure:_Live
 https://en.wikipedia.org/wiki/Closure_operator
 https://en.wikipedia.org/wiki/.cloud
+https://en.wikipedia.org/wiki/CloudCompare
 https://en.wikipedia.org/wiki/Cloud_computing
 https://en.wikipedia.org/wiki/Cloud-computing_comparison
 https://en.wikipedia.org/wiki/Cloud_computing_security
@@ -16517,6 +16520,7 @@ https://en.wikipedia.org/wiki/Mersenne_Twister
 https://en.wikipedia.org/wiki/Mesa_(computer_graphics)
 https://en.wikipedia.org/wiki/MESFET
 https://en.wikipedia.org/wiki/Mesh_generation
+https://en.wikipedia.org/wiki/MeshLab
 https://en.wikipedia.org/wiki/Mesoamerica
 https://en.wikipedia.org/wiki/Mesoamerican_religion
 https://en.wikipedia.org/wiki/Mesoamerican_writing_systems
@@ -17240,6 +17244,7 @@ https://en.wikipedia.org/wiki/Neolithic_Europe
 https://en.wikipedia.org/wiki/Neolithic_Revolution
 https://en.wikipedia.org/wiki/Neo-Luciferian_Church
 https://en.wikipedia.org/wiki/Neo-medievalism
+https://en.wikipedia.org/wiki/Neo-nationalism
 https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion
 https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion:_Death_%26_Rebirth
 https://en.wikipedia.org/wiki/Neoplatonism
@@ -18740,6 +18745,8 @@ https://en.wikipedia.org/wiki/Poincar%C3%A9_and_the_Three-Body_Problem
 https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Hopf_theorem
 https://en.wikipedia.org/wiki/Poincar%C3%A9_map
 https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem
+https://en.wikipedia.org/wiki/Point_cloud
+https://en.wikipedia.org/wiki/Point_Cloud_Library
 https://en.wikipedia.org/wiki/Pointer_machine
 https://en.wikipedia.org/wiki/Point_in_polygon
 https://en.wikipedia.org/wiki/Point_location
@@ -26263,6 +26270,7 @@ https://github.com/ProtonVPN/
 https://github.com/ProtonVPN/linux-app
 https://github.com/ProtonVPN/proton-vpn-gtk-app
 https://github.com/PRQL/prql
+https://github.com/prs-eth/marigold
 https://github.com/psykon/awesome-demoscene
 https://github.com/ptpd/ptpd
 https://github.com/public-apis/public-apis
@@ -27776,6 +27784,7 @@ https://huggingface.co/docs/transformers/model_doc/videomae
 https://huggingface.co/docs/transformers/model_doc/vision-text-dual-encoder
 https://huggingface.co/docs/transformers/model_doc/vit
 https://huggingface.co/docs/transformers/model_doc/xclip
+https://huggingface.co/docs/transformers/tasks_explained
 https://huggingface.co/docs/transformers/task_summary
 https://huggingface.co/docs/transformers/v4.43.0/tasks/monocular_depth_estimation
 https://huggingface.co/docs/transformers/v4.45.2/tasks/semantic_segmentation
@@ -27808,6 +27817,7 @@ https://huggingface.co/roberta-large
 https://huggingface.co/spaces
 https://huggingface.co/spaces/JUGGHM/Metric3D
 https://huggingface.co/spaces/lightly-ai/ml-depth-pro
+https://huggingface.co/spaces/prs-eth/marigold-lcm
 https://huggingface.co/spaces/sashasax/omnidata_monocular_surface_normal_dpt_hybrid_384
 https://huggingface.co/spaces/theaiinstitute/theia
 https://huggingface.co/t5-base
@@ -27956,11 +27966,13 @@ https://ieeexplore.ieee.org/document/10319707
 https://ieeexplore.ieee.org/document/10351511
 https://ieeexplore.ieee.org/document/10363568
 https://ieeexplore.ieee.org/document/10374117
+https://ieeexplore.ieee.org/document/10378288
 https://ieeexplore.ieee.org/document/1050511
 https://ieeexplore.ieee.org/document/10517383
 https://ieeexplore.ieee.org/document/1055638
 https://ieeexplore.ieee.org/document/1056650
 https://ieeexplore.ieee.org/document/1057074
+https://ieeexplore.ieee.org/document/10638254
 https://ieeexplore.ieee.org/document/1090200
 https://ieeexplore.ieee.org/document/1158140
 https://ieeexplore.ieee.org/document/1159651
@@ -31195,6 +31207,7 @@ https://marginalrevolution.com/
 https://mariadb.com/
 https://mariadb.com/kb/en/innodb/
 https://mariadb.org/
+https://marigoldmonodepth.github.io/
 https://marine.copernicus.eu/
 https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/
 https://mark0.net/soft-trid-e.html
@@ -32133,6 +32146,7 @@ https://nuspell.github.io/
 https://nuttx.apache.org/
 https://nuwen.net/mingw.html
 https://nvd.nist.gov/
+https://nvlabs.github.io/instant-ngp/
 https://nyaa.si/
 https://nyaa.si/view/1314237
 https://nyaa.si/view/1314238
@@ -32222,6 +32236,7 @@ https://okmij.org/ftp/Denotational.html
 https://olap.com/
 https://omeka.org/
 https://omnetpp.org/
+https://omnidata.vision/
 https://omnivore.app/
 https://oneapi-src.github.io/oneTBB/
 https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/
@@ -32835,6 +32850,7 @@ https://pcapplusplus.github.io/
 https://pcl.readthedocs.io/projects/tutorials/en/latest/normal_estimation.html
 https://pcotret.gitlab.io/riscv-custom/
 https://pcre.org/
+https://pdal.io/en/latest/index.html
 https://pdfa.org/
 https://pdfa.org/product/3-heights-document-converter/
 https://pdf.io/
@@ -32967,6 +32983,7 @@ https://phoenixnap.com/kb/linux-cpu-temp
 https://phoenixnap.com/kb/vim-undo-redo
 https://phoenix-rtos.com/
 https://phosh.mobi/
+https://photometricstereo.github.io/diligentrt.html
 https://php-fpm.org/
 https://phpseclib.com/
 https://phuse.global/
@@ -33861,6 +33878,7 @@ https://research.nccgroup.com/2021/07/07/an-introduction-to-fault-injection-part
 https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/
 https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/
 https://research.noaa.gov/
+https://research.nvidia.com/labs/dir/neuralangelo/
 https://research.ralfj.de/thesis.html
 https://research.redhat.com/
 https://research.redhat.com/blog/article/the-need-for-constant-time-cryptography/
@@ -37825,6 +37843,7 @@ https://www.dam.brown.edu/people/mumford/blog/2021/Rogue.html
 https://www.damninteresting.com/
 https://www.dandc.eu/
 https://www.danieldsjoberg.com/gtsummary/
+https://www.danielgm.net/cc/
 https://www.danosproject.org/
 https://www.dante.de/
 https://www.darkreading.com/
@@ -42572,6 +42591,7 @@ https://www.singular.uni-kl.de/
 https://www.sirgas.org/
 https://www.sirgas.org/en/
 https://www.sit.fraunhofer.de/
+https://www.sixthtone.com/news/1015505
 https://www.sixtysymbols.com/videos/dimensional.htm
 https://www.sjsu.edu/faculty/wooda/149/149syllabus2gerns.html
 https://www.skepdic.com/coldread.html
@@ -44120,6 +44140,7 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 https://www.youtube.com/watch?v=ItODnX5geCM
 https://www.youtube.com/watch?v=IZKi4_BScqc
+https://www.youtube.com/watch?v=izLfWY4c0Ko
 https://www.youtube.com/watch?v=JF5zza9bWoQ
 https://www.youtube.com/watch?v=jfKfPfyJRdk
 https://www.youtube.com/watch?v=jHoEjvuPoB8
