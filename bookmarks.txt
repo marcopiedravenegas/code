@@ -865,6 +865,7 @@ https://arxiv.org/abs/1808.07233
 https://arxiv.org/abs/1808.08271
 https://arxiv.org/abs/1808.08989
 https://arxiv.org/abs/1809.00366
+https://arxiv.org/abs/1809.04766v2
 https://arxiv.org/abs/1810.03218
 https://arxiv.org/abs/1810.04805
 https://arxiv.org/abs/1810.11673
@@ -918,6 +919,7 @@ https://arxiv.org/abs/2002.02798
 https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.08071
 https://arxiv.org/abs/2002.10078
+https://arxiv.org/abs/2003.10014
 https://arxiv.org/abs/2004.03333
 https://arxiv.org/abs/2004.14974
 https://arxiv.org/abs/2005.08926
@@ -970,6 +972,7 @@ https://arxiv.org/abs/2109.01483
 https://arxiv.org/abs/2109.09432
 https://arxiv.org/abs/2109.15102
 https://arxiv.org/abs/2110.02178
+https://arxiv.org/abs/2110.04994
 https://arxiv.org/abs/2110.06209
 https://arxiv.org/abs/2110.06804
 https://arxiv.org/abs/2110.11404v1
@@ -1091,6 +1094,7 @@ https://arxiv.org/abs/2312.08361
 https://arxiv.org/abs/2312.10256
 https://arxiv.org/abs/2312.14688
 https://arxiv.org/abs/2312.15268v6
+https://arxiv.org/abs/2401.05745
 https://arxiv.org/abs/2401.10891
 https://arxiv.org/abs/2401.14428v1
 https://arxiv.org/abs/2402.06539
@@ -1099,6 +1103,7 @@ https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2403.08879
 https://arxiv.org/abs/2403.19546
+https://arxiv.org/abs/2404.15506
 https://arxiv.org/abs/2405.00832
 https://arxiv.org/abs/2405.03725
 https://arxiv.org/abs/2405.08007
@@ -1136,8 +1141,10 @@ https://arxiv.org/list/cs.LG/recent
 https://arxiv.org/list/cs.MS/recent
 https://arxiv.org/list/cs.SC/recent
 https://arxiv.org/list/math.OC/recent
+https://arxiv.org/pdf/1809.04766
 https://arxiv.org/pdf/2105.01099
 https://arxiv.org/pdf/2210.04055
+https://arxiv.org/pdf/2307.10984
 https://arxiv.org/pdf/2310.09145
 https://arxiv.org/search/cs?searchtype=author&query=Bournez,+O
 https://arxiv-sanity-lite.com/
@@ -2236,6 +2243,7 @@ https://community.jmp.com/t5/Learning-Center/Kerrich-Is-a-Coin-Fair-Learn-Infere
 https://community.juniper.net/blogs/sharada-yeluri/2023/10/13/chiplets-the-inevitable-transition
 https://community.openvpn.net/openvpn
 https://community.rstudio.com/
+https://companiesmarketcap.com/
 https://company-mode.github.io/
 https://comparativeconstitutionsproject.org/
 https://comparativeconstitutionsproject.org/ccp-rankings/
@@ -2870,6 +2878,7 @@ https://cs.mcgill.ca/~wlh/comp766/index.html
 https://csml.princeton.edu/
 https://cs.nyu.edu/~dodis/
 https://cs.nyu.edu/exact/core_pages/index.html
+https://cs.nyu.edu/~fouhey/2016/evalSN/evalSN.html
 https://cs.nyu.edu/~khot/
 https://cs.nyu.edu/~mohri/mlbook/
 https://cs.opensource.google/go
@@ -4495,6 +4504,7 @@ https://docs.python.org/3/library/zipfile.html
 https://docs.python.org/3/library/zlib.html
 https://docs.python.org/3/library/zoneinfo.html
 https://docs.python.org/3/tutorial/floatingpoint.html
+https://docs.pyvista.org/
 https://docs.qgis.org/3.34/en/docs/user_manual/index.html
 https://docs.qgis.org/3.34/en/docs/user_manual/working_with_projections/working_with_projections.html
 https://docs.quic.tech/quiche/
@@ -8599,6 +8609,7 @@ https://en.wikipedia.org/wiki/Chebfun
 https://en.wikipedia.org/wiki/Chebyshev%27s_inequality
 https://en.wikipedia.org/wiki/Chebyshev%27s_sum_inequality
 https://en.wikipedia.org/wiki/Chebyshev_distance
+https://en.wikipedia.org/wiki/Chebyshev%E2%80%93Gauss_quadrature
 https://en.wikipedia.org/wiki/Chebyshev_filter
 https://en.wikipedia.org/wiki/Chebyshev_nodes
 https://en.wikipedia.org/wiki/Chebyshev_polynomials
@@ -12054,7 +12065,10 @@ https://en.wikipedia.org/wiki/Gaston_Gonnet
 https://en.wikipedia.org/wiki/Gated_recurrent_unit
 https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)
 https://en.wikipedia.org/wiki/Gauss%27s_law
+https://en.wikipedia.org/wiki/Gauss%E2%80%93Hermite_quadrature
+https://en.wikipedia.org/wiki/Gauss%E2%80%93Jacobi_quadrature
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula
+https://en.wikipedia.org/wiki/Gauss%E2%80%93Laguerre_quadrature
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_method
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_quadrature
@@ -16170,6 +16184,7 @@ https://en.wikipedia.org/wiki/Maritime_Southeast_Asia
 https://en.wikipedia.org/wiki/Mark-8
 https://en.wikipedia.org/wiki/Mark_and_space
 https://en.wikipedia.org/wiki/Markdown
+https://en.wikipedia.org/wiki/Market_capitalization
 https://en.wikipedia.org/wiki/Market_sentiment
 https://en.wikipedia.org/wiki/Mark_Felt
 https://en.wikipedia.org/wiki/Markham,_Ontario
@@ -24265,6 +24280,8 @@ https://fedoraproject.org/wiki/Fedora_Project_Wiki
 https://fedoraproject.org/workstation/
 https://fedora-scientific.readthedocs.io/en/latest/
 https://fedora-scientific.readthedocs.io/en/latest/tools.html
+https://feedforward.github.io/blog/depthmap-prediction-from-a-single/
+https://feedforward.github.io/blog/predicting-depth-surface-normals-semantic-labels/
 https://felt.com/
 https://fenicsproject.org/
 https://fennel-lang.org/
@@ -26029,6 +26046,7 @@ https://github.com/NVIDIA/Megatron-LM
 https://github.com/NVIDIA-Merlin/Merlin
 https://github.com/NVlabs
 https://github.com/NVlabs/FourCastNet
+https://github.com/NVlabs/planercnn
 https://github.com/nvm-sh/nvm
 https://github.com/o3de/o3de
 https://github.com/obsproject/obs-studio
@@ -26551,6 +26569,7 @@ https://github.com/rxin/db-readings
 https://github.com/s3bk/bullet
 https://github.com/sacridini/Awesome-Geospatial
 https://github.com/sagemath/sage
+https://github.com/salesforce/ai-economist
 https://github.com/salesforce/warp-drive
 https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 https://github.com/sangwoomo/ml-resources
@@ -27789,6 +27808,7 @@ https://huggingface.co/roberta-large
 https://huggingface.co/spaces
 https://huggingface.co/spaces/JUGGHM/Metric3D
 https://huggingface.co/spaces/lightly-ai/ml-depth-pro
+https://huggingface.co/spaces/sashasax/omnidata_monocular_surface_normal_dpt_hybrid_384
 https://huggingface.co/spaces/theaiinstitute/theia
 https://huggingface.co/t5-base
 https://huggingface.co/tasks
@@ -28538,6 +28558,7 @@ https://json.nlohmann.me/
 https://json-schema.org/
 https://js.wiki/
 https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
+https://jugghm.github.io/Metric3Dv2/
 https://juicefs.com/en/
 https://julesh.com/
 https://juliabyexample.helpmanual.io/
@@ -29650,6 +29671,7 @@ https://link.springer.com/article/10.1007/s10479-009-0605-5
 https://link.springer.com/article/10.1007/s10479-019-03380-2
 https://link.springer.com/article/10.1007/s10569-020-09993-1
 https://link.springer.com/article/10.1007/s10569-023-10139-2
+https://link.springer.com/article/10.1007/s10614-021-10119-4
 https://link.springer.com/article/10.1007/s10955-022-02871-0
 https://link.springer.com/article/10.1007/s11047-022-09913-2
 https://link.springer.com/article/10.1007/s11063-006-9013-x
@@ -31569,6 +31591,7 @@ https://mitmproxy.org/
 https://mitogen.networkgenomics.com/
 https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 https://mitpress.mit.edu/
+https://mitpress.mit.edu/9780262015738/optimal-control-theory-with-applications-in-economics/
 https://mitpress.mit.edu/9780262019347/functional-differential-geometry/
 https://mitpress.mit.edu/9780262023931/inductive-logic-programming/
 https://mitpress.mit.edu/9780262028967/structure-and-interpretation-of-classical-mechanics/
@@ -31686,6 +31709,7 @@ https://monthlyreview.org/
 https://monthlyreview.org/2009/05/01/why-socialism/
 https://monthlyreview.org/2023/11/01/what-do-we-learn-about-capitalism-from-chip-war/
 https://moonscript.org/
+https://mordohai.github.io/public/Jordan_QuantEvaluationSurfaceNormalEstimation14.pdf
 https://morphett.info/turing/turing.html
 https://moser-isi.ethz.ch/manuals.html
 https://mosh.monaos.org/files/doc/text/About-txt.html
@@ -32101,6 +32125,7 @@ https://numpy.org/
 https://numpy.org/devdocs/user/index.html
 https://numpy.org/doc/stable/
 https://numpy.org/doc/stable/reference/arrays.html
+https://numpy.org/doc/stable/reference/generated/numpy.lib.format.html
 https://numpy.org/doc/stable/reference/generated/numpy.unique.html
 https://numpy.org/neps/
 https://nunit.org/
@@ -32418,6 +32443,7 @@ https://openstreetmap.be/
 https://openstreetmap.us/
 https://opentitan.org/
 https://opentofu.org/
+https://opentopography.org/
 https://open-traffic.epfl.ch/
 https://opentransportdata.swiss/de/dataset
 https://open.umn.edu/opentextbooks/
@@ -32726,6 +32752,8 @@ https://paperswithcode.com/paper/neural-ordinary-differential-equations
 https://paperswithcode.com/paper/on-neural-differential-equations
 https://paperswithcode.com/paper/on-the-use-of-arxiv-as-a-dataset
 https://paperswithcode.com/paper/palm-scaling-language-modeling-with-pathways-1
+https://paperswithcode.com/paper/predicting-depth-surface-normals-and-semantic
+https://paperswithcode.com/paper/real-time-joint-semantic-segmentation-and
 https://paperswithcode.com/paper/resnet-after-all-neural-odes-and-their
 https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python
 https://paperswithcode.com/paper/the-power-of-depth-for-feedforward-neural
@@ -32804,6 +32832,7 @@ https://pavpanchekha.com/blog/zippers/derivative.html
 https://pavpanchekha.com/blog/zippers/huet.html
 https://paywallhub.com/
 https://pcapplusplus.github.io/
+https://pcl.readthedocs.io/projects/tutorials/en/latest/normal_estimation.html
 https://pcotret.gitlab.io/riscv-custom/
 https://pcre.org/
 https://pdfa.org/
@@ -33151,6 +33180,7 @@ https://pocoproject.org/
 https://pocorgtfo.hacke.rs/
 https://podman.io/
 https://pointclouds.org/
+https://pointclouds.org/documentation/index.html
 https://poissonreg.tidymodels.org/
 https://pola.rs/
 https://polis.stanford.edu/
@@ -35819,6 +35849,7 @@ https://vincentarelbundock.github.io/Rdatasets/datasets.html
 https://virtualcolossus.co.uk/
 https://vision.berkeley.edu/
 https://vision.berkeley.edu/people/bruno-a-olshausen-phd/
+https://vision-explorer.allenai.org/
 https://vispy.org/
 https://visualisingdata.com/
 https://visualstudiomagazine.com/articles/2022/05/02/naive-bayes-classification-csharp.aspx
@@ -37423,6 +37454,7 @@ https://www.commodore.ca/commodore-history/the-rise-of-mos-technology-the-6502/
 https://www.commonhaus.org/
 https://www.commonlounge.com/
 https://www.commonwl.org/
+https://www.compecon.rwth-aachen.de/en/course/reinforcement-learning-in-economics/
 https://www.compilers.cs.uni-saarland.de/teaching/seminar/ad/2021/
 https://www.complang.tuwien.ac.at/ulrich/
 https://www.complang.tuwien.ac.at/ulrich/gupu/
@@ -42078,6 +42110,7 @@ https://www.sagemath.org/index.html
 https://www.sagemath.org/sagebook/
 https://www.sagemath.org/sagebook/english.html
 https://www.sagemath.org/tour.html
+https://www.salesforceairesearch.com/projects/the-ai-economist
 https://www.salon.com/
 https://www.samba.org/
 https://www.samba.org/samba/
@@ -42299,6 +42332,7 @@ https://www.sciencedirect.com/science/article/pii/S0167642313002980
 https://www.sciencedirect.com/science/article/pii/S0167739X16301856
 https://www.sciencedirect.com/science/article/pii/S0167819197001142?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0168827810003259
+https://www.sciencedirect.com/science/article/pii/S0306261923000697
 https://www.sciencedirect.com/science/article/pii/S0315086009001360
 https://www.sciencedirect.com/science/article/pii/S0315086084710317?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0377042700004180
@@ -42328,6 +42362,7 @@ https://www.sciencedirect.com/science/article/pii/S2210670723006571
 https://www.sciencedirect.com/science/article/pii/S2542435123003653
 https://www.sciencedirect.com/science/article/pii/S2666379122003494
 https://www.sciencedirect.com/science/article/pii/S2666764923000103
+https://www.sciencedirect.com/science/article/pii/S2667295224000084
 https://www.sciencedirect.com/science/article/pii/S2667345223000196
 https://www.sciencedirect.com/science/article/pii/S2772424722000257
 https://www.sciencefocus.com/
