@@ -168,6 +168,7 @@ https://20squares.xyz/
 https://256bit.org/
 https://2600.com/
 https://2600.network/
+http://s2geometry.io/
 https://386bsd.org/
 https://3d.bk.tudelft.nl/
 https://3d.bk.tudelft.nl/opendata/opencities/
@@ -979,6 +980,7 @@ https://arxiv.org/abs/2110.11404v1
 https://arxiv.org/abs/2111.10672
 https://arxiv.org/abs/2111.14377
 https://arxiv.org/abs/2112.03460
+https://arxiv.org/abs/2112.09993
 https://arxiv.org/abs/2201.02387
 https://arxiv.org/abs/2201.03545
 https://arxiv.org/abs/2201.10816
@@ -1082,6 +1084,7 @@ https://arxiv.org/abs/2311.01024
 https://arxiv.org/abs/2311.01759
 https://arxiv.org/abs/2311.01864
 https://arxiv.org/abs/2311.03757
+https://arxiv.org/abs/2311.06242
 https://arxiv.org/abs/2311.10770
 https://arxiv.org/abs/2311.11045
 https://arxiv.org/abs/2311.11793
@@ -1099,6 +1102,7 @@ https://arxiv.org/abs/2312.15268v6
 https://arxiv.org/abs/2401.05745
 https://arxiv.org/abs/2401.10891
 https://arxiv.org/abs/2401.14428v1
+https://arxiv.org/abs/2402.05804
 https://arxiv.org/abs/2402.06539
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
@@ -1954,6 +1958,7 @@ https://changelog.com/posts/git-is-simply-too-hard
 https://changelog.com/posts/learning-by-example
 https://chaosradio.de/
 https://chapel-lang.org/
+https://charlieleee.github.io/publication/inksight/
 https://charmplusplus.org/
 https://charts.ecmwf.int/
 https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850
@@ -2983,6 +2988,7 @@ https://culture.pl/en/article/seances-dragons-chakras-krakows-magical-past
 https://culture.pl/en/place/wawel-castle-the-residency-of-polish-kings
 https://culture.pl/en/series/language
 https://culture.pl/en/series/the-golden-silver-ages
+https://cup.columbia.edu/book/discovering-prices/9780231175999
 https://cupy.dev/
 https://curator.jsc.nasa.gov/
 https://curator.jsc.nasa.gov/stardust/aerogel.cfm
@@ -3094,6 +3100,7 @@ https://datascience.columbia.edu/
 https://datascience.quantecon.org/
 https://datascience.stackexchange.com/
 https://datascience.stanford.edu/
+https://datascience.stanford.edu/people/dawn-woodard
 https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook
 https://datascience.stanford.edu/research/research-areas/science-data-science
 https://datasciencetexts.com/subjects/time_series_analysis.html
@@ -5391,6 +5398,7 @@ https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
 https://eniko.itch.io/kitsunetails
 https://en.ilmatieteenlaitos.fi/
+https://en.m.wikipedia.org/wiki/Random_sample_consensus
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
@@ -8412,6 +8420,7 @@ https://en.wikipedia.org/wiki/Catharism
 https://en.wikipedia.org/wiki/Catherine_the_Great
 https://en.wikipedia.org/wiki/Catholic_Bible
 https://en.wikipedia.org/wiki/Catilinarian_orations
+https://en.wikipedia.org/wiki/CATL
 https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula
 https://en.wikipedia.org/wiki/Cauchy_distribution
 https://en.wikipedia.org/wiki/Cauchy%E2%80%93Euler_equation
@@ -10743,6 +10752,7 @@ https://en.wikipedia.org/wiki/Earth%27s_rotation
 https://en.wikipedia.org/wiki/Earth-centered_inertial
 https://en.wikipedia.org/wiki/Earth_mover%27s_distance
 https://en.wikipedia.org/wiki/Earth_observation_satellite
+https://en.wikipedia.org/wiki/Earth_radius
 https://en.wikipedia.org/wiki/EarthTV
 https://en.wikipedia.org/wiki/East_Coast_of_the_United_States
 https://en.wikipedia.org/wiki/East_India_Company
@@ -14885,6 +14895,7 @@ https://en.wikipedia.org/wiki/Latin_American_and_Caribbean_Internet_Exchange_Ass
 https://en.wikipedia.org/wiki/Latin_American_Faculty_of_Social_Sciences
 https://en.wikipedia.org/wiki/Latin_literature
 https://en.wikipedia.org/wiki/Latin_square
+https://en.wikipedia.org/wiki/Latitude
 https://en.wikipedia.org/wiki/Lattice-based_access_control
 https://en.wikipedia.org/wiki/Lattice-based_cryptography
 https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods
@@ -15817,6 +15828,7 @@ https://en.wikipedia.org/wiki/Literature
 https://en.wikipedia.org/wiki/Literature_review
 https://en.wikipedia.org/wiki/Lithium_carbonate
 https://en.wikipedia.org/wiki/Lithium-ion_battery
+https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery
 https://en.wikipedia.org/wiki/Lithuanians
 https://en.wikipedia.org/wiki/Little%27s_law
 https://en.wikipedia.org/wiki/Little_Computer_3
@@ -15907,6 +15919,7 @@ https://en.wikipedia.org/wiki/London_Review_of_Books
 https://en.wikipedia.org/wiki/Longest_common_subsequence
 https://en.wikipedia.org/wiki/Longest_uncrossed_knight%27s_path
 https://en.wikipedia.org/wiki/Long_Island
+https://en.wikipedia.org/wiki/Longitude
 https://en.wikipedia.org/wiki/Longitudinal_study
 https://en.wikipedia.org/wiki/Longitudinal_wave
 https://en.wikipedia.org/wiki/Long_nineteenth_century
@@ -23939,6 +23952,7 @@ https://epubs.siam.org/doi/10.1137/1.9781611975949
 https://epubs.siam.org/doi/10.1137/1.9781611977233
 https://epubs.siam.org/doi/10.1137/1.9781611977912.134
 https://epubs.siam.org/doi/10.1137/19M1274067
+https://epubs.siam.org/doi/10.1137/23M155699X
 https://epubs.siam.org/doi/10.1137/9780898717723
 https://epubs.siam.org/doi/10.1137/S0036144500378302
 https://epubs.siam.org/doi/10.1137/S0036144503424786
@@ -25345,6 +25359,7 @@ https://github.com/go-gitea/gitea
 https://github.com/gogs/gogs
 https://github.com/go-kit/kit
 https://github.com/golang/crypto
+https://github.com/golang/geo
 https://github.com/golang/go
 https://github.com/golang/go/wiki
 https://github.com/golang/vscode-go
@@ -25390,7 +25405,10 @@ https://github.com/google/or-tools/tree/stable/ortools/glop
 https://github.com/google/re2
 https://github.com/google-research/bert
 https://github.com/google-research/google-research
+https://github.com/google-research/inksight/
 https://github.com/google-research/text-to-text-transfer-transformer
+https://github.com/google-research/vision_transformer
+https://github.com/google/s2geometry
 https://github.com/google/sanitizers/wiki/AddressSanitizerAlgorithm
 https://github.com/google/sanitizers/wiki/ThreadSanitizerAlgorithm
 https://github.com/google/sentencepiece
@@ -26199,6 +26217,7 @@ https://github.com/patrick-kidger/diffrax
 https://github.com/patrick-kidger/equinox
 https://github.com/patrick-kidger/optimistix
 https://github.com/pbatard/rufus
+https://github.com/PDAL/PDAL
 https://github.com/pdm-book/community
 https://github.com/PedestrianDynamics/jupedsim/
 https://github.com/pest-parser/pest
@@ -26264,6 +26283,8 @@ https://github.com/Project-OSRM/osrm-backend
 https://github.com/ProofGeneral/PG
 https://github.com/proroklab/VectorizedMultiAgentSimulator
 https://github.com/protocolbuffers/protobuf
+https://github.com/protomaps/PMTiles
+https://github.com/protomaps/protomaps-leaflet
 https://github.com/ProtonMail/gluon
 https://github.com/ProtonMail/gopenpgp
 https://github.com/ProtonVPN/
@@ -27813,12 +27834,15 @@ https://huggingface.co/papers
 https://huggingface.co/papers/2308.00352
 https://huggingface.co/papers/2309.07062
 https://huggingface.co/papers/2407.16312
+https://huggingface.co/papers/2408.00714
 https://huggingface.co/roberta-large
 https://huggingface.co/spaces
+https://huggingface.co/spaces/Derendering/Model-Output-Playground
 https://huggingface.co/spaces/JUGGHM/Metric3D
 https://huggingface.co/spaces/lightly-ai/ml-depth-pro
 https://huggingface.co/spaces/prs-eth/marigold-lcm
 https://huggingface.co/spaces/sashasax/omnidata_monocular_surface_normal_dpt_hybrid_384
+https://huggingface.co/spaces/SkalskiP/florence-sam
 https://huggingface.co/spaces/theaiinstitute/theia
 https://huggingface.co/t5-base
 https://huggingface.co/tasks
@@ -28729,6 +28753,7 @@ https://languagetool.org/
 https://lapce.dev/
 https://lapo.it/asn1js/
 https://lareviewofbooks.org/
+https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/
 https://lareviewofbooks.org/article/navigating-the-lull-of-death-on-clancy-martins-how-not-to-kill-yourself/
 https://lareviewofbooks.org/article/the-bargaining-chips-are-chips-on-chris-millers-chip-war/
 https://larq.dev/
@@ -28756,6 +28781,8 @@ https://learn.adacore.com/
 https://learn.adacore.com/courses/intro-to-ada/chapters/standard_library_numerics.html
 https://learnbchs.org/
 https://learn.chessbase.com/
+https://learngeodata.eu/3d-tutorials/
+https://learngeodata.eu/visualise-massive-point-cloud-in-python/
 https://learning.acm.org/
 https://learning.cs.toronto.edu/
 https://learning.cs.toronto.edu/people.html
@@ -30525,6 +30552,7 @@ https://link.springer.com/book/10.1007/978-981-15-7090-2
 https://link.springer.com/book/10.1007/978-981-16-0711-0
 https://link.springer.com/book/10.1007/978-981-16-6046-7
 https://link.springer.com/book/10.1007/978-981-16-6054-2
+https://link.springer.com/book/10.1007/978-981-16-7645-1
 https://link.springer.com/book/10.1007/978-981-16-9865-1
 https://link.springer.com/book/10.1007/978-981-19-0147-8
 https://link.springer.com/book/10.1007/978-981-19-0336-6
@@ -32267,6 +32295,7 @@ https://onlinelibrary.wiley.com/doi/10.1155/2020/8877128
 https://onlinelibrary.wiley.com/doi/10.1155/2021/6442797
 https://onlinelibrary.wiley.com/doi/10.2307/1231810
 https://onlinelibrary.wiley.com/doi/10.2307/3315772
+https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.21872
 https://onlinelibrary.wiley.com/doi/abs/10.1002/net.3230080407
 https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0870.1990.t01-2-00005.x
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12162
@@ -32677,6 +32706,7 @@ https://papers.nips.cc/paper_files/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c74
 https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
 https://papers.nips.cc/paper_files/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2715610
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3258234
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923528
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008316
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
@@ -32699,6 +32729,7 @@ https://paperswithcode.com/dataset/mnist
 https://paperswithcode.com/dataset/movielens
 https://paperswithcode.com/dataset/netflix-prize
 https://paperswithcode.com/datasets
+https://paperswithcode.com/dataset/sensaturban
 https://paperswithcode.com/dataset/webtext
 https://paperswithcode.com/greatest
 https://paperswithcode.com/method/adam
@@ -32772,6 +32803,7 @@ https://paperswithcode.com/paper/real-time-joint-semantic-segmentation-and
 https://paperswithcode.com/paper/resnet-after-all-neural-odes-and-their
 https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python
 https://paperswithcode.com/paper/the-power-of-depth-for-feedforward-neural
+https://paperswithcode.com/paper/towards-semantic-segmentation-of-urban-scale
 https://paperswithcode.com/paper/trojannet-embedding-hidden-trojan-horse/review/
 https://paperswithcode.com/paper/will-artificial-intelligence-supersede-earth
 https://paperswithcode.com/rc2022
@@ -32850,6 +32882,7 @@ https://pcapplusplus.github.io/
 https://pcl.readthedocs.io/projects/tutorials/en/latest/normal_estimation.html
 https://pcotret.gitlab.io/riscv-custom/
 https://pcre.org/
+https://pdal.io/
 https://pdal.io/en/latest/index.html
 https://pdfa.org/
 https://pdfa.org/product/3-heights-document-converter/
@@ -32861,6 +32894,7 @@ https://pdos.csail.mit.edu/projects/perennial.html
 https://pdos.csail.mit.edu/projects/vmvcc.html
 https://pdos.csail.mit.edu/publications/
 https://pdos.csail.mit.edu/software/
+https://pearlagent.github.io/
 https://peazip.github.io/
 https://peerj.com/
 https://peerj.com/articles/453/
@@ -33454,6 +33488,7 @@ https://proofwiki.org/wiki/Mathematician:Richard_Courant
 https://prospect.org/politics/2024-01-29-america-is-not-democracy/
 https://protobuf.dev/
 https://protocol.ai/
+https://protomaps.com/
 https://proton.me/
 https://proton.me/blog
 https://proton.me/blog/big-tech-2023-fines-vs-revenue
@@ -33849,6 +33884,7 @@ https://research.facebook.com/
 https://research.facebook.com/teams/central-applied-science/
 https://research.google/
 https://research.google/blog/
+https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/
 https://research.google/blog/english-learners-can-now-practice-speaking-on-search/
 https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/
 https://research.google/blog/label/algorithms-theory/
@@ -36156,6 +36192,7 @@ https://wmo.int/
 https://wol.iza.org/
 https://wol.iza.org/articles/economic-value-of-language-skills/long
 https://wonikjang.github.io/deeplearning_unsupervised_som/2017/06/30/som.html
+https://woodardscience.com/
 https://woodpecker-ci.org/
 https://wordcounter.net/
 https://wordnet.princeton.edu/
@@ -36944,6 +36981,7 @@ https://www.cambridge.org/core/books/markov-chains/A3F966B10633A32C8F06F37158031
 https://www.cambridge.org/core/books/mathematical-analysis-of-logic/BF7CDDC37F3F4FC698CEEE5F2FA0270C
 https://www.cambridge.org/core/books/mecanique-analytique/238EDC5BF645F69F5DB5D4770B519D1B
 https://www.cambridge.org/core/books/mecanique-analytique/521A46D82E29243A6ED53038D0DA94DA
+https://www.cambridge.org/core/books/mechanism-design/26EA10EC04EB418E699CCBD5B09A55E2
 https://www.cambridge.org/core/books/mechanism-of-the-heavens/9546EBBF4BF4F86672C3005ACF36B2E2
 https://www.cambridge.org/core/books/methods-of-algebraic-geometry/50A2940E9BD05AC82C46C267D2F054B2
 https://www.cambridge.org/core/books/methods-of-algebraic-geometry/AA7B9DC2765913F4FDA938E9E7782CC7
@@ -37045,6 +37083,11 @@ https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classica
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition?format=PB&isbn=9780521335553
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-latina-guide-pronunciation-classical-latin-2nd-edition
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-latina-guide-pronunciation-classical-latin-2nd-edition?format=PB&isbn=9780521379366
+https://www.cambridge.org/cr/universitypress/subjects/economics/microeconomics/game-theory-2nd-edition
+https://www.cambridge.org/cr/universitypress/subjects/economics/microeconomics/game-theory-interactive-strategies-economics-and-management
+https://www.cambridge.org/cr/universitypress/subjects/economics/microeconomics/incentives-motivation-and-economics-information-3rd-edition
+https://www.cambridge.org/cr/universitypress/subjects/economics/microeconomics/mechanism-design-linear-programming-approach
+https://www.cambridge.org/cr/universitypress/subjects/economics/microeconomics/prices-and-quantities-fundamentals-microeconomics
 https://www.cambridge.org/elt/blog/2021/06/22/the-influence-other-languages-english/
 https://www.cambridge.org/highereducation/books/bayesian-reasoning-and-machine-learning/37DAFA214EEE41064543384033D2ECF0
 https://www.cambridge.org/highereducation/books/communication-theory/9CA477FACEB728B8F56CC100BE9200D3
@@ -37064,6 +37107,7 @@ https://www.cambridge.org/highereducation/books/mathematics-for-machine-learning
 https://www.cambridge.org/highereducation/books/matrix-analysis/FDA3627DC2B9F5C3DF2FD8C3CC136B48
 https://www.cambridge.org/highereducation/books/mining-of-massive-datasets/9CFE54DDEC0DA5F9558597816E5848C3
 https://www.cambridge.org/highereducation/books/modern-classical-mechanics/A51650BB7F0983EE3D155B4C82B2B32A
+https://www.cambridge.org/highereducation/books/prices-and-quantities/DF45DFA6BE48B9B82C83DF57C85DDC02
 https://www.cambridge.org/highereducation/books/the-cambridge-encyclopedia-of-the-english-language/2B10AC8766B73D09955C899572C1E7EC
 https://www.cambridge.org/us/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/algorithms-strings
 https://www.cambridge.org/us/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/compact-data-structures-practical-approach
@@ -40524,6 +40568,7 @@ https://www.microsoft.com/en-us/power-platform/products/power-bi/
 https://www.microsoft.com/en-us/research/
 https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/
 https://www.microsoft.com/en-us/research/blog/unlocking-the-future-of-computing-the-analog-iterative-machines-lightning-fast-approach-to-optimization/
+https://www.microsoft.com/en-us/research/focus-area/ai-and-microsoft-research/
 https://www.microsoft.com/en-us/research/group/cryptography-research/
 https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/
 https://www.microsoft.com/en-us/research/people/
@@ -40545,9 +40590,21 @@ https://www.microsoft.com/en-us/research/publication/neural-networks-pattern-rec
 https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/
 https://www.microsoft.com/en-us/research/publications/
 https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages-2/
+https://www.microsoft.com/en-us/research/research-area/algorithms/
+https://www.microsoft.com/en-us/research/research-area/computational-sciences-mathematics/
+https://www.microsoft.com/en-us/research/research-area/computer-vision/
+https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/
+https://www.microsoft.com/en-us/research/research-area/economics/
+https://www.microsoft.com/en-us/research/research-area/hardware-devices/
+https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering/
+https://www.microsoft.com/en-us/research/research-area/quantum-computing/
+https://www.microsoft.com/en-us/research/research-area/search-information-retrieval/
+https://www.microsoft.com/en-us/research/research-area/security-privacy-cryptography/
+https://www.microsoft.com/en-us/research/research-area/systems-and-networking/
 https://www.microsoft.com/en-us/research/tools/
 https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987.pdf
 https://www.microsoft.com/en-us/research/video/introduction-to-neo4j-and-graph-databases/
+https://www.microsoft.com/en-us/research/video/matching-dynamic-pricing-ride-hailing-platforms/
 https://www.microsoft.com/en-us/research/video/research-talk-computing-at-the-speed-of-light/
 https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/cryptographically-sound-implementations-for-typed-information-flow-security-popl08.pdf
@@ -41126,6 +41183,8 @@ https://www.ookla.com/research
 https://www.ookla.com/research/market-reports
 https://www.opcw.org/
 https://www.open3d.org/
+https://www.open3d.org/docs/0.9.0/tutorial/Basic/pointcloud.html
+https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html
 https://www.openacc.org/
 https://www.openagua.org/
 https://www.openaire.eu/
@@ -44128,6 +44187,7 @@ https://www.youtube.com/watch?v=_gaCAFcW6OY
 https://www.youtube.com/watch?v=g-dKXOlsf98
 https://www.youtube.com/watch?v=giBAxWeuysM
 https://www.youtube.com/watch?v=GVsUOuSjvcg
+https://www.youtube.com/watch?v=GyPq2joHZv4
 https://www.youtube.com/watch?v=hFPlGDKgiYc
 https://www.youtube.com/watch?v=H_g1w_Cf2bA
 https://www.youtube.com/watch?v=Hs5HLhovJHo&t=1500s
