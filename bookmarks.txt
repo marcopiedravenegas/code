@@ -1332,6 +1332,7 @@ https://bapco.com/products/sysmark-30/
 https://base64.sourceforge.net/
 https://basic-matrix-library.readthedocs.io/en/latest/
 https://basilisk-browser.org/
+https://bastiaanquast.com/
 https://bayesiancomputationbook.com/welcome.html
 https://bayesian.org/
 https://bayesian.org/project/degroot-prize/
@@ -2378,6 +2379,7 @@ https://cran.r-project.org/web/packages/animation/index.html
 https://cran.r-project.org/web/packages/arrow/index.html
 https://cran.r-project.org/web/packages/ARTool/index.html
 https://cran.r-project.org/web/packages/astrodatR/index.html
+https://cran.r-project.org/web/packages/attention/index.html
 https://cran.r-project.org/web/packages/available_packages_by_date.html
 https://cran.r-project.org/web/packages/available_packages_by_name.html
 https://cran.r-project.org/web/packages/aweSOM/index.html
@@ -2631,6 +2633,7 @@ https://cran.r-project.org/web/packages/tidyverse/index.html
 https://cran.r-project.org/web/packages/timeplyr/index.html
 https://cran.r-project.org/web/packages/tm/index.html
 https://cran.r-project.org/web/packages/torch/index.html
+https://cran.r-project.org/web/packages/transformer/index.html
 https://cran.r-project.org/web/packages/tree/index.html
 https://cran.r-project.org/web/packages/tsibble/index.html
 https://cran.r-project.org/web/packages/units/index.html
@@ -6775,6 +6778,7 @@ https://en.wikipedia.org/wiki/Basilisk_II
 https://en.wikipedia.org/wiki/Basilisk_(web_browser)
 https://en.wikipedia.org/wiki/Basis_function
 https://en.wikipedia.org/wiki/Basis_pursuit_denoising
+https://en.wikipedia.org/wiki/Bastiaan_Quast
 https://en.wikipedia.org/wiki/Bastion_host
 https://en.wikipedia.org/wiki/Batavi_(Germanic_tribe)
 https://en.wikipedia.org/wiki/Batch_normalization
@@ -24881,6 +24885,7 @@ https://github.com/boostorg/hana
 https://github.com/bpc-clone/bypass-paywalls-clean-filters
 https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/bpc-paywall-filter.txt
 https://github.com/bqplot/bqplot
+https://github.com/bquast
 https://github.com/bquast/rnn
 https://github.com/BrainJS/brain.js
 https://github.com/briansmith/ring
@@ -26182,6 +26187,7 @@ https://github.com/oracle/javavscode
 https://github.com/oracle/visualvm
 https://github.com/orientechnologies/orientdb
 https://github.com/osbuild/osbuild
+https://github.com/OscarKjell/text
 https://github.com/OscarKjell/text/
 https://github.com/oscarperpinan/rastervis
 https://github.com/OSGeo/GDAL
@@ -41300,6 +41306,7 @@ https://www.openstreetmap.org/
 https://www.opensuse.org/
 https://www.opensyllabus.org/
 https://www.open-telekom-cloud.com/
+https://www.opentext.com/
 https://www.openvas.org/
 https://www.openvswitch.org/
 https://www.openwall.com/
@@ -44138,6 +44145,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e
 https://www.youtube.com/playlist?list=PLqBYJxX9LhVa8do9gI5LK6QBnhT_cS01U
 https://www.youtube.com/playlist?list=PLqYmG7hTraZBy7J_4ynYPc0Ml1RUGcLmD
 https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc
+https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L
 https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
@@ -44184,6 +44192,7 @@ https://www.youtube.com/watch?v=9yjZpBq1XBE
 https://www.youtube.com/watch?v=a8zefJ_wAbQ
 https://www.youtube.com/watch?v=aCnN-eADR1o
 https://www.youtube.com/watch?v=ADBKdSCbmiM
+https://www.youtube.com/watch?v=AIiwuClvH6k
 https://www.youtube.com/watch?v=aircAruvnKk
 https://www.youtube.com/watch?v=AMlJ78-7rZ4
 https://www.youtube.com/watch?v=AW7ZHpKuqZg
