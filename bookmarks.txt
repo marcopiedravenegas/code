@@ -53,6 +53,7 @@ http://emath.fr/
 http://esp32.net/
 http://eulerarchive.maa.org/
 http://eulerarchive.maa.org/backup/E530.html
+http://factominer.free.fr/
 http://fluxbox.org/
 http://focm-society.org/
 http://focm-society.org/index.php
@@ -12258,6 +12259,7 @@ https://en.wikipedia.org/wiki/GeoMesa
 https://en.wikipedia.org/wiki/Geometric_algebra
 https://en.wikipedia.org/wiki/Geometrical_properties_of_polynomial_roots
 https://en.wikipedia.org/wiki/Geometric_analysis
+https://en.wikipedia.org/wiki/Geometric_data_analysis
 https://en.wikipedia.org/wiki/Geometric_distribution
 https://en.wikipedia.org/wiki/Geometric_function_theory
 https://en.wikipedia.org/wiki/Geometric_integrator
@@ -20424,6 +20426,7 @@ https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World
 https://en.wikipedia.org/wiki/Scott_Vanstone
 https://en.wikipedia.org/wiki/Scratch_(programming_language)
 https://en.wikipedia.org/wiki/Screening_(medicine)
+https://en.wikipedia.org/wiki/Scree_plot
 https://en.wikipedia.org/wiki/Scripps_College
 https://en.wikipedia.org/wiki/Scripting_language
 https://en.wikipedia.org/wiki/Script_theory
@@ -22511,6 +22514,7 @@ https://en.wikipedia.org/wiki/Topic-prominent_language
 https://en.wikipedia.org/wiki/TOPIX
 https://en.wikipedia.org/wiki/To_Play_the_King
 https://en.wikipedia.org/wiki/Topography
+https://en.wikipedia.org/wiki/Topological_data_analysis
 https://en.wikipedia.org/wiki/Topological_dynamics
 https://en.wikipedia.org/wiki/Topological_game
 https://en.wikipedia.org/wiki/Topologically_Integrated_Geographic_Encoding_and_Referencing
@@ -27905,6 +27909,7 @@ https://humanprogress.org/
 https://humanrightshistory.umich.edu/problems/disappearances/
 https://hunch.net/
 https://hund.io/
+https://husson.github.io/
 https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html
 https://hwurls.com/
 https://hydra.cc/
@@ -36730,6 +36735,7 @@ https://www.bell-labs.com/usr/dmr/www/odd.html
 https://www.benelux.int/nl/
 https://www.benevolent.com/
 https://www.benfrederickson.com/blog/
+https://www.benfrederickson.com/numerical-optimization/
 https://www.bennyapplebaum.sites.tau.ac.il/
 https://www.benryves.com/products/bbcbasic/
 https://www.bentley.com/
@@ -42085,6 +42091,7 @@ https://www.routledge.com/Dutch-A-Comprehensive-Grammar/Donaldson/p/book/9781138
 https://www.routledge.com/Elliptic-Curves-Number-Theory-and-Cryptography-Second-Edition/Washington/p/book/9781420071467
 https://www.routledge.com/Emirati-Arabic-A-Comprehensive-Grammar/Tsz-CheungLeung-Ntelitheos-AlKaabi/p/book/9780367220808
 https://www.routledge.com/Enumerative-Combinatorics/Charalambides/p/book/9780367396121
+https://www.routledge.com/Exploratory-Multivariate-Analysis-by-Example-Using-R/Husson-Le-Pages/p/book/9780367658021
 https://www.routledge.com/Extending-R/Chambers/p/book/9781498775717
 https://www.routledge.com/Feynman-And-Computation/Hey/p/book/9780813340395
 https://www.routledge.com/Feynman-Lectures-on-Computation-Anniversary-Edition/Hey/p/book/9780367857332
@@ -43098,6 +43105,7 @@ https://www.tandfonline.com/doi/abs/10.1080/14786440109462720
 https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098
 https://www.tandfonline.com/doi/abs/10.3200/JECE.36.3.249-260
 https://www.tandfonline.com/doi/abs/10.4169/074683409X475661
+https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913
 https://www.tandfonline.com/doi/full/10.1080/01611190902742467
 https://www.tandfonline.com/doi/full/10.1080/01611194.2012.713804
 https://www.tandfonline.com/doi/full/10.1080/01611194.2017.1357983
@@ -43196,6 +43204,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-spa
 https://www.taylorfrancis.com/books/mono/10.1201/b18653/adversarial-risk-analysis-david-banks-david-rios-insua-jesus-rios-aliaga
 https://www.taylorfrancis.com/books/mono/10.1201/b19331/algebraic-number-theory-fermat-last-theorem-ian-stewart-david-tall
 https://www.taylorfrancis.com/books/mono/10.1201/b19731/graphs-digraphs-linda-lesniak-ping-zhang-gary-chartrand
+https://www.taylorfrancis.com/books/mono/10.1201/b21874/exploratory-multivariate-analysis-example-using-francois-husson-sebastien-le-j%C3%A9r%C3%B4me-pag%C3%A8s
 https://www.taylorfrancis.com/books/mono/10.4324/9780203610732/polish-comprehensive-grammar-iwona-sadowska
 https://www.taylorfrancis.com/search?subject=SCCM
 https://www.taylorfrancis.com/search?subject=SCEC
