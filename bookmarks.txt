@@ -1356,6 +1356,7 @@ https://beginners.re/
 https://behind-the-screens.tv/
 https://bellard.org/
 https://bellard.org/libbf/
+https://bell-labs.co/who/jmc/pub.html
 https://bench.cr.yp.to/
 https://benchmark.clickhouse.com/
 https://benchmarkdotnet.org/
@@ -2764,6 +2765,7 @@ https://creativecommons.org/
 https://creativecommons.org/licenses/by/4.0/deed.en
 https://crimereads.com/
 https://crimereads.com/murder-in-the-mediterranean-crime-writing-on-corsica/
+https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/1158304/guid-4888b0b6-5b2a-472d-beb9-c16ab8c5770f-ASSET1.0.pdf
 https://criu.org/Main_Page
 https://cronokirby.com/
 https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/
@@ -4583,6 +4585,7 @@ https://docs.sciml.ai/NeuralPDE/stable/
 https://docs.sciml.ai/NonlinearSolve/stable/
 https://docs.sciml.ai/Optimization/stable/
 https://docs.scipy.org/doc/scipy/
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.roots_legendre.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html
 https://docs.scipy.org/doc/scipy/reference/integrate.html
 https://docs.scipy.org/doc/scipy/reference/optimize.html
@@ -4998,6 +5001,7 @@ https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2019.24
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2019.4
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2020.3
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2024.20
+https://drops.dagstuhl.de/storage/00lipics/lipics-vol145-approx-random2019/LIPIcs.APPROX-RANDOM.2019.10/LIPIcs.APPROX-RANDOM.2019.10.pdf
 https://dropshare.cloud/
 https://drpress.org/ojs/index.php/HSET/article/view/14620
 https://druid.apache.org/
@@ -8320,6 +8324,7 @@ https://en.wikipedia.org/wiki/Category:Statistical_analysis
 https://en.wikipedia.org/wiki/Category:Statistical_approximations
 https://en.wikipedia.org/wiki/Category:Statistical_classification
 https://en.wikipedia.org/wiki/Category:Statistical_data_sets
+https://en.wikipedia.org/wiki/Category:Statistical_data_types
 https://en.wikipedia.org/wiki/Category:Statistical_distance
 https://en.wikipedia.org/wiki/Category:Statistical_forecasting
 https://en.wikipedia.org/wiki/Category:Statistical_hypothesis_testing
@@ -15928,6 +15933,8 @@ https://en.wikipedia.org/wiki/Logistic_map
 https://en.wikipedia.org/wiki/Logistic_regression
 https://en.wikipedia.org/wiki/Logit
 https://en.wikipedia.org/wiki/Logjam_(computer_security)
+https://en.wikipedia.org/wiki/Log-linear_analysis
+https://en.wikipedia.org/wiki/Log-linear_model
 https://en.wikipedia.org/wiki/LogMeIn_Hamachi
 https://en.wikipedia.org/wiki/Logo_(programming_language)
 https://en.wikipedia.org/wiki/Logrank_test
@@ -16303,6 +16310,7 @@ https://en.wikipedia.org/wiki/Master_stability_function
 https://en.wikipedia.org/wiki/Master_System
 https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
 https://en.wikipedia.org/wiki/Mastodon_(social_network)
+https://en.wikipedia.org/wiki/Mat%C3%A9rn_covariance_function
 https://en.wikipedia.org/wiki/Matched_filter
 https://en.wikipedia.org/wiki/Matching_(graph_theory)
 https://en.wikipedia.org/wiki/Matching_(statistics)
@@ -21397,6 +21405,7 @@ https://en.wikipedia.org/wiki/Statistical_Abstract_of_the_United_States
 https://en.wikipedia.org/wiki/Statistical_assumption
 https://en.wikipedia.org/wiki/Statistical_classification
 https://en.wikipedia.org/wiki/Statistical_coupling_analysis
+https://en.wikipedia.org/wiki/Statistical_data_type
 https://en.wikipedia.org/wiki/Statistical_dispersion
 https://en.wikipedia.org/wiki/Statistical_distance
 https://en.wikipedia.org/wiki/Statistical_finance
@@ -23967,6 +23976,7 @@ https://epubs.siam.org/doi/10.1137/1029041
 https://epubs.siam.org/doi/10.1137/1035044
 https://epubs.siam.org/doi/10.1137/1035134
 https://epubs.siam.org/doi/10.1137/1116025
+https://epubs.siam.org/doi/10.1137/120889873
 https://epubs.siam.org/doi/10.1137/16M1080173
 https://epubs.siam.org/doi/10.1137/17M1136924
 https://epubs.siam.org/doi/10.1137/18M1165748
@@ -28179,6 +28189,7 @@ https://ieeexplore.ieee.org/document/87518
 https://ieeexplore.ieee.org/document/8779838
 https://ieeexplore.ieee.org/document/8811194
 https://ieeexplore.ieee.org/document/8822724
+https://ieeexplore.ieee.org/document/8913641
 https://ieeexplore.ieee.org/document/8999193
 https://ieeexplore.ieee.org/document/9055082
 https://ieeexplore.ieee.org/document/9103046
@@ -29738,6 +29749,7 @@ https://link.springer.com/article/10.1007/s10479-019-03380-2
 https://link.springer.com/article/10.1007/s10569-020-09993-1
 https://link.springer.com/article/10.1007/s10569-023-10139-2
 https://link.springer.com/article/10.1007/s10614-021-10119-4
+https://link.springer.com/article/10.1007/s10640-024-00844-3
 https://link.springer.com/article/10.1007/s10955-022-02871-0
 https://link.springer.com/article/10.1007/s11047-022-09913-2
 https://link.springer.com/article/10.1007/s11063-006-9013-x
@@ -29756,6 +29768,7 @@ https://link.springer.com/article/10.1007/s41870-017-0067-y
 https://link.springer.com/article/10.1007/s43681-024-00498-3
 https://link.springer.com/article/10.1023/A:1009726021843
 https://link.springer.com/article/10.1023/A:1010933404324
+https://link.springer.com/article/10.1023/A:1022318402393
 https://link.springer.com/article/10.1023/A:1022607331053
 https://link.springer.com/article/10.1038/328029a0
 https://link.springer.com/article/10.1038/s42256-021-00318-x
@@ -30088,6 +30101,7 @@ https://link.springer.com/book/10.1007/978-1-4939-1366-4
 https://link.springer.com/book/10.1007/978-1-4939-1711-2
 https://link.springer.com/book/10.1007/978-1-4939-7190-9
 https://link.springer.com/book/10.1007/978-1-4939-7369-9
+https://link.springer.com/book/10.1007/978-1-4939-7693-5
 https://link.springer.com/book/10.1007/978-1-4939-8847-1
 https://link.springer.com/book/10.1007/978-1-84628-246-1
 https://link.springer.com/book/10.1007/978-1-84628-622-3
@@ -30484,6 +30498,7 @@ https://link.springer.com/book/10.1007/978-3-642-64927-1
 https://link.springer.com/book/10.1007/978-3-642-71243-2
 https://link.springer.com/book/10.1007/978-3-642-74303-0
 https://link.springer.com/book/10.1007/978-3-642-75329-9
+https://link.springer.com/book/10.1007/978-3-642-78817-8
 https://link.springer.com/book/10.1007/978-3-642-83189-8
 https://link.springer.com/book/10.1007/978-3-642-85527-6
 https://link.springer.com/book/10.1007/978-3-642-86934-1
@@ -30636,12 +30651,15 @@ https://link.springer.com/book/10.1007/b98888
 https://link.springer.com/book/10.1007/BFb0014649
 https://link.springer.com/book/9780230249318
 https://link.springer.com/book/9780387310732
+https://link.springer.com/book/9780387985039
 https://link.springer.com/book/9780817649524
 https://link.springer.com/book/9783031414398
 https://link.springer.com/book/9783031421433
+https://link.springer.com/book/9783031558542
 https://link.springer.com/book/9783540345633
 https://link.springer.com/book/9798868801983
 https://link.springer.com/book/9798868802454
+https://link.springer.com/chapter/10.1007/0-387-29645-x_3
 https://link.springer.com/chapter/10.1007/10721064_26
 https://link.springer.com/chapter/10.1007/11679219_15
 https://link.springer.com/chapter/10.1007/11745853_25
@@ -32195,6 +32213,7 @@ https://numpy.org/doc/stable/
 https://numpy.org/doc/stable/reference/arrays.html
 https://numpy.org/doc/stable/reference/generated/numpy.lib.format.html
 https://numpy.org/doc/stable/reference/generated/numpy.unique.html
+https://numpy.org/doc/stable/reference/routines.polynomials.legendre.html
 https://numpy.org/neps/
 https://nunit.org/
 https://nuspell.github.io/
@@ -32288,6 +32307,7 @@ https://ojs.aaai.org/index.php/AAAI/article/view/6870
 https://okfn.org/
 https://okfn.org/en/
 https://okmij.org/ftp/Denotational.html
+https://okmij.org/ftp/DreamOS.html
 https://olap.com/
 https://omeka.org/
 https://omnetpp.org/
@@ -32372,6 +32392,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100006
 https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3043
 https://onlinelibrary.wiley.com/doi/full/10.1111/j.1471-1842.2009.00848.x
 https://onlinelibrary.wiley.com/doi/full/10.1609/aimag.v20i2.1462
+https://onlinelibrary.wiley.com/doi/full/10.3982/TE3675
 https://onlinelibrary.wiley.com/journal/15222608
 https://onlinelibrary.wiley.com/series/1345
 https://online.stanford.edu/
@@ -32535,6 +32556,7 @@ http://sophia.systems/
 https://öpnvkarte.de/
 https://opr.princeton.edu/
 https://optimization-online.org/
+https://optimization-online.org/2014/10/4595/
 https://optimization-online.org/2021/12/8728/
 https://optometry.berkeley.edu/
 https://optometry.berkeley.edu/perception-as-inference-the-brain-and-computation/
@@ -33267,6 +33289,8 @@ https://polymake.org/doku.php
 https://polymake.org/doku.php/start
 https://polytechnique.hal.science/
 https://polytechnique.hal.science/hal-00760976
+https://pomax.github.io/bezierinfo/
+https://pomax.github.io/bezierinfo/legendre-gauss.html
 https://popcon.devuan.org/
 https://popcouncil.org/
 https://popol-mayab.org/2017/08/28/huracan/
@@ -33329,6 +33353,7 @@ https://practical.engineering/
 https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult
 https://practical-scheme.net/gauche/
 https://practice.rs/why-exercise.html
+https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/
 https://prashant.at/files/mismorphism.pdf
 https://predictioncenter.org/
 https://predictprotein.org/
@@ -34196,6 +34221,7 @@ https://rstudio.github.io/shinydashboard/
 https://rstudio.github.io/tufte/
 https://rstudio.r-universe.dev/packages
 https://rsync.samba.org/
+https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2019/he-tist-19.pdf
 https://r-text.org/
 https://r-text.org/articles/Extended_Installation_Guide.html
 https://r-text.org/articles/Word_embeddings.html
@@ -35146,6 +35172,7 @@ https://stat.ethz.ch/R-manual/R-devel/library/utils/html/combn.html
 https://stat.ethz.ch/R-manual/R-devel/library/utils/html/dataentry.html
 https://stat.ethz.ch/R-manual/R-devel/library/utils/html/download.file.html
 https://stat.ethz.ch/R-manual/R-patched/doc/html/
+https://stat.ethz.ch/R-manual/R-patched/RHOME/library/stats/html/optim.html
 https://stat.fi/
 https://stat.fi/en/statistical-data
 https://stat.fi/index_en.html
@@ -36755,6 +36782,7 @@ https://www.bezkoder.com/node-js-jwt-authentication-mysql/
 https://www.bezkoder.com/react-hooks-jwt-auth/
 https://www.bfna.org/digital-world/infographic-ai-research-and-development-in-the-us-eu-and-china-4mk29rb8ig/
 https://www.bfs.admin.ch/bfs/de/home.html
+https://www.bfwpub.com/high-school/ca/product/The-Practice-of-Statistics/p/1319113338
 https://www.bibcitation.com/
 https://www.bibguru.com/
 https://www.bibliography.com/
@@ -39759,6 +39787,7 @@ https://www.issn.org/services/online-services/access-to-the-ltwa/
 https://www.it4dl.org/
 https://www.ithaka.org/
 https://www.itl.nist.gov/div898/handbook/
+https://www.itl.nist.gov/div898/handbook/eda/eda.htm
 https://www.itl.nist.gov/div898/handbook/index.htm
 https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd44.htm
 https://www.itl.nist.gov/div898/handbook/prc/section4/prc42.htm
@@ -40456,8 +40485,12 @@ https://www.mathworks.com/help/symbolic/heaviside.html
 https://www.mathworks.com/help/symbolic/sym.functionalderivative.html
 https://www.mathworks.com/matlabcentral/
 https://www.mathworks.com/matlabcentral/fileexchange/37976-numerical-computing-with-matlab
+https://www.mathworks.com/matlabcentral/fileexchange/37977-experiments-with-matlab
+https://www.mathworks.com/matlabcentral/fileexchange/4540-legendre-gauss-quadrature-weights-and-nodes
+https://www.mathworks.com/matlabcentral/fileexchange/899-lagrange-polynomial-interpolation
 https://www.mathworks.com/moler/chapters.html
 https://www.mathworks.com/moler/exm/chapters.html
+https://www.mathworks.com/moler/exm.html
 https://www.mathworks.com/moler.html
 https://www.mathworks.com/moler/index_ncm.html
 https://www.mathworks.com/products/curvefitting.html
@@ -42063,6 +42096,7 @@ https://www.routledge.com/Authentication-Codes-and-Combinatorial-Designs/Pei/p/b
 https://www.routledge.com/Bayesian-Data-Analysis/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955
 https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368
 https://www.routledge.com/Chapman--HallCRC-Applied-Algorithms-and-Data-Structures-series/book-series/CHAPPALGDAT
+https://www.routledge.com/Chapman--HallCRC-Computer-Science--Data-Analysis/book-series/CHCOSCDAANA
 https://www.routledge.com/Chapman--HallCRC-Cryptography-and-Network-Security-Series/book-series/CHCRYNETSEC
 https://www.routledge.com/Chapman--HallCRC-Data-Mining-and-Knowledge-Discovery-Series/book-series/CHDAMINODIS
 https://www.routledge.com/Chapman--HallCRC-Handbooks-of-Modern-Statistical-Methods/book-series/CHHANMODSTA
@@ -43075,6 +43109,7 @@ https://www.tandfonline.com/doi/abs/10.1080/00029890.1977.11994420?journalCode=u
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1995.11990548
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1999.12005019
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1975.10477402
+https://www.tandfonline.com/doi/abs/10.1080/00031305.1980.10482706
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1983.10482729
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1987.10475510
 https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375990
@@ -43191,6 +43226,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781315275499/survey-modern-alg
 https://www.taylorfrancis.com/books/mono/10.1201/9781315282497/cryptography-douglas-robert-stinson-maura-paterson
 https://www.taylorfrancis.com/books/mono/10.1201/9781315371993/introduction-coding-theory-jurgen-bierbrauer
 https://www.taylorfrancis.com/books/mono/10.1201/9781315381305/extending-john-chambers
+https://www.taylorfrancis.com/books/mono/10.1201/9781315382111/exploratory-data-analysis-using-ronald-pearson
 https://www.taylorfrancis.com/books/mono/10.1201/9781351072304/graphical-methods-data-analysis-chambers
 https://www.taylorfrancis.com/books/mono/10.1201/9781351133036/introduction-modern-cryptography-yehuda-lindell-jonathan-katz
 https://www.taylorfrancis.com/books/mono/10.1201/9781351190398/modelling-ordinary-differential-equations-alfio-borz%C3%AC
