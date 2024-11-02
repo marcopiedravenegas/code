@@ -29175,6 +29175,7 @@ https://lemire.me/blog/2022/06/28/looking-at-assembly-code-with-gdb/
 https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/
 https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/
 https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/
+https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/
 https://lemire.me/en/
 https://lemmy.cafe/
 https://lemmy.world/
