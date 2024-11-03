@@ -1241,6 +1241,7 @@ https://authors.acm.org/newsletters/sig-newsletters-list
 https://authors.ietf.org/
 https://authpass.app/
 https://authp.github.io/
+https://auth.wiki/
 https://autobahn.security/
 https://automapper.org/
 https://automatetheboringstuff.com/
@@ -30355,6 +30356,7 @@ https://link.springer.com/book/10.1007/978-3-031-48910-5
 https://link.springer.com/book/10.1007/978-3-031-48956-3
 https://link.springer.com/book/10.1007/978-3-031-51436-4
 https://link.springer.com/book/10.1007/978-3-031-53744-8
+https://link.springer.com/book/10.1007/978-3-031-55964-8
 https://link.springer.com/book/10.1007/978-3-031-60099-9
 https://link.springer.com/book/10.1007/978-3-0346-0347-8
 https://link.springer.com/book/10.1007/978-3-0348-0493-6
@@ -30710,6 +30712,7 @@ https://link.springer.com/book/9780230249318
 https://link.springer.com/book/9780387310732
 https://link.springer.com/book/9780387985039
 https://link.springer.com/book/9780817649524
+https://link.springer.com/book/9781071641316
 https://link.springer.com/book/9783031414398
 https://link.springer.com/book/9783031421433
 https://link.springer.com/book/9783031558542
@@ -42942,6 +42945,7 @@ https://www.springer.com/journal/500
 https://www.springer.com/series/0136
 https://www.springer.com/series/0138
 https://www.springer.com/series/0223
+https://www.springer.com/series/0602
 https://www.springer.com/series/0666
 https://www.springer.com/series/0692
 https://www.springer.com/series/10128
