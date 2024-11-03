@@ -482,6 +482,12 @@ https://analysis-situs.math.cnrs.fr/
 https://analysis-situs.math.cnrs.fr/Topologie-des-courbes-algebriques-planes-reelles-413.html
 https://analyticsindiamag.com/angels-demons-of-ai/
 https://analyticsindiamag.com/the-angels-demons-of-ai-part-ii/
+https://analytics.opensyllabus.org/singleton/fields?id=12
+https://analytics.opensyllabus.org/singleton/fields?id=24
+https://analytics.opensyllabus.org/singleton/fields?id=37
+https://analytics.opensyllabus.org/singleton/fields?id=55
+https://analytics.opensyllabus.org/singleton/fields?id=56
+https://analytics.opensyllabus.org/singleton/fields?id=63
 https://andrea.corbellini.name/
 https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
 https://andrewfiala.com/
@@ -755,6 +761,7 @@ https://artofelectronics.net/
 https://artofproblemsolving.com/
 https://artofproblemsolving.com/wiki/index.php/Displacement
 https://artofproblemsolving.com/wiki/index.php/Inequality
+https://artofstat.com/
 https://artsci.washington.edu/academics/natural-sciences/statistics
 https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
 https://arxiv.org/
@@ -29380,6 +29387,7 @@ https://library.lol/main/43CADA32A445B5C0321BA21F2A95D3D3
 https://library.lol/main/43DA771AA5EDDDB72E06FA91E54C8F04
 https://library.lol/main/43DC9E0485C6BB8D1F4A1DA4187FBAB4
 https://library.lol/main/452D247F10F10F3D402E98B16383461B
+https://library.lol/main/4584B4ED34F06E7ECE6F725B12010601
 https://library.lol/main/45945AB90D59A2714DDBA72C08B45075
 https://library.lol/main/45C1F28478F2F17455174A458C2F4D1C
 https://library.lol/main/46E041331A1EAA2EF424986236302DE8
@@ -29398,6 +29406,7 @@ https://library.lol/main/4D58F8B33F122EBE9F13B10B0151B18A
 https://library.lol/main/4D80A1875A50D1F0C11108FE95655BB2
 https://library.lol/main/4D84BB2C3E37723EE4E64E678535CA78
 https://library.lol/main/4DA5C40EF16A9C36A02C43012C8285C0
+https://library.lol/main/4DBD7C73FC0BCBFBE68054E8B8A4E613
 https://library.lol/main/4DF02F6D9132FF7D2CE2F23326ADED4A
 https://library.lol/main/4E13375403978EACD9C8DCE892251CDB
 https://library.lol/main/4E273160396C8E82C11095462F1A0B7D
@@ -29484,6 +29493,7 @@ https://library.lol/main/781D70C4F102C4A5CD6A6EE292C47E6F
 https://library.lol/main/79F6B57CABFAFB96D335F9E4B706EC1A
 https://library.lol/main/7AAA30329983414495F1665D208D9290
 https://library.lol/main/7CC0931A4EA127A12303796E6A125703
+https://library.lol/main/7DC5DE92293F404B6E3205399CF1CE97
 https://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E
 https://library.lol/main/7F824382FBD3C78C10DAACE4BB9EFC8C
 https://library.lol/main/8029C566492118E1BAEBC10A7D9C1AB2
@@ -29493,6 +29503,7 @@ https://library.lol/main/81CB9A7661A68294614FD0B7673A634C
 https://library.lol/main/82519866195E43D2B29B514FC3A9AB4C
 https://library.lol/main/82CB888A59B8719DCBD3CEA310BFCA40
 https://library.lol/main/83CBAA56B6AED6341C1C1F7FEFBA46F4
+https://library.lol/main/83F217819DCCA79BB34F65FC1E4FF33E
 https://library.lol/main/8555F371EBF8121F150A3653EE998E39
 https://library.lol/main/859CE1D1762365BBF4AE24E61D41C21E
 https://library.lol/main/85A32AFF902FFB959A00745B02D45494
@@ -29511,11 +29522,14 @@ https://library.lol/main/8BAFCD6BFFD9E997613C9E4095826BB2
 https://library.lol/main/8BB1FAE88BC38FF35C5A1F4594A4428A
 https://library.lol/main/8DF05EDCC8630458375A9C839A14004F
 https://library.lol/main/8E085025CA9A5D0C89FE0B8B364D8DF0
+https://library.lol/main/8E6E87C83F1DB4BAF4AEEF4CA28CA247
+https://library.lol/main/8F1EBA8FBD3E57AD8A5C62823B4B210D
 https://library.lol/main/8F509404B12C5E01D351111BCFF67638
 https://library.lol/main/8F6D15F965BAC83D2F6F0BB4982B5802
 https://library.lol/main/9006E3C672726689767509B65C889202
 https://library.lol/main/903C95BF2ADB50ED5E90412C5906B515
 https://library.lol/main/90DB32D070CFB70CA617E655D5C35529
+https://library.lol/main/91324D64818242F6AB080D386D101B0F
 https://library.lol/main/9146C2A1290455288676A7AD6A1B1D5B
 https://library.lol/main/956100DEC00E6675A69EA5D34A968A8A
 https://library.lol/main/9562ACB7DC72B96813125BA55CFF51DF
@@ -29587,6 +29601,7 @@ https://library.lol/main/C158BAA4EE4524FDAC1DAB96A7499FAF
 https://library.lol/main/C200228A7B26C34546D51418D5D43DAB
 https://library.lol/main/C32A7D778CEE246182FEB5937364885A
 https://library.lol/main/C385278907BA764EBE81CEBD0338F955
+https://library.lol/main/C3D0A99F12D126742FF1FA7CC984472C
 https://library.lol/main/C5469066E3E18CB5E74CD8D46F9B6EBE
 https://library.lol/main/C59DA252633E91D65AE25BD5F998372A
 https://library.lol/main/C65994DA217661D11D6EE26067B4CDFE
@@ -29675,6 +29690,7 @@ https://library.lol/main/FD761462D750BA64A0B7A06DCA4014B3
 https://library.lol/main/FE16E6D2073F0EB639B158441837FACE
 https://library.lol/main/FE72C0AFB3DEC45C1781D471D39BA3B4
 https://library.lol/main/FE9038B48C21C75985F10D8CE6AC44AC
+https://library.lol/main/FED4C16A6863C53A8A1C04FFD8A3D4C3
 https://library.wmo.int/index.php?lvl=notice_display&id=5571
 https://library.wolfram.com/infocenter/Conferences/7518/Macalester_talk.txt
 https://libreboot.org/
@@ -39648,6 +39664,7 @@ https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-T
 https://www.inforadio.de/
 https://www.informatik.uni-kiel.de/~mh/curry/curry-lang.org/
 https://www.informationweek.com/
+https://www.informit.com/
 https://www.informit.com/articles/article.aspx?p=1193856
 https://www.informit.com/authors/bio/1780c0c8-bf50-4538-926f-6d5d198adb23
 https://www.informit.com/authors/bio/6f0c74ca-1c47-431e-889e-cb87bff2a989
@@ -39680,6 +39697,7 @@ https://www.informit.com/store/go-programming-language-9780134190440
 https://www.informit.com/store/hackers-delight-9780321842688
 https://www.informit.com/store/index.aspx?st=60370
 https://www.informit.com/store/information-privacy-engineering-and-privacy-by-design-9780135302156
+https://www.informit.com/store/jvm-performance-engineering-inside-openjdk-and-the-9780134659879
 https://www.informit.com/store/modern-security-operations-center-9780135619858
 https://www.informit.com/store/network-security-private-communication-in-a-public-9780136643609
 https://www.informit.com/store/old-new-thing-practical-development-throughout-the-9780321440303
@@ -41501,9 +41519,12 @@ https://www.pdf-tools.com/customer-stories/
 https://www.pdf-tools.com/products/conversion/conversion-service/
 https://www.pdl.cmu.edu/index.shtml
 https://www.pdos.org/
+https://www.pearson.com/en-gb/subject-catalog/p/statistics-the-art-and-science-of-learning-from-data-global-edition/P200000008773/9781292444796
 https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350
 https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427/9780137981076
 https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214
+https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-i-fundamentals/P200000012511/9780135328484
+https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-ii-advanced-features/P200000013004/9780135371732
 https://www.pearson.com/en-us/subject-catalog/p/data-abstraction--problem-solving-with-c-walls-and-mirrors/P200000003514/9780137516759
 https://www.pearson.com/en-us/subject-catalog/p/digital-design-principles-and-practices/P200000003417/9780137518791
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224
@@ -41511,9 +41532,13 @@ https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-processing-estimation-theory-volume-1/P200000009271/9780133457117
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-signal-processing-detection-theory-volume-2/P200000009354/9780135041352
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-signal-processing-volume-3/P200000009204/9780134878409
+https://www.pearson.com/en-us/subject-catalog/p/jvm-performance-engineering-inside-the-openjdk-hotspot-vm/P200000000120/9780134659879
 https://www.pearson.com/en-us/subject-catalog/p/mathematical-analysis-a-modern-approach-to-advanced-calculus/P200000006077/9780201002881
 https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003295/9780137618880
+https://www.pearson.com/en-us/subject-catalog/p/precalculus/P200000011591
+https://www.pearson.com/en-us/subject-catalog/p/probability--statistics-for-engineers--scientists/P200000007119/9780137273546
 https://www.pearson.com/en-us/subject-catalog/p/signals-and-systems/P200000003155/9780138229429
+https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus-early-transcendentals/P200000007104/9780137559824
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus/P200000007103/9780137616077
 https://www.pearson.com/en-us/subject-catalog/p/topology-classic-version/P200000006299/9780137848669
 https://www.peeringdb.com/
