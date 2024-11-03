@@ -42198,6 +42198,7 @@ https://www.routledge.com/A-History-of-Cyber-Security-Attacks-1980-to-Present/Mi
 https://www.routledge.com/Algebraic-Curves-in-Cryptography/Ling-Wang-Xing/p/book/9781138381414
 https://www.routledge.com/Algebraic-Number-Theory-and-Fermats-Last-Theorem/Stewart-Tall/p/book/9780367658717
 https://www.routledge.com/Algorithmic-Cryptanalysis/Joux/p/book/9781420070026
+https://www.routledge.com/Analysis-of-Categorical-Data-with-R/Bilder-Loughin/p/book/9780367553234
 https://www.routledge.com/An-Introduction-to-Number-Theory-with-Cryptography/Kraft-Washington/p/book/9781032476353
 https://www.routledge.com/An-Introduction-to-Number-Theory-with-Cryptography/Kraft-Washington/p/book/9781138063471
 https://www.routledge.com/An-Introduction-to-the-Bootstrap/Efron-Tibshirani/p/book/9780412042317
@@ -42207,6 +42208,8 @@ https://www.routledge.com/A-Survey-of-Modern-Algebra/Birkhoff-Mac-Lane/p/book/97
 https://www.routledge.com/Authentication-Codes-and-Combinatorial-Designs/Pei/p/book/9780367391249
 https://www.routledge.com/Bayesian-Data-Analysis/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955
 https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368
+https://www.routledge.com/Bayes-Rules-An-Introduction-to-Applied-Bayesian-Modeling/Johnson-Ott-Dogucu/p/book/9780367255398
+https://www.routledge.com/Beyond-Multiple-Linear-Regression-Applied-Generalized-Linear-Models-And-Multilevel-Models-in-R/Roback-Legler/p/book/9780367680442
 https://www.routledge.com/Chapman--HallCRC-Applied-Algorithms-and-Data-Structures-series/book-series/CHAPPALGDAT
 https://www.routledge.com/Chapman--HallCRC-Computer-Science--Data-Analysis/book-series/CHCOSCDAANA
 https://www.routledge.com/Chapman--HallCRC-Cryptography-and-Network-Security-Series/book-series/CHCRYNETSEC
@@ -42216,6 +42219,7 @@ https://www.routledge.com/Chapman-HallCRC-Mathematics-Series/book-series/CHMATHE
 https://www.routledge.com/Chapman--HallCRC-Monographs-on-Statistics-and-Applied-Probability/book-series/CHMONSTAAPP
 https://www.routledge.com/Chapman--HallCRC-Textbooks-in-Computing/book-series/CANDHTEXCOMSER
 https://www.routledge.com/Chapman--HallCRC-Texts-in-Statistical-Science/book-series/CHTEXSTASCI
+https://www.routledge.com/Chapman-HallCRCTexts-in-Statistical-Science/book-series/CHTEXSTASCI
 https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER
 https://www.routledge.com/Classical-Electrodynamics/Milton-Schwinger/p/book/9780367502072
 https://www.routledge.com/Classification-and-Regression-Trees/Breiman-Friedman-Stone-Olshen/p/book/9780412048418
@@ -42251,8 +42255,10 @@ https://www.routledge.com/Feynman-Lectures-on-Computation-Anniversary-Edition/He
 https://www.routledge.com/Feynman-Lectures-On-Gravitation/Feynman-Morinigo-Wagner-Hatfield-Pines/p/book/9780813340388
 https://www.routledge.com/Finnish-A-Comprehensive-Grammar/Karlsson/p/book/9781138821040
 https://www.routledge.com/Frontiers-in-Physics/book-series/FRONTIERSPHYS
+https://www.routledge.com/Fundamentals-of-Mathematical-Statistics/Lauritzen/p/book/9781032223827
 https://www.routledge.com/Gaussian-Markov-Random-Fields-Theory-and-Applications/Rue-Held/p/book/9781584884323
 https://www.routledge.com/Generalized-Additive-Models/Hastie-Tibshirani/p/book/9780412343902
+https://www.routledge.com/Generalized-Linear-Mixed-Models-Modern-Concepts-Methods-and-Applications/Stroup-Ptukhina-Garai/p/book/9781498755566
 https://www.routledge.com/Generalized-Linear-Models/McCullagh-Nelder/p/book/9780412317606
 https://www.routledge.com/go/chapman-hall
 https://www.routledge.com/go/the-r-series/
@@ -42274,6 +42280,7 @@ https://www.routledge.com/Introduction-to-Modern-Cryptography/Katz-Lindell/p/boo
 https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247
 https://www.routledge.com/Kernel-Smoothing/Wand-Jones/p/book/9780412552700
 https://www.routledge.com/Korean-A-Comprehensive-Grammar/Yeon-Brown/p/book/9781138064492
+https://www.routledge.com/Linear-Models-with-R/Faraway/p/book/9781032583983
 https://www.routledge.com/Lithuanian-A-Comprehensive-Grammar/Ramoniene-Pribusauskaite-Ramonaite-Vilkiene/p/book/9781138063617
 https://www.routledge.com/Markov-Models--Optimization/Davis/p/book/9780412314100
 https://www.routledge.com/Mathematical-Statistics-Basic-Ideas-and-Selected-Topics-Volume-I-Second/Bickel-Doksum/p/book/9781498723800
@@ -42281,6 +42288,7 @@ https://www.routledge.com/Mathematical-Theory-of-Optimal-Processes/Pontryagin/p/
 https://www.routledge.com/mathematics-statistics/advanced-mathematics/mathematical-logic/cryptology
 https://www.routledge.com/mathematics-statistics/statistics-probability
 https://www.routledge.com/Nonlinear-Dynamics-and-Chaos-With-Applications-to-Physics-Biology-Chemistry-and-Engineering/Strogatz/p/book/9780367026509
+https://www.routledge.com/Nonparametric-Statistical-Methods-Using-R/Kloke-McKean/p/book/9780367651350
 https://www.routledge.com/Numerical-Methods-and-Optimization-An-Introduction/Butenko-Pardalos/p/book/9781466577770
 https://www.routledge.com/our-products/book-series?letter=C
 https://www.routledge.com/our-products/book-series?letter=R
@@ -42297,6 +42305,7 @@ https://www.routledge.com/Security-without-Obscurity-A-Guide-to-Cryptographic-Ar
 https://www.routledge.com/Security-Without-Obscurity-A-Guide-to-PKI-Operations/Stapleton-Epstein/p/book/9781032545257
 https://www.routledge.com/Social-History-of-Europe/book-series/PEASHEU
 https://www.routledge.com/Spatial-Data-Science-With-Applications-in-R/Pebesma-Bivand/p/book/9781138311183
+https://www.routledge.com/Spatio-Temporal-Methods-in-Environmental-Epidemiology-with-R/Shaddick-Zidek-Schmidt/p/book/9781032397818
 https://www.routledge.com/Spatio-Temporal-Statistics-with-R/Wikle-Zammit-Mangion-Cressie/p/book/9781138711136
 https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036
 https://www.routledge.com/Statistical-Inference/Silvey/p/book/9780412138201
@@ -42304,6 +42313,7 @@ https://www.routledge.com/Statistical-Learning-with-Sparsity-The-Lasso-and-Gener
 https://www.routledge.com/Statistical-Models-in-S/Chambers-Hastie/p/book/9780412830402
 https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919
 https://www.routledge.com/Statistical-Theory-A-Concise-Introduction/Abramovich-Ritov/p/book/9781032007458
+https://www.routledge.com/Stochastic-Processes-with-R-An-Introduction/Korosteleva/p/book/9781032154732
 https://www.routledge.com/Techniques-for-Designing-and-Analyzing-Algorithms/Stinson/p/book/9780367228897
 https://www.routledge.com/Textbooks-in-Mathematics/book-series/CANDHTEXBOOMTH
 https://www.routledge.com/The-BUGS-Book-A-Practical-Introduction-to-Bayesian-Analysis/Lunn-Jackson-Best-Thomas-Spiegelhalter/p/book/9781584888499
@@ -42312,6 +42322,7 @@ https://www.routledge.com/The-Control-Handbook-Control-System-Fundamentals-Secon
 https://www.routledge.com/The-Control-Handbook-three-volume-set/Levine/p/book/9781420073669
 https://www.routledge.com/The-Image-Processing-Handbook/Russ-Neal/p/book/9781138747494
 https://www.routledge.com/The-Theory-of-the-Design-of-Experiments/Cox-Reid/p/book/9781584881957
+https://www.routledge.com/Time-Series-for-Data-Science-Analysis-and-Forecasting/Woodward-Sadler-Robertson/p/book/9780367543891
 https://www.routledge.com/Time-Series-Models-In-econometrics-finance-and-other-fields/Cox-Hinkley-Barndorff-Nielsen/p/book/9780412729300
 https://www.routledge.com/Turkish-A-Comprehensive-Grammar/Goksel-Kerslake/p/book/9781138350533
 https://www.r-pkg.org/
@@ -43320,6 +43331,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780203750940/inference-asympto
 https://www.taylorfrancis.com/books/mono/10.1201/9780203753781/generalized-additive-models-hastie
 https://www.taylorfrancis.com/books/mono/10.1201/9780429029608/statistical-rethinking-richard-mcelreath
 https://www.taylorfrancis.com/books/mono/10.1201/9780429246593/introduction-bootstrap-bradley-efron-tibshirani
+https://www.taylorfrancis.com/books/mono/10.1201/9780429288340/bayes-rules-alicia-johnson-miles-ott-mine-dogucu
 https://www.taylorfrancis.com/books/mono/10.1201/9780429295225/g%C3%B6del-theorem-torkel-franz%C3%A9n
 https://www.taylorfrancis.com/books/mono/10.1201/9780429398490/nonlinear-dynamics-chaos-steven-strogatz
 https://www.taylorfrancis.com/books/mono/10.1201/9780429466335/handbook-applied-cryptography-alfred-menezes-kenneth-rosen-scott-vanstone-paul-van-oorschot
@@ -43332,8 +43344,10 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-alg
 https://www.taylorfrancis.com/books/mono/10.1201/9781003081845/secure-data-science-bhavani-thuraisingham-murat-kantarcioglu-latifur-khan
 https://www.taylorfrancis.com/books/mono/10.1201/9781003142331/contemporary-abstract-algebra-joseph-gallian
 https://www.taylorfrancis.com/books/mono/10.1201/9781003146216/anova-mixed-models-lukas-meier
+https://www.taylorfrancis.com/books/mono/10.1201/9781003244288/stochastic-processes-olga-korosteleva
 https://www.taylorfrancis.com/books/mono/10.1201/9781003287292/computational-mathematics-dimitrios-mitsotakis
 https://www.taylorfrancis.com/books/mono/10.1201/9781003398820/pen-paper-introduction-statistics-antonio-marco
+https://www.taylorfrancis.com/books/mono/10.1201/9781003456285/statistical-inference-roger-berger-george-casella
 https://www.taylorfrancis.com/books/mono/10.1201/9781003461289/graphs-digraphs-gary-chartrand-heather-jordon-vincent-vatter-ping-zhang
 https://www.taylorfrancis.com/books/mono/10.1201/9781003484561/advanced-linear-algebra-nicholas-loehr
 https://www.taylorfrancis.com/books/mono/10.1201/9781315144726/universal-computer-martin-davis
