@@ -6001,6 +6001,7 @@ https://en.wikipedia.org/wiki/Amazon_SageMaker
 https://en.wikipedia.org/wiki/Amazon_SimpleDB
 https://en.wikipedia.org/wiki/Amazon_Web_Services
 https://en.wikipedia.org/wiki/Ambient_authority
+https://en.wikipedia.org/wiki/Ambient_music
 https://en.wikipedia.org/wiki/AMD
 https://en.wikipedia.org/wiki/Amdahl%27s_law
 https://en.wikipedia.org/wiki/AMD_Am29000
@@ -8707,6 +8708,7 @@ https://en.wikipedia.org/wiki/Chengyu
 https://en.wikipedia.org/wiki/Chennai
 https://en.wikipedia.org/wiki/Chentsov%27s_theorem
 https://en.wikipedia.org/wiki/Cherenkov_detector
+https://en.wikipedia.org/wiki/Chernobyl_(miniseries)
 https://en.wikipedia.org/wiki/Chernoff_bound
 https://en.wikipedia.org/wiki/Cherry_AG
 https://en.wikipedia.org/wiki/Cherven_Cities
@@ -9952,6 +9954,7 @@ https://en.wikipedia.org/wiki/Darcs
 https://en.wikipedia.org/wiki/Daredevils_of_Sassoun
 https://en.wikipedia.org/wiki/Dark_academia
 https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
+https://en.wikipedia.org/wiki/Dark_ambient
 https://en.wikipedia.org/wiki/Dark_Avenger
 https://en.wikipedia.org/wiki/Darkness_at_Noon
 https://en.wikipedia.org/wiki/Dark_Passion_Play
@@ -10636,6 +10639,7 @@ https://en.wikipedia.org/wiki/Donald_Maclean_(spy)
 https://en.wikipedia.org/wiki/Donald_Michie
 https://en.wikipedia.org/wiki/Don_Coppersmith
 https://en.wikipedia.org/wiki/Donghak
+https://en.wikipedia.org/wiki/Donnie_Darko
 https://en.wikipedia.org/wiki/Don_Woods_(programmer)
 https://en.wikipedia.org/wiki/Dooble
 https://en.wikipedia.org/wiki/Doom_metal
@@ -10677,6 +10681,7 @@ https://en.wikipedia.org/wiki/Drama_theory
 https://en.wikipedia.org/wiki/DR-DOS
 https://en.wikipedia.org/wiki/Dream_(character)
 https://en.wikipedia.org/wiki/Dream_pop
+https://en.wikipedia.org/wiki/Dreampunk
 https://en.wikipedia.org/wiki/Dremel_(software)
 https://en.wikipedia.org/wiki/Dresden_Codex
 https://en.wikipedia.org/wiki/Drew_Fudenberg
@@ -10713,6 +10718,7 @@ https://en.wikipedia.org/wiki/Dulles_Technology_Corridor
 https://en.wikipedia.org/wiki/Dulong%E2%80%93Petit_law
 https://en.wikipedia.org/wiki/Dummy_variable_(statistics)
 https://en.wikipedia.org/wiki/Duncan_J._Watts
+https://en.wikipedia.org/wiki/Dune_(1984_film)
 https://en.wikipedia.org/wiki/Dune_(2021_film)
 https://en.wikipedia.org/wiki/Dune_(franchise)
 https://en.wikipedia.org/wiki/Dune:_House_Atreides
@@ -13964,6 +13970,7 @@ https://en.wikipedia.org/wiki/Interrupts_in_65xx_processors
 https://en.wikipedia.org/wiki/Interrupt_vector_table
 https://en.wikipedia.org/wiki/Intersection_(geometry)
 https://en.wikipedia.org/wiki/Intersection_type
+https://en.wikipedia.org/wiki/Interstellar_(film)
 https://en.wikipedia.org/wiki/Intertemporal_equilibrium
 https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone
 https://en.wikipedia.org/wiki/Interval_arithmetic
@@ -15318,6 +15325,7 @@ https://en.wikipedia.org/wiki/List_of_airline_mergers_and_acquisitions
 https://en.wikipedia.org/wiki/List_of_algebraic_coding_theory_topics
 https://en.wikipedia.org/wiki/List_of_algorithm_general_topics
 https://en.wikipedia.org/wiki/List_of_algorithms
+https://en.wikipedia.org/wiki/List_of_ambient_music_artists
 https://en.wikipedia.org/wiki/List_of_AMD_processors
 https://en.wikipedia.org/wiki/List_of_analyses_of_categorical_data
 https://en.wikipedia.org/wiki/List_of_anarchist_periodicals
@@ -15439,6 +15447,7 @@ https://en.wikipedia.org/wiki/List_of_economics_journals
 https://en.wikipedia.org/wiki/List_of_educational_programming_languages
 https://en.wikipedia.org/wiki/List_of_education_articles_by_country
 https://en.wikipedia.org/wiki/List_of_education_journals
+https://en.wikipedia.org/wiki/List_of_electronic_music_genres
 https://en.wikipedia.org/wiki/List_of_Elsevier_periodicals
 https://en.wikipedia.org/wiki/List_of_emerging_technologies
 https://en.wikipedia.org/wiki/List_of_emulators
@@ -15524,6 +15533,7 @@ https://en.wikipedia.org/wiki/List_of_incomplete_proofs
 https://en.wikipedia.org/wiki/List_of_Indian_mathematicians
 https://en.wikipedia.org/wiki/List_of_Indian_scientists
 https://en.wikipedia.org/wiki/List_of_Indigenous_peoples
+https://en.wikipedia.org/wiki/List_of_industrial_music_genres
 https://en.wikipedia.org/wiki/List_of_inequalities
 https://en.wikipedia.org/wiki/List_of_information_systems_journals
 https://en.wikipedia.org/wiki/List_of_in-memory_databases
@@ -16062,6 +16072,7 @@ https://en.wikipedia.org/wiki/Lunar_distance_(navigation)
 https://en.wikipedia.org/wiki/Luna_Sea
 https://en.wikipedia.org/wiki/Lurianic_Kabbalah
 https://en.wikipedia.org/wiki/Lush_(band)
+https://en.wikipedia.org/wiki/Lustmord
 https://en.wikipedia.org/wiki/Luus%E2%80%93Jaakola
 https://en.wikipedia.org/wiki/Luxembourg
 https://en.wikipedia.org/wiki/Luxury_trains
@@ -16968,6 +16979,7 @@ https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London
 https://en.wikipedia.org/wiki/Moody%27s_Investors_Service
 https://en.wikipedia.org/wiki/Moog_Music
 https://en.wikipedia.org/wiki/Moog_synthesizer
+https://en.wikipedia.org/wiki/Moon_(2009_film)
 https://en.wikipedia.org/wiki/Moonlight_(band)
 https://en.wikipedia.org/wiki/Moore%27s_law
 https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse
@@ -17534,6 +17546,7 @@ https://en.wikipedia.org/wiki/Nobel_Prizei
 https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry
 https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics
 https://en.wikipedia.org/wiki/Noble_Eightfold_Path
+https://en.wikipedia.org/wiki/Nocturnal_Emissions
 https://en.wikipedia.org/wiki/Node2vec
 https://en.wikipedia.org/wiki/Node.js
 https://en.wikipedia.org/wiki/NodeMCU
@@ -21091,6 +21104,8 @@ https://en.wikipedia.org/wiki/Solar_cell
 https://en.wikipedia.org/wiki/Solar_cycle
 https://en.wikipedia.org/wiki/Solar_Designer
 https://en.wikipedia.org/wiki/Solar_flare
+https://en.wikipedia.org/wiki/Solaris_(1972_film)
+https://en.wikipedia.org/wiki/Solaris_(2002_film)
 https://en.wikipedia.org/wiki/Solaris_korrigert
 https://en.wikipedia.org/wiki/Solaris_(novel)
 https://en.wikipedia.org/wiki/Solar_particle_event
@@ -21158,6 +21173,7 @@ https://en.wikipedia.org/wiki/Southern_rock
 https://en.wikipedia.org/wiki/Southwark
 https://en.wikipedia.org/wiki/Soviet_involvement_in_regime_change
 https://en.wikipedia.org/wiki/Soviet_Union
+https://en.wikipedia.org/wiki/Sovietwave
 https://en.wikipedia.org/wiki/Space-cadet_keyboard
 https://en.wikipedia.org/wiki/SpaceClaim
 https://en.wikipedia.org/wiki/Space.com
@@ -21166,6 +21182,7 @@ https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff
 https://en.wikipedia.org/wiki/Space-filling_curve
 https://en.wikipedia.org/wiki/SpaceFM
 https://en.wikipedia.org/wiki/Space_(mathematics)
+https://en.wikipedia.org/wiki/Space_music
 https://en.wikipedia.org/wiki/Space_opera
 https://en.wikipedia.org/wiki/Space_partitioning
 https://en.wikipedia.org/wiki/Space_policy_of_the_United_States
@@ -22284,6 +22301,7 @@ https://en.wikipedia.org/wiki/Thesis_(typeface)
 https://en.wikipedia.org/wiki/The_Skeptics_Society
 https://en.wikipedia.org/wiki/The_Sky_Crawlers_(film)
 https://en.wikipedia.org/wiki/The_Sky_Moves_Sideways
+https://en.wikipedia.org/wiki/The_Social_Network
 https://en.wikipedia.org/wiki/The_Stars,_Like_Dust
 https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions
 https://en.wikipedia.org/wiki/The_System_of_Objects
@@ -22293,6 +22311,7 @@ https://en.wikipedia.org/wiki/The_Tale_of_the_Heike
 https://en.wikipedia.org/wiki/The_Talos_Principle
 https://en.wikipedia.org/wiki/The_Technological_Society
 https://en.wikipedia.org/wiki/The_Theoretical_Minimum
+https://en.wikipedia.org/wiki/The_Thing_(1982_film)
 https://en.wikipedia.org/wiki/The_Third_Culture
 https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 https://en.wikipedia.org/wiki/The_Times_Group
@@ -22401,6 +22420,7 @@ https://en.wikipedia.org/wiki/Through-silicon_via
 https://en.wikipedia.org/wiki/Thucydides
 https://en.wikipedia.org/wiki/Thunar
 https://en.wikipedia.org/wiki/Thurn-und-Taxis_Post
+https://en.wikipedia.org/wiki/THX_1138
 https://en.wikipedia.org/wiki/Tiananmen_Square
 https://en.wikipedia.org/wiki/Tianhua_GX-1C
 https://en.wikipedia.org/wiki/TI-BASIC
@@ -23158,6 +23178,7 @@ https://en.wikipedia.org/wiki/Van_Stockum_dust
 https://en.wikipedia.org/wiki/Van_Wijngaarden_grammar
 https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension
 https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_theory
+https://en.wikipedia.org/wiki/Vaporwave
 https://en.wikipedia.org/wiki/Varanasi
 https://en.wikipedia.org/wiki/Variable_and_attribute_(research)
 https://en.wikipedia.org/wiki/Variable_elimination
@@ -29276,6 +29297,7 @@ https://library.lol/main/0A1580FA43BC709A4AF9DDBAB025CD98
 https://library.lol/main/0A803094A0C2716E95F4ABB9C602221E
 https://library.lol/main/0A99C5835A4D38D84FD4A5A0A781B40C
 https://library.lol/main/0C3B91B3650F4273108E9B1FD88AA537
+https://library.lol/main/0CD143FCB07F2141F2663567E24E925B
 https://library.lol/main/0E4B8530C632F99DAA76600D45DD37B8
 https://library.lol/main/0EACFD179ED113ECC550011E81DE30B9
 https://library.lol/main/0EBCB70A6EC987F99CB14CEE8BB08481
@@ -41520,23 +41542,59 @@ https://www.pdf-tools.com/products/conversion/conversion-service/
 https://www.pdl.cmu.edu/index.shtml
 https://www.pdos.org/
 https://www.pearson.com/en-gb/subject-catalog/p/statistics-the-art-and-science-of-learning-from-data-global-edition/P200000008773/9781292444796
+https://www.pearson.com/en-us/search.html
+https://www.pearson.com/en-us/search.html/Computer+Science
+https://www.pearson.com/en-us/search.html/Engineering
+https://www.pearson.com/en-us/search.html/English
+https://www.pearson.com/en-us/search.html/Information+Technology
+https://www.pearson.com/en-us/search.html/Mathematics
+https://www.pearson.com/en-us/search.html/Science
+https://www.pearson.com/en-us/search.html/Statistics
 https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350
+https://www.pearson.com/en-us/subject-catalog/p/ansi-common-lisp/P200000003169/9780133708752
+https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135
+https://www.pearson.com/en-us/subject-catalog/p/art-of-computer-programming-the-volume-1-fundamental-algorithms/P200000000378/9780321635747
+https://www.pearson.com/en-us/subject-catalog/p/art-of-computer-programming-the-volume-3-sorting-and-searching/P200000000377/9780321635785
+https://www.pearson.com/en-us/subject-catalog/p/art-of-computer-programming-volume-2-seminumerical-algorithms/P200000000379/9780321635761
 https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427/9780137981076
+https://www.pearson.com/en-us/subject-catalog/p/code-complete/P200000000453/9780735636972
+https://www.pearson.com/en-us/subject-catalog/p/compilers-principles-techniques-and-tools/P200000003472/9780133002140
 https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214
+https://www.pearson.com/en-us/subject-catalog/p/computer-systems-a-programmers-perspective/P200000003479/9780138105396
+https://www.pearson.com/en-us/subject-catalog/p/computer-vision-a-modern-approach/P200000003374/9780133001921
+https://www.pearson.com/en-us/subject-catalog/p/concrete-mathematics-a-foundation-for-computer-science/P200000000288/9780134389981
 https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-i-fundamentals/P200000012511/9780135328484
 https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-ii-advanced-features/P200000013004/9780135371732
+https://www.pearson.com/en-us/subject-catalog/p/c-programming-language/P200000000368/9780137460847
 https://www.pearson.com/en-us/subject-catalog/p/data-abstraction--problem-solving-with-c-walls-and-mirrors/P200000003514/9780137516759
+https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-boundary-value-problems-computing-and-modeling/P200000007099
+https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-boundary-value-problems-computing-and-modeling/P200000007099/9780137540365
+https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-linear-algebra/P200000006173
 https://www.pearson.com/en-us/subject-catalog/p/digital-design-principles-and-practices/P200000003417/9780137518791
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224/9780137848560
+https://www.pearson.com/en-us/subject-catalog/p/discrete-and-combinatorial-mathematics-classic-version/P200000006199/9780137981304
+https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-complex-analysis-with-applications-to-engineering-and-science/P200000009820/9780138026882
+https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database-systems/P200000003546/9780137502523
+https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-differential-equations-with-boundary-value-problems/P200000006301
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-processing-estimation-theory-volume-1/P200000009271/9780133457117
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-signal-processing-detection-theory-volume-2/P200000009354/9780135041352
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-signal-processing-volume-3/P200000009204/9780134878409
+https://www.pearson.com/en-us/subject-catalog/p/introduction-to-automata-theory-languages-and-computation/P200000003517/9780321455369
+https://www.pearson.com/en-us/subject-catalog/p/introductory-chemistry/P200000009745/9780138198411
 https://www.pearson.com/en-us/subject-catalog/p/jvm-performance-engineering-inside-the-openjdk-hotspot-vm/P200000000120/9780134659879
+https://www.pearson.com/en-us/subject-catalog/p/linear-algebra-and-its-applications/P200000006235/9780136880929
+https://www.pearson.com/en-us/subject-catalog/p/little-brown-handbook-the/P200000002416/9780137541485
 https://www.pearson.com/en-us/subject-catalog/p/mathematical-analysis-a-modern-approach-to-advanced-calculus/P200000006077/9780201002881
 https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003295/9780137618880
+https://www.pearson.com/en-us/subject-catalog/p/numerical-analysis/P200000006340/9780137982189
+https://www.pearson.com/en-us/subject-catalog/p/physics-for-scientists-and-engineers-a-strategic-approach-with-modern-physics/P200000006998/9780137344826
 https://www.pearson.com/en-us/subject-catalog/p/precalculus/P200000011591
+https://www.pearson.com/en-us/subject-catalog/p/precalculus/P200000011591/9780138279431
+https://www.pearson.com/en-us/subject-catalog/p/probability-statistics-for-engineers-scientists/P200000007119
 https://www.pearson.com/en-us/subject-catalog/p/probability--statistics-for-engineers--scientists/P200000007119/9780137273546
+https://www.pearson.com/en-us/subject-catalog/p/programmingprinciples-and-practices-using-c/P200000012061/9780138308643
+https://www.pearson.com/en-us/subject-catalog/p/real-analysis/P200000007113/9780136853473
 https://www.pearson.com/en-us/subject-catalog/p/signals-and-systems/P200000003155/9780138229429
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus-early-transcendentals/P200000007104/9780137559824
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus/P200000007103/9780137616077
@@ -43256,6 +43314,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780429492952/art-probability-r
 https://www.taylorfrancis.com/books/mono/10.1201/9780429493911/elements-algebraic-topology-james-munkres-james-munkres
 https://www.taylorfrancis.com/books/mono/10.1201/9780429494147/analysis-manifolds-james-munkres
 https://www.taylorfrancis.com/books/mono/10.1201/9780429502859/feynman-lectures-gravitation-richard-feynman
+https://www.taylorfrancis.com/books/mono/10.1201/9780429507526/digital-statistical-signal-processing-anastasia-veloni-nikolaos-miridakis-erysso-boukouvala
 https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-algorithms-donald-kreher-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003081845/secure-data-science-bhavani-thuraisingham-murat-kantarcioglu-latifur-khan
 https://www.taylorfrancis.com/books/mono/10.1201/9781003142331/contemporary-abstract-algebra-joseph-gallian
@@ -44146,6 +44205,7 @@ https://www.youtube.com/@academyofstmartininthefields
 https://www.youtube.com/@AlphaPhoenixChannel
 https://www.youtube.com/@APArchive
 https://www.youtube.com/@astrumspace
+https://www.youtube.com/@Auferstehung
 https://www.youtube.com/@bach
 https://www.youtube.com/@blackpenredpen
 https://www.youtube.com/@BrianBDouglas
@@ -44230,6 +44290,7 @@ https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc
 https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L
+https://www.youtube.com/playlist?list=PLuURUb4s1kMh6QMBn82CVLziR8CeBTe7P
 https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
 https://www.youtube.com/playlist?list=PLZ4JlAKnv386SGkj6eco_GqCmVn-v1Hb5
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
@@ -44268,6 +44329,7 @@ https://www.youtube.com/watch?v=8iCCxSLZwkc
 https://www.youtube.com/watch?v=8RuF5POe-OE
 https://www.youtube.com/watch?v=90EYVy35gsY
 https://www.youtube.com/watch?v=90GR25U8qtc
+https://www.youtube.com/watch?v=96ic1d46gAw
 https://www.youtube.com/watch?v=-9cW4Gcn5WY
 https://www.youtube.com/watch?v=9JS5pdYcpOM
 https://www.youtube.com/watch?v=9yjZpBq1XBE
@@ -44339,6 +44401,7 @@ https://www.youtube.com/watch?v=MVL-x_7C_Mo
 https://www.youtube.com/watch?v=MZ0-tJCaexM
 https://www.youtube.com/watch?v=N0Ne623fKWc
 https://www.youtube.com/watch?v=Na0w3Mz46GA
+https://www.youtube.com/watch?v=n--SX54AUZU
 https://www.youtube.com/watch?v=nyJhRCTbUag
 https://www.youtube.com/watch?v=OeE5t7aJVsI
 https://www.youtube.com/watch?v=OMaycNcPsHI
