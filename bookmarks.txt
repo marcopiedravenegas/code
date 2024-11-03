@@ -1,3 +1,4 @@
+
 http://0x80.pl/notesen/2015-12-27-base64-encoding.html
 http://0xeb.net/
 http://9p.cat-v.org/
@@ -859,6 +860,7 @@ https://arxiv.org/abs/1711.10566
 https://arxiv.org/abs/1712.00600
 https://arxiv.org/abs/1712.01815
 https://arxiv.org/abs/1712.08500
+https://arxiv.org/abs/1801.01127
 https://arxiv.org/abs/1801.05894
 https://arxiv.org/abs/1801.09847
 https://arxiv.org/abs/1802.01528
@@ -1409,6 +1411,7 @@ https://binero.com/
 https://bin.re/
 https://bio7.org/
 https://bioconductor.org/
+https://bioimagebook.github.io/
 https://bioinfo.uochb.cas.cz/embedsom/
 https://biopython.org/
 https://bips-hb.github.io/innsight/
@@ -1532,6 +1535,8 @@ https://blog.hubspot.com/website/api-books
 https://blog.iclr.cc/
 https://blog.insightdatascience.com/the-data-engineering-ecosystem-an-interactive-map-b682627c2534
 https://blog.ivanristic.com/
+https://blog.jetbrains.com/idea/
+https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/
 https://blog.jgc.org/
 https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html
 https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html
@@ -1933,6 +1938,7 @@ https://cel.hal.science/cel-01380149
 https://cel.hal.science/inria-00001173
 https://cel.hal.science/inria-00001174
 https://cel.hal.science/inria-00083975
+https://cellprofiler.org/
 https://cen.acs.org/
 http://sceneparsing.csail.mit.edu/
 https://centerforcollectivelearning.org/
@@ -16701,6 +16707,7 @@ https://en.wikipedia.org/wiki/Microprocessor
 https://en.wikipedia.org/wiki/MicroPro_International
 https://en.wikipedia.org/wiki/MicroPython
 https://en.wikipedia.org/wiki/Microscale_and_macroscale_models
+https://en.wikipedia.org/wiki/Microscope_image_processing
 https://en.wikipedia.org/wiki/Microscopic_traffic_flow_model
 https://en.wikipedia.org/wiki/Microsemi
 https://en.wikipedia.org/wiki/Microsoft
@@ -24479,6 +24486,7 @@ https://fortranwiki.org/fortran/show/HomePage
 https://fortranwiki.org/fortran/show/Libraries
 https://forum.codeselfstudy.com/
 https://forum.gamsworld.org/
+https://forum.image.sc/
 https://forums.atariage.com/forum/12-atari-8-bit-computers/
 https://forums.atariage.com/topic/248218-serious-computerist-website/
 https://forums.debian.net/
@@ -24969,6 +24977,7 @@ https://github.com/cc65/cc65
 https://github.com/ccache/ccache
 https://github.com/cdesjardins/libedit
 https://github.com/cdglabs/prolog-viz
+https://github.com/CellProfiler/CellProfiler
 https://github.com/ceres-solver/ceres-solver
 https://github.com/Cervest/legere-coetus-chartam
 https://github.com/CesiumGS/cesium
@@ -25581,8 +25590,12 @@ https://github.com/igraph/igraph
 https://github.com/ilovepdf
 https://github.com/ilovepdf/iloveimg-php
 https://github.com/ilovepdf/ilovepdf-php
+https://github.com/imagej
 https://github.com/imagej/ImageJ
+https://github.com/imagej/imagej2
 https://github.com/ImageMagick/ImageMagick
+https://github.com/imjoy-team/imagej.js
+https://github.com/imjoy-team/ImJoy
 https://github.com/indico/indico
 https://github.com/influxdata/influxdb
 https://github.com/inhabitedtype/angstrom
@@ -26419,6 +26432,7 @@ https://github.com/quodlibet/mutagen
 https://github.com/quodlibet/quodlibet
 https://github.com/quotient-im/Quaternion
 https://github.com/quozd/awesome-dotnet
+https://github.com/qupath/qupath
 https://github.com/R0GGER/public-iperf3-servers
 https://github.com/radeonopencompute/rocm
 https://github.com/rafaelpezzuto/multi-sensor-data-collection
@@ -28270,6 +28284,7 @@ https://ihatecoordinatesystems.com/
 https://iiif.io/
 https://iiis.tsinghua.edu.cn/yao/
 https://ijg.org/
+https://ij.imjoy.io/
 https://ikiwiki.info/
 https://ilasic.org/
 https://i-librarian.net/
@@ -28280,11 +28295,48 @@ https://ilya.schurov.com/post/adjoint-method/
 https://imagecompressor.com/
 https://imageglass.org/
 https://imagej.net/
+https://imagej.net/ij/
+https://imagej.net/learn/flavors
+https://imagej.net/list-of-extensions
+https://imagej.net/software/
+https://imagej.net/software/alida
+https://imagej.net/software/bio7
+https://imagej.net/software/bioimagexd
+https://imagej.net/software/cellprofiler
+https://imagej.net/software/endrov
+https://imagej.net/software/fiji/
+https://imagej.net/software/fiji/index
+https://imagej.net/software/funimagej
+https://imagej.net/software/icy
+https://imagej.net/software/imagej/
+https://imagej.net/software/imagej2/
+https://imagej.net/software/imagej2/index
+https://imagej.net/software/imagejfx
+https://imagej.net/software/imagej/index
+https://imagej.net/software/imagej-js
+https://imagej.net/software/imagejx
+https://imagej.net/software/imagepy
+https://imagej.net/software/imagesxm
+https://imagej.net/software/imjoy
+https://imagej.net/software/itk
+https://imagej.net/software/jex
+https://imagej.net/software/knime
+https://imagej.net/software/mbf-imagej
+https://imagej.net/software/micro-manager
+https://imagej.net/software/napari
+https://imagej.net/software/nih-image
+https://imagej.net/software/omero
+https://imagej.net/software/opencv
+https://imagej.net/software/openspim
+https://imagej.net/software/qupath
+https://imagej.net/software/virtual-cell
+https://imagej.net/software/visbio
 https://imagemagick.org/
 https://imagemagick.org/index.php
 https://image-net.org/
 https://imagen.research.google/
 https://imagetopdf.com/
+https://imagingbook.com/
 https://ima.org.uk/
 https://imhex.werwolv.net/
 http://simh.trailing-edge.com/
@@ -32494,6 +32546,7 @@ https://openai.com/research/evolution-through-large-models
 https://openai.com/research/overview
 https://openai.com/research/whisper
 https://openbabel.org/wiki/Main_Page
+https://openbioimageanalysis.org/
 https://openbsd.amsterdam/
 https://openbsd.amsterdam/blog/
 https://openbsd.app/
@@ -33654,6 +33707,7 @@ https://publish.illinois.edu/theory-cs/resources/qualifying-exam/
 https://pubmed.ncbi.nlm.nih.gov/
 https://pubmed.ncbi.nlm.nih.gov/29963879/
 https://pubpeer.com/
+https://pubpeer.com/publications/532BD62583D878B13BED8ABAD0A0B4
 https://pubs.acs.org/doi/10.1021/acs.jcim.2c01191
 https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839
 https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00927
@@ -33855,6 +33909,7 @@ https://qunitjs.com/
 https://quodlibet.readthedocs.io/en/latest/
 https://quoteinvestigator.com/2011/05/13/einstein-simple/
 https://quoteinvestigator.com/2014/01/12/history-rhymes/
+https://qupath.github.io/
 https://qutip.org/
 https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world
 https://qz.com/1269525/capitalism-is-unfolding-exactly-as-karl-marx-predicted
@@ -34733,6 +34788,7 @@ https://sites.research.google/trc/about/
 https://sites.research.google/weatherbench/
 https://sites.santafe.edu/~wbarthur/complexityeconomics.htm
 https://sites.stat.washington.edu/mmp/courses/535/fall22/resources.html
+https://sites.usc.edu/iris-cvlab/
 https://sites.usp.br/sideseeing/
 https://sites.utexas.edu/sos/methods/
 https://sjgiorgi.github.io/
@@ -35424,6 +35480,7 @@ https://system76.com/desktops/meerkat
 https://system76.com/laptops
 https://systemd.io/
 https://systemsapproach.org/
+https://szeliski.org/
 https://szeliski.org/Book/
 https://t3x.org/index.html
 https://t3x.org/t3x/0/book.html
@@ -36915,6 +36972,7 @@ https://www.bma.org.uk/
 https://www.bmbf.de/bmbf/de/home/home_node.html
 https://www.bmj.com/
 https://www.bmk.gv.at/
+https://www.bmva.org/
 https://www.bmwk.de/Navigation/DE/Home/home.html
 https://www.bmwk.de/Redaktion/DE/Dossier/fachkraeftesicherung.html
 https://www.bnf.fr/fr
@@ -38119,6 +38177,7 @@ https://www.de-cix.net/
 https://www.deegree.org/
 https://www.deepl.com/en/translator
 https://www.deeplearningbook.org/
+https://www.deeplearningbook.org/contents/monte_carlo.html
 https://www.deepmind.com/
 https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control
 https://www.deepmind.com/blog/competitive-programming-with-alphacode
@@ -40926,6 +40985,7 @@ https://www.nature.com/articles/nbt.2954
 https://www.nature.com/articles/ncomms1396
 https://www.nature.com/articles/news060227-11
 https://www.nature.com/articles/ng.2472
+https://www.nature.com/articles/nmeth.2089
 https://www.nature.com/articles/nmeth.4642
 https://www.nature.com/articles/nnano.2009.356
 https://www.nature.com/articles/nphoton.2015.208
@@ -41582,8 +41642,10 @@ https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-bound
 https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-boundary-value-problems-computing-and-modeling/P200000007099/9780137540365
 https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-linear-algebra/P200000006173
 https://www.pearson.com/en-us/subject-catalog/p/digital-design-principles-and-practices/P200000003417/9780137518791
+https://www.pearson.com/en-us/subject-catalog/p/digital-design-with-an-introduction-to-the-verilog-hdl-vhdl-and-systemverilog/P200000003241/9780137501984
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224/9780137848560
+https://www.pearson.com/en-us/subject-catalog/p/digital-signal-processing-principles-algorithms-and-applications/P200000003415/9780137348657
 https://www.pearson.com/en-us/subject-catalog/p/discrete-and-combinatorial-mathematics-classic-version/P200000006199/9780137981304
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-complex-analysis-with-applications-to-engineering-and-science/P200000009820/9780138026882
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database-systems/P200000003546/9780137502523
@@ -41596,6 +41658,7 @@ https://www.pearson.com/en-us/subject-catalog/p/introductory-chemistry/P20000000
 https://www.pearson.com/en-us/subject-catalog/p/jvm-performance-engineering-inside-the-openjdk-hotspot-vm/P200000000120/9780134659879
 https://www.pearson.com/en-us/subject-catalog/p/linear-algebra-and-its-applications/P200000006235/9780136880929
 https://www.pearson.com/en-us/subject-catalog/p/little-brown-handbook-the/P200000002416/9780137541485
+https://www.pearson.com/en-us/subject-catalog/p/logic--computer-design-fundamentals/P200000003256/9780134080154
 https://www.pearson.com/en-us/subject-catalog/p/mathematical-analysis-a-modern-approach-to-advanced-calculus/P200000006077/9780201002881
 https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003295/9780137618880
 https://www.pearson.com/en-us/subject-catalog/p/numerical-analysis/P200000006340/9780137982189
@@ -41606,10 +41669,13 @@ https://www.pearson.com/en-us/subject-catalog/p/probability-statistics-for-engin
 https://www.pearson.com/en-us/subject-catalog/p/probability--statistics-for-engineers--scientists/P200000007119/9780137273546
 https://www.pearson.com/en-us/subject-catalog/p/programmingprinciples-and-practices-using-c/P200000012061/9780138308643
 https://www.pearson.com/en-us/subject-catalog/p/real-analysis/P200000007113/9780136853473
+https://www.pearson.com/en-us/subject-catalog/p/signals-and-systems/P200000003155/9780138147570
 https://www.pearson.com/en-us/subject-catalog/p/signals-and-systems/P200000003155/9780138229429
+https://www.pearson.com/en-us/subject-catalog/p/signals-systems-and-inference/P200000003171/9780133944211
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus-early-transcendentals/P200000007104/9780137559824
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus/P200000007103/9780137616077
 https://www.pearson.com/en-us/subject-catalog/p/topology-classic-version/P200000006299/9780137848669
+https://www.pearson.com/en-us/subject-catalog/p/understanding-digital-signal-processing/P200000000443/9780137582228
 https://www.peeringdb.com/
 https://www.pekingnology.com/
 https://www.penguinbookshop.com/book/9780441013593
@@ -44712,6 +44778,7 @@ http://www.computability.de/journal/
 http://www.computability.de/series/
 http://www.computervisionmodels.com/
 http://www.cpm.z80.de/
+http://www.cvpapers.com/
 http://www.dns-lg.com/
 http://www.environmetrics.org/
 http://www.erlang.org/doc/programming_examples/bit_syntax.html
