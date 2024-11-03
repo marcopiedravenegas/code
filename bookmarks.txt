@@ -955,6 +955,7 @@ https://arxiv.org/abs/2011.00583
 https://arxiv.org/abs/2011.01307
 https://arxiv.org/abs/2011.05847
 https://arxiv.org/abs/2012.01714
+https://arxiv.org/abs/2012.01850
 https://arxiv.org/abs/2012.05893
 https://arxiv.org/abs/2012.13635
 https://arxiv.org/abs/2101.07422
@@ -1166,6 +1167,7 @@ https://asaip.psu.edu/resources/cran-packages-in-r-for-astronomy/
 https://asciidoc.org/
 https://asciidoctor.org/
 https://ascon.iaik.tugraz.at/
+https://asdar-book.org/
 https://asecuritysite.com/
 https://asecuritysite.com/blog/2023-11-18_Few-Remember-The-Beaten-Finalists---Here-s-The-Mighty-Serpent-644424dcd0b7.html
 https://asecuritysite.com/encryption/c_c3
@@ -4452,6 +4454,7 @@ https://docs.pytest.org/en/7.3.x/
 https://docs.python-guide.org/scenarios/crypto/
 https://docs.python-guide.org/writing/style/
 https://docs.python.org/3/
+https://docs.python.org/3/c-api/buffer.html
 https://docs.python.org/3/c-api/index.html
 https://docs.python.org/3/howto/functional.html
 https://docs.python.org/3/howto/sockets.html
@@ -5416,31 +5419,6 @@ https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
 https://eniko.itch.io/kitsunetails
 https://en.ilmatieteenlaitos.fi/
-https://en.m.wikipedia.org/wiki/Dynamic_programming
-https://en.m.wikipedia.org/wiki/Economics_(textbook)
-https://en.m.wikipedia.org/wiki/Encyclopedia_of_Statistical_Sciences
-https://en.m.wikipedia.org/wiki/Foundations_of_Economic_Analysis
-https://en.m.wikipedia.org/wiki/F-test
-https://en.m.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Bellman_equation
-https://en.m.wikipedia.org/wiki/History_of_economic_thought
-https://en.m.wikipedia.org/wiki/International_Encyclopedia_of_Statistical_Science
-https://en.m.wikipedia.org/wiki/IS%E2%80%93LM_model
-https://en.m.wikipedia.org/wiki/List_of_economists
-https://en.m.wikipedia.org/wiki/List_of_important_publications_in_economics
-https://en.m.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics
-https://en.m.wikipedia.org/wiki/Mathematical_Foundations_of_Quantum_Mechanics
-https://en.m.wikipedia.org/wiki/Multivariate_random_variable
-https://en.m.wikipedia.org/wiki/Multivariate_statistics
-https://en.m.wikipedia.org/wiki/Neoclassical_synthesis
-https://en.m.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences
-https://en.m.wikipedia.org/wiki/Phillips_curve
-https://en.m.wikipedia.org/wiki/Q-learning
-https://en.m.wikipedia.org/wiki/Random_forest
-https://en.m.wikipedia.org/wiki/Random_sample_consensus
-https://en.m.wikipedia.org/wiki/Stochastic_dynamic_programming
-https://en.m.wikipedia.org/wiki/Structured_prediction
-https://en.m.wikipedia.org/wiki/Support_vector_machine
-https://en.m.wikipedia.org/wiki/Wassily_Leontief
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
@@ -6748,6 +6726,7 @@ https://en.wikipedia.org/wiki/Banach_fixed-point_theorem
 https://en.wikipedia.org/wiki/Banach_space
 https://en.wikipedia.org/wiki/Banburismus
 https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81_brothers
+https://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena
 https://en.wikipedia.org/wiki/Bande_dessin%C3%A9e
 https://en.wikipedia.org/wiki/Band_matrix
 https://en.wikipedia.org/wiki/Band-pass_filter
@@ -10847,6 +10826,7 @@ https://en.wikipedia.org/wiki/Economics
 https://en.wikipedia.org/wiki/Economic_security
 https://en.wikipedia.org/wiki/Economics_of_religion
 https://en.wikipedia.org/wiki/Economic_statistics
+https://en.wikipedia.org/wiki/Economics_(textbook)
 https://en.wikipedia.org/wiki/Economic_Theory
 https://en.wikipedia.org/wiki/Economies_of_density
 https://en.wikipedia.org/wiki/Economies_of_scale
@@ -11091,6 +11071,7 @@ https://en.wikipedia.org/wiki/Encryption_software
 https://en.wikipedia.org/wiki/Encyclop%C3%A9distes
 https://en.wikipedia.org/wiki/Encyclopedia_of_Cryptography_and_Security
 https://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics
+https://en.wikipedia.org/wiki/Encyclopedia_of_Statistical_Sciences
 https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers
 https://en.wikipedia.org/wiki/Endless_(comics)
 https://en.wikipedia.org/wiki/EndNote
@@ -11632,6 +11613,7 @@ https://en.wikipedia.org/wiki/FileVault
 https://en.wikipedia.org/wiki/Fill_device
 https://en.wikipedia.org/wiki/Filter_design
 https://en.wikipedia.org/wiki/Filter_(higher-order_function)
+https://en.wikipedia.org/wiki/Filtering_problem_(stochastic_processes)
 https://en.wikipedia.org/wiki/Filters_in_topology
 https://en.wikipedia.org/wiki/Finabel
 https://en.wikipedia.org/wiki/Final_Fantasy
@@ -11832,6 +11814,7 @@ https://en.wikipedia.org/wiki/Foundation_models
 https://en.wikipedia.org/wiki/Foundation_series
 https://en.wikipedia.org/wiki/Foundations_of_Computational_Mathematics
 https://en.wikipedia.org/wiki/Foundations_of_Differential_Geometry
+https://en.wikipedia.org/wiki/Foundations_of_Economic_Analysis
 https://en.wikipedia.org/wiki/Foundations_of_statistics
 https://en.wikipedia.org/wiki/Foundation_universe
 https://en.wikipedia.org/wiki/Founders_of_statistics
@@ -13184,6 +13167,7 @@ https://en.wikipedia.org/wiki/History_of_computing_hardware
 https://en.wikipedia.org/wiki/History_of_computing_hardware_(1960s%E2%80%93present)
 https://en.wikipedia.org/wiki/History_of_Crete
 https://en.wikipedia.org/wiki/History_of_cryptography
+https://en.wikipedia.org/wiki/History_of_economic_thought
 https://en.wikipedia.org/wiki/History_of_IBM
 https://en.wikipedia.org/wiki/History_of_India
 https://en.wikipedia.org/wiki/History_of_Japan
@@ -13888,6 +13872,7 @@ https://en.wikipedia.org/wiki/International_Council_for_Industrial_and_Applied_M
 https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm
 https://en.wikipedia.org/wiki/International_Date_Line
 https://en.wikipedia.org/wiki/International_Development_Association
+https://en.wikipedia.org/wiki/International_Encyclopedia_of_Statistical_Science
 https://en.wikipedia.org/wiki/International_Energy_Agency
 https://en.wikipedia.org/wiki/International_English
 https://en.wikipedia.org/wiki/International_English_Language_Testing_System
@@ -14061,6 +14046,7 @@ https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)
 https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel
 https://en.wikipedia.org/wiki/ISBL
 https://en.wikipedia.org/wiki/ISC_license
+https://en.wikipedia.org/wiki/IS%E2%80%93LM_model
 https://en.wikipedia.org/wiki/ISFET
 https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)
 https://en.wikipedia.org/wiki/Ishtar_Gate
@@ -15444,6 +15430,7 @@ https://en.wikipedia.org/wiki/List_of_earth_and_atmospheric_sciences_journals
 https://en.wikipedia.org/wiki/List_of_Earth_observation_satellites
 https://en.wikipedia.org/wiki/List_of_ECMAScript_engines
 https://en.wikipedia.org/wiki/List_of_economics_journals
+https://en.wikipedia.org/wiki/List_of_economists
 https://en.wikipedia.org/wiki/List_of_educational_programming_languages
 https://en.wikipedia.org/wiki/List_of_education_articles_by_country
 https://en.wikipedia.org/wiki/List_of_education_journals
@@ -15526,6 +15513,7 @@ https://en.wikipedia.org/wiki/List_of_hypergeometric_identities
 https://en.wikipedia.org/wiki/List_of_IBM_Personal_Computer_models
 https://en.wikipedia.org/wiki/List_of_IBM_products
 https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography
+https://en.wikipedia.org/wiki/List_of_important_publications_in_economics
 https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics
 https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science
 https://en.wikipedia.org/wiki/List_of_impossible_puzzles
@@ -15667,6 +15655,8 @@ https://en.wikipedia.org/wiki/List_of_object%E2%80%93relational_mapping_software
 https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
 https://en.wikipedia.org/wiki/List_of_objects_at_Lagrange_points
 https://en.wikipedia.org/wiki/List_of_occultists
+https://en.wikipedia.org/wiki/List_of_oldest_banks_in_continuous_operation
+https://en.wikipedia.org/wiki/List_of_oldest_companies
 https://en.wikipedia.org/wiki/List_of_oldest_continuously_inhabited_cities
 https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation
 https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts
@@ -18632,6 +18622,7 @@ https://en.wikipedia.org/wiki/Philip_J._Davis
 https://en.wikipedia.org/wiki/Philippe_Flajolet
 https://en.wikipedia.org/wiki/Phil_Karn
 https://en.wikipedia.org/wiki/Phillip_Rogaway
+https://en.wikipedia.org/wiki/Phillips_curve
 https://en.wikipedia.org/wiki/Phillips%E2%80%93Perron_test
 https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica
 https://en.wikipedia.org/wiki/Philosophical_analysis
@@ -20188,6 +20179,7 @@ https://en.wikipedia.org/wiki/Royal_Comics_Syndicate
 https://en.wikipedia.org/wiki/Royal_Game_of_Ur
 https://en.wikipedia.org/wiki/Royal_Institution
 https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures
+https://en.wikipedia.org/wiki/Royal_Mint
 https://en.wikipedia.org/wiki/Royal_Observatory,_Greenwich
 https://en.wikipedia.org/wiki/Royal_prerogative
 https://en.wikipedia.org/wiki/Royal_prerogative_in_the_United_Kingdom
@@ -27122,6 +27114,8 @@ https://github.com/xorpd
 https://github.com/xorvoid/sectorc
 https://github.com/xournalpp/xournalpp
 https://github.com/Xpra-org/xpra/
+https://github.com/xtensor-stack/xtensor
+https://github.com/xtensor-stack/xtl
 https://github.com/xunit/xunit
 https://github.com/yangyanli/PointCNN
 https://github.com/yarnpkg/berry
@@ -29379,6 +29373,7 @@ https://library.lol/main/365509419AB737F7150ACD390E3BBD54
 https://library.lol/main/36A4B9BF3883D2879EAFB4982BCAEEA7
 https://library.lol/main/36E6532B72807B9EF6B27E52E8C62CCC
 https://library.lol/main/373C67B0C5E22C9B92B1D8FACDC47E68
+https://library.lol/main/3818E025500D51FAEA6F269706322A46
 https://library.lol/main/385782CF8B38137659C865AE61251601
 https://library.lol/main/3917534DE1C59122745CE3A45F6B6A10
 https://library.lol/main/39566EFC14DBD3A27DF401211F598A94
@@ -29520,6 +29515,7 @@ https://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E
 https://library.lol/main/7F824382FBD3C78C10DAACE4BB9EFC8C
 https://library.lol/main/8029C566492118E1BAEBC10A7D9C1AB2
 https://library.lol/main/80305156DF0691004045F8A321D80DD3
+https://library.lol/main/815D69C2F216C4A7935F61DF8C22E60D
 https://library.lol/main/8169478EEB6B45DC63F1165F8CB90681
 https://library.lol/main/81CB9A7661A68294614FD0B7673A634C
 https://library.lol/main/82519866195E43D2B29B514FC3A9AB4C
@@ -29919,6 +29915,7 @@ https://link.springer.com/book/10.1007/978-0-387-84858-7
 https://link.springer.com/book/10.1007/978-0-387-87837-9
 https://link.springer.com/book/10.1007/978-0-387-89488-1
 https://link.springer.com/book/10.1007/978-0-387-89496-6
+https://link.springer.com/book/10.1007/978-0-387-92257-7
 https://link.springer.com/book/10.1007/978-0-387-92280-5
 https://link.springer.com/book/10.1007/978-0-387-93839-4
 https://link.springer.com/book/10.1007/978-0-387-98144-4
@@ -30081,7 +30078,9 @@ https://link.springer.com/book/10.1007/978-1-4614-5981-1
 https://link.springer.com/book/10.1007/978-1-4614-6006-0
 https://link.springer.com/book/10.1007/978-1-4614-6022-0
 https://link.springer.com/book/10.1007/978-1-4614-6868-4
+https://link.springer.com/book/10.1007/978-1-4614-6980-3
 https://link.springer.com/book/10.1007/978-1-4614-7297-1
+https://link.springer.com/book/10.1007/978-1-4614-7618-4
 https://link.springer.com/book/10.1007/978-1-4614-7732-7
 https://link.springer.com/book/10.1007/978-1-4614-8453-0
 https://link.springer.com/book/10.1007/978-1-4614-8687-9
@@ -30204,6 +30203,7 @@ https://link.springer.com/book/10.1007/978-3-030-41705-5
 https://link.springer.com/book/10.1007/978-3-030-42227-1
 https://link.springer.com/book/10.1007/978-3-030-42374-2
 https://link.springer.com/book/10.1007/978-3-030-42378-0
+https://link.springer.com/book/10.1007/978-3-030-44129-6
 https://link.springer.com/book/10.1007/978-3-030-44613-0
 https://link.springer.com/book/10.1007/978-3-030-44778-6
 https://link.springer.com/book/10.1007/978-3-030-45982-6
@@ -30216,6 +30216,7 @@ https://link.springer.com/book/10.1007/978-3-030-55156-8
 https://link.springer.com/book/10.1007/978-3-030-55193-3
 https://link.springer.com/book/10.1007/978-3-030-56070-6
 https://link.springer.com/book/10.1007/978-3-030-56402-5
+https://link.springer.com/book/10.1007/978-3-030-56485-8
 https://link.springer.com/book/10.1007/978-3-030-57592-2
 https://link.springer.com/book/10.1007/978-3-030-58478-8
 https://link.springer.com/book/10.1007/978-3-030-59234-9
@@ -30244,6 +30245,7 @@ https://link.springer.com/book/10.1007/978-3-030-78017-3
 https://link.springer.com/book/10.1007/978-3-030-80507-4
 https://link.springer.com/book/10.1007/978-3-030-81455-7
 https://link.springer.com/book/10.1007/978-3-030-81979-8
+https://link.springer.com/book/10.1007/978-3-030-82568-3
 https://link.springer.com/book/10.1007/978-3-030-83274-2
 https://link.springer.com/book/10.1007/978-3-030-83411-1
 https://link.springer.com/book/10.1007/978-3-030-83899-7
@@ -30446,6 +30448,7 @@ https://link.springer.com/book/10.1007/978-3-476-03584-4
 https://link.springer.com/book/10.1007/978-3-476-03667-4
 https://link.springer.com/book/10.1007/978-3-476-04761-8
 https://link.springer.com/book/10.1007/978-3-540-30717-4
+https://link.springer.com/book/10.1007/978-3-540-33236-7
 https://link.springer.com/book/10.1007/978-3-540-35447-5
 https://link.springer.com/book/10.1007/978-3-540-39035-0
 https://link.springer.com/book/10.1007/978-3-540-39088-6
@@ -30656,6 +30659,7 @@ https://link.springer.com/book/10.1007/978-981-19-4755-1
 https://link.springer.com/book/10.1007/978-981-19-7261-4
 https://link.springer.com/book/10.1007/978-981-19-7284-3
 https://link.springer.com/book/10.1007/978-981-19-7633-9
+https://link.springer.com/book/10.1007/978-981-19-7855-5
 https://link.springer.com/book/10.1007/978-981-19-9382-4
 https://link.springer.com/book/10.1007/978-981-4451-51-2
 https://link.springer.com/book/10.1007/978-981-99-1600-9
@@ -30753,6 +30757,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-57043-9_11
 https://link.springer.com/chapter/10.1007/978-3-030-59234-9_3
 https://link.springer.com/chapter/10.1007/978-3-030-59234-9_6
 https://link.springer.com/chapter/10.1007/978-3-030-83899-7_12
+https://link.springer.com/chapter/10.1007/978-3-031-05988-9_8
 https://link.springer.com/chapter/10.1007/978-3-031-12244-6_38
 https://link.springer.com/chapter/10.1007/978-3-031-18050-7_10
 https://link.springer.com/chapter/10.1007/978-3-319-00440-2_2
@@ -30761,6 +30766,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-21852-6_3
 https://link.springer.com/chapter/10.1007/978-3-319-78999-6_29
 https://link.springer.com/chapter/10.1007/978-3-540-30210-0_15
 https://link.springer.com/chapter/10.1007/978-3-540-30586-6_79
+https://link.springer.com/chapter/10.1007/978-3-540-33236-7_21
 https://link.springer.com/chapter/10.1007/978-3-540-68279-0_5
 https://link.springer.com/chapter/10.1007/978-3-540-70556-7_11
 https://link.springer.com/chapter/10.1007/978-3-540-73086-6_5
@@ -33075,6 +33081,7 @@ https://people.scs.carleton.ca/~paulv/toolsjewels.html
 https://people.seas.harvard.edu/~valiant/
 https://people.smp.uq.edu.au/DirkKroese/
 https://people.smp.uq.edu.au/DirkKroese/DSML/
+https://people.smp.uq.edu.au/DirkKroese/montecarlohandbook/
 https://people.tamu.edu/~huafei-yan//Rota/mitless.html
 https://peps.python.org/
 https://peps.python.org/pep-0000/
@@ -33810,6 +33817,7 @@ https://quantecon.org/
 https://quantecon.org/lectures/
 https://quantecon.org/quantecon-jl/
 https://quantecon.org/quantecon-py/
+https://quantstack.net/
 https://quantumai.google/
 https://quantumai.google/qecmilestone
 https://quantumcomputinginc.com/
@@ -42935,6 +42943,7 @@ https://www.springer.com/series/0136
 https://www.springer.com/series/0138
 https://www.springer.com/series/0223
 https://www.springer.com/series/0666
+https://www.springer.com/series/0692
 https://www.springer.com/series/10128
 https://www.springer.com/series/10624
 https://www.springer.com/series/1064
@@ -43963,6 +43972,7 @@ https://www.wikilengua.org/index.php/Comillas
 https://www.wikilengua.org/index.php/Portada
 https://www.wikimedia.de/
 https://www.wildfly.org/
+https://www.wiley.com/en-au/Handbook+of+Monte+Carlo+Methods-p-9780470177938
 https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471368793
 https://www.wiley.com/en-us/A+Course+in+Computational+Number+Theory-p-9780470412152
 https://www.wiley.com/en-us/Advanced+Engineering+Mathematics%2C+10th+Edition-p-9781119455929
