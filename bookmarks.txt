@@ -835,6 +835,7 @@ https://arxiv.org/abs/1609.05807
 https://arxiv.org/abs/1611.00740
 https://arxiv.org/abs/1611.05431
 https://arxiv.org/abs/1611.05431v2
+https://arxiv.org/abs/1612.01105
 https://arxiv.org/abs/1612.07182
 https://arxiv.org/abs/1702.05224
 https://arxiv.org/abs/1702.05373
@@ -850,6 +851,7 @@ https://arxiv.org/abs/1705.09406
 https://arxiv.org/abs/1706.02216
 https://arxiv.org/abs/1706.03762
 https://arxiv.org/abs/1706.05125
+https://arxiv.org/abs/1706.05587
 https://arxiv.org/abs/1706.10009
 https://arxiv.org/abs/1707.06347
 https://arxiv.org/abs/1707.07435
@@ -939,6 +941,7 @@ https://arxiv.org/abs/2002.10078
 https://arxiv.org/abs/2003.10014
 https://arxiv.org/abs/2004.03333
 https://arxiv.org/abs/2004.14974
+https://arxiv.org/abs/2004.15021
 https://arxiv.org/abs/2005.08926
 https://arxiv.org/abs/2005.11138
 https://arxiv.org/abs/2006.04641
@@ -973,7 +976,9 @@ https://arxiv.org/abs/2102.07359
 https://arxiv.org/abs/2103.00020
 https://arxiv.org/abs/2103.13413
 https://arxiv.org/abs/2103.15341
+https://arxiv.org/abs/2104.06456
 https://arxiv.org/abs/2104.13478
+https://arxiv.org/abs/2105.08630
 https://arxiv.org/abs/2105.12053
 https://arxiv.org/abs/2105.15203
 https://arxiv.org/abs/2106.06947
@@ -1038,7 +1043,10 @@ https://arxiv.org/abs/2206.13424
 https://arxiv.org/abs/2206.14858
 https://arxiv.org/abs/2206.15472
 https://arxiv.org/abs/2207.04396
+https://arxiv.org/abs/2208.13241
+https://arxiv.org/abs/2209.00961
 https://arxiv.org/abs/2209.11142
+https://arxiv.org/abs/2209.15159
 https://arxiv.org/abs/2210.04895
 https://arxiv.org/abs/2210.11299
 https://arxiv.org/abs/2210.14907
@@ -1081,6 +1089,7 @@ https://arxiv.org/abs/2306.03964
 https://arxiv.org/abs/2306.05682
 https://arxiv.org/abs/2306.05836
 https://arxiv.org/abs/2306.06079
+https://arxiv.org/abs/2306.17253
 https://arxiv.org/abs/2307.03759
 https://arxiv.org/abs/2307.04912
 https://arxiv.org/abs/2307.10984
@@ -1130,6 +1139,7 @@ https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2403.08879
+https://arxiv.org/abs/2403.18913
 https://arxiv.org/abs/2403.19546
 https://arxiv.org/abs/2404.07236
 https://arxiv.org/abs/2404.15506
@@ -1138,6 +1148,7 @@ https://arxiv.org/abs/2405.03725
 https://arxiv.org/abs/2405.08007
 https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
+https://arxiv.org/abs/2406.01493
 https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/2406.09414
 https://arxiv.org/abs/2406.18591
@@ -1146,8 +1157,10 @@ https://arxiv.org/abs/2407.16312
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
+https://arxiv.org/abs/2409.09896
 https://arxiv.org/abs/2409.19933
 https://arxiv.org/abs/2410.02073
+https://arxiv.org/abs/2410.02924
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
@@ -3336,6 +3349,7 @@ https://developer.android.com/
 https://developer.android.com/ai
 https://developer.android.com/ai/custom
 https://developer.android.com/series/now-in-android
+https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_photos_with_depth
 https://developer.apple.com/documentation/security/keychain_services
 https://developer.apple.com/passkeys/
 https://developer.apple.com/swift/
@@ -3425,6 +3439,11 @@ https://developers.generativeai.google/guide
 https://developers.generativeai.google/tutorials/text_quickstart
 https://developers.google.com/
 https://developers.google.com/apis-explorer
+https://developers.google.com/ar
+https://developers.google.com/ar/develop/depth
+https://developers.google.com/ar/develop/geospatial
+https://developers.google.com/ar/develop/java/depth/developer-guide
+https://developers.google.com/ar/develop/java/quickstart
 https://developers.google.com/books
 https://developers.google.com/identity/passkeys
 https://developers.google.com/machine-learning
@@ -4142,6 +4161,7 @@ https://dl.acm.org/doi/abs/10.1145/2678373.2665740
 https://dl.acm.org/doi/abs/10.1145/3309544
 https://dl.acm.org/doi/abs/10.1145/3372393
 https://dl.acm.org/doi/abs/10.1145/3373376.3378449
+https://dl.acm.org/doi/abs/10.1145/3386569.3392377
 https://dl.acm.org/doi/abs/10.1145/3394486.3403132
 https://dl.acm.org/doi/abs/10.1145/3412439
 https://dl.acm.org/doi/abs/10.1145/3431282
@@ -5131,6 +5151,7 @@ https://dx.doi.org/10.1561/1900000002
 https://dx.doi.org/10.1561/1900000017
 https://dx.doi.org/10.1561/1900000073
 https://dyalog.com/
+https://dynamic-video-depth.github.io/
 https://dynamorio.org/sec_drcachesim_sim.html
 https://dyne.org/
 https://dyne.org/software/dynebolic/
@@ -24735,6 +24756,7 @@ https://github.blog/2023-05-09-how-to-fix-a-redos/
 https://github.blog/2023-06-15-codeql-zero-to-hero-part-2-getting-started-with-codeql/
 https://github.blog/2023-07-05-introduction-to-selinux/
 https://github.blog/category/security/
+https://github.blog/news-insights/octoverse/octoverse-2024/
 https://github.com/
 https://github.com/0xAX/linux-insides
 https://github.com/0xInfection/Awesome-WAF
@@ -24852,6 +24874,7 @@ https://github.com/apache/zookeeper
 https://github.com/apavlo/h-store
 https://github.com/apolloconfig/apollo
 https://github.com/appelmar/gdalcubes
+https://github.com/apple/ml-cvnets
 https://github.com/apple/ml-depth-pro
 https://github.com/apple-oss-distributions/xnu
 https://github.com/apsdehal/awesome-ctf
@@ -25316,6 +25339,7 @@ https://github.com/facebookincubator/velox
 https://github.com/facebook/lexical
 https://github.com/facebook/prophet
 https://github.com/facebookresearch/benchmarl
+https://github.com/facebookresearch/consistent_depth
 https://github.com/facebookresearch/esm
 https://github.com/facebookresearch/fastText
 https://github.com/facebookresearch/hydra
@@ -25485,6 +25509,7 @@ https://github.com/google-deepmind/mathematics_dataset
 https://github.com/google-deepmind/meltingpot
 https://github.com/google-deepmind/mujoco
 https://github.com/google-deepmind/open_spiel
+https://github.com/google/dynamic-video-depth
 https://github.com/google/filament
 https://github.com/google/flatbuffers
 https://github.com/google/flax
@@ -28293,6 +28318,7 @@ https://ieeexplore.ieee.org/document/9779481/
 https://ieeexplore.ieee.org/document/9806142
 https://ieeexplore.ieee.org/document/9810097
 https://ieeexplore.ieee.org/document/9816655
+https://ieeexplore.ieee.org/document/9857018
 https://ieeexplore.ieee.org/document/9897990
 https://ieeexplore.ieee.org/document/9912325
 https://ieeexplore.ieee.org/document/9946889
@@ -31380,6 +31406,7 @@ https://mangopi.org/
 https://manipulation.csail.mit.edu/
 https://manjaro.org/
 https://manned.org/
+https://mannequin-depth.github.io/
 https://man.netbsd.org/
 https://man.netbsd.org/editline.3
 https://manoa.hawaii.edu/exploringourfluidearth/physical/navigation-and-transportation/wayfinding-and-navigation
@@ -33001,6 +33028,7 @@ https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1
 https://paperswithcode.com/paper/generative-adversarial-networks
 https://paperswithcode.com/paper/improving-self-organizing-maps-with
 https://paperswithcode.com/paper/latent-odes-for-irregularly-sampled-time
+https://paperswithcode.com/paper/lighteddepth-video-depth-estimation-in-light
 https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent
 https://paperswithcode.com/paper/molgensurvey-a-systematic-survey-in-machine
 https://paperswithcode.com/paper/molgensurvey-a-systematic-survey-in-machine/review/
@@ -33046,6 +33074,7 @@ https://paperswithcode.com/task/multivariate-time-series-forecasting
 https://paperswithcode.com/task/multivariate-time-series-imputation
 https://paperswithcode.com/task/operator-learning/
 https://paperswithcode.com/task/optical-character-recognition
+https://paperswithcode.com/task/optical-flow-estimation
 https://paperswithcode.com/task/program-synthesis
 https://paperswithcode.com/task/recommendation-systems
 https://paperswithcode.com/task/self-organized-clustering
@@ -34299,6 +34328,7 @@ https://rosettacode.org/wiki/Rosetta_Code
 https://ros.org/
 https://rowman.com/ISBN/9781442223066/Against-Religion-Wars-and-States-The-Case-for-Enlightenment-Atheism-Just-War-Pacifism-and-Liberal-Democratic-Anarchism
 https://rowman.com/ISBN/9781636710860/ProQuest-Statistical-Abstract-of-the-United-States-2023-The-National-Data-Book
+https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/
 https://roxygen2.r-lib.org/
 https://royalsociety.org/
 https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0169
@@ -41471,6 +41501,7 @@ https://www.openculture.com/
 https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html
 https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
 https://www.opencv.ai/
+https://www.opencv.ai/blog/depth-estimation
 https://www.opendatacube.org/
 https://www.opendatanetwork.com/
 https://www.opendnssec.org/
