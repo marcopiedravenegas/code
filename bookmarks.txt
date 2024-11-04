@@ -820,6 +820,7 @@ https://arxiv.org/abs/1512.03385
 https://arxiv.org/abs/1512.03965v4
 https://arxiv.org/abs/1512.04639
 https://arxiv.org/abs/1512.06789
+https://arxiv.org/abs/1602.02220
 https://arxiv.org/abs/1602.02830
 https://arxiv.org/abs/1605.05362
 https://arxiv.org/abs/1605.05420
@@ -828,8 +829,10 @@ https://arxiv.org/abs/1606.04422
 https://arxiv.org/abs/1607.00653
 https://arxiv.org/abs/1609.00222
 https://arxiv.org/abs/1609.02907
+https://arxiv.org/abs/1609.04436
 https://arxiv.org/abs/1609.04747
 https://arxiv.org/abs/1609.05807
+https://arxiv.org/abs/1611.00740
 https://arxiv.org/abs/1611.05431
 https://arxiv.org/abs/1611.05431v2
 https://arxiv.org/abs/1612.07182
@@ -838,6 +841,7 @@ https://arxiv.org/abs/1702.05373
 https://arxiv.org/abs/1703.00810
 https://arxiv.org/abs/1703.01513
 https://arxiv.org/abs/1703.07950
+https://arxiv.org/abs/1703.10622
 https://arxiv.org/abs/1704.00605
 https://arxiv.org/abs/1704.01212
 https://arxiv.org/abs/1704.02685
@@ -860,6 +864,7 @@ https://arxiv.org/abs/1712.00600
 https://arxiv.org/abs/1712.01815
 https://arxiv.org/abs/1712.08500
 https://arxiv.org/abs/1801.01127
+https://arxiv.org/abs/1801.04381
 https://arxiv.org/abs/1801.05894
 https://arxiv.org/abs/1801.09847
 https://arxiv.org/abs/1802.01528
@@ -881,6 +886,7 @@ https://arxiv.org/abs/1810.04805
 https://arxiv.org/abs/1810.11673
 https://arxiv.org/abs/1810.11921v2
 https://arxiv.org/abs/1811.03850
+https://arxiv.org/abs/1811.07222
 https://arxiv.org/abs/1811.11431
 https://arxiv.org/abs/1811.12823
 https://arxiv.org/abs/1812.04202
@@ -898,6 +904,7 @@ https://arxiv.org/abs/1904.11784
 https://arxiv.org/abs/1905.00075
 https://arxiv.org/abs/1905.01395
 https://arxiv.org/abs/1905.02244
+https://arxiv.org/abs/1905.02244v5
 https://arxiv.org/abs/1905.03806
 https://arxiv.org/abs/1905.07544
 https://arxiv.org/abs/1905.11946
@@ -983,6 +990,7 @@ https://arxiv.org/abs/2109.01483
 https://arxiv.org/abs/2109.09432
 https://arxiv.org/abs/2109.15102
 https://arxiv.org/abs/2110.02178
+https://arxiv.org/abs/2110.02178v2
 https://arxiv.org/abs/2110.04994
 https://arxiv.org/abs/2110.06209
 https://arxiv.org/abs/2110.06804
@@ -1039,9 +1047,11 @@ https://arxiv.org/abs/2211.00216
 https://arxiv.org/abs/2211.05100
 https://arxiv.org/abs/2211.05244
 https://arxiv.org/abs/2211.05368
+https://arxiv.org/abs/2211.11106
 https://arxiv.org/abs/2212.04481
 https://arxiv.org/abs/2212.10535
 https://arxiv.org/abs/2212.11279
+https://arxiv.org/abs/2212.11363
 https://arxiv.org/abs/2212.12794
 https://arxiv.org/abs/2212.13714
 https://arxiv.org/abs/2212.13969
@@ -1056,6 +1066,7 @@ https://arxiv.org/abs/2303.11633
 https://arxiv.org/abs/2303.12712
 https://arxiv.org/abs/2303.13569
 https://arxiv.org/abs/2304.01821
+https://arxiv.org/abs/2304.07193
 https://arxiv.org/abs/2304.11534
 https://arxiv.org/abs/2305.00813
 https://arxiv.org/abs/2305.05191
@@ -1067,6 +1078,7 @@ https://arxiv.org/abs/2306.01958
 https://arxiv.org/abs/2306.02707
 https://arxiv.org/abs/2306.03530
 https://arxiv.org/abs/2306.03964
+https://arxiv.org/abs/2306.05682
 https://arxiv.org/abs/2306.05836
 https://arxiv.org/abs/2306.06079
 https://arxiv.org/abs/2307.03759
@@ -1119,6 +1131,7 @@ https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2403.08879
 https://arxiv.org/abs/2403.19546
+https://arxiv.org/abs/2404.07236
 https://arxiv.org/abs/2404.15506
 https://arxiv.org/abs/2405.00832
 https://arxiv.org/abs/2405.03725
@@ -1133,6 +1146,7 @@ https://arxiv.org/abs/2407.16312
 https://arxiv.org/abs/2407.18443v1
 https://arxiv.org/abs/2408.16760
 https://arxiv.org/abs/2409.01147
+https://arxiv.org/abs/2409.19933
 https://arxiv.org/abs/2410.02073
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
@@ -4005,6 +4019,7 @@ https://dl.acm.org/doi/10.1145/3315573.3329980
 https://dl.acm.org/doi/10.1145/3319627.3319636
 https://dl.acm.org/doi/10.1145/3322125
 https://dl.acm.org/doi/10.1145/333623.333627
+https://dl.acm.org/doi/10.1145/3343031.3351068
 https://dl.acm.org/doi/10.1145/3361682
 https://dl.acm.org/doi/10.1145/3369736
 https://dl.acm.org/doi/10.1145/3383313.3412225
@@ -25337,6 +25352,7 @@ https://github.com/ferrous-systems/elements-of-rust
 https://github.com/fesh0r/fernflower
 https://github.com/fffaraz/awesome-cpp
 https://github.com/FFmpeg/FFmpeg
+https://github.com/FilippoAleotti/mobilePydnet
 https://github.com/FiloSottile/age
 https://github.com/FiloSottile/edwards25519
 https://github.com/FiloSottile/mkcert
@@ -27885,6 +27901,7 @@ https://huggingface.co/docs/timm/index
 https://huggingface.co/docs/tokenizers/index
 https://huggingface.co/docs/transformers/en/model_doc/depth_anything_v2
 https://huggingface.co/docs/transformers/en/model_doc/dpt
+https://huggingface.co/docs/transformers/en/model_doc/mobilevit
 https://huggingface.co/docs/transformers/en/model_doc/zoedepth
 https://huggingface.co/docs/transformers/index
 https://huggingface.co/docs/transformers.js/index
@@ -28059,6 +28076,7 @@ https://ieeeaccess.ieee.org/
 https://ieeeauthorcenter.ieee.org/
 https://ieee-hpec.org/
 https://ieeetcca.org/
+https://ieeexplore.ieee.org/abstract/document/10421385
 https://ieeexplore.ieee.org/abstract/document/5008902
 https://ieeexplore.ieee.org/author/37085719525
 https://ieeexplore.ieee.org/author/37266257500
@@ -29854,6 +29872,7 @@ https://link.springer.com/article/10.1007/s10462-021-09994-y
 https://link.springer.com/article/10.1007/s10462-021-09996-w
 https://link.springer.com/article/10.1007/s10462-022-10359-2
 https://link.springer.com/article/10.1007/s10462-023-10464-w
+https://link.springer.com/article/10.1007/s10462-024-10877-1
 https://link.springer.com/article/10.1007/s10479-008-0402-6
 https://link.springer.com/article/10.1007/s10479-009-0605-5
 https://link.springer.com/article/10.1007/s10479-019-03380-2
@@ -30423,6 +30442,7 @@ https://link.springer.com/book/10.1007/978-3-031-53744-8
 https://link.springer.com/book/10.1007/978-3-031-55964-8
 https://link.springer.com/book/10.1007/978-3-031-60099-9
 https://link.springer.com/book/10.1007/978-3-031-62205-2
+https://link.springer.com/book/10.1007/978-3-031-69499-8
 https://link.springer.com/book/10.1007/978-3-0346-0347-8
 https://link.springer.com/book/10.1007/978-3-0348-0493-6
 https://link.springer.com/book/10.1007/978-3-0348-0499-8
@@ -31272,6 +31292,8 @@ https://maa.tandfonline.com/journals/uamm20
 https://macaulay2.com/
 https://machalliance.org/
 https://machinelearning.apple.com/research/depth-pro
+https://machinelearning.apple.com/research?domain=Computer%20Vision
+https://machinelearning.apple.com/research/vision-transformer
 https://machinelearningmastery.com/blog/
 https://machinelearning.wtf/
 https://maciejczyzewski.github.io/retter/
@@ -32552,6 +32574,7 @@ https://opam.ocaml.org/
 https://opam.ocaml.org/packages/
 https://opam.ocaml.org/packages/base64/
 https://op-co.de/
+https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Single-Image_Depth_Estimation_CVPR_2018_paper.pdf
 https://openai.com/
 https://openai.com/blog
 https://openai.com/blog/chatgpt
@@ -32930,12 +32953,15 @@ https://paperswithcode.com/method/distillbert
 https://paperswithcode.com/method/dropout
 https://paperswithcode.com/method/efficientnet
 https://paperswithcode.com/method/gan
+https://paperswithcode.com/method/ghostnet
 https://paperswithcode.com/method/glove
 https://paperswithcode.com/method/k-means-clustering
 https://paperswithcode.com/method/lenet
 https://paperswithcode.com/method/metropolis-hastings
 https://paperswithcode.com/method/mobilenetv1
+https://paperswithcode.com/method/mobilenetv2
 https://paperswithcode.com/method/mobilenetv3
+https://paperswithcode.com/method/mobilevit
 https://paperswithcode.com/method/neural-turing-machine
 https://paperswithcode.com/method/normalizing-flows
 https://paperswithcode.com/method/relu
@@ -32949,13 +32975,16 @@ https://paperswithcode.com/methods/category/convolutional-neural-networks
 https://paperswithcode.com/methods/category/deep-tabular-learning
 https://paperswithcode.com/methods/category/generative-models
 https://paperswithcode.com/methods/category/graph-models
+https://paperswithcode.com/methods/category/light-weight-neural-networks
 https://paperswithcode.com/methods/category/optimization
 https://paperswithcode.com/methods/category/recurrent-neural-networks
 https://paperswithcode.com/methods/category/segmentation-models
 https://paperswithcode.com/methods/category/sequence-to-sequence-models
 https://paperswithcode.com/methods/category/transformers
 https://paperswithcode.com/method/seq2seq
+https://paperswithcode.com/method/shufflenet
 https://paperswithcode.com/method/som
+https://paperswithcode.com/method/squeezenet
 https://paperswithcode.com/method/t5
 https://paperswithcode.com/method/transformer
 https://paperswithcode.com/method/vision-transformer
@@ -33607,6 +33636,7 @@ https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-
 https://proceedings.neurips.cc/paper/2020/hash/2e255d2d6bf9bb33030246d31f1a79ca-Abstract.html
 https://proceedings.neurips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
 https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+https://proceedings.neurips.cc/paper_files/paper/2017/hash/bf424cb7b0dea050a42b9739eb261a3a-Abstract.html
 https://proceedings.neurips.cc/paper_files/paper/2022/hash/ecc38927fe5148c66bee64ee8fed1e76-Abstract-Conference.html
 https://proceedings.neurips.cc/papers/search?q=differential+equations
 https://processingfoundation.org/
@@ -34489,6 +34519,7 @@ https://scholar.google.com/citations?user=zkdjit0AAAAJ
 https://scholarlycommons.pacific.edu/euler-works/530/
 https://scholarlykitchen.sspnet.org/
 https://scholarship.law.cornell.edu/facpub/594/
+https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=2678&context=cs_techrep
 https://scholasticahq.com/
 https://scicomp.cs.illinois.edu/
 https://scienceblogs.de/
@@ -36103,6 +36134,7 @@ https://virtualcolossus.co.uk/
 https://vision.berkeley.edu/
 https://vision.berkeley.edu/people/bruno-a-olshausen-phd/
 https://vision-explorer.allenai.org/
+https://viso.ai/computer-vision/best-lightweight-computer-vision-models/
 https://viso.ai/deep-learning/computer-vision-tasks/
 https://vispy.org/
 https://visualisingdata.com/
@@ -36956,6 +36988,7 @@ https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1
 https://www.biorxiv.org/content/10.1101/2024.01.20.576352v1.full
 https://www.bips-institut.de/
 https://www.bisg.org/
+https://www.bishopbook.com/
 https://www.b-it-center.de/
 https://www.bitkom.org/
 https://www.blackberry.com/us/en/solutions/endpoint-security/mitre-attack/mitre-attack-vs-cyber-kill-chain
@@ -40680,6 +40713,8 @@ https://www.mdpi.com/
 https://www.mdpi.com/1099-4300/13/3/612
 https://www.mdpi.com/1099-4300/22/10/1100
 https://www.mdpi.com/1424-8220/16/6/912
+https://www.mdpi.com/1424-8220/19/20/4434
+https://www.mdpi.com/1424-8220/24/4/1182
 https://www.mdpi.com/2072-4292/16/16/2910
 https://www.mdpi.com/2075-1680/12/1/32
 https://www.mdpi.com/2076-3417/13/17/9780
@@ -40803,6 +40838,7 @@ https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine
 https://www.microsoft.com/en-us/research/publications/
 https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages-2/
 https://www.microsoft.com/en-us/research/research-area/algorithms/
+https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?
 https://www.microsoft.com/en-us/research/research-area/computational-sciences-mathematics/
 https://www.microsoft.com/en-us/research/research-area/computer-vision/
 https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/
@@ -41012,6 +41048,7 @@ https://www.nature.com/articles/nmeth.2089
 https://www.nature.com/articles/nmeth.4642
 https://www.nature.com/articles/nnano.2009.356
 https://www.nature.com/articles/nphoton.2015.208
+https://www.nature.com/articles/s41377-022-00714-x
 https://www.nature.com/articles/s41467-021-23719-3
 https://www.nature.com/articles/s41467-023-40593-3
 https://www.nature.com/articles/s41467-023-41486-1
@@ -41035,6 +41072,7 @@ https://www.nature.com/articles/s41597-020-0553-0
 https://www.nature.com/articles/s41597-023-02309-6
 https://www.nature.com/articles/s41597-023-02681-3
 https://www.nature.com/articles/s41598-019-39864-1
+https://www.nature.com/articles/s41598-023-32559-8
 https://www.nature.com/articles/s41598-023-36799-6
 https://www.nature.com/articles/s41598-023-37118-9
 https://www.nature.com/articles/s41928-018-0091-3
@@ -42236,6 +42274,7 @@ https://www.rfc-editor.org/search/rfc_search_detail.php
 https://www.rfc-editor.org/search/rfc_search_detail.php?title=oauth&pubstatus%5B%5D=Any&pub_date_type=any
 https://www.rfc-editor.org/standards
 https://www.rice.edu/
+https://www.ri.cmu.edu/app/uploads/2020/01/proceeding.pdf
 https://www.rigb.org/
 https://www.rigb.org/christmas-lectures
 https://www.rigb.org/explore-science
@@ -42649,6 +42688,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S089982560300188X
 https://www.sciencedirect.com/science/article/abs/pii/S0899825606000935
 https://www.sciencedirect.com/science/article/abs/pii/S089982562030097X
 https://www.sciencedirect.com/science/article/abs/pii/S089982569990790X
+https://www.sciencedirect.com/science/article/abs/pii/S0921889020305418
 https://www.sciencedirect.com/science/article/abs/pii/S0925231212006571
 https://www.sciencedirect.com/science/article/abs/pii/S0925231214007127
 https://www.sciencedirect.com/science/article/abs/pii/S0927050703100011
@@ -43062,6 +43102,7 @@ https://www.springer.com/series/13771
 https://www.springer.com/series/138
 https://www.springer.com/series/1432
 https://www.springer.com/series/15141
+https://www.springer.com/series/15487
 https://www.springer.com/series/15581
 https://www.springer.com/series/15869
 https://www.springer.com/series/1605
@@ -43359,6 +43400,7 @@ https://www.tandfonline.com/doi/abs/10.1080/03610918.2013.777455
 https://www.tandfonline.com/doi/abs/10.1080/07408170802322713
 https://www.tandfonline.com/doi/abs/10.1080/09332480.2010.10739787
 https://www.tandfonline.com/doi/abs/10.1080/14786440109462720
+https://www.tandfonline.com/doi/abs/10.1080/17445760.2022.2070748
 https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098
 https://www.tandfonline.com/doi/abs/10.3200/JECE.36.3.249-260
 https://www.tandfonline.com/doi/abs/10.4169/074683409X475661
@@ -44377,6 +44419,7 @@ https://www.youtube.com/playlist?list=PL0Z_X4HsY7E8gCutB19N492fNUc2XpR5R
 https://www.youtube.com/playlist?list=PL0Z_X4HsY7E9988xnXc35pfk_XD1EESw6
 https://www.youtube.com/playlist?list=PL0Z_X4HsY7E-u-8TsNTDFa9-C7FgsX1TR
 https://www.youtube.com/playlist?list=PL4IY-bW5BK2TY6Kc8Nzcv3I1j7narR6hw
+https://www.youtube.com/playlist?list=PL6hzlGxGIS1A-o2pQVXK-Z2qOBOvZ1XbZ
 https://www.youtube.com/playlist?list=PL7EqAsBxqGgjarBzACNmCNDdr0y0iFu8U
 https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj
 https://www.youtube.com/playlist?list=PL94E35692EB9D36F3
