@@ -939,6 +939,7 @@ https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.08071
 https://arxiv.org/abs/2002.10078
 https://arxiv.org/abs/2003.10014
+https://arxiv.org/abs/2003.11066
 https://arxiv.org/abs/2004.03333
 https://arxiv.org/abs/2004.14974
 https://arxiv.org/abs/2004.15021
@@ -1100,6 +1101,7 @@ https://arxiv.org/abs/2308.07817
 https://arxiv.org/abs/2308.08235
 https://arxiv.org/abs/2308.08468
 https://arxiv.org/abs/2308.11914
+https://arxiv.org/abs/2308.13998
 https://arxiv.org/abs/2308.14711
 https://arxiv.org/abs/2309.03971
 https://arxiv.org/abs/2309.07062
@@ -1137,6 +1139,7 @@ https://arxiv.org/abs/2402.05804
 https://arxiv.org/abs/2402.06539
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
+https://arxiv.org/abs/2403.00712v1
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2403.08879
 https://arxiv.org/abs/2403.18913
@@ -1245,6 +1248,7 @@ https://attack.mitre.org/groups/
 https://attack.mitre.org/groups/G0016/
 https://attacks.cr.yp.to/
 https://att.github.io/ast/ksh/faq.html
+https://augmentedperception.github.io/depthlab/
 https://aur.archlinux.org/
 https://aur.archlinux.org/packages
 https://aur.archlinux.org/packages/spleen-font
@@ -3130,6 +3134,7 @@ https://datacarpentry.org/
 https://data.census.gov/
 https://datacite.org/
 https://data.cityofnewyork.us/Transportation/2020-High-Volume-FHV-Trip-Records/yrt9-58g8/about_data
+https://datacommons.org/
 https://data.europa.eu/en
 https://data-explorer.oecd.org/
 https://data.fivethirtyeight.com/
@@ -3174,6 +3179,7 @@ https://datatau.net/
 https://datatracker.ietf.org/wg/jose/documents/
 https://data.transportation.gov/
 https://data.unicef.org/
+https://data.un.org/
 https://dataverse.harvard.edu/
 https://dataverse.org/
 https://data.world/
@@ -8379,8 +8385,10 @@ https://en.wikipedia.org/wiki/Category:Statistical_mechanics
 https://en.wikipedia.org/wiki/Category:Statistical_methods
 https://en.wikipedia.org/wiki/Category:Statistical_models
 https://en.wikipedia.org/wiki/Category:Statistical_natural_language_processing
+https://en.wikipedia.org/wiki/Category:Statistical_organizations
 https://en.wikipedia.org/wiki/Category:Statistical_principles
 https://en.wikipedia.org/wiki/Category:Statistical_process_control
+https://en.wikipedia.org/wiki/Category:Statistical_service_organizations
 https://en.wikipedia.org/wiki/Category:Statistical_signal_processing
 https://en.wikipedia.org/wiki/Category:Statistical_tests
 https://en.wikipedia.org/wiki/Category:Statistical_tests_for_contingency_tables
@@ -10029,6 +10037,7 @@ https://en.wikipedia.org/wiki/Data_classification_(business_intelligence)
 https://en.wikipedia.org/wiki/Data_cleansing
 https://en.wikipedia.org/wiki/Data_Colada
 https://en.wikipedia.org/wiki/Data_collection
+https://en.wikipedia.org/wiki/Data_Commons
 https://en.wikipedia.org/wiki/Data_communication
 https://en.wikipedia.org/wiki/Data_compression
 https://en.wikipedia.org/wiki/Data_(computer_science)
@@ -11364,6 +11373,7 @@ https://en.wikipedia.org/wiki/European_Union_Public_Licence
 https://en.wikipedia.org/wiki/European_Union_Satellite_Centre
 https://en.wikipedia.org/wiki/European_wars_of_religion
 https://en.wikipedia.org/wiki/Europol
+https://en.wikipedia.org/wiki/Eurostat
 https://en.wikipedia.org/wiki/Euthenics
 https://en.wikipedia.org/wiki/Evacuation_simulation
 https://en.wikipedia.org/wiki/Evaluation_function
@@ -15878,6 +15888,7 @@ https://en.wikipedia.org/wiki/List_of_universities_in_Canada
 https://en.wikipedia.org/wiki/List_of_University_of_Michigan_alumni
 https://en.wikipedia.org/wiki/List_of_University_of_Waterloo_people
 https://en.wikipedia.org/wiki/List_of_university_presses
+https://en.wikipedia.org/wiki/List_of_university_statistical_consulting_centers
 https://en.wikipedia.org/wiki/List_of_Unix_commands,List of Unix commands
 https://en.wikipedia.org/wiki/List_of_unmade_episodes_of_The_X-Files
 https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
@@ -23004,6 +23015,7 @@ https://en.wikipedia.org/wiki/United_Nations_Office_for_Outer_Space_Affairs
 https://en.wikipedia.org/wiki/United_Nations_Office_for_Project_Services
 https://en.wikipedia.org/wiki/United_Nations_Office_on_Drugs_and_Crime
 https://en.wikipedia.org/wiki/United_Nations_Security_Council
+https://en.wikipedia.org/wiki/United_Nations_Statistics_Division
 https://en.wikipedia.org/wiki/United_Nations_University
 https://en.wikipedia.org/wiki/United_States_Africa_Command
 https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development
@@ -28314,6 +28326,7 @@ https://ieeexplore.ieee.org/document/9630142
 https://ieeexplore.ieee.org/document/963463
 https://ieeexplore.ieee.org/document/9709524
 https://ieeexplore.ieee.org/document/9730316
+https://ieeexplore.ieee.org/document/9733049
 https://ieeexplore.ieee.org/document/9779481/
 https://ieeexplore.ieee.org/document/9806142
 https://ieeexplore.ieee.org/document/9810097
@@ -36046,7 +36059,9 @@ https://unpack.debug.su/pocorgtfo/
 https://unrar.online/
 https://unrar-online.com/en
 https://unsaflok.com/
+https://unstats.un.org/
 https://unstats.un.org/UNSDWebsite/
+https://unstats.un.org/UNSDWebsite/undatacommons/sdgs
 https://untied.cr.yp.to/
 https://uops.info/
 https://upc.lbl.gov/
@@ -37555,6 +37570,7 @@ https://www.centerspace.net/nmath-stats
 https://www.centos.org/
 https://www.centos.org/centos-stream/
 https://www.centre-mersenne.org/
+https://www.cepal.org/
 https://www.cerias.purdue.edu/about/history/coast_resources/cryptography/
 https://www.cern/science/computing
 https://www.cesargamboasanabria.com/es/
@@ -42746,6 +42762,7 @@ https://www.sciencedirect.com/science/article/pii/0304397594901783
 https://www.sciencedirect.com/science/article/pii/0304397595001824
 https://www.sciencedirect.com/science/article/pii/0895717788905249
 https://www.sciencedirect.com/science/article/pii/092622459290011B
+https://www.sciencedirect.com/science/article/pii/S0010448521001305
 https://www.sciencedirect.com/science/article/pii/S0019995858800030
 https://www.sciencedirect.com/science/article/pii/S0019995863902900
 https://www.sciencedirect.com/science/article/pii/S001999586590241X
@@ -42760,6 +42777,7 @@ https://www.sciencedirect.com/science/article/pii/S0167642313002980
 https://www.sciencedirect.com/science/article/pii/S0167739X16301856
 https://www.sciencedirect.com/science/article/pii/S0167819197001142?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0168827810003259
+https://www.sciencedirect.com/science/article/pii/S026322411300081X
 https://www.sciencedirect.com/science/article/pii/S0306261923000697
 https://www.sciencedirect.com/science/article/pii/S0315086009001360
 https://www.sciencedirect.com/science/article/pii/S0315086084710317?via%3Dihub
@@ -42779,6 +42797,7 @@ https://www.sciencedirect.com/science/article/pii/S0893608019300784
 https://www.sciencedirect.com/science/article/pii/S0893608021002173
 https://www.sciencedirect.com/science/article/pii/S0898122197001843
 https://www.sciencedirect.com/science/article/pii/S0950584923001222
+https://www.sciencedirect.com/science/article/pii/S0952197624014714
 https://www.sciencedirect.com/science/article/pii/S0968090X23003157
 https://www.sciencedirect.com/science/article/pii/S1018364724000193
 https://www.sciencedirect.com/science/article/pii/S1359644621002531
@@ -42787,6 +42806,7 @@ https://www.sciencedirect.com/science/article/pii/S1877050922020944
 https://www.sciencedirect.com/science/article/pii/S1878929316302201
 https://www.sciencedirect.com/science/article/pii/S2095809921003349
 https://www.sciencedirect.com/science/article/pii/S2210670723006571
+https://www.sciencedirect.com/science/article/pii/S2352864821000298
 https://www.sciencedirect.com/science/article/pii/S2542435123003653
 https://www.sciencedirect.com/science/article/pii/S2666379122003494
 https://www.sciencedirect.com/science/article/pii/S2666764923000103
