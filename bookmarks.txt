@@ -966,6 +966,7 @@ https://arxiv.org/abs/2010.11929
 https://arxiv.org/abs/2011.00583
 https://arxiv.org/abs/2011.01307
 https://arxiv.org/abs/2011.05847
+https://arxiv.org/abs/2011.10189
 https://arxiv.org/abs/2012.01714
 https://arxiv.org/abs/2012.01850
 https://arxiv.org/abs/2012.05893
@@ -1038,6 +1039,7 @@ https://arxiv.org/abs/2205.14756
 https://arxiv.org/abs/2205.15231
 https://arxiv.org/abs/2205.15659
 https://arxiv.org/abs/2205.15764
+https://arxiv.org/abs/2206.02066
 https://arxiv.org/abs/2206.04615
 https://arxiv.org/abs/2206.04843
 https://arxiv.org/abs/2206.13424
@@ -3331,6 +3333,7 @@ https://desapublications.un.org/publications/world-population-prospects-2024-sum
 https://desfontain.es/privacy/differential-privacy-reading-list.html
 https://designexptr.org/
 https://desktop.arcgis.com/en/arcmap/latest/map/projections/list-of-supported-map-projections.htm
+https://detectron2.readthedocs.io/en/stable/
 https://detekt.dev/
 https://dev1galaxy.org/
 https://dev.ampl.com/
@@ -25366,12 +25369,16 @@ https://github.com/facebook/lexical
 https://github.com/facebook/prophet
 https://github.com/facebookresearch/benchmarl
 https://github.com/facebookresearch/consistent_depth
+https://github.com/facebookresearch/detectron
+https://github.com/facebookresearch/detectron2
 https://github.com/facebookresearch/esm
 https://github.com/facebookresearch/fastText
 https://github.com/facebookresearch/hydra
 https://github.com/facebookresearch/jacobian_regularizer
 https://github.com/facebookresearch/nevergrad
 https://github.com/facebookresearch/ReAgent
+https://github.com/facebookresearch/sam2
+https://github.com/facebookresearch/segment-anything
 https://github.com/facebookresearch/SparseConvNet
 https://github.com/facebookresearch/SymbolicMathematics
 https://github.com/facebook/rocksdb
@@ -27240,6 +27247,7 @@ https://github.com/zulip/zulip/
 https://github.com/zwang4/awesome-machine-learning-in-compilers
 https://github.com/zx2c4
 https://github.com/zx2c4/cgit
+https://github.com/ZYCheng777/TinyDepth
 https://github.com/Zymrael
 https://github.com/Zymrael/awesome-neural-ode
 https://github.com/Zymrael/gde
@@ -42770,6 +42778,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0925231214007127
 https://www.sciencedirect.com/science/article/abs/pii/S0927050703100011
 https://www.sciencedirect.com/science/article/abs/pii/S0950061823022158
 https://www.sciencedirect.com/science/article/abs/pii/S0950705120301350
+https://www.sciencedirect.com/science/article/abs/pii/S0952197624014714
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X07000772
 https://www.sciencedirect.com/science/article/abs/pii/S0959440X21001433?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S096007799800215X
