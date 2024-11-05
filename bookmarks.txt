@@ -149,6 +149,7 @@ http://retractiondatabase.org/
 http://riscvbook.com/
 http://robotics.stanford.edu/~suresh/theory/theory-home.html
 http://root.org/~nate/
+https://00f.net/
 https://01.org/linuxgraphics/downloads/firmware
 https://01.org/linuxmedia
 https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/
@@ -2460,6 +2461,7 @@ https://cran.r-project.org/web/packages/caret/index.html
 https://cran.r-project.org/web/packages/car/index.html
 https://cran.r-project.org/web/packages/causaldata/index.html
 https://cran.r-project.org/web/packages/CausalImpact/index.html
+https://cran.r-project.org/web/packages/cipheR/index.html
 https://cran.r-project.org/web/packages/class/index.html
 https://cran.r-project.org/web/packages/cli/index.html
 https://cran.r-project.org/web/packages/cluster/index.html
@@ -2473,6 +2475,7 @@ https://cran.r-project.org/web/packages/crassmat/index.html
 https://cran.r-project.org/web/packages/crayon/index.html
 https://cran.r-project.org/web/packages/ctv/
 https://cran.r-project.org/web/packages/curl/index.html
+https://cran.r-project.org/web/packages/cyphr/index.html
 https://cran.r-project.org/web/packages/dae/index.html
 https://cran.r-project.org/web/packages/datasauRus/index.html
 https://cran.r-project.org/web/packages/data.table/index.html
@@ -2494,6 +2497,7 @@ https://cran.r-project.org/web/packages/effects/index.html
 https://cran.r-project.org/web/packages/effectsize/index.html
 https://cran.r-project.org/web/packages/effsize/index.html
 https://cran.r-project.org/web/packages/EmbedSOM/index.html
+https://cran.r-project.org/web/packages/encryptr/readme/README.html
 https://cran.r-project.org/web/packages/entropy/index.html
 https://cran.r-project.org/web/packages/evreg/index.html
 https://cran.r-project.org/web/packages/exams/index.html
@@ -2657,6 +2661,7 @@ https://cran.r-project.org/web/packages/slam/index.html
 https://cran.r-project.org/web/packages/SmartEDA/index.html
 https://cran.r-project.org/web/packages/snow/index.html
 https://cran.r-project.org/web/packages/sodium/index.html
+https://cran.r-project.org/web/packages/sodium/vignettes/crypto101.html
 https://cran.r-project.org/web/packages/som/index.html
 https://cran.r-project.org/web/packages/spam/index.html
 https://cran.r-project.org/web/packages/SparseM/index.html
@@ -4357,6 +4362,7 @@ https://dmol.pub/
 https://d-nb.info/1052292569/34
 https://d-nb.info/1074999576/34
 https://dnschecker.org/
+https://dnscrypt.info/
 https://dnscurve.org/
 https://dns.google/
 https://dns.he.net/
@@ -19450,6 +19456,7 @@ https://en.wikipedia.org/wiki/Punjabi_language
 https://en.wikipedia.org/wiki/Punk_rock
 https://en.wikipedia.org/wiki/Puranas
 https://en.wikipedia.org/wiki/Purdue_University
+https://en.wikipedia.org/wiki/Pure-FTPd
 https://en.wikipedia.org/wiki/Purely_functional_data_structure
 https://en.wikipedia.org/wiki/PureOS
 https://en.wikipedia.org/wiki/PureScript
@@ -23485,6 +23492,7 @@ https://en.wikipedia.org/wiki/VP9
 https://en.wikipedia.org/wiki/VPN_service
 https://en.wikipedia.org/wiki/V_(programming_language)
 https://en.wikipedia.org/wiki/VSEPR_theory
+https://en.wikipedia.org/wiki/Vsftpd
 https://en.wikipedia.org/wiki/V-statistic
 https://en.wikipedia.org/wiki/VT100
 https://en.wikipedia.org/wiki/VT320
@@ -42073,6 +42081,7 @@ https://www.pulsedesign.com/pulse-design-nature-series
 https://www.pulumi.com/
 https://www.puppet.com/
 https://www.purdue.edu/
+https://www.pureftpd.org/project/pure-ftpd/
 https://www.purevpn.com/
 https://www.pw.org/
 https://www.pwsafe.org/
