@@ -1741,6 +1741,7 @@ https://bookstore.ams.org/amstext-2
 https://bookstore.ams.org/amstext-28/
 https://bookstore.ams.org/amstext-40
 https://bookstore.ams.org/amstext-55
+https://bookstore.ams.org/amstext-65
 https://bookstore.ams.org/chel-376-h
 https://bookstore.ams.org/clrm-16
 https://bookstore.ams.org/gsm-140/
@@ -5470,6 +5471,11 @@ https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
 https://eniko.itch.io/kitsunetails
 https://en.ilmatieteenlaitos.fi/
+https://en.m.wikipedia.org/wiki/Banach_fixed-point_theorem
+https://en.m.wikipedia.org/wiki/Contraction_mapping
+https://en.m.wikipedia.org/wiki/Lipschitz_continuity
+https://en.m.wikipedia.org/wiki/Metric_map
+https://en.m.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
@@ -9340,6 +9346,7 @@ https://en.wikipedia.org/wiki/Computability_theory
 https://en.wikipedia.org/wiki/Computable_analysis
 https://en.wikipedia.org/wiki/Computable_function
 https://en.wikipedia.org/wiki/Computable_number
+https://en.wikipedia.org/wiki/Computational_anatomy
 https://en.wikipedia.org/wiki/Computational_and_Systems_Neuroscience
 https://en.wikipedia.org/wiki/Computational_astrophysics
 https://en.wikipedia.org/wiki/Computational_biology
@@ -11833,6 +11840,7 @@ https://en.wikipedia.org/wiki/Forever_Is_the_World
 https://en.wikipedia.org/wiki/Forge_(software)
 https://en.wikipedia.org/wiki/ForkLift_(file_manager)
 https://en.wikipedia.org/wiki/Fork_(software_development)
+https://en.wikipedia.org/wiki/Formal_concept_analysis
 https://en.wikipedia.org/wiki/Formal_power_series
 https://en.wikipedia.org/wiki/Formal_science
 https://en.wikipedia.org/wiki/Formal_system
@@ -16490,6 +16498,7 @@ https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
 https://en.wikipedia.org/wiki/Maximum_modulus_principle
 https://en.wikipedia.org/wiki/Maximum_principle
 https://en.wikipedia.org/wiki/Maximum_satisfiability_problem
+https://en.wikipedia.org/wiki/Maximum_subarray_problem
 https://en.wikipedia.org/wiki/Maximum_transmission_unit
 https://en.wikipedia.org/wiki/MaxMind
 https://en.wikipedia.org/wiki/Max_Perutz
@@ -18506,6 +18515,7 @@ https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture
 https://en.wikipedia.org/wiki/Pattern_recognition
 https://en.wikipedia.org/wiki/Pattern_Recognition_(novel)
 https://en.wikipedia.org/wiki/Pattern_search_(optimization)
+https://en.wikipedia.org/wiki/Pattern_theory
 https://en.wikipedia.org/wiki/Paul_Carl_Kocher
 https://en.wikipedia.org/wiki/Paul_Cartledge
 https://en.wikipedia.org/wiki/Paul_Cohen
@@ -18618,6 +18628,7 @@ https://en.wikipedia.org/wiki/Perl_language_structure
 https://en.wikipedia.org/wiki/Perl_module
 https://en.wikipedia.org/wiki/Permafrost
 https://en.wikipedia.org/wiki/Permanent_(mathematics)
+https://en.wikipedia.org/wiki/Per_Martin-L%C3%B6f
 https://en.wikipedia.org/wiki/Permissive_software_license
 https://en.wikipedia.org/wiki/Permutation_group
 https://en.wikipedia.org/wiki/Permutation_test
@@ -20854,6 +20865,7 @@ https://en.wikipedia.org/wiki/Sidon
 https://en.wikipedia.org/wiki/Siegel%E2%80%93Tukey_test
 https://en.wikipedia.org/wiki/Siemens
 https://en.wikipedia.org/wiki/Siemens_Nixdorf
+https://en.wikipedia.org/wiki/Sieve_estimator
 https://en.wikipedia.org/wiki/Sieve_theory
 https://en.wikipedia.org/wiki/SIGABA
 https://en.wikipedia.org/wiki/SIGAI
@@ -22615,6 +22627,7 @@ https://en.wikipedia.org/wiki/TOMLAB
 https://en.wikipedia.org/wiki/Tom_M._Mitchell
 https://en.wikipedia.org/wiki/Tom_Oberheim
 https://en.wikipedia.org/wiki/Tony_Hoare
+https://en.wikipedia.org/wiki/Tool_(band)
 https://en.wikipedia.org/wiki/TOP500
 https://en.wikipedia.org/wiki/Topcoder
 https://en.wikipedia.org/wiki/Topcoder_Open
@@ -22942,6 +22955,7 @@ https://en.wikipedia.org/wiki/.uk
 https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm
 https://en.wikipedia.org/wiki/UKUSA_Agreement
 https://en.wikipedia.org/wiki/Ulama_(game)
+https://en.wikipedia.org/wiki/Ulf_Grenander
 https://en.wikipedia.org/wiki/Ulrich_Walter
 https://en.wikipedia.org/wiki/UL_(safety_organization)
 https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe
@@ -28768,6 +28782,7 @@ https://journals.sagepub.com/home/JOF
 https://journals.uwyo.edu/index.php/ela
 https://journal.trialanderror.org/
 https://jpegclub.org/reference/
+https://jp-g.de/
 https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/
 https://jqlang.github.io/jq/
 https://jquery.com/
@@ -29975,6 +29990,7 @@ https://link.springer.com/book/10.1007/3-540-28428-1
 https://link.springer.com/book/10.1007/3-540-29462-7
 https://link.springer.com/book/10.1007/3-540-29587-9
 https://link.springer.com/book/10.1007/3-540-44577-3
+https://link.springer.com/book/10.1007/3-540-56484-5
 https://link.springer.com/book/10.1007/3-540-58691-1
 https://link.springer.com/book/10.1007/978-0-387-09494-6
 https://link.springer.com/book/10.1007/978-0-387-09608-7
@@ -30891,6 +30907,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-83899-7_12
 https://link.springer.com/chapter/10.1007/978-3-031-05988-9_8
 https://link.springer.com/chapter/10.1007/978-3-031-12244-6_38
 https://link.springer.com/chapter/10.1007/978-3-031-18050-7_10
+https://link.springer.com/chapter/10.1007/978-3-0348-9110-3_6
 https://link.springer.com/chapter/10.1007/978-3-319-00440-2_2
 https://link.springer.com/chapter/10.1007/978-3-319-10683-0_12
 https://link.springer.com/chapter/10.1007/978-3-319-21852-6_3
@@ -32929,6 +32946,7 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf
 https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf
 https://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf
 https://pages.cs.wisc.edu/~swright/
+https://pages.signs.org/hubfs/The%20Trail%20Sign%20Manual%202022_digital.pdf
 https://pageviews.wmcloud.org/
 https://pagure.io/
 https://paleofuture.com/
@@ -34628,6 +34646,7 @@ https://search.r-project.org/CRAN/refmans/keras/html/dataset_mnist.html
 https://search.r-project.org/CRAN/refmans/keras/html/keras-package.html
 https://search.r-project.org/CRAN/refmans/libbib/html/00Index.html
 https://search.r-project.org/CRAN/refmans/libbib/html/normalize_isbn.html
+https://search.r-project.org/CRAN/refmans/pracma/html/00Index.html
 https://search.r-project.org/CRAN/refmans/recommenderlab/html/00Index.html
 https://search.r-project.org/CRAN/refmans/recommenderlabJester/html/00Index.html
 https://search.r-project.org/CRAN/refmans/recosystem/html/00Index.html
@@ -34819,6 +34838,7 @@ https://signalprocessingsociety.org/publications-resources/ieee-signal-processin
 https://signalsandthreads.com/
 https://signalsandthreads.com/memory-management/
 https://signalsandthreads.com/what-is-an-operating-system/
+https://signs.org/
 https://sigplan.org/Conferences/POPL/
 https://sigrok.org/wiki/Main_Page
 https://sigrok.org/wiki/Supported_hardware
@@ -34861,6 +34881,7 @@ https://siscc.org/stat-suite/
 https://sitecheck.sucuri.net/
 https://site.mockito.org/
 https://sites.brown.edu/bergen-lab/research/what-is-sciml/
+https://sites.brown.edu/patterntheory/
 https://sites.cs.ucsb.edu/~gilbert/
 https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/Brewer_podc_keynote_2000.pdf
 https://sites.duke.edu/scientificwriting/
@@ -35690,6 +35711,9 @@ https://theartofhpc.com/isp.html
 https://theartofhpc.com/istc.html
 https://theartofhpc.com/pcse.html
 https://theartofpostgresql.com/
+https://thebrightsideofmathematics.com/
+https://thebrightsideofmathematics.com/courses/ordinary_differential_equations/overview/
+https://thebrightsideofmathematics.com/courses/real_analysis/overview/
 https://thebulletin.org/
 https://thebulletin.org/doomsday-clock/
 https://thebulletin.org/magazine/2023-07/
@@ -37831,6 +37855,7 @@ https://www.computer.org/csdl/journal/ca
 https://www.computer.org/csdl/journals
 https://www.computer.org/csdl/magazine/an
 https://www.computer.org/csdl/magazine/an/2012/01/man2012010020/13rRUy0qnIm
+https://www.computer.org/csdl/magazine/an/5555/01/10588955/1YpRfZQ8jS0
 https://www.computer.org/csdl/magazine/cg
 https://www.computer.org/csdl/magazine/co
 https://www.computer.org/csdl/magazine/co/1978/06/01646994/13rRUxBrGkx
@@ -38167,6 +38192,7 @@ https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/03411
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/23251
 https://www.dainst.org/
 https://www.dam.brown.edu/people/mumford/blog/2021/Rogue.html
+https://www.dam.brown.edu/people/mumford/vision/papers/1994c-96--PattThUnifyingPersp-NC.pdf
 https://www.damninteresting.com/
 https://www.dandc.eu/
 https://www.danieldsjoberg.com/gtsummary/
@@ -41992,6 +42018,8 @@ https://www.ptm.org.pl/
 https://www.publicbooks.org/
 https://www.public-software-group.org/preftools
 https://www.publishersweekly.com/
+https://www.pulsedesign.com/
+https://www.pulsedesign.com/pulse-design-nature-series
 https://www.pulumi.com/
 https://www.puppet.com/
 https://www.purdue.edu/
@@ -42467,6 +42495,7 @@ https://www.routledge.com/Nonparametric-Statistical-Methods-Using-R/Kloke-McKean
 https://www.routledge.com/Numerical-Methods-and-Optimization-An-Introduction/Butenko-Pardalos/p/book/9781466577770
 https://www.routledge.com/our-products/book-series?letter=C
 https://www.routledge.com/our-products/book-series?letter=R
+https://www.routledge.com/Pattern-Theory-The-Stochastic-Analysis-of-Real-World-Signals/Mumford-Desolneux/p/book/9781032920054
 https://www.routledge.com/Polish-A-Comprehensive-Grammar/Sadowska/p/book/9780415475419
 https://www.routledge.com/Principles-of-Uncertainty/Kadane/p/book/9781138052734
 https://www.routledge.com/Probabilistic-Foundations-of-Statistical-Network-Analysis/Crane/p/book/9781138630154
@@ -43550,6 +43579,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781420049848/electronic-packag
 https://www.taylorfrancis.com/books/mono/10.1201/9781420071474/elliptic-curves-lawrence-washington
 https://www.taylorfrancis.com/books/mono/10.1201/9781420082241/combinatorial-approach-matrix-theory-applications-richard-brualdi-dragos-cvetkovic
 https://www.taylorfrancis.com/books/mono/10.1201/b10382/control-handbook-william-levine
+https://www.taylorfrancis.com/books/mono/10.1201/b10620/pattern-theory-david-mumford-agn%C3%A8s-desolneux
 https://www.taylorfrancis.com/books/mono/10.1201/b10684/computer-crucible-jonathan-borwein-keith-devlin
 https://www.taylorfrancis.com/books/mono/10.1201/b11159/gottfried-wilhelm-leibniz-tent
 https://www.taylorfrancis.com/books/mono/10.1201/b11320/abraham-de-moivre-david-bellhouse
@@ -44330,6 +44360,7 @@ https://www.wired.com/story/ai-cold-war-china-could-doom-us-all/
 https://www.wired.com/story/china-vulnerability-disclosure-law/
 https://www.wired.com/story/craig-wright-satoshi-nakamoto-trial/
 https://www.wired.com/story/google-deepmind-ai-weather-forecast/
+https://www.wired.com/story/internet-origin-story-bbs/
 https://www.wired.com/story/jia-tan-xz-backdoor/
 https://www.wired.com/story/manhattan-project-robert-oppenheimer/
 https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/
@@ -44419,6 +44450,7 @@ https://www.youtube.com/@Auferstehung
 https://www.youtube.com/@bach
 https://www.youtube.com/@blackpenredpen
 https://www.youtube.com/@BrianBDouglas
+https://www.youtube.com/@brightsideofmaths/playlists
 https://www.youtube.com/@britishfilminstitute
 https://www.youtube.com/@britishpathe
 https://www.youtube.com/@cineufsc
@@ -44476,6 +44508,17 @@ https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj
 https://www.youtube.com/playlist?list=PL94E35692EB9D36F3
 https://www.youtube.com/playlist?list=PLAk-9e5KQYEqvdBn_fSMsuVPt-qOBhEEv
 https://www.youtube.com/playlist?list=PLB24BC7956EE040CD
+https://www.youtube.com/playlist?list=PLBh2i93oe2qs_AtY4fAxLz-cKkFJha1cb
+https://www.youtube.com/playlist?list=PLBh2i93oe2qtAFfLUm_dAVcTf3N9McK0U
+https://www.youtube.com/playlist?list=PLBh2i93oe2qtIc75sLYaVEBt0QNqVbdmZ
+https://www.youtube.com/playlist?list=PLBh2i93oe2qu80qxFZpiMaV4Wk45rLshx
+https://www.youtube.com/playlist?list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO
+https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6
+https://www.youtube.com/playlist?list=PLBh2i93oe2qv4G2AyarkbR3OKBml0hXEg
+https://www.youtube.com/playlist?list=PLBh2i93oe2qvgRA0eh_jN8NTPg4K6SwHS
+https://www.youtube.com/playlist?list=PLBh2i93oe2qvRGAtgkTszX7szZDVd6jh1
+https://www.youtube.com/playlist?list=PLBh2i93oe2qvtuG8OOg6tZ3FkuCYoHwdf
+https://www.youtube.com/playlist?list=PLBh2i93oe2qvyrgm_lchujtMbEdXFAHEQ
 https://www.youtube.com/playlist?list=PLBjoEdEVMABJi8KW-XGf1yUtfZxv_qAYJ
 https://www.youtube.com/playlist?list=PLDYqU5RH_aX1VSVvjdla9TOKf939UhIDB
 https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9
@@ -44569,6 +44612,7 @@ https://www.youtube.com/watch?v=-D-OBZaInt4
 https://www.youtube.com/watch?v=drDs-Y5DNH8
 https://www.youtube.com/watch?v=_DTpQ4Kk2wA
 https://www.youtube.com/watch?v=_E0PWQvW-14
+https://www.youtube.com/watch?v=e-cTygNbEUE
 https://www.youtube.com/watch?v=eRuca6eAdFM
 https://www.youtube.com/watch?v=EVy4KEj9kZg
 https://www.youtube.com/watch?v=fDYEN0UdyZU
