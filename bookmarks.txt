@@ -14084,6 +14084,7 @@ https://en.wikipedia.org/wiki/Ion_exchange
 https://en.wikipedia.org/wiki/Ion-exchange_resin
 https://en.wikipedia.org/wiki/Ion_implantation
 https://en.wikipedia.org/wiki/Io_(programming_language)
+https://en.wikipedia.org/wiki/Iostat
 https://en.wikipedia.org/wiki/IOS_version_history
 https://en.wikipedia.org/wiki/Iota_and_Jot
 https://en.wikipedia.org/wiki/Iowa_State_University
@@ -14096,6 +14097,7 @@ https://en.wikipedia.org/wiki/IPhone_SE
 https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)
 https://en.wikipedia.org/wiki/IPOPT
 https://en.wikipedia.org/wiki/IPredator
+https://en.wikipedia.org/wiki/Iproute2
 https://en.wikipedia.org/wiki/IPsec
 https://en.wikipedia.org/wiki/IPVanish
 https://en.wikipedia.org/wiki/IPython
@@ -17107,6 +17109,7 @@ https://en.wikipedia.org/wiki/MPIR_(mathematics_software)
 https://en.wikipedia.org/wiki/MPMC
 https://en.wikipedia.org/wiki/MPS_(format)
 https://en.wikipedia.org/wiki/MPSolve
+https://en.wikipedia.org/wiki/Mpstat
 https://en.wikipedia.org/wiki/MQTT
 https://en.wikipedia.org/wiki/MQV
 https://en.wikipedia.org/wiki/Mr._Robot
@@ -17434,6 +17437,7 @@ https://en.wikipedia.org/wiki/Netperf
 https://en.wikipedia.org/wiki/NetRexx
 https://en.wikipedia.org/wiki/Netscape
 https://en.wikipedia.org/wiki/Netscape_Navigator
+https://en.wikipedia.org/wiki/Netstat
 https://en.wikipedia.org/wiki/NetSurf
 https://en.wikipedia.org/wiki/Nettle_(cryptographic_library)
 https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits)
@@ -17609,6 +17613,7 @@ https://en.wikipedia.org/wiki/NLnet
 https://en.wikipedia.org/wiki/NLnet_Labs
 https://en.wikipedia.org/wiki/NLUUG
 https://en.wikipedia.org/wiki/NMath
+https://en.wikipedia.org/wiki/Nmon
 https://en.wikipedia.org/wiki/NMOS_logic
 https://en.wikipedia.org/wiki/Nnn_(file_manager)
 https://en.wikipedia.org/wiki/.no
@@ -20437,6 +20442,7 @@ https://en.wikipedia.org/wiki/Sapienza_University_of_Rome
 https://en.wikipedia.org/wiki/Saracen
 https://en.wikipedia.org/wiki/Saraswati
 https://en.wikipedia.org/wiki/Sarin
+https://en.wikipedia.org/wiki/Sar_(Unix)
 https://en.wikipedia.org/wiki/SAS_Institute
 https://en.wikipedia.org/wiki/Saskatchewan
 https://en.wikipedia.org/wiki/Saskatoon
@@ -21905,6 +21911,8 @@ https://en.wikipedia.org/wiki/Synthetic_language
 https://en.wikipedia.org/wiki/Synthwave
 https://en.wikipedia.org/wiki/Sysbench
 https://en.wikipedia.org/wiki/Sysinfo
+https://en.wikipedia.org/wiki/Sysstat
+https://en.wikipedia.org/wiki/Systat_(BSD)
 https://en.wikipedia.org/wiki/SYSTAT_(statistics_package)
 https://en.wikipedia.org/wiki/System_analysis
 https://en.wikipedia.org/wiki/Systematic_review
@@ -23447,6 +23455,7 @@ https://en.wikipedia.org/wiki/VLSI_Project
 https://en.wikipedia.org/wiki/VMAC
 https://en.wikipedia.org/wiki/VMmark
 https://en.wikipedia.org/wiki/VMOS
+https://en.wikipedia.org/wiki/Vmstat
 https://en.wikipedia.org/wiki/VMware
 https://en.wikipedia.org/wiki/Voice_of_America
 https://en.wikipedia.org/wiki/Void_Linux
@@ -26955,6 +26964,7 @@ https://github.com/symfony/symfony
 https://github.com/symisc/sod
 https://github.com/synfig/synfig
 https://github.com/syslog-ng/syslog-ng
+https://github.com/sysstat/sysstat
 https://github.com/systemd/systemd
 https://github.com/Taaitaaiger/jlrs
 https://github.com/tailscale/tailscale
@@ -35629,6 +35639,7 @@ https://symfony.com/
 https://synthcode.com/scheme/chibi/
 https://sysprog21.github.io/lkmpg/
 https://syssec.ethz.ch/
+https://sysstat.github.io/
 https://system76.com/
 https://system76.com/accessories/launch
 https://system76.com/desktops
@@ -36456,6 +36467,7 @@ https://wiki-index.pages.dev/
 https://wiki.ircnow.org/
 https://wiki.kiwix.org/wiki/Main_Page
 https://wikileaks.org/
+https://wiki.linuxfoundation.org/networking/iproute2
 https://wiki.linuxfoundation.org/realtime/start
 https://wikimediafoundation.org/
 https://wiki.mozilla.org/Areweyet

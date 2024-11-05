@@ -109,6 +109,8 @@ libgraphviz-dev
 libgsl-dev
 libharfbuzz-dev
 liblapack-dev
+libmpc-dev
+libmpfr-dev
 libncurses-dev
 libopenblas64-dev
 libopenblas-dev
@@ -216,6 +218,7 @@ scala
 sqlite3
 sudo
 swi-prolog-full
+sysstat
 tcl
 tcpdump
 texlive-full
