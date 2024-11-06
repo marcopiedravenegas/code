@@ -4,7 +4,7 @@
 ! Homepage: https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters
 ! License: MIT; https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=LICENSE
 ! Last modified: 
-! Version: 3.8.9.0
+! Version: 3.9.1.1
 
 ! General
 
@@ -13,15 +13,14 @@
 ||loader-cdn.azureedge.net^$third-party
 ||blueconic.net^$third-party
 /[a-z]{1}\d{2,3}\.\w+\.(co(m|\.uk)|net|org)\/script\.js/$script,~third-party
-||cdn.cxense.com^$script,third-party
-@@||cdn.cxense.com^$script,domain=bizjournals.com|journaldemontreal.com|journaldequebec.com|wsj.com
+||cxense.com^$script,third-party
+@@||cxense.com^$script,domain=bizjournals.com|journaldemontreal.com|journaldequebec.com|wsj.com
 @@||cxpublic.com^$domain=bizjournals.com
 ||ensighten.com/*/Bootstrap.js$script,third-party
 ||evolok.net^$third-party
 ||fewcents.co/*/paywall*.js$script,third-party
 ||hadrianpaywall.com^$third-party
-||ippen.space^$third-party
-/sub/js/pc-offer-west.js$script,~third-party
+.de/sub/js/pc-offer-west.js$script,~third-party
 ||js.matheranalytics.com^$script,third-party
 ||newsmemory.com?meter$third-party
 ||olytics.omeda.com^$third-party
@@ -69,7 +68,7 @@ asia.nikkei.com##+js(rc, tp-modal-open, body.tp-modal-open, stay)
 magazine.atavist.com##+js(set-local-storage-item, /^/, $remove$)
 ||tonos.gjirafa.tech/init/access$xmlhttprequest,domain=atlantico.fr
 ||automobilwoche.de/sites/camw/files/js/js_-YBiL*.js$script,~third-party
-axios.com##div[data-cy="pro-paywall"],div[class^="Modal_paywallContainer"]
+axios.com##div[data-cy="pro-paywall"],div[class^="Modal_"]
 axios.com##+js(ra, style, html[style], stay)
 bizjournals.com##+js(ra, style, article div[style="display: none;"], stay)
 bizjournals.com##+js(ra, style, .paywalled-content[style], stay)
@@ -131,6 +130,7 @@ dailywire.com###post-body-text > div > div:style(height: auto !important;)
 discovermagazine.com##body:style(overflow: auto !important;)
 discovermagazine.com##div.fIkXwQ,div[style*="fadeIn"],div[role="button"][aria-label="Dismiss Dialog"]
 ||dn.se/check-paywall-v2.js,~third-party
+||dnevnik.bg/api/auth/callback/credentials$xmlhttprequest,~third-party
 ||dwell.com/article/*?rel=plus$inline-script
 eastwest.eu##+js(ra, style, .paywall)
 eastwest.eu##+js(rc, paywall, .paywall)
@@ -362,7 +362,8 @@ thetimes.com##body:style(overflow: auto !important;)
 theweek.com##+js(rc, paywall-locker, div.paywall-locker)
 theweek.com##div.kiosq-main-layer
 thewrap.com##+js(cookie-remover, blaize_session)
-/\.timeshighereducation\.com\/((books|features|news|people)\/|.+(\w+-){3,})/$inline-script
+timeshighereducation.com##+js(rc, paywall-fade, div.paywall-fade)
+timeshighereducation.com##div.paywall-active
 tt.com##+js(rc, exclusive-elem, .exclusive-elem)
 tt.com##div.adblock-warning
 unherd.com##+js(ra, id, div#premiumcontent)
@@ -421,9 +422,7 @@ sudouest.fr,charentelibre.fr,larepubliquedespyrenees.fr##div.article-premium-foo
 sudouest.fr,charentelibre.fr,larepubliquedespyrenees.fr##+js(rc, visible-premium, div.visible-premium)
 
 ! Groupe Nice-Matin
-monacomatin.mc,nicematin.com,varmatin.com##+js(ra, id, div#article-teaser)
-monacomatin.mc,nicematin.com,varmatin.com##+js(ra, amp-access-hide, [amp-access][amp-access-hide])
-monacomatin.mc,nicematin.com,varmatin.com##div[class^="ad-slot-"],div#poool-widget-content,div[class*="Rhoo"]
+||nicematin.com/build/js/viewpay.*.js$script,domain=monacomatin.mc|nicematin.com|varmatin.com
 
 ! Grupo El Comercio
 ||diariocorreo.pe/pf/dist/engine/react.js$script,~third-party
@@ -701,6 +700,8 @@ solarserver.de##div.paywall-box
 stockunlock.com##div[class*="-root"][class*="css-"]:style(filter: none !important; pointer-events: auto !important)
 stockunlock.com##div.css-coxdc8
 ||thenationalpulse.com/wp-content/*/assets/js/national-pulse.js$script,~third-party
+||thetablet.org$inline-script
+thetablet.org##+js(rc, gated-content, body.gated-content)
 tidningenridsport.se##+js(ra, class|style, div.mctos)
 tidningenridsport.se##+js(rc, cli-barmodal-open, body.cli-barmodal-open)
 tidningenridsport.se##div.locked
