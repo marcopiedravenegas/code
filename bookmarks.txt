@@ -30,12 +30,8 @@ http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html
 http://classics.mit.edu/
 http://combos.org/
 http://community.schemewiki.org/
-http://community.schemewiki.org/?eopl
-http://community.schemewiki.org/?scheme-faq
 http://cran-logs.rstudio.com/
 http://cryptocouple.com/
-http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
-http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
 http://cvxr.com/
 http://cvxr.com/cvx/
 http://dimacs.rutgers.edu/
@@ -42674,6 +42670,7 @@ https://www.scb.se/en/
 https://www.scg.uwaterloo.ca/
 https://www.schemacrawler.com/
 https://www.scheme.com/
+https://www.scheme.com/tspl4/
 https://www.scheme.org/
 https://www.scheme.org/schemers/
 https://www.schneier.com/
