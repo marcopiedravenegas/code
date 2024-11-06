@@ -26213,6 +26213,9 @@ https://github.com/nextcloud/android
 https://github.com/nextcloud/server
 https://github.com/nextgis/quickmapservices
 https://github.com/nghttp2/nghttp2
+https://github.com/nginx/nginx
+https://github.com/nginx/njs
+https://github.com/nginx/unit
 https://github.com/Nheko-Reborn/nheko
 https://github.com/nhivp/Awesome-Embedded
 https://github.com/nholthaus/units
@@ -36133,6 +36136,7 @@ https://uni-freiburg.de/
 https://uni-goettingen.de/
 https://unitedrobotics.group/en/robots/nao
 https://unitedrobotics.group/en/robots/pepper
+https://unit.nginx.org/
 https://uni-tuebingen.de/
 https://universe.roboflow.com/
 https://unix.org/
