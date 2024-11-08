@@ -2336,6 +2336,7 @@ https://comsoc-community.org/
 https://conan.io/
 https://concerned.tech/
 https://conda-forge.org/
+https://connordonegan.github.io/geostan/
 https://cons.io/
 https://containertoolbx.org/
 https://content.iospress.com/articles/journal-of-computer-security/jcs393
@@ -2513,6 +2514,7 @@ https://cran.r-project.org/web/packages/future.apply/index.html
 https://cran.r-project.org/web/packages/FuzzyR/index.html
 https://cran.r-project.org/web/packages/GA/index.html
 https://cran.r-project.org/web/packages/gapminder/index.html
+https://cran.r-project.org/web/packages/gdalraster/index.html
 https://cran.r-project.org/web/packages/GenSA/index.html
 https://cran.r-project.org/web/packages/geomorph/index.html
 https://cran.r-project.org/web/packages/geos/index.html
@@ -2594,6 +2596,7 @@ https://cran.r-project.org/web/packages/onewaytests/index.html
 https://cran.r-project.org/web/packages/openintro/index.html
 https://cran.r-project.org/web/packages/OpenML/index.html
 https://cran.r-project.org/web/packages/openssl/index.html
+https://cran.r-project.org/web/packages/OpenStreetMap/index.html
 https://cran.r-project.org/web/packages/pbkrtest/index.html
 https://cran.r-project.org/web/packages/performance/index.html
 https://cran.r-project.org/web/packages/philentropy/index.html
@@ -2612,6 +2615,7 @@ https://cran.r-project.org/web/packages/rainbow/index.html
 https://cran.r-project.org/web/packages/randomForest/index.html
 https://cran.r-project.org/web/packages/ranger/index.html
 https://cran.r-project.org/web/packages/raster/
+https://cran.r-project.org/web/packages/raster/index.html
 https://cran.r-project.org/web/packages/rasterVis/index.html
 https://cran.r-project.org/web/packages/RColorBrewer/index.html
 https://cran.r-project.org/web/packages/Rcplex/index.html
@@ -2640,6 +2644,9 @@ https://cran.r-project.org/web/packages/rolog/index.html
 https://cran.r-project.org/web/packages/RoughSets/index.html
 https://cran.r-project.org/web/packages/roxygen2/index.html
 https://cran.r-project.org/web/packages/rpart/index.html
+https://cran.r-project.org/web/packages/rpostgis/index.html
+https://cran.r-project.org/web/packages/RPostgres/index.html
+https://cran.r-project.org/web/packages/RPostgreSQL/index.html
 https://cran.r-project.org/web/packages/Rprofet/index.html
 https://cran.r-project.org/web/packages/rrecsys/index.html
 https://cran.r-project.org/web/packages/RRPP/index.html
@@ -2657,6 +2664,8 @@ https://cran.r-project.org/web/packages/scales/index.html
 https://cran.r-project.org/web/packages/scidesignR/index.html
 https://cran.r-project.org/web/packages/scs/index.html
 https://cran.r-project.org/web/packages/sf/index.html
+https://cran.r-project.org/web/packages/shiny/index.html
+https://cran.r-project.org/web/packages/shinylive/index.html
 https://cran.r-project.org/web/packages/sigmoid/index.html
 https://cran.r-project.org/web/packages/simmer/index.html
 https://cran.r-project.org/web/packages/sitmo/index.html
@@ -2669,6 +2678,7 @@ https://cran.r-project.org/web/packages/som/index.html
 https://cran.r-project.org/web/packages/spam/index.html
 https://cran.r-project.org/web/packages/SparseM/index.html
 https://cran.r-project.org/web/packages/spatial/index.html
+https://cran.r-project.org/web/packages/spatstat/index.html
 https://cran.r-project.org/web/packages/sperrorest/index.html
 https://cran.r-project.org/web/packages/sp/index.html
 https://cran.r-project.org/web/packages/StanHeaders/index.html
@@ -2705,6 +2715,7 @@ https://cran.r-project.org/web/packages/tsibble/index.html
 https://cran.r-project.org/web/packages/units/index.html
 https://cran.r-project.org/web/packages/usethis/index.html
 https://cran.r-project.org/web/packages/uwot/index.html
+https://cran.r-project.org/web/packages/vapour/index.html
 https://cran.r-project.org/web/packages/vctrs/index.html
 https://cran.r-project.org/web/packages/vetiver/index.html
 https://cran.r-project.org/web/packages/waterquality/index.html
@@ -12338,6 +12349,7 @@ https://en.wikipedia.org/wiki/Gentoo_Linux
 https://en.wikipedia.org/wiki/Geocaching
 https://en.wikipedia.org/wiki/Geocode
 https://en.wikipedia.org/wiki/Geocoin
+https://en.wikipedia.org/wiki/GeoDa
 https://en.wikipedia.org/wiki/Geodatabase_(Esri)
 https://en.wikipedia.org/wiki/Geodesic
 https://en.wikipedia.org/wiki/Geodesics_on_an_ellipsoid
@@ -24739,6 +24751,7 @@ https://gcore.com/
 https://gcore.com/public-dns
 https://gdal.org/
 https://gdal.org/en/latest/
+https://gdal.org/en/stable/
 https://gdcproject.org/
 https://gdz.sub.uni-goettingen.de/id/PPN38067226X?tify=%7B%22view%22:%22toc%22%7D
 https://gdz.sub.uni-goettingen.de/id/PPN534901565
@@ -24755,6 +24768,7 @@ https://genius.com/Minuit-machine-prey-hunter-lyrics
 https://genius.com/Royksopp-what-else-is-there-lyrics
 https://geoawesomeness.com/
 https://geocompx.org/
+https://geodacenter.github.io/
 https://geoext.github.io/geoext/
 https://geoff.greer.fm/ag/
 https://geographiclib.sourceforge.io/
@@ -26477,6 +26491,7 @@ https://github.com/pola-rs/polars/
 https://github.com/pop-os/pop
 https://github.com/p-org/P
 https://github.com/posit-dev/positron
+https://github.com/posit-dev/r-shinylive
 https://github.com/postcss/postcss
 https://github.com/POV-Ray/povray
 https://github.com/PowerShell/PowerShell
@@ -26558,6 +26573,7 @@ https://github.com/QuantEcon/GameTheory.jl
 https://github.com/QuantEcon/QuantEcon.jl
 https://github.com/QuantEcon/QuantEcon.py
 https://github.com/quarto-dev/quarto
+https://github.com/quarto-ext/shinylive
 https://github.com/quicklisp/quicklisp-client
 https://github.com/qunitjs/qunit
 https://github.com/quodlibet/mutagen
@@ -26924,6 +26940,7 @@ https://github.com/SoylentNews/rehash
 https://github.com/SoylentNews/slashcode
 https://github.com/spack/spack
 https://github.com/sparsemat/sprs
+https://github.com/spatstat/spatstat
 https://github.com/spatstat/spatstat?tab=readme-ov-file
 https://github.com/spectreconsole/spectre.console
 https://github.com/spedygiorgio/markovchain/
@@ -28803,6 +28820,7 @@ https://journal.r-project.org/archive/2009-1/RJournal_2009-1_Chambers.pdf
 https://journal.r-project.org/archive/2009/RJ-2009-014/index.html
 https://journal.r-project.org/archive/2016/RJ-2016-061/index.html
 https://journal.r-project.org/archive/2017/RJ-2017-008/index.html
+https://journal.r-project.org/archive/2018/RJ-2018-009/index.html
 https://journal.r-project.org/archive/2018/RJ-2018-075/index.html
 https://journal.r-project.org/archive/2020/RJ-2020-028/index.html
 https://journal.r-project.org/articles/RJ-2016-061/
@@ -29450,6 +29468,7 @@ https://libgen.rs/search.php?req=Prentice-Hall++in+automatic+computation&column=
 https://libgen.rs/search.php?&req=stein+shakarchi&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 https://libgen.st/
 https://libgeos.org/
+https://libgeos.org/usage/bindings/
 https://libgit2.org/
 https://libguides.stir.ac.uk/systematicreviews
 https://libguides.stir.ac.uk/systematicreviews/typesofreview
@@ -33834,6 +33853,7 @@ https://projects.scipy.org/topical-software.html
 https://proj.org/
 https://proj.org/en/9.3/
 https://proj.org/en/9.5/
+https://proj.org/en/stable/
 https://proloewe.de/en/about-us/about-loewe/
 https://prologyear.logicprogramming.org/
 https://prologyear.logicprogramming.org/ColmerauerPrize.html
@@ -34147,6 +34167,7 @@ https://r-charts.com/base-r/
 https://r-charts.com/ggplot2/
 https://r-charts.com/spatial/interactive-maps-leaflet/
 https://rcompanion.org/handbook/
+https://r-consortium.org/
 https://rcppcore.r-universe.dev/packages
 https://rdatatable.gitlab.io/data.table/
 https://r-dbi.r-universe.dev/packages
@@ -34337,6 +34358,7 @@ https://r-forge.r-project.org/
 https://r-forge.r-project.org/projects/optimizer/
 https://r-forge.r-universe.dev/packages
 https://r.geocompx.org/
+https://r.geocompx.org/index.html
 https://r-graph-gallery.com/
 https://r-graph-gallery.com/202-barplot-for-likert-type-items.html
 https://r-graph-gallery.com/283-the-hourly-heatmap.html
@@ -34490,9 +34512,14 @@ https://r-spatial.github.io/mapview/
 https://r-spatial.github.io/sf/
 https://r-spatial.org/
 https://rspatial.org/
+https://r-spatial.org/2017/07/14/Large_scale_OSM_in_R.html
 https://r-spatial.org/book/
 https://r-spatial.org/projects/
 https://r-spatial.org/python/
+https://r-spatial.org/r/2018/10/25/ggplot2-sf-2.html
+https://r-spatial.org/r/2018/10/25/ggplot2-sf-3.html
+https://r-spatial.org/r/2018/10/25/ggplot2-sf.html
+https://r-spatial.org/r/2019/09/26/spatial-networks.html
 https://rspatial.r-universe.dev/packages
 https://rsqlite.r-dbi.org/
 https://rss.org.uk/
@@ -34557,6 +34584,7 @@ https://runbsd.info/hardenedbsd.html
 https://runbsd.info/netbsd.html
 https://runbsd.info/openbsd.html
 https://runbsd.info/orgs/
+https://r-universe.dev/
 https://r-universe.dev/search
 https://r-universe.dev/search/
 https://ruor.uottawa.ca/items/f542a1af-ac55-4306-a311-823e4d896802
@@ -40236,6 +40264,7 @@ https://www.jstatsoft.org/article/view/v031i02
 https://www.jstatsoft.org/article/view/v036i07
 https://www.jstatsoft.org/article/view/v040i08
 https://www.jstatsoft.org/article/view/v042i12
+https://www.jstatsoft.org/article/view/v051i07
 https://www.jstatsoft.org/article/view/v053i04
 https://www.jstatsoft.org/article/view/v065i06
 https://www.jstatsoft.org/article/view/v078i09
@@ -41147,6 +41176,7 @@ https://www.nasonline.org/
 https://www.nasonline.org/programs/awards/john-j-carty-award.html
 https://www.nationalarchives.gov.uk/
 https://www.nationalgeographic.com/
+https://www.naturalearthdata.com/
 https://www.nature.com/
 https://www.nature.com/articles/323533a0
 https://www.nature.com/articles/326483a0
@@ -41798,6 +41828,7 @@ https://www.passkeys.io/who-supports-passkeys
 https://www.password-hashing.net/
 https://www.passwordstore.org/
 https://www.patreon.com/
+https://www.paulamoraga.com/book-spatial/
 https://www.paulgraham.com/acl.html
 https://www.payara.fish/
 https://www.pbs.org/
@@ -42237,6 +42268,7 @@ https://www.r-bloggers.com/
 https://www.r-bloggers.com/2010/05/simulating-a-queue-in-r/
 https://www.r-bloggers.com/2012/06/how-do-i-create-the-identity-matrix-in-r/
 https://www.r-bloggers.com/2013/03/visualizing-neural-networks-from-the-nnet-package/
+https://www.r-bloggers.com/2015/05/getting-started-with-postgresql-in-r/
 https://www.r-bloggers.com/2015/09/fitting-a-neural-network-in-r-neuralnet-package/
 https://www.r-bloggers.com/2015/12/how-to-learn-r-2/
 https://www.r-bloggers.com/2018/01/queueing-notation/
@@ -42593,6 +42625,7 @@ https://www.routledge.com/Security-without-Obscurity-A-Guide-to-Cryptographic-Ar
 https://www.routledge.com/Security-Without-Obscurity-A-Guide-to-PKI-Operations/Stapleton-Epstein/p/book/9781032545257
 https://www.routledge.com/Social-History-of-Europe/book-series/PEASHEU
 https://www.routledge.com/Spatial-Data-Science-With-Applications-in-R/Pebesma-Bivand/p/book/9781138311183
+https://www.routledge.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200
 https://www.routledge.com/Spatio-Temporal-Methods-in-Environmental-Epidemiology-with-R/Shaddick-Zidek-Schmidt/p/book/9781032397818
 https://www.routledge.com/Spatio-Temporal-Statistics-with-R/Wikle-Zammit-Mangion-Cressie/p/book/9781138711136
 https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036
@@ -43678,6 +43711,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/b16113/handbook-linear-algebra-
 https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-sparsity-trevor-hastie-martin-wainwright-robert-tibshirani
 https://www.taylorfrancis.com/books/mono/10.1201/b18653/adversarial-risk-analysis-david-banks-david-rios-insua-jesus-rios-aliaga
 https://www.taylorfrancis.com/books/mono/10.1201/b19331/algebraic-number-theory-fermat-last-theorem-ian-stewart-david-tall
+https://www.taylorfrancis.com/books/mono/10.1201/b19708/spatial-point-patterns-adrian-baddeley-rolf-turner-ege-rubak
 https://www.taylorfrancis.com/books/mono/10.1201/b19731/graphs-digraphs-linda-lesniak-ping-zhang-gary-chartrand
 https://www.taylorfrancis.com/books/mono/10.1201/b21874/exploratory-multivariate-analysis-example-using-francois-husson-sebastien-le-j%C3%A9r%C3%B4me-pag%C3%A8s
 https://www.taylorfrancis.com/books/mono/10.4324/9780203610732/polish-comprehensive-grammar-iwona-sadowska
