@@ -13717,6 +13717,8 @@ https://en.wikipedia.org/wiki/Index_of_dispersion
 https://en.wikipedia.org/wiki/Index_of_DOS_games
 https://en.wikipedia.org/wiki/Index_of_Economic_Freedom
 https://en.wikipedia.org/wiki/Index_of_philosophy_of_science_articles
+https://en.wikipedia.org/wiki/index.php?title=Consistent_estimator
+https://en.wikipedia.org/wiki/index.php?title=Expectation%E2%80%93maximization_algorithm
 https://en.wikipedia.org/wiki/India_and_weapons_of_mass_destruction
 https://en.wikipedia.org/wiki/India_as_a_potential_superpower
 https://en.wikipedia.org/wiki/Indiana_Institute_of_Technology
@@ -21665,6 +21667,7 @@ https://en.wikipedia.org/wiki/Stochastic_dynamic_programming
 https://en.wikipedia.org/wiki/Stochastic_game
 https://en.wikipedia.org/wiki/Stochastic_geometry
 https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+https://en.wikipedia.org/wiki/Stochastic_gradient_Langevin_dynamics
 https://en.wikipedia.org/wiki/Stochastic_matrix
 https://en.wikipedia.org/wiki/Stochastic_optimization
 https://en.wikipedia.org/wiki/Stochastic_parrot
@@ -29593,6 +29596,7 @@ https://library.lol/main/2E2D076C195F245EED60A5D3B00BE993
 https://library.lol/main/2EED8EBA42D7CC10FC6B3645BBA39108
 https://library.lol/main/2F2E39C5D6D3E7E2FCB8E20DFD70A259
 https://library.lol/main/2F2EC6B6A9CBBBDA3B0711AF14906FA8
+https://library.lol/main/2F3654FDF734ACE6A864FA7CEFAF94E0
 https://library.lol/main/2FF05CC2C0F0B0C6D857052092F0E16E
 https://library.lol/main/31C8462D3670DB6F3CF72183A838905D
 https://library.lol/main/31E67F5A4078E167A022AF434FBE9855
@@ -29726,6 +29730,7 @@ https://library.lol/main/709946D915CF3C0571FF750A5BDF467D
 https://library.lol/main/70D59F7871FDDEBEF0495A0C0671161C
 https://library.lol/main/71E069B2C203F882A1430C70B3370F3E
 https://library.lol/main/7216EC296FAD05FFAEE839FECA42054E
+https://library.lol/main/721CCA300986F37AD85749D8AE3E5C10
 https://library.lol/main/72292CD1E03CCFBA9F645CB4E6755DBC
 https://library.lol/main/72BEF57731C3287981435F4AA56CD77C
 https://library.lol/main/73F2E4B06B6B210E85A394B43A85237A
@@ -29792,6 +29797,7 @@ https://library.lol/main/9C48404C4DC01501F08C25351487916C
 https://library.lol/main/9CAC7C755EEAB39C2A977131F69A6759
 https://library.lol/main/9CE98C127C79E548EBEA18966F526AE9
 https://library.lol/main/9D0F7F7C0ED89543BA8BDE4F98BFECE9
+https://library.lol/main/9EF62D66F3895C959FCD5EFA13641AC2
 https://library.lol/main/9F668B41BC48AD7421FB4DCAC4AC1D71
 https://library.lol/main/9FB758CE7DA3FF1782AEE038AFA06FBA
 https://library.lol/main/A0BA11C6538CD8A8FB4358D7CEE97DF9
@@ -30583,6 +30589,7 @@ https://link.springer.com/book/10.1007/978-3-031-38747-0
 https://link.springer.com/book/10.1007/978-3-031-40258-6
 https://link.springer.com/book/10.1007/978-3-031-41026-0
 https://link.springer.com/book/10.1007/978-3-031-41724-5
+https://link.springer.com/book/10.1007/978-3-031-42144-0
 https://link.springer.com/book/10.1007/978-3-031-42543-1
 https://link.springer.com/book/10.1007/978-3-031-42547-9
 https://link.springer.com/book/10.1007/978-3-031-45468-4
@@ -30954,6 +30961,7 @@ https://link.springer.com/book/9780387310732
 https://link.springer.com/book/9780387985039
 https://link.springer.com/book/9780817649524
 https://link.springer.com/book/9781071641316
+https://link.springer.com/book/9781071641712
 https://link.springer.com/book/9783030715205
 https://link.springer.com/book/9783031414398
 https://link.springer.com/book/9783031421433
@@ -32678,6 +32686,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781118360125
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118514948
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118631980
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118722367
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118728048
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118740712
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118762547
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118763551
@@ -37436,6 +37445,7 @@ https://www.cambridge.org/core/books/network-flow-algorithms/816B5B0CBE5471289D2
 https://www.cambridge.org/core/books/network-information-theory/3ABE1D86EB0F0DF6A8764E415C2CA94A
 https://www.cambridge.org/core/books/networks-crowds-and-markets/A70C7855A3003FE1079C25F8397AF641
 https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7
+https://www.cambridge.org/core/books/numerical-methods-of-statistics/ED2D1845F52AF845CCF560E3526B9B56#
 https://www.cambridge.org/core/books/online-algorithms/FAD28C0D667F7A7C959B247231DCF5F9
 https://www.cambridge.org/core/books/on-line-learning-in-neural-networks/7D901F98C2A4F1CF69648FDAEF6877CD
 https://www.cambridge.org/core/books/pattern-recognition-and-neural-networks/4E038249C9BAA06C8F4EE6F044D09C5C
@@ -40245,6 +40255,7 @@ https://www.jmlr.org/tmlr/
 https://www.jmp.com/en_us/home.html
 https://www.johndcook.com/blog/
 https://www.johndcook.com/blog/2019/03/05/base85-encoding/
+https://www.johndcook.com/blog/2020/02/13/runge-kutta-methods/
 https://www.johndcook.com/blog/2023/05/12/circulant-matrices/
 https://www.johndcook.com/blog/2023/06/03/matrix-powers/
 https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/
@@ -44338,6 +44349,7 @@ https://www.wikilengua.org/index.php/Portada
 https://www.wikimedia.de/
 https://www.wildfly.org/
 https://www.wiley.com/en-au/Handbook+of+Monte+Carlo+Methods-p-9780470177938
+https://www.wiley.com/en-ca/Statistical+Pattern+Recognition%2C+3rd+Edition-p-9780470682272
 https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471368793
 https://www.wiley.com/en-us/A+Course+in+Computational+Number+Theory-p-9780470412152
 https://www.wiley.com/en-us/Advanced+Engineering+Mathematics%2C+10th+Edition-p-9781119455929
