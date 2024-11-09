@@ -30237,6 +30237,7 @@ https://link.springer.com/book/10.1007/978-1-4612-0701-6
 https://link.springer.com/book/10.1007/978-1-4612-0737-5
 https://link.springer.com/book/10.1007/978-1-4612-0777-1
 https://link.springer.com/book/10.1007/978-1-4612-0793-1
+https://link.springer.com/book/10.1007/978-1-4612-0795-5
 https://link.springer.com/book/10.1007/978-1-4612-0851-8
 https://link.springer.com/book/10.1007/978-1-4612-0877-8
 https://link.springer.com/book/10.1007/978-1-4612-0899-0
@@ -30277,6 +30278,7 @@ https://link.springer.com/book/10.1007/978-1-4612-4806-4
 https://link.springer.com/book/10.1007/978-1-4612-5024-1
 https://link.springer.com/book/10.1007/978-1-4612-5026-5
 https://link.springer.com/book/10.1007/978-1-4612-5028-9
+https://link.springer.com/book/10.1007/978-1-4612-5098-2
 https://link.springer.com/book/10.1007/978-1-4612-5282-5
 https://link.springer.com/book/10.1007/978-1-4612-5350-1
 https://link.springer.com/book/10.1007/978-1-4612-5498-0
@@ -30350,6 +30352,7 @@ https://link.springer.com/book/10.1007/978-1-4757-2226-0
 https://link.springer.com/book/10.1007/978-1-4757-2975-7
 https://link.springer.com/book/10.1007/978-1-4757-3264-1
 https://link.springer.com/book/10.1007/978-1-4757-3458-4
+https://link.springer.com/book/10.1007/978-1-4757-3464-5
 https://link.springer.com/book/10.1007/978-1-4757-3502-4
 https://link.springer.com/book/10.1007/978-1-4757-3845-2
 https://link.springer.com/book/10.1007/978-1-4757-3851-3
@@ -30359,6 +30362,7 @@ https://link.springer.com/book/10.1007/978-1-4757-4032-5
 https://link.springer.com/book/10.1007/978-1-4757-4073-8
 https://link.springer.com/book/10.1007/978-1-4757-4145-2
 https://link.springer.com/book/10.1007/978-1-4757-4153-7
+https://link.springer.com/book/10.1007/978-1-4757-4286-2
 https://link.springer.com/book/10.1007/978-1-4757-4330-2
 https://link.springer.com/book/10.1007/978-1-4757-4383-8
 https://link.springer.com/book/10.1007/978-1-4757-5114-7
@@ -30646,6 +30650,7 @@ https://link.springer.com/book/10.1007/978-3-319-33921-4
 https://link.springer.com/book/10.1007/978-3-319-33924-5
 https://link.springer.com/book/10.1007/978-3-319-38945-5
 https://link.springer.com/book/10.1007/978-3-319-42749-2
+https://link.springer.com/book/10.1007/978-3-319-43252-6
 https://link.springer.com/book/10.1007/978-3-319-43323-3
 https://link.springer.com/book/10.1007/978-3-319-43476-6
 https://link.springer.com/book/10.1007/978-3-319-43669-2
@@ -30653,6 +30658,7 @@ https://link.springer.com/book/10.1007/978-3-319-44048-4
 https://link.springer.com/book/10.1007/978-3-319-45403-0
 https://link.springer.com/book/10.1007/978-3-319-48936-0
 https://link.springer.com/book/10.1007/978-3-319-50017-1
+https://link.springer.com/book/10.1007/978-3-319-52207-4
 https://link.springer.com/book/10.1007/978-3-319-52250-0
 https://link.springer.com/book/10.1007/978-3-319-52401-6
 https://link.springer.com/book/10.1007/978-3-319-52452-8
@@ -30683,6 +30689,7 @@ https://link.springer.com/book/10.1007/978-3-319-77697-2
 https://link.springer.com/book/10.1007/978-3-319-77836-5
 https://link.springer.com/book/10.1007/978-3-319-78822-7
 https://link.springer.com/book/10.1007/978-3-319-78999-6
+https://link.springer.com/book/10.1007/978-3-319-90276-0
 https://link.springer.com/book/10.1007/978-3-319-91041-3
 https://link.springer.com/book/10.1007/978-3-319-91086-4
 https://link.springer.com/book/10.1007/978-3-319-94818-8
@@ -32679,6 +32686,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316542
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470434697
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470630617
+https://onlinelibrary.wiley.com/doi/book/10.1002/9780470746684
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118023471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118033197
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118164471
@@ -44356,6 +44364,7 @@ https://www.wikimedia.de/
 https://www.wildfly.org/
 https://www.wiley.com/en-au/Handbook+of+Monte+Carlo+Methods-p-9780470177938
 https://www.wiley.com/en-ca/Statistical+Pattern+Recognition%2C+3rd+Edition-p-9780470682272
+https://www.wiley.com/en-sg/Decision+Theory%3A+Principles+and+Approaches-p-9780471496571
 https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471368793
 https://www.wiley.com/en-us/A+Course+in+Computational+Number+Theory-p-9780470412152
 https://www.wiley.com/en-us/Advanced+Engineering+Mathematics%2C+10th+Edition-p-9781119455929
