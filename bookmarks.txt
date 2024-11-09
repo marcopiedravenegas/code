@@ -14452,6 +14452,7 @@ https://en.wikipedia.org/wiki/John_David_Jackson_(physicist)
 https://en.wikipedia.org/wiki/John_Dee
 https://en.wikipedia.org/wiki/John_Dewey
 https://en.wikipedia.org/wiki/John_Dewey_bibliography
+https://en.wikipedia.org/wiki/John_D._Rockefeller
 https://en.wikipedia.org/wiki/John_D._Storey
 https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.
 https://en.wikipedia.org/wiki/John_G._Kemeny
@@ -16577,6 +16578,7 @@ https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 https://en.wikipedia.org/wiki/M%C4%81ori_culture
 https://en.wikipedia.org/wiki/M%C4%81ori_people
 https://en.wikipedia.org/wiki/McAfee
+https://en.wikipedia.org/wiki/McCullagh%27s_parametrization_of_the_Cauchy_distributions
 https://en.wikipedia.org/wiki/McEliece_cryptosystem
 https://en.wikipedia.org/wiki/McGill_University
 https://en.wikipedia.org/wiki/McNemar%27s_test
@@ -18719,6 +18721,7 @@ https://en.wikipedia.org/wiki/Peter_Henrici_(mathematician)
 https://en.wikipedia.org/wiki/Peter_J._Olver
 https://en.wikipedia.org/wiki/Peter_J._Weinberger
 https://en.wikipedia.org/wiki/Peter_Lax
+https://en.wikipedia.org/wiki/Peter_McCullagh
 https://en.wikipedia.org/wiki/Peter_Medawar
 https://en.wikipedia.org/wiki/Peter_Montgomery_(mathematician)
 https://en.wikipedia.org/wiki/Peter_Naur
@@ -36889,6 +36892,7 @@ https://www.amazon.com/stores/Apple/page/77D9E1F7-0337-4282-9DB6-B6B8FB2DC98D
 https://www.amazon.com/stores/Beelink/page/E76F7A4A-070E-428C-9129-832B18C1493F
 https://www.amazon.com/stores/MINISFORUM/page/42947B91-73A1-496F-8A23-91CEA80C6EDA
 https://www.amazon.com/stores/TRIGKEY/page/521CC783-B9C3-4433-95BA-1B02D7E5471A
+https://www.amazon.com/Ten-Projects-Applied-Statistics-Springer/dp/3031142748
 https://www.amazon.com/Theoretical-Minimum-Start-Doing-Physics/dp/0465075681
 https://www.amazon.com/Theory-Linear-Operations-Dover-Mathematics/dp/0486469832
 https://www.amazon.com/Wayfinding-Science-Mystery-Humans-Navigate/dp/1250096960
