@@ -30466,6 +30466,7 @@ https://link.springer.com/book/10.1007/978-3-030-69827-0
 https://link.springer.com/book/10.1007/978-3-030-70575-6
 https://link.springer.com/book/10.1007/978-3-030-70578-7
 https://link.springer.com/book/10.1007/978-3-030-70668-5
+https://link.springer.com/book/10.1007/978-3-030-70956-3
 https://link.springer.com/book/10.1007/978-3-030-72274-6
 https://link.springer.com/book/10.1007/978-3-030-72357-6
 https://link.springer.com/book/10.1007/978-3-030-72819-9
@@ -32681,6 +32682,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781118740712
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118762547
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118763551
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118907283
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781119121534
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119183471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119183631
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119214656
@@ -37393,6 +37395,7 @@ https://www.cambridge.org/core/books/english-as-a-global-language/55FF02AE591553
 https://www.cambridge.org/core/books/essai-philosophique-sur-les-probabilites/DF9A450F6443BB1BFBDEE9FCEA2325E1
 https://www.cambridge.org/core/books/exposition-du-systeme-du-monde/82983FE0068429434C4D81FFAEE67231
 https://www.cambridge.org/core/books/finite-markov-chains-and-algorithmic-applications/EE10AF27811B43B02E05905DC6413467
+https://www.cambridge.org/core/books/first-course-in-the-numerical-analysis-of-differential-equations/2B4E05F5CFC58CFDC7BBBC6D1150661B
 https://www.cambridge.org/core/books/formal-logic/95BBB5C2FB5C21E039EF41AC4C117AA6
 https://www.cambridge.org/core/books/foundations-of-cryptography/B0B0B0D2D383082C5435E16135A521B0
 https://www.cambridge.org/core/books/foundations-of-cryptography/B61B6AD235D2034D511A5FF740415166
@@ -39509,6 +39512,7 @@ https://www.goodreads.com/book/show/411722.All_of_Statistics
 https://www.goodreads.com/book/show/41580260-the-fifth-science
 https://www.goodreads.com/book/show/416113.The_History_of_Statistics
 https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual
+https://www.goodreads.com/book/show/4271348-numerical-methods-for-ordinary-differential-equations
 https://www.goodreads.com/book/show/433439.Elements_of_Information_Theory_2nd_Edition
 https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory
 https://www.goodreads.com/book/show/435453.Elementary_Classical_Analysis_2nd_Edition
