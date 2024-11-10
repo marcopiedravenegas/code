@@ -329,6 +329,7 @@ https://agents.inf.ed.ac.uk/stefano-albrecht/
 https://aghitza.org/
 https://agilemodeling.com/
 https://agupubs.onlinelibrary.wiley.com/
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007wr006735
 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098477
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002554
 https://agupubs.onlinelibrary.wiley.com/journal/19448007
@@ -1150,6 +1151,7 @@ https://arxiv.org/abs/2403.08879
 https://arxiv.org/abs/2403.10662v1
 https://arxiv.org/abs/2403.18913
 https://arxiv.org/abs/2403.19546
+https://arxiv.org/abs/2404.00411
 https://arxiv.org/abs/2404.07236
 https://arxiv.org/abs/2404.15506
 https://arxiv.org/abs/2405.00832
@@ -1688,6 +1690,7 @@ https://blog.trialanderror.org/
 https://blog.washi.dev/posts/tinysharp/
 https://blog.wolframalpha.com/2009/05/19/whats-in-the-logo-that-which-we-call-a-rhombic-hexecontahedron/
 https://blog.wolfram.com/
+https://blog.wolfram.com/2017/02/24/hidden-figures-modern-approaches-to-orbit-and-reentry-calculations/
 https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/
 https://blog.xen0n.name/en/
 https://blog.xen0n.name/en/posts/tinkering/loongarch-faq/
@@ -6651,6 +6654,7 @@ https://en.wikipedia.org/wiki/Atmel_AVR_instruction_set
 https://en.wikipedia.org/wiki/Atmosphere
 https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 https://en.wikipedia.org/wiki/Atmosphere_of_the_Moon
+https://en.wikipedia.org/wiki/Atmospheric_convection
 https://en.wikipedia.org/wiki/Atmospheric_methane
 https://en.wikipedia.org/wiki/Atmospheric_model
 https://en.wikipedia.org/wiki/Atmospheric_thermodynamics
@@ -9984,6 +9988,7 @@ https://en.wikipedia.org/wiki/Cycles_of_Time
 https://en.wikipedia.org/wiki/Cyclic_code
 https://en.wikipedia.org/wiki/Cyclic_executive
 https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+https://en.wikipedia.org/wiki/Cyclogenesis
 https://en.wikipedia.org/wiki/Cycloid
 https://en.wikipedia.org/wiki/Cyclomatic_complexity
 https://en.wikipedia.org/wiki/Cyclometer
@@ -12214,6 +12219,7 @@ https://en.wikipedia.org/wiki/Gartner_hype_cycle
 https://en.wikipedia.org/wiki/Gary_Chartrand
 https://en.wikipedia.org/wiki/Gary_Kildall
 https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)
+https://en.wikipedia.org/wiki/Gas_constant
 https://en.wikipedia.org/wiki/Gas_laws
 https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis
 https://en.wikipedia.org/wiki/Gaspard_Monge
@@ -13223,6 +13229,7 @@ https://en.wikipedia.org/wiki/Highly_elliptical_orbit
 https://en.wikipedia.org/wiki/Highly_irregular_graph
 https://en.wikipedia.org/wiki/High_Middle_Ages
 https://en.wikipedia.org/wiki/High-performance_computing
+https://en.wikipedia.org/wiki/High-pressure_area
 https://en.wikipedia.org/wiki/High-reeve
 https://en.wikipedia.org/wiki/HiGHS_optimization_solver
 https://en.wikipedia.org/wiki/High-threshold_logic
@@ -21785,6 +21792,7 @@ https://en.wikipedia.org/wiki/Subsequential_limit
 https://en.wikipedia.org/wiki/Subset_simulation
 https://en.wikipedia.org/wiki/Subset_sum_problem
 https://en.wikipedia.org/wiki/Subshift_of_finite_type
+https://en.wikipedia.org/wiki/Subsidence_(atmosphere)
 https://en.wikipedia.org/wiki/Subsidy
 https://en.wikipedia.org/wiki/Substitution_cipher
 https://en.wikipedia.org/wiki/Substitution%E2%80%93permutation_network
@@ -22880,6 +22888,7 @@ https://en.wikipedia.org/wiki/Tropic_of_Cancer
 https://en.wikipedia.org/wiki/Tropic_of_Capricorn
 https://en.wikipedia.org/wiki/Troposphere
 https://en.wikipedia.org/wiki/Trotsky:_A_Biography
+https://en.wikipedia.org/wiki/Trough_(meteorology)
 https://en.wikipedia.org/wiki/Troy
 https://en.wikipedia.org/wiki/TRS-80
 https://en.wikipedia.org/wiki/TRS-80_Color_Computer
@@ -27918,6 +27927,8 @@ https://help.imdb.com/
 https://herbsutter.com/
 https://herbsutter.com/2012/08/02/strong-and-weak-hardware-memory-models/
 https://here.r-lib.org/
+https://hess.copernicus.org/
+https://hess.copernicus.org/articles/25/5425/2021/
 https://hevea.inria.fr/
 https://hexed.it/
 https://hex-rays.com/
@@ -33939,6 +33950,7 @@ https://psycnet.apa.org/record/1959-09865-001
 https://pt.mondediplo.com/
 https://publica.fraunhofer.de/entities/publication/effc2d8c-8a56-4785-a0d3-e8ab4f575ecd/details
 https://publication-recommender.ieee.org/home
+https://publications.copernicus.org/open-access_journals/journals_by_subject.html
 https://public-dns.info/
 https://publicdomainreview.org/
 https://publicdomainreview.org/collection/hokusai-s-ghost-stories-ca-1830/
@@ -36646,6 +36658,7 @@ https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1534
 https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.1530
 https://wizardzines.com/
 https://wmo.int/
+https://wmo.int/media/magazine-article/imo-prize-lecture-2024-ensemble-weather-and-climate-prediction-from-origins-ai
 https://wol.iza.org/
 https://wol.iza.org/articles/economic-value-of-language-skills/long
 https://wonikjang.github.io/deeplearning_unsupervised_som/2017/06/30/som.html
@@ -38688,6 +38701,7 @@ https://www.eclipse.org/
 https://www.eclipse.org/acceleo/
 https://www.eclipse.org/modeling/
 https://www.ecmwf.int/
+https://www.ecmwf.int/en/about/media-centre/focus/2023/fact-sheet-reanalysis
 https://www.ecmwf.int/en/about/what-we-do/severe-weather-prediction
 https://www.ecmwf.int/en/forecasts/dataset/machine-learning-model-data
 https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model
@@ -42141,6 +42155,7 @@ https://www.proculther.eu/
 https://www.professoren.tum.de/en/walter-ulrich
 https://www.progress.com/marklogic
 https://www.progress.com/marklogic/server
+https://www.projectsubwaynyc.com/gallery
 https://www.project-syndicate.org/
 https://www.project-syndicate.org/archive
 https://www.project-syndicate.org/commentary/corruption-perception-index-does-not-give-the-whole-picture-by-yuen-yuen-ang-2024-03
