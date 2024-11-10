@@ -96,6 +96,16 @@ http://liberzon.csl.illinois.edu/
 http://liberzon.csl.illinois.edu/publications.html
 http://libpng.org/pub/png/
 http://library.lol/fiction/432E19D7981BB47E0540443546C99A51
+http://library.lol/main/144E9485DDB47417A5B0AC10B64635FE
+http://library.lol/main/230BBFE06DFC8FE376BEC30A4903270B
+http://library.lol/main/2F2E39C5D6D3E7E2FCB8E20DFD70A259
+http://library.lol/main/39566EFC14DBD3A27DF401211F598A94
+http://library.lol/main/66CE8B0F0D37A19585F6BE218A3C8973
+http://library.lol/main/9146C2A1290455288676A7AD6A1B1D5B
+http://library.lol/main/A95F8E51DA9F428402F0A61EC3C17A71
+http://library.lol/main/CD6AAF202228C1592847541292CB3D30
+http://library.lol/main/E5E376E8A888F6A27FA8FAA52580365D
+http://library.lol/main/F31B7D7055B208560AC74B5C7820EB97
 http://linear.ups.edu/
 http://links.twibright.com/
 http://logic.stanford.edu/people/genesereth/genesereth.html
@@ -936,6 +946,7 @@ https://arxiv.org/abs/1911.10715
 https://arxiv.org/abs/1912.01412
 https://arxiv.org/abs/1912.01703
 https://arxiv.org/abs/1912.05911
+https://arxiv.org/abs/1912.11144
 https://arxiv.org/abs/2002.02798
 https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.08071
@@ -2491,6 +2502,7 @@ https://cran.r-project.org/web/packages/data.table/index.html
 https://cran.r-project.org/web/packages/deepnet/index.html
 https://cran.r-project.org/web/packages/demography/index.html
 https://cran.r-project.org/web/packages/Deriv/index.html
+https://cran.r-project.org/web/packages/DescTools/index.html
 https://cran.r-project.org/web/packages/devtools/index.html
 https://cran.r-project.org/web/packages/dittodb/index.html
 https://cran.r-project.org/web/packages/dlookr/index.html
@@ -20727,6 +20739,7 @@ https://en.wikipedia.org/wiki/Semantic_triple
 https://en.wikipedia.org/wiki/Semantic_Web_(journal)
 https://en.wikipedia.org/wiki/SemEval
 https://en.wikipedia.org/wiki/Semiautomaton
+https://en.wikipedia.org/wiki/Semiclassical_physics
 https://en.wikipedia.org/wiki/Semiconductor
 https://en.wikipedia.org/wiki/Semiconductor_device
 https://en.wikipedia.org/wiki/Semiconductor_device_fabrication
@@ -26866,6 +26879,7 @@ https://github.com/sbt/sbt
 https://github.com/scala/scala
 https://github.com/scala/scala3
 https://github.com/scala/vscode-scala-syntax
+https://github.com/SchedMD/slurm
 https://github.com/schoeberl/chisel-book
 https://github.com/schrodinger/pymol-open-source
 https://github.com/scikit-image/scikit-image
@@ -33789,6 +33803,7 @@ https://press.princeton.edu/collections/princeton-science-library
 https://press.princeton.edu/our-authors/meyer-carl-d
 https://press.princeton.edu/our-authors/shakarchi-rami
 https://press.princeton.edu/our-authors/stein-elias-m
+https://press.princeton.edu/our-authors/thorne-kip-s
 https://press.princeton.edu/our-authors/tirole-jean-0
 https://press.princeton.edu/our-authors/von-neumann-john
 https://press.princeton.edu/series/princeton-landmarks-in-mathematics-and-physics
@@ -35076,6 +35091,7 @@ https://slepc.upv.es/
 https://slime.common-lisp.dev/
 https://sloanreview.mit.edu/
 https://sloop.r-lib.org/
+https://slurm.schedmd.com/
 https://smallcultfollowing.com/babysteps/
 https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
 https://smallpdf.com/
@@ -37751,6 +37767,7 @@ https://www.cell.com/structure/home
 https://www.cenat.ac.cr/en/
 https://www.cendi.gov/
 https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/
+https://www.cengage.com/c/physics-for-scientists-and-engineers-with-modern-physics-44-10th-edition-10e-serway-jewett/9781337553292/
 https://www.census.gov/
 https://www.census.gov/data/data-tools/survey-explorer/
 https://www.census.gov/dataviz/
@@ -39658,6 +39675,7 @@ https://www.goodreads.com/book/show/9829685-prime-numbers
 https://www.goodreads.com/en/book/show/1298709
 https://www.goodreads.com/en/book/show/1414631
 https://www.goodreads.com/en/book/show/16087552
+https://www.goodreads.com/en/book/show/17861536-modern-classical-physics
 https://www.goodreads.com/en/book/show/26262725
 https://www.goodreads.com/en/book/show/2823853
 https://www.goodreads.com/en/book/show/433443.An_Introduction_to_Information_Theory
@@ -41978,6 +41996,7 @@ https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus-early-transcende
 https://www.pearson.com/en-us/subject-catalog/p/thomas-calculus/P200000007103/9780137616077
 https://www.pearson.com/en-us/subject-catalog/p/topology-classic-version/P200000006299/9780137848669
 https://www.pearson.com/en-us/subject-catalog/p/understanding-digital-signal-processing/P200000000443/9780137582228
+https://www.pearson.com/en-us/subject-catalog/p/university-physics-with-modern-physics/P200000006855/9780136874331
 https://www.peeringdb.com/
 https://www.pekingnology.com/
 https://www.penguinbookshop.com/book/9780441013593
@@ -42427,6 +42446,8 @@ https://www.reverso.net/text-translation
 https://www.reverte.com/
 https://www.reverte.com/autor/l-d-landau/
 https://www.reverte.com/autor/t-m-apostol/
+https://www.reverte.com/catalogo_completo/
+https://www.reverte.com/coleccion/landau/
 https://www.reverte.com/libro/analisis-funcional_89250/
 https://www.reverte.com/libro/analisis-matematico_89206/
 https://www.reverte.com/libro/calculus-volumen-1-calculo-con-funciones-de-una-variable_89203/
