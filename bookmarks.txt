@@ -5948,6 +5948,7 @@ https://en.wikipedia.org/wiki/Alessandra_Celletti_(mathematician)
 https://en.wikipedia.org/wiki/Alexander_Bogomolny
 https://en.wikipedia.org/wiki/Alexander_Hamilton
 https://en.wikipedia.org/wiki/Alexander_Osterwalder
+https://en.wikipedia.org/wiki/Alexander_Samarskii
 https://en.wikipedia.org/wiki/Alexander_Schrijver
 https://en.wikipedia.org/wiki/Alexander_Sotirov
 https://en.wikipedia.org/wiki/Alexander_the_Great
@@ -6241,6 +6242,7 @@ https://en.wikipedia.org/wiki/Andrews_McMeel_Syndication
 https://en.wikipedia.org/wiki/Andrey_Kolmogorov
 https://en.wikipedia.org/wiki/Andrey_Markov
 https://en.wikipedia.org/wiki/Andrey_Markov_Jr.
+https://en.wikipedia.org/wiki/Andrey_Tikhonov_(mathematician)
 https://en.wikipedia.org/wiki/Android_(operating_system)
 https://en.wikipedia.org/wiki/Android_version_history
 https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision
@@ -27413,6 +27415,7 @@ https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean
 https://gitlab.com/mailcare/mailcare
 https://gitlab.com/mailman/mailman
 https://gitlab.com/mascarene/mascarene
+https://gitlab.com/mirtitles/
 https://gitlab.com/mirtitles/perelman-geometry
 https://gitlab.com/nsnam/ns-3-dev
 https://gitlab.com/NTPsec
@@ -34699,6 +34702,7 @@ https://salsa.debian.org
 https://salsa.debian.org/extrepo-team/extrepo
 https://salsa.debian.org/extrepo-team/extrepo-data
 https://salsa.debian.org/fonts-team/fonts-cascadia-code
+https://samarskii.ru/en/
 https://samplics-org.github.io/samplics/
 https://samwho.dev/hashing/
 https://samwho.dev/numbers/
