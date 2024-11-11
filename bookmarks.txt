@@ -1008,6 +1008,7 @@ https://arxiv.org/abs/2107.04175
 https://arxiv.org/abs/2107.06283
 https://arxiv.org/abs/2107.06751
 https://arxiv.org/abs/2107.07260
+https://arxiv.org/abs/2108.07245
 https://arxiv.org/abs/2108.08481
 https://arxiv.org/abs/2109.01483
 https://arxiv.org/abs/2109.09432
@@ -2091,6 +2092,7 @@ https://cis.ieee.org/
 https://cis.ieee.org/about/what-is-ci
 https://cis.ieee.org/awards/past-recipients
 https://cisofy.com/lynis/
+https://cispa.de/
 https://cispa.de/en/research/publications/3924-a-security-risc-microarchitectural-attacks-on-hardware-risc-v-cpus
 https://cista.rocks/
 https://citation.crosscite.org/
@@ -3563,6 +3565,7 @@ https://devtools.r-lib.org/
 https://devuan.c3l.lu/
 https://devurls.com/
 https://de.wikipedia.org/wiki/Aachen
+https://de.wikipedia.org/wiki/Alfred-Wegener-Institut
 https://de.wikipedia.org/wiki/Algebraische_Kurve
 https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Althochdeutsche_Sprache
@@ -3570,6 +3573,7 @@ https://de.wikipedia.org/wiki/An-Institut
 https://de.wikipedia.org/wiki/Antenne_Saar
 https://de.wikipedia.org/wiki/Antike
 https://de.wikipedia.org/wiki/Antikes_Griechenland
+https://de.wikipedia.org/wiki/Anton_von_Werner
 https://de.wikipedia.org/wiki/ARD
 https://de.wikipedia.org/wiki/ARD_Mediathek
 https://de.wikipedia.org/wiki/ARD_ZDF_Deutschlandradio_Beitragsservice
@@ -3584,6 +3588,7 @@ https://de.wikipedia.org/wiki/Basel
 https://de.wikipedia.org/wiki/Bayerischer_Rundfunk
 https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
 https://de.wikipedia.org/wiki/Beauftragter_der_Bundesregierung_f%C3%BCr_Kultur_und_Medien
+https://de.wikipedia.org/wiki/Berlin
 https://de.wikipedia.org/wiki/Bernd_Ulmann
 https://de.wikipedia.org/wiki/Bernhard_Esslinger
 https://de.wikipedia.org/wiki/Bertelsmann_Stiftung
@@ -3613,13 +3618,16 @@ https://de.wikipedia.org/wiki/Chaos_Communication_Congress
 https://de.wikipedia.org/wiki/Chaos_Computer_Club
 https://de.wikipedia.org/wiki/Chinesisch-deutsche_Beziehungen
 https://de.wikipedia.org/wiki/Cicero_(Zeitschrift)
+https://de.wikipedia.org/wiki/CISPA_%E2%80%93_Helmholtz-Zentrum_f%C3%BCr_Informationssicherheit
 https://de.wikipedia.org/wiki/COSMO_(Radiosender)
 https://de.wikipedia.org/wiki/CrypTool
 https://de.wikipedia.org/wiki/Darmstadt
 https://de.wikipedia.org/wiki/Das_Erste
 https://de.wikipedia.org/wiki/Data-Mining
 https://de.wikipedia.org/wiki/Denkfabrik
+https://de.wikipedia.org/wiki/Deutsche_Allianz_Nicht%C3%BCbertragbare_Krankheiten
 https://de.wikipedia.org/wiki/Deutsche_Digitale_Bibliothek
+https://de.wikipedia.org/wiki/Deutsche_Forschungsgemeinschaft
 https://de.wikipedia.org/wiki/Deutsche_Frage
 https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Ausw%C3%A4rtige_Politik
 https://de.wikipedia.org/wiki/Deutsche_Mathematiker-Vereinigung
@@ -3627,7 +3635,11 @@ https://de.wikipedia.org/wiki/Deutsche_Nationalbibliothek
 https://de.wikipedia.org/wiki/Deutsche_Physikalische_Gesellschaft
 https://de.wikipedia.org/wiki/Deutsche_Reichsgr%C3%BCndung
 https://de.wikipedia.org/wiki/Deutscher_Idealismus
+https://de.wikipedia.org/wiki/Deutsches_Arch%C3%A4ologisches_Institut
+https://de.wikipedia.org/wiki/Deutsches_Elektronen-Synchrotron
+https://de.wikipedia.org/wiki/Deutsches_Krebsforschungszentrum
 https://de.wikipedia.org/wiki/Deutsches_Zentrum_f%C3%BCr_Luft-_und_Raumfahrt
+https://de.wikipedia.org/wiki/Deutsches_Zentrum_f%C3%BCr_Neurodegenerative_Erkrankungen
 https://de.wikipedia.org/wiki/Deutsche_Welle
 https://de.wikipedia.org/wiki/Deutsch-Franz%C3%B6sischer_Krieg
 https://de.wikipedia.org/wiki/Deutschlandfunk
@@ -3657,12 +3669,14 @@ https://de.wikipedia.org/wiki/Forgejo
 https://de.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 https://de.wikipedia.org/wiki/Frankfurt_am_Main
 https://de.wikipedia.org/wiki/Frankfurter_Allgemeine_Zeitung
+https://de.wikipedia.org/wiki/Fraunhofer-Gesellschaft
 https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Sichere_Informationstechnologie
 https://de.wikipedia.org/wiki/Fr%C3%BChmittelalter
 https://de.wikipedia.org/wiki/Freiburg_im_Breisgau
 https://de.wikipedia.org/wiki/Fundstellennachweis
 https://de.wikipedia.org/wiki/Gegen%C3%B6ffentlichkeit
 https://de.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen
+https://de.wikipedia.org/wiki/Geowissenschaften
 https://de.wikipedia.org/wiki/German_Institute_for_Global_and_Area_Studies
 https://de.wikipedia.org/wiki/Gesamtgenealogie_der_griechisch-mediterranen_Mythologie
 https://de.wikipedia.org/wiki/Geschichte_der_Wahrscheinlichkeitsrechnung
@@ -3671,8 +3685,10 @@ https://de.wikipedia.org/wiki/Gesellschaft_Deutscher_Chemiker
 https://de.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Angewandte_Mathematik_und_Mechanik
 https://de.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Informatik
 https://de.wikipedia.org/wiki/Golo_Mann
+https://de.wikipedia.org/wiki/Gro%C3%9Fforschung
 https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland
 https://de.wikipedia.org/wiki/Grundrechte_(Deutschland)
+https://de.wikipedia.org/wiki/GSI_Helmholtzzentrum_f%C3%BCr_Schwerionenforschung
 https://de.wikipedia.org/wiki/Gustav_Schwab
 https://de.wikipedia.org/wiki/Gustav_Stresemann
 https://de.wikipedia.org/wiki/Hacker
@@ -3683,6 +3699,16 @@ https://de.wikipedia.org/wiki/Heiliges_R%C3%B6misches_Reich
 https://de.wikipedia.org/wiki/Heinrich_B%C3%B6ll
 https://de.wikipedia.org/wiki/Heinrich-B%C3%B6ll-Stiftung
 https://de.wikipedia.org/wiki/Hellenismus
+https://de.wikipedia.org/wiki/Helmholtz-Gemeinschaft_Deutscher_Forschungszentren
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_Berlin_f%C3%BCr_Materialien_und_Energie
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_Dresden-Rossendorf
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_f%C3%BCr_Infektionsforschung
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_f%C3%BCr_Ozeanforschung_Kiel
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_f%C3%BCr_Umweltforschung_%E2%80%93_UFZ
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_Hereon
+https://de.wikipedia.org/wiki/Helmholtz_Zentrum_M%C3%BCnchen
+https://de.wikipedia.org/wiki/Helmholtz-Zentrum_Potsdam_%E2%80%93_Deutsches_GeoForschungsZentrum
+https://de.wikipedia.org/wiki/Hermann_von_Helmholtz
 https://de.wikipedia.org/wiki/Herr_Mannelig
 https://de.wikipedia.org/wiki/Herzeleid_(Album)
 https://de.wikipedia.org/wiki/Hessen
@@ -3699,6 +3725,7 @@ https://de.wikipedia.org/wiki/IT-Cluster_Rhein-Main-Neckar
 https://de.wikipedia.org/wiki/Julian_Seymour_Schwinger
 https://de.wikipedia.org/wiki/Juris
 https://de.wikipedia.org/wiki/Karl_der_Gro%C3%9Fe
+https://de.wikipedia.org/wiki/Karlsruher_Institut_f%C3%BCr_Technologie
 https://de.wikipedia.org/wiki/Karpatenhund
 https://de.wikipedia.org/wiki/Kategorie:Politik-Website
 https://de.wikipedia.org/wiki/K%C3%B6ln
@@ -3716,6 +3743,7 @@ https://de.wikipedia.org/wiki/Lernmatrix
 https://de.wikipedia.org/wiki/Liebe_ist_f%C3%BCr_alle_da
 https://de.wikipedia.org/wiki/Liste_der_Artikel_des_Grundgesetzes
 https://de.wikipedia.org/wiki/Liste_der_%C3%A4ltesten_Universit%C3%A4ten
+https://de.wikipedia.org/wiki/Liste_der_Fraunhofer-Institute_und_-Einrichtungen
 https://de.wikipedia.org/wiki/Liste_der_Hochschulen_in_Deutschland
 https://de.wikipedia.org/wiki/Liste_der_Listen_von_Universit%C3%A4ten
 https://de.wikipedia.org/wiki/Liste_der_modernen_Universit%C3%A4ten_in_Europa_(1801%E2%80%931945)
@@ -3728,6 +3756,8 @@ https://de.wikipedia.org/wiki/Magdeburger_Recht
 https://de.wikipedia.org/wiki/Marburg
 https://de.wikipedia.org/wiki/Martin_Vogt_(Historiker)
 https://de.wikipedia.org/wiki/Mathematische_Statistik
+https://de.wikipedia.org/wiki/Max-Delbr%C3%BCck-Centrum_f%C3%BCr_Molekulare_Medizin_in_der_Helmholtz-Gemeinschaft
+https://de.wikipedia.org/wiki/Max-Planck-Gesellschaft
 https://de.wikipedia.org/wiki/Max-Planck-Institut_f%C3%BCr_Physik_komplexer_Systeme
 https://de.wikipedia.org/wiki/M%C3%BCnchen
 https://de.wikipedia.org/wiki/M%C3%BCnchen_(Schiff,_1972)
@@ -3756,11 +3786,13 @@ https://de.wikipedia.org/wiki/Pangermanismus
 https://de.wikipedia.org/wiki/Passau
 https://de.wikipedia.org/wiki/Pergamonmuseum
 https://de.wikipedia.org/wiki/Philipps-Universit%C3%A4t_Marburg
+https://de.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt
 https://de.wikipedia.org/wiki/Politikwissenschaft
 https://de.wikipedia.org/wiki/Politique_%C3%A9trang%C3%A8re
 https://de.wikipedia.org/wiki/Politische_Philosophie
 https://de.wikipedia.org/wiki/Politisches_System_der_Bundesrepublik_Deutschland
 https://de.wikipedia.org/wiki/Politische_Theorie
+https://de.wikipedia.org/wiki/Potsdam
 https://de.wikipedia.org/wiki/Preu%C3%9Fen
 https://de.wikipedia.org/wiki/Qantara.de
 https://de.wikipedia.org/wiki/Quasigruppe
@@ -3793,6 +3825,8 @@ https://de.wikipedia.org/wiki/Staatsschutz
 https://de.wikipedia.org/wiki/Staatstheorie
 https://de.wikipedia.org/wiki/Stadtrecht
 https://de.wikipedia.org/wiki/Statistisches_Bundesamt
+https://de.wikipedia.org/wiki/Stiftung_(Deutschland)
+https://de.wikipedia.org/wiki/Stiftung_Preu%C3%9Fischer_Kulturbesitz
 https://de.wikipedia.org/wiki/Stochastik
 https://de.wikipedia.org/wiki/Studiengeb%C3%BChren_in_Deutschland
 https://de.wikipedia.org/wiki/SWR_Aktuell
@@ -3804,6 +3838,8 @@ https://de.wikipedia.org/wiki/Tales_of_Ithiria
 https://de.wikipedia.org/wiki/Taz,_die_Tageszeitung_Verlagsgenossenschaft
 https://de.wikipedia.org/wiki/T%C3%BCbingen
 https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Darmstadt
+https://de.wikipedia.org/wiki/Tensor
+https://de.wikipedia.org/wiki/Tensorverj%C3%BCngung
 https://de.wikipedia.org/wiki/Text_Mining
 https://de.wikipedia.org/wiki/Thomas_Mann
 https://de.wikipedia.org/wiki/T-Online
@@ -9797,6 +9833,7 @@ https://en.wikipedia.org/wiki/Cours-la-Reine
 https://en.wikipedia.org/wiki/Covariance
 https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)
 https://en.wikipedia.org/wiki/Covariance_and_correlation
+https://en.wikipedia.org/wiki/Covariance_matrix
 https://en.wikipedia.org/wiki/Covariant_classical_field_theory
 https://en.wikipedia.org/wiki/Covector_mapping_principle
 https://en.wikipedia.org/wiki/Cover%27s_theorem
@@ -10442,6 +10479,7 @@ https://en.wikipedia.org/wiki/Desktop_environment
 https://en.wikipedia.org/wiki/DESMO-J
 https://en.wikipedia.org/wiki/Desmond_Higham
 https://en.wikipedia.org/wiki/DES-X
+https://en.wikipedia.org/wiki/DESY
 https://en.wikipedia.org/wiki/Detection_theory
 https://en.wikipedia.org/wiki/Deterministic_encryption
 https://en.wikipedia.org/wiki/Detrended_correspondence_analysis
@@ -12032,6 +12070,7 @@ https://en.wikipedia.org/wiki/Freedom_in_the_World
 https://en.wikipedia.org/wiki/Freedom_of_the_Press_Foundation
 https://en.wikipedia.org/wiki/Freedom_of_the_Press_(report)
 https://en.wikipedia.org/wiki/FreeDOS
+https://en.wikipedia.org/wiki/Free-electron_laser
 https://en.wikipedia.org/wiki/FreeLAN
 https://en.wikipedia.org/wiki/Freeman_Dyson
 https://en.wikipedia.org/wiki/Free_market
@@ -28469,6 +28508,7 @@ https://ieeexplore.ieee.org/document/930318
 https://ieeexplore.ieee.org/document/9336011
 https://ieeexplore.ieee.org/document/9380147
 https://ieeexplore.ieee.org/document/9397913
+https://ieeexplore.ieee.org/document/9416639
 https://ieeexplore.ieee.org/document/9453101
 https://ieeexplore.ieee.org/document/9477822
 https://ieeexplore.ieee.org/document/950136
@@ -38585,6 +38625,7 @@ https://www.design-reuse.com/articles/46237/extending-risc-v-isa-with-a-custom-i
 https://www.design-reuse.com/articles/49303/security-risc-v-connected-systems.html
 https://www.design-reuse.com/news/27047/loongson-mips32-mips64-license.html
 https://www.destatis.de/DE/Home/_inhalt.html
+https://www.desy.de/
 https://www.desy.de/index_eng.html
 https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0
 https://www.desy.de/user/projects/Physics/index.html
@@ -38658,8 +38699,10 @@ https://www.djangoproject.com/
 https://www.djangoproject.com/foundation/
 https://www.dji.com/global/mobile
 https://www.dk-compmath.jku.at/Courses/2012w/fundamentals-of-numerical-analysis-and-symbolic-computation/dk-lecture
+https://www.dkfz.de/
 https://www.dkrypt.org/Main_Page
 https://www.dkrz.de/de
+https://www.dlr.de/
 https://www.dlr.de/de
 https://www.dlr.de/de/ts
 https://www.dlr.de/de/ts/
@@ -39113,6 +39156,7 @@ https://www.franceix.net/
 https://www.france.tv/
 https://www.francetvinfo.fr/
 https://www.francetvinfo.fr/en-direct/tv.html
+https://www.fraunhofer.de/
 https://www.fraunhofer.de/en/institutes/institutes-and-research-establishments-in-germany/fraunhofer-alliances/energy.html
 https://www.fr.de/
 https://www.freebsddiary.org/
@@ -39158,6 +39202,7 @@ https://www.furygpu.com/
 https://www.fuzzylite.com/
 https://www.fvwm.org/
 https://www.fygeditores.com/FGBGPW9789929552319.htm
+https://www.fz-juelich.de/
 https://www.fz-juelich.de/de
 https://www.fz-juelich.de/de/forschung/biooekonomie
 https://www.fz-juelich.de/de/forschung/energie/klimaforschung
@@ -39207,6 +39252,7 @@ https://www.geofabrik.de/
 https://www.geogebra.org/
 https://www.geogebra.org/calculator
 https://www.geographyrealm.com/
+https://www.geomar.de/
 https://www.geomesa.org/
 https://www.geometrictools.com/
 https://www.geonetwork-opensource.org/
@@ -39225,6 +39271,7 @@ https://www.getdbt.com/
 https://www.geteduroam.app/
 https://www.geuz.org/gl2ps/
 https://www.gfdl.noaa.gov/fv3/
+https://www.gfz-potsdam.de/
 https://www.ghacks.net/2023/04/20/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-repository/
 https://www.ghisler.com/
 https://www.ghostscript.com/
@@ -41236,6 +41283,7 @@ https://www.mozilla.org/en-US/privacy/
 https://www.mozilla.org/en-US/products/vpn/
 https://www.mpdl.mpg.de/
 https://www.mpfr.org/
+https://www.mpg.de/
 https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x
 https://www.mpg.de/de
 https://www.mpi-forum.org/
@@ -42239,6 +42287,7 @@ https://www.prq.se/
 https://www.prweb.com/
 https://www.ps.uni-saarland.de/alice/
 https://www.psych.mcgill.ca/misc/fda/
+https://www.ptb.de/
 https://www.ptj.de/
 https://www.ptm.org.pl/
 https://www.publicbooks.org/
@@ -42720,6 +42769,7 @@ https://www.routledge.com/Mathematical-Statistics-Basic-Ideas-and-Selected-Topic
 https://www.routledge.com/Mathematical-Theory-of-Optimal-Processes/Pontryagin/p/book/9782881240775
 https://www.routledge.com/mathematics-statistics/advanced-mathematics/mathematical-logic/cryptology
 https://www.routledge.com/mathematics-statistics/statistics-probability
+https://www.routledge.com/Multilinear-Subspace-Learning-Dimensionality-Reduction-of-Multidimensional/Lu-Plataniotis-Venetsanopoulos/p/book/9781439857243
 https://www.routledge.com/Nonlinear-Dynamics-and-Chaos-With-Applications-to-Physics-Biology-Chemistry-and-Engineering/Strogatz/p/book/9780367026509
 https://www.routledge.com/Nonparametric-Statistical-Methods-Using-R/Kloke-McKean/p/book/9780367651350
 https://www.routledge.com/Numerical-Methods-and-Optimization-An-Introduction/Butenko-Pardalos/p/book/9781466577770
@@ -44187,6 +44237,7 @@ https://www.ucolick.org/~burke/forms/books.html
 https://www.uc.pt/en/fctuc/dmat/ensino/doutoramentoAlgComp
 https://www.ucr.ac.cr/
 https://www.ufinet.com/our-network/latam-network/
+https://www.ufz.de/
 https://www.uibk.ac.at/en/
 https://www.ulb.be/
 https://www.ulm.ccc.de/dev/radio/show/198.html
@@ -45127,6 +45178,7 @@ https://zlib.net/
 https://zoneminder.com/
 https://zookeeper.apache.org/
 https://zoo-project.org/site/
+https://zosov.github.io/portfolio/tensor_decomposition/
 https://zsh.sourceforge.io/
 https://zulip.com/
 https://zyppy.com/seo/google-index-size/
