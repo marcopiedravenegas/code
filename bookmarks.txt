@@ -68,6 +68,7 @@ http://harmful.cat-v.org/
 http://harmful.cat-v.org/economics/intellectual_property/
 http://harmful.cat-v.org/software/
 http://haroldbot.nl/
+http://hashcash.org/
 http://hoard.org/
 http://home.iae.nl/users/mhx/crenshaw/tiny.html
 http://hpcuniversity.org/
@@ -7163,6 +7164,7 @@ https://en.wikipedia.org/wiki/Biplot
 https://en.wikipedia.org/wiki/Bipolar_junction_transistor
 https://en.wikipedia.org/wiki/BIRCH
 https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture
+https://en.wikipedia.org/wiki/Birkhoff_algorithm
 https://en.wikipedia.org/wiki/Birthday_attack
 https://en.wikipedia.org/wiki/Birthday_problem
 https://en.wikipedia.org/wiki/Birth%E2%80%93death_process
@@ -13059,6 +13061,7 @@ https://en.wikipedia.org/wiki/Harvey_Mudd_College
 https://en.wikipedia.org/wiki/Haryana
 https://en.wikipedia.org/wiki/Hash_array_mapped_trie
 https://en.wikipedia.org/wiki/Hash-based_cryptography
+https://en.wikipedia.org/wiki/Hashcash
 https://en.wikipedia.org/wiki/Hash_chain
 https://en.wikipedia.org/wiki/Hash_collision
 https://en.wikipedia.org/wiki/Hashed_array_tree
@@ -13864,6 +13867,7 @@ https://en.wikipedia.org/wiki/Instantaneously_trained_neural_networks
 https://en.wikipedia.org/wiki/Instant-on
 https://en.wikipedia.org/wiki/Institut_d%27%C3%A9tudes_politiques_de_Saint-Germain-en-Laye
 https://en.wikipedia.org/wiki/Institut_d%27optique_Graduate_School
+https://en.wikipedia.org/wiki/Institut_des_Hautes_%C3%89tudes_Scientifiques
 https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 https://en.wikipedia.org/wiki/Institute_for_Operations_Research_and_the_Management_Sciences
 https://en.wikipedia.org/wiki/Institute_for_Scientific_Information
@@ -15889,6 +15893,7 @@ https://en.wikipedia.org/wiki/List_of_schools_of_mines
 https://en.wikipedia.org/wiki/List_of_science_magazines
 https://en.wikipedia.org/wiki/List_of_scientific_journals
 https://en.wikipedia.org/wiki/List_of_scientific_priority_disputes
+https://en.wikipedia.org/wiki/List_of_scientific_publications_by_John_von_Neumann
 https://en.wikipedia.org/wiki/List_of_Scott_Pilgrim_characters
 https://en.wikipedia.org/wiki/List_of_SDN_controller_software
 https://en.wikipedia.org/wiki/List_of_search_engines
@@ -16356,6 +16361,7 @@ https://en.wikipedia.org/wiki/Map_projection
 https://en.wikipedia.org/wiki/MapReduce
 https://en.wikipedia.org/wiki/MapServer
 https://en.wikipedia.org/wiki/Marble_(software)
+https://en.wikipedia.org/wiki/Marcel_Berger
 https://en.wikipedia.org/wiki/Marcel_Mauss
 https://en.wikipedia.org/wiki/Marcelo_Viana
 https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
@@ -19401,6 +19407,7 @@ https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Proof_assistant
 https://en.wikipedia.org/wiki/Proof-carrying_code
 https://en.wikipedia.org/wiki/Proof_of_knowledge
+https://en.wikipedia.org/wiki/Proof_of_work
 https://en.wikipedia.org/wiki/Proof_without_words
 https://en.wikipedia.org/wiki/Propaganda_Due
 https://en.wikipedia.org/wiki/Propaganda_in_China
@@ -21922,6 +21929,8 @@ https://en.wikipedia.org/wiki/Swiss_Federal_Constitution
 https://en.wikipedia.org/wiki/Swiss_folklore
 https://en.wikipedia.org/wiki/SWITCH_Information_Technology_Services
 https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License
+https://en.wikipedia.org/wiki/Sybil_(novel)
+https://en.wikipedia.org/wiki/Sybil_(Schreiber_book)
 https://en.wikipedia.org/wiki/SYCL
 https://en.wikipedia.org/wiki/SYM-1
 https://en.wikipedia.org/wiki/Symbol
@@ -22274,6 +22283,7 @@ https://en.wikipedia.org/wiki/The_Codebreakers
 https://en.wikipedia.org/wiki/The_Coming_Anarchy
 https://en.wikipedia.org/wiki/The_Communist_Manifesto
 https://en.wikipedia.org/wiki/The_Complete_Plain_Words
+https://en.wikipedia.org/wiki/The_Computer_and_the_Brain
 https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game
 https://en.wikipedia.org/wiki/The_Condition_of_the_Working_Class_in_England
 https://en.wikipedia.org/wiki/The_Conquest_of_Bread
@@ -22359,6 +22369,7 @@ https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery
 https://en.wikipedia.org/wiki/The_Lone_Gunmen_(TV_series)
 https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 https://en.wikipedia.org/wiki/The_Magic_Words_are_Squeamish_Ossifrage
+https://en.wikipedia.org/wiki/The_MANIAC
 https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell
 https://en.wikipedia.org/wiki/The_Masque_of_the_Red_Death_(1964_film)
 https://en.wikipedia.org/wiki/The_Mathematical_Intelligencer
@@ -28600,6 +28611,7 @@ https://inkscape.org/
 https://inpyjama.com/
 https://inpyjama.com/blog/c-pointers-course-is-out/
 https://inria.hal.science/AECF/
+https://inria.hal.science/hal-01561551v1
 https://inria.hal.science/hal-02383654
 https://inria.hal.science/hal-03807965
 https://inria.hal.science/inria-00609399
@@ -29551,6 +29563,7 @@ https://library.lol/main/04F96951479ABEAEBA713B0FE972E81D
 https://library.lol/main/06145446C52EBA11E03A1196731CEFF2
 https://library.lol/main/066F00CDA7C0026086A2C7E44FB7D81C
 https://library.lol/main/06DB1C258682D62D00D5035B181533E3
+https://library.lol/main/0740EAF2D70C193A1EA6F0F272ED6DDA
 https://library.lol/main/079201FBCD6E51022C478FA34BC87237
 https://library.lol/main/082AF57FC6A4E618C497374CEF0048C9
 https://library.lol/main/0A1580FA43BC709A4AF9DDBAB025CD98
@@ -29755,6 +29768,7 @@ https://library.lol/main/6AEB8896359F4EF338DF6D1BE995132B
 https://library.lol/main/6B8F1E751C6D6B82A49CC155099F9949
 https://library.lol/main/6C6BB7B6E894DA02A0B1A4CF5852BDA9
 https://library.lol/main/6CBC5B5AF610CA7C18303B1C793D4533
+https://library.lol/main/6EB96090E0F4D81031B76E9FB8A99B4A
 https://library.lol/main/6F39FE0CF5EF3CE09D3D5097FA219652
 https://library.lol/main/7025129FE0A6D18C89CF0C4740B32052
 https://library.lol/main/702A7E2AF384C3FC4B236BE799E3176D
@@ -29947,6 +29961,7 @@ https://library.lol/main/EE64B66AF29D95F8A96D149EE43019B7
 https://library.lol/main/EE7088494248E3E02232D54A0AB1BCF1
 https://library.lol/main/EECF604531F1C4F8F595AEA79638C3C0
 https://library.lol/main/EEFAF61AD6928B336FBCEE853BE293E1
+https://library.lol/main/EF28F08F3598491E4CDCF972876C83BC
 https://library.lol/main/EF570C1E475DCCA816BED5E1208B9360
 https://library.lol/main/F0200DDCEBE5822B7C39BBBA4FB98DD6
 https://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06
@@ -30281,6 +30296,7 @@ https://link.springer.com/book/10.1007/978-1-4612-0989-8
 https://link.springer.com/book/10.1007/978-1-4612-0993-5
 https://link.springer.com/book/10.1007/978-1-4612-0999-7
 https://link.springer.com/book/10.1007/978-1-4612-1021-4
+https://link.springer.com/book/10.1007/978-1-4612-1033-7
 https://link.springer.com/book/10.1007/978-1-4612-1037-5
 https://link.springer.com/book/10.1007/978-1-4612-1046-7
 https://link.springer.com/book/10.1007/978-1-4612-1084-9
@@ -30786,6 +30802,8 @@ https://link.springer.com/book/10.1007/978-3-642-17342-4
 https://link.springer.com/book/10.1007/978-3-642-17540-4
 https://link.springer.com/book/10.1007/978-3-642-17548-0
 https://link.springer.com/book/10.1007/978-3-642-18090-3
+https://link.springer.com/book/10.1007/978-3-642-18245-7
+https://link.springer.com/book/10.1007/978-3-642-18855-8
 https://link.springer.com/book/10.1007/978-3-642-18904-3
 https://link.springer.com/book/10.1007/978-3-642-19460-3
 https://link.springer.com/book/10.1007/978-3-642-19948-6
@@ -31639,6 +31657,7 @@ https://marabos.nl/atomics/
 https://marble.kde.org/
 https://marc.info/
 https://marc.info/?l=best-of-security&r=1&w=2
+https://marc.info/?l=cryptography&m=122558139832010&w=2
 https://marc.info/?l=cryptography&r=1&w=2
 https://marc.info/?l=cypherpunks&r=1&w=1
 https://marc.info/?l=cypherpunks&r=1&w=2
@@ -31890,6 +31909,7 @@ https://mcjones.org/dustydecks/archives/2022/04/25/1113/
 https://mcj.sourceforge.net/
 https://m-clark.github.io/text-analysis-with-R/
 https://mcmc-jags.sourceforge.io/
+https://mcnp.lanl.gov/pdf_files/InBook_Computing_1961_Neumann_JohnVonNeumannCollectedWorks_VariousTechniquesUsedinConnectionwithRandomDigits.pdf
 https://mc-stan.org/
 https://mc-stan.org/users/interfaces/math
 https://mctiny.org/
@@ -34745,6 +34765,7 @@ https://scheme.com/pubs/index.html
 https://scheme.com/tspl4/
 https://scheme.fail/
 https://scholar.archive.org/
+https://scholar.google.com/citations?user=6kEXBa0AAAAJ&hl=en
 https://scholar.google.com/citations?user=AxFrw0sAAAAJ
 https://scholar.google.com/citations?user=hkJ7xKwAAAAJ
 https://scholar.google.com/citations?user=HntkbYMAAAAJ&hl=en
@@ -38526,6 +38547,8 @@ https://www.degruyter.com/document/doi/10.1515/9781400842643/html
 https://www.degruyter.com/document/doi/10.1515/9781400863440/html
 https://www.degruyter.com/document/doi/10.1515/9781400873173/html
 https://www.degruyter.com/document/doi/10.1515/9781400874477/html
+https://www.degruyter.com/document/doi/10.1515/9781400881895/html
+https://www.degruyter.com/document/doi/10.1515/9781400882250/html
 https://www.degruyter.com/document/doi/10.1515/9781400883899/html
 https://www.degruyter.com/document/doi/10.1515/9781400883929
 https://www.degruyter.com/document/doi/10.1515/9781400884179/html
@@ -41062,6 +41085,7 @@ https://www.metzdowd.com/mailman/listinfo/cryptography
 https://www.metzdowd.com/pipermail/cryptography/
 https://www.metzdowd.com/pipermail/cryptography/2001-September/thread.html
 https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
+https://www.metzdowd.com/pipermail/cryptography/2016-May/029401.html
 https://www.metzlerverlag.de/
 https://www.mfo.de/
 https://www.mheducation.com/highered/product/applied-numerical-methods-matlab-engineers-scientists-chapra/M9781264162604.html
@@ -44630,6 +44654,7 @@ https://www.worldpoliticsreview.com/
 https://www.worldscientific.com/
 https://www.worldscientific.com/doi/10.1142/9789814324359_0164
 https://www.worldscientific.com/doi/abs/10.1142/S0218127410026514
+https://www.worldscientific.com/doi/epdf/10.1142/9789812831088_bmatter
 https://www.worldscientific.com/worldscibooks/10.1142/2895
 https://www.worldscientific.com/worldscibooks/10.1142/8590
 https://www.woz.ch/
