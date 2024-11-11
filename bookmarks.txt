@@ -1004,6 +1004,7 @@ https://arxiv.org/abs/2106.07032
 https://arxiv.org/abs/2106.09748
 https://arxiv.org/abs/2106.11581
 https://arxiv.org/abs/2106.14806
+https://arxiv.org/abs/2106.15577v5
 https://arxiv.org/abs/2107.04175
 https://arxiv.org/abs/2107.06283
 https://arxiv.org/abs/2107.06751
@@ -1119,6 +1120,7 @@ https://arxiv.org/abs/2308.04889
 https://arxiv.org/abs/2308.07817
 https://arxiv.org/abs/2308.08235
 https://arxiv.org/abs/2308.08468
+https://arxiv.org/abs/2308.09296v4
 https://arxiv.org/abs/2308.11914
 https://arxiv.org/abs/2308.13998
 https://arxiv.org/abs/2308.14711
@@ -1210,6 +1212,7 @@ https://arxiv.org/list/cs.SC/recent
 https://arxiv.org/list/math.OC/recent
 https://arxiv.org/pdf/1809.04766
 https://arxiv.org/pdf/2105.01099
+https://arxiv.org/pdf/2109.10404
 https://arxiv.org/pdf/2210.04055
 https://arxiv.org/pdf/2307.10984
 https://arxiv.org/pdf/2310.09145
@@ -2299,6 +2302,8 @@ https://commons.apache.org/proper/commons-imaging/
 https://commons.apache.org/proper/commons-io/
 https://commons.apache.org/proper/commons-logging/
 https://commons.apache.org/proper/commons-math/
+https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/filter/KalmanFilter.html
+https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/overview-summary.html
 https://commons.apache.org/proper/commons-net/
 https://commons.apache.org/proper/commons-numbers/
 https://commons.apache.org/proper/commons-pool/
@@ -2450,6 +2455,7 @@ https://cran.r-project.org/src/base/FAQ
 https://cran.r-project.org/web/packages/
 https://cran.r-project.org/web/packages/abind/index.html
 https://cran.r-project.org/web/packages/ABM/index.html
+https://cran.r-project.org/web/packages/acc/
 https://cran.r-project.org/web/packages/AER/index.html
 https://cran.r-project.org/web/packages/AID/index.html
 https://cran.r-project.org/web/packages/algorithmia/index.html
@@ -2570,6 +2576,7 @@ https://cran.r-project.org/web/packages/janeaustenr/index.html
 https://cran.r-project.org/web/packages/janitor/index.html
 https://cran.r-project.org/web/packages/jmv/index.html
 https://cran.r-project.org/web/packages/jsonlite/index.html
+https://cran.r-project.org/web/packages/kalmanfilter/index.html
 https://cran.r-project.org/web/packages/katex/index.html
 https://cran.r-project.org/web/packages/keras/index.html
 https://cran.r-project.org/web/packages/kernlab/index.html
@@ -3901,6 +3908,7 @@ https://digiconomist.net/powering-ai-could-use-as-much-electricity-as-a-small-co
 https://digital.ai/products/continuous-testing/
 https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1337&context=cs_tr
 https://digitalcommons.dartmouth.edu/dissertations/80/
+https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1042&context=arch_crp_facultyschol
 https://digitalcommons.usu.edu/all_datasets/48/
 https://digital-defense.io/
 https://digital.deutsches-museum.de/de/digital-catalogue/collection-object/71930/
@@ -4077,6 +4085,7 @@ https://dl.acm.org/doi/10.1145/2685690.2687011
 https://dl.acm.org/doi/10.1145/2694344.2694367
 https://dl.acm.org/doi/10.1145/2699417
 https://dl.acm.org/doi/10.1145/2701413
+https://dl.acm.org/doi/10.1145/2702613.2732764
 https://dl.acm.org/doi/10.1145/272991.272995
 https://dl.acm.org/doi/10.1145/2737924.2737958
 https://dl.acm.org/doi/10.1145/2744700.2744702
@@ -4741,10 +4750,12 @@ https://docs.sciml.ai/NeuralPDE/stable/
 https://docs.sciml.ai/NonlinearSolve/stable/
 https://docs.sciml.ai/Optimization/stable/
 https://docs.scipy.org/doc/scipy/
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.stft.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.roots_legendre.html
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html
 https://docs.scipy.org/doc/scipy/reference/integrate.html
 https://docs.scipy.org/doc/scipy/reference/optimize.html
+https://docs.scipy.org/doc/scipy/reference/signal.html
 https://docs.scipy.org/doc/scipy/reference/stats.html
 https://docs.scipy.org/doc/scipy/tutorial/index.html
 https://docs.sympy.org/latest/index.html
@@ -9440,6 +9451,7 @@ https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve
 https://en.wikipedia.org/wiki/Compositio_Mathematica
 https://en.wikipedia.org/wiki/Compound_probability_distribution
 https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty
+https://en.wikipedia.org/wiki/Compressed_sensing
 https://en.wikipedia.org/wiki/Computability
 https://en.wikipedia.org/wiki/Computability_in_Europe
 https://en.wikipedia.org/wiki/Computability_theory
@@ -22709,6 +22721,7 @@ https://en.wikipedia.org/wiki/Time-scale_calculus
 https://en.wikipedia.org/wiki/TimescaleDB
 https://en.wikipedia.org/wiki/Time-Sensitive_Networking
 https://en.wikipedia.org/wiki/Time_series
+https://en.wikipedia.org/wiki/Time-series_segmentation
 https://en.wikipedia.org/wiki/Times_Higher_Education
 https://en.wikipedia.org/wiki/Times_Higher_Education_World_University_Rankings
 https://en.wikipedia.org/wiki/Times_New_Roman
@@ -28837,6 +28850,7 @@ https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00759-z
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00781-1
 https://jckantor.github.io/ND-Pyomo-Cookbook/README.html
 https://jcs.org/
+https://jdsp.dev/
 https://jeffe.cs.illinois.edu/
 https://jeffe.cs.illinois.edu/teaching/algorithms/
 https://jekyllrb.com/
@@ -29647,6 +29661,7 @@ https://library.lol/main/1C5879B8666C96320003AE888FF74B1E
 https://library.lol/main/1CB91522BD9CDAC41BE2CB76140D3B64
 https://library.lol/main/1CDF5E2E2EB904135EECA42FECB9BC22
 https://library.lol/main/1D818C5DA3BD43BC06219E1F6ED344D8
+https://library.lol/main/1E1AAD562AB4C3189930C3121A41DAA1
 https://library.lol/main/1E1DD82B6B6D4337182F92216D466210
 https://library.lol/main/1EC1475EA564384EE54DAF34615D67A8
 https://library.lol/main/1F4BA8A3DCF5A2BA6554277013366042
@@ -29974,6 +29989,7 @@ https://library.lol/main/D4FA221B95B10582FBB3B09AF661FC5E
 https://library.lol/main/D840C79455DEA37F9EB2F9666590A812
 https://library.lol/main/D84FF68924090A0074C30757C621A316
 https://library.lol/main/D8B4357C44994BB326CCA5D52FF998D0
+https://library.lol/main/D93C1E2DCF926B2AF4CB3164B2649AB4
 https://library.lol/main/D9C0F343CC3B9E8A7A66869B2FE9680B
 https://library.lol/main/D9EDD002EDEC064C796F77DB789E6210
 https://library.lol/main/D9EF69FEFA54257F9A3135E88DBD8B46
@@ -30749,6 +30765,7 @@ https://link.springer.com/book/10.1007/978-3-319-43323-3
 https://link.springer.com/book/10.1007/978-3-319-43476-6
 https://link.springer.com/book/10.1007/978-3-319-43669-2
 https://link.springer.com/book/10.1007/978-3-319-44048-4
+https://link.springer.com/book/10.1007/978-3-319-45372-9
 https://link.springer.com/book/10.1007/978-3-319-45403-0
 https://link.springer.com/book/10.1007/978-3-319-48936-0
 https://link.springer.com/book/10.1007/978-3-319-50017-1
@@ -32071,6 +32088,7 @@ https://milkv.io/
 https://milkv.io/duo
 https://milokim.gitbooks.io/lbb/content/qemu-how-to-design-a-prototype-device.html
 https://milvus.io/
+https://mimno.github.io/Mallet/optimization
 https://minari.farama.org/
 https://minesweepergame.com/
 https://minifree.org/
@@ -32192,6 +32210,7 @@ https://mlr3book.mlr-org.com/
 https://mlr3.mlr-org.com/
 https://mlr-org.com/
 https://mlr-org.r-universe.dev/packages
+https://mlsp2023.cs.cmu.edu/
 https://mlsys.org/
 https://mlverse.github.io/luz/
 https://mlverse.github.io/torchaudio/
@@ -32723,7 +32742,9 @@ https://ocw.mit.edu/courses/18-303-linear-partial-differential-equations-fall-20
 https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
 https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/
 https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/pages/syllabus/
+https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/
 https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+https://ocw.mit.edu/courses/6-011-signals-systems-and-inference-spring-2018/
 https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
 https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
 https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/
@@ -33293,6 +33314,7 @@ https://paperswithcode.com/method/vision-transformer
 https://paperswithcode.com/paper/a-generalist-neural-algorithmic-learner
 https://paperswithcode.com/paper/attention-is-all-you-need
 https://paperswithcode.com/paper/can-machines-solve-general-queueing-systems
+https://paperswithcode.com/paper/carla-a-self-supervised-contrastive
 https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition
 https://paperswithcode.com/paper/diffeqfluxjl-a-julia-library-for-neural
 https://paperswithcode.com/paper/differentiable-programming-for-earth-system
@@ -33338,6 +33360,7 @@ https://paperswithcode.com/task/3d-semantic-segmentation
 https://paperswithcode.com/task/anomaly-detection
 https://paperswithcode.com/task/automated-theorem-proving
 https://paperswithcode.com/task/camera-pose-estimation
+https://paperswithcode.com/task/change-point-detection
 https://paperswithcode.com/task/common-sense-reasoning
 https://paperswithcode.com/task/decision-making
 https://paperswithcode.com/task/depth-estimation
@@ -33363,6 +33386,7 @@ https://paperswithcode.com/task/stochastic-optimization
 https://paperswithcode.com/task/surface-normals-estimation
 https://paperswithcode.com/task/time-series
 https://paperswithcode.com/task/time-series-1
+https://paperswithcode.com/task/time-series-anomaly-detection
 https://paperswithcode.com/task/transfer-learning
 https://paradigm4.com/
 https://paragonie.com/
@@ -33483,6 +33507,8 @@ https://people.idsia.ch/~juergen/who-invented-backpropagation.html
 https://people.inf.ethz.ch/wirth/
 https://people.inf.ethz.ch/wirth/CompilerConstruction/CompilerConstruction1.pdf
 https://people.inf.ethz.ch/wirth/CompilerConstruction/CompilerConstruction2.pdf
+https://people.irisa.fr/Michele.Basseville/kniga/
+https://people.irisa.fr/Michele.Basseville/kniga/kniga.pdf
 https://people.kth.se/~skoglund/edu/IT-stats/
 https://people.math.ethz.ch/~maechler/
 https://people.math.ethz.ch/~meier/teaching/anova/
@@ -35137,6 +35163,7 @@ https://sinews.siam.org/
 https://singa.apache.org/
 https://singer.math.ncsu.edu/
 https://singlelogin.re/
+https://sintel.dev/Orion/
 https://sioyek.info/
 https://sipeed.com/
 https://sipeed.com/licheepi4a
@@ -35785,6 +35812,7 @@ https://strongswan.org/
 https://stroustrup.com/
 https://st.suckless.org/
 https://studiolab.sagemaker.aws/
+https://stumpy.readthedocs.io/en/latest/
 https://stxxl.org/
 https://styled-components.com/
 https://styler.r-lib.org/
@@ -38398,6 +38426,7 @@ https://www.cs.umd.edu/~jkatz/imc.html
 https://www.cs.umd.edu/~srin/
 https://www.cs.umd.edu/users/oleary/SCCS/
 https://www.cs.unc.edu/techreports/86-020.pdf
+https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf
 https://www.cs.unibo.it/~margara/page14/assets/06-LATA07.pdf
 https://www.cs.utah.edu/~regehr/
 https://www.cs.utexas.edu/~act/
@@ -40527,6 +40556,7 @@ https://www.kb.cert.org/vuls/
 https://www.kcl.ac.uk/abroad/module-options/module?id=c43edb5e-dafe-4f91-aba8-9cd7acf2ac50
 https://www.kdd.org/
 https://www.kdnuggets.com/
+https://www.kdnuggets.com/2020/07/deep-learning-signal-processing.html
 https://www.keepassx.org/
 https://www.kent.ac.uk/courses/modules/module/COMP6640
 https://www.kernel.org/
@@ -40998,6 +41028,7 @@ https://www.mathvalues.org/masterblog/my-mathematical-journey-factorization-and-
 https://www.mathworks.com/
 https://www.mathworks.com/academia/books/applied-numerical-methods-with-matlab-for-engineers-and-scientists-chapra.html
 https://www.mathworks.com/academia/books/computational-mathematical-modeling-calvetti.html
+https://www.mathworks.com/academia/books/digital-signal-processing-proakis.html
 https://www.mathworks.com/academia/books.html
 https://www.mathworks.com/academia/books/matrix-computations-golub.html
 https://www.mathworks.com/academia/books/search.html?q=&fq%5B%5D=book-category:mathematics&fq%5B%5D=book-category:mathematics/differential-equations&page=1
@@ -41080,6 +41111,7 @@ https://www.mdpi.com/1099-4300/13/3/612
 https://www.mdpi.com/1099-4300/22/10/1100
 https://www.mdpi.com/1424-8220/16/6/912
 https://www.mdpi.com/1424-8220/19/20/4434
+https://www.mdpi.com/1424-8220/21/2/561
 https://www.mdpi.com/1424-8220/24/4/1182
 https://www.mdpi.com/2072-4292/16/16/2910
 https://www.mdpi.com/2075-1680/12/1/32
@@ -42815,6 +42847,7 @@ https://www.routledge.com/Secret-History-The-Story-of-Cryptology/Bauer/p/book/97
 https://www.routledge.com/Security-without-Obscurity-A-Guide-to-Confidentiality-Authentication/Stapleton/p/book/9781466592148
 https://www.routledge.com/Security-without-Obscurity-A-Guide-to-Cryptographic-Architectures/Stapleton/p/book/9780367657208
 https://www.routledge.com/Security-Without-Obscurity-A-Guide-to-PKI-Operations/Stapleton-Epstein/p/book/9781032545257
+https://www.routledge.com/Sequential-Analysis-Hypothesis-Testing-and-Changepoint-Detection/Tartakovsky-Nikiforov-Basseville/p/book/9781439838204
 https://www.routledge.com/Social-History-of-Europe/book-series/PEASHEU
 https://www.routledge.com/Spatial-Data-Science-With-Applications-in-R/Pebesma-Bivand/p/book/9781138311183
 https://www.routledge.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200
@@ -43147,8 +43180,10 @@ https://www.sciencedirect.com/science/article/pii/S1877050922020944
 https://www.sciencedirect.com/science/article/pii/S1878929316302201
 https://www.sciencedirect.com/science/article/pii/S2095809921003349
 https://www.sciencedirect.com/science/article/pii/S2210670723006571
+https://www.sciencedirect.com/science/article/pii/S2352648323000600
 https://www.sciencedirect.com/science/article/pii/S2352864821000298
 https://www.sciencedirect.com/science/article/pii/S2542435123003653
+https://www.sciencedirect.com/science/article/pii/S2665963823001148
 https://www.sciencedirect.com/science/article/pii/S2666379122003494
 https://www.sciencedirect.com/science/article/pii/S2666764923000103
 https://www.sciencedirect.com/science/article/pii/S2667295224000084
