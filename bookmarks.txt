@@ -43828,6 +43828,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780203750940/inference-asympto
 https://www.taylorfrancis.com/books/mono/10.1201/9780203753781/generalized-additive-models-hastie
 https://www.taylorfrancis.com/books/mono/10.1201/9780429029608/statistical-rethinking-richard-mcelreath
 https://www.taylorfrancis.com/books/mono/10.1201/9780429246593/introduction-bootstrap-bradley-efron-tibshirani
+https://www.taylorfrancis.com/books/mono/10.1201/9780429277412/techniques-designing-analyzing-algorithms-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9780429288340/bayes-rules-alicia-johnson-miles-ott-mine-dogucu
 https://www.taylorfrancis.com/books/mono/10.1201/9780429295225/g%C3%B6del-theorem-torkel-franz%C3%A9n
 https://www.taylorfrancis.com/books/mono/10.1201/9780429398490/nonlinear-dynamics-chaos-steven-strogatz
