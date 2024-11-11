@@ -6,7 +6,7 @@ Interested in theoretical computer science.
 
 EN, ES, DE. Linux, C, C++, R, Python, LaTeX, SQL.
 
-[Email](mpiedrav@proton.me)
+Contact: mpiedrav@proton.me
 
 [Bookmarks](bookmarks.txt)
 
