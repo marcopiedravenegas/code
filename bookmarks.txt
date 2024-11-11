@@ -3674,6 +3674,7 @@ https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Sichere_Informationst
 https://de.wikipedia.org/wiki/Fr%C3%BChmittelalter
 https://de.wikipedia.org/wiki/Freiburg_im_Breisgau
 https://de.wikipedia.org/wiki/Fundstellennachweis
+https://de.wikipedia.org/wiki/Funktionalanalysis
 https://de.wikipedia.org/wiki/Gegen%C3%B6ffentlichkeit
 https://de.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen
 https://de.wikipedia.org/wiki/Geowissenschaften
@@ -30332,6 +30333,8 @@ https://link.springer.com/book/10.1007/978-1-4612-0919-5
 https://link.springer.com/book/10.1007/978-1-4612-0925-6
 https://link.springer.com/book/10.1007/978-1-4612-0959-1
 https://link.springer.com/book/10.1007/978-1-4612-0963-8
+https://link.springer.com/book/10.1007/978-1-4612-0981-2
+https://link.springer.com/book/10.1007/978-1-4612-0985-0
 https://link.springer.com/book/10.1007/978-1-4612-0989-8
 https://link.springer.com/book/10.1007/978-1-4612-0993-5
 https://link.springer.com/book/10.1007/978-1-4612-0999-7
@@ -30361,7 +30364,9 @@ https://link.springer.com/book/10.1007/978-1-4612-4442-4
 https://link.springer.com/book/10.1007/978-1-4612-4450-9
 https://link.springer.com/book/10.1007/978-1-4612-4526-1
 https://link.springer.com/book/10.1007/978-1-4612-4544-5
+https://link.springer.com/book/10.1007/978-1-4612-4566-7
 https://link.springer.com/book/10.1007/978-1-4612-4806-4
+https://link.springer.com/book/10.1007/978-1-4612-5020-3
 https://link.springer.com/book/10.1007/978-1-4612-5024-1
 https://link.springer.com/book/10.1007/978-1-4612-5026-5
 https://link.springer.com/book/10.1007/978-1-4612-5028-9
@@ -30789,6 +30794,7 @@ https://link.springer.com/book/10.1007/978-3-319-98026-3
 https://link.springer.com/book/10.1007/978-3-319-99849-7
 https://link.springer.com/book/10.1007/978-3-322-80154-8
 https://link.springer.com/book/10.1007/978-3-322-90157-6
+https://link.springer.com/book/10.1007/978-3-322-96755-8
 https://link.springer.com/book/10.1007/978-3-476-01196-1
 https://link.springer.com/book/10.1007/978-3-476-03584-4
 https://link.springer.com/book/10.1007/978-3-476-03667-4
@@ -30798,6 +30804,7 @@ https://link.springer.com/book/10.1007/978-3-540-33236-7
 https://link.springer.com/book/10.1007/978-3-540-35447-5
 https://link.springer.com/book/10.1007/978-3-540-39035-0
 https://link.springer.com/book/10.1007/978-3-540-39088-6
+https://link.springer.com/book/10.1007/978-3-540-45390-1
 https://link.springer.com/book/10.1007/978-3-540-46783-0
 https://link.springer.com/book/10.1007/978-3-540-48121-8
 https://link.springer.com/book/10.1007/978-3-540-48713-5
@@ -30822,6 +30829,7 @@ https://link.springer.com/book/10.1007/978-3-540-85146-2
 https://link.springer.com/book/10.1007/978-3-540-87777-6
 https://link.springer.com/book/10.1007/978-3-540-87847-6
 https://link.springer.com/book/10.1007/978-3-540-88702-7
+https://link.springer.com/book/10.1007/978-3-540-89141-3
 https://link.springer.com/book/10.1007/978-3-540-92673-3
 https://link.springer.com/book/10.1007/978-3-642-00319-6
 https://link.springer.com/book/10.1007/978-3-642-01097-2
@@ -30849,6 +30857,7 @@ https://link.springer.com/book/10.1007/978-3-642-19460-3
 https://link.springer.com/book/10.1007/978-3-642-19948-6
 https://link.springer.com/book/10.1007/978-3-642-20542-2
 https://link.springer.com/book/10.1007/978-3-642-21551-3
+https://link.springer.com/book/10.1007/978-3-642-22261-0
 https://link.springer.com/book/10.1007/978-3-642-22415-7
 https://link.springer.com/book/10.1007/978-3-642-24073-7
 https://link.springer.com/book/10.1007/978-3-642-27645-3
@@ -30904,6 +30913,7 @@ https://link.springer.com/book/10.1007/978-3-642-61973-1
 https://link.springer.com/book/10.1007/978-3-642-61983-0
 https://link.springer.com/book/10.1007/978-3-642-61988-5
 https://link.springer.com/book/10.1007/978-3-642-64927-1
+https://link.springer.com/book/10.1007/978-3-642-65286-8
 https://link.springer.com/book/10.1007/978-3-642-71243-2
 https://link.springer.com/book/10.1007/978-3-642-74303-0
 https://link.springer.com/book/10.1007/978-3-642-75329-9
@@ -30915,7 +30925,11 @@ https://link.springer.com/book/10.1007/978-3-642-86934-1
 https://link.springer.com/book/10.1007/978-3-642-86937-2
 https://link.springer.com/book/10.1007/978-3-642-86940-2
 https://link.springer.com/book/10.1007/978-3-642-87284-6
+https://link.springer.com/book/10.1007/978-3-642-88674-4
+https://link.springer.com/book/10.1007/978-3-642-90852-1
 https://link.springer.com/book/10.1007/978-3-642-94506-9
+https://link.springer.com/book/10.1007/978-3-642-95026-1
+https://link.springer.com/book/10.1007/978-3-642-95028-5
 https://link.springer.com/book/10.1007/978-3-642-96048-2
 https://link.springer.com/book/10.1007/978-3-658-06540-9
 https://link.springer.com/book/10.1007/978-3-658-22474-5
@@ -30923,6 +30937,7 @@ https://link.springer.com/book/10.1007/978-3-658-40411-6
 https://link.springer.com/book/10.1007/978-3-658-40473-4
 https://link.springer.com/book/10.1007/978-3-658-44799-1
 https://link.springer.com/book/10.1007/978-3-662-00237-7
+https://link.springer.com/book/10.1007/978-3-662-00246-9
 https://link.springer.com/book/10.1007/978-3-662-00672-6
 https://link.springer.com/book/10.1007/978-3-662-02945-9
 https://link.springer.com/book/10.1007/978-3-662-03338-8
@@ -30933,9 +30948,11 @@ https://link.springer.com/book/10.1007/978-3-662-05078-1
 https://link.springer.com/book/10.1007/978-3-662-05269-3
 https://link.springer.com/book/10.1007/978-3-662-05355-3
 https://link.springer.com/book/10.1007/978-3-662-05441-3
+https://link.springer.com/book/10.1007/978-3-662-05500-7
 https://link.springer.com/book/10.1007/978-3-662-07807-5
 https://link.springer.com/book/10.1007/978-3-662-07964-5
 https://link.springer.com/book/10.1007/978-3-662-09360-3
+https://link.springer.com/book/10.1007/978-3-662-11652-4
 https://link.springer.com/book/10.1007/978-3-662-11657-9
 https://link.springer.com/book/10.1007/978-3-662-12521-2
 https://link.springer.com/book/10.1007/978-3-662-12878-7
@@ -30958,6 +30975,8 @@ https://link.springer.com/book/10.1007/978-3-662-48538-5
 https://link.springer.com/book/10.1007/978-3-662-48638-2
 https://link.springer.com/book/10.1007/978-3-662-49297-0
 https://link.springer.com/book/10.1007/978-3-662-49301-4
+https://link.springer.com/book/10.1007/978-3-662-49439-4
+https://link.springer.com/book/10.1007/978-3-662-49442-4
 https://link.springer.com/book/10.1007/978-3-662-50263-1
 https://link.springer.com/book/10.1007/978-3-662-50370-6
 https://link.springer.com/book/10.1007/978-3-662-53622-3
@@ -30968,7 +30987,9 @@ https://link.springer.com/book/10.1007/978-3-662-57767-7
 https://link.springer.com/book/10.1007/978-3-662-58146-9
 https://link.springer.com/book/10.1007/978-3-662-59362-2
 https://link.springer.com/book/10.1007/978-3-662-60769-5
+https://link.springer.com/book/10.1007/978-3-662-62089-2
 https://link.springer.com/book/10.1007/978-3-662-62880-5
+https://link.springer.com/book/10.1007/978-3-662-63109-6
 https://link.springer.com/book/10.1007/978-3-662-65167-4
 https://link.springer.com/book/10.1007/978-3-662-65458-3
 https://link.springer.com/book/10.1007/978-3-662-65718-8
@@ -31065,6 +31086,7 @@ https://link.springer.com/book/10.1007/b98888
 https://link.springer.com/book/10.1007/BFb0014649
 https://link.springer.com/book/9780230249318
 https://link.springer.com/book/9780387310732
+https://link.springer.com/book/9780387909141
 https://link.springer.com/book/9780387985039
 https://link.springer.com/book/9780817649524
 https://link.springer.com/book/9781071641316
@@ -38601,6 +38623,7 @@ https://www.degruyter.com/document/doi/10.1515/9783110662207/html
 https://www.degruyter.com/document/doi/10.1515/9783110780147/html
 https://www.degruyter.com/document/doi/10.1515/9783110787733/html
 https://www.degruyter.com/document/doi/10.1515/9783110787740/html
+https://www.degruyter.com/document/doi/10.1515/9783110841121/html
 https://www.degruyter.com/document/doi/10.1515/9783111290157/html?lang=en
 https://www.degruyter.com/document/doi/10.1515/jaa-2022-2012/pdf
 https://www.degruyter.com/document/doi/10.1515/JMC.2008.009/html
@@ -43533,6 +43556,7 @@ https://www.springer.com/series/7438
 https://www.springer.com/series/7588
 https://www.springer.com/series/7592
 https://www.springer.com/series/8445
+https://www.springer.com/series/8645
 https://www.springer.com/series/8819
 https://www.springer.com/series/8819/books
 https://www.springer.com/series/8917
