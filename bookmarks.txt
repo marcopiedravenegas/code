@@ -34013,6 +34013,7 @@ https://proton.me/blog/what-is-sender-policy-framework-spf
 https://proton.me/calendar
 https://proton.me/drive
 https://proton.me/mail
+https://proton.me/mail/proton-mail-vs-tutanota
 https://proton.me/mail/security
 https://proton.me/pass
 https://protonvpn.com/
@@ -36239,6 +36240,7 @@ https://tuprints.ulb.tu-darmstadt.de/5807/1/hermann-langsec-diss.pdf
 https://turingmachine.io/
 https://turingmachinesimulator.com/
 https://tuta.com/
+https://tuta.com/best-protonmail-alternative
 https://tuta.com/blog/posts/fourteen-eyes-countries
 https://tuta.com/blog/swiss-privacy-is-an-illusion
 https://tutorial.math.lamar.edu/
@@ -38199,6 +38201,7 @@ https://www.cryptobooks.org/
 https://www.crypto-dictionary.com/
 https://www.cryptogram.org/
 https://www.cryptography.fm/
+https://www.cryptography-textbook.com/
 https://www.crypto-it.net/eng/
 https://www.crypto-it.net/eng/attacks/chosen-plaintext.html
 https://www.crypto-it.net/eng/attacks/meet-in-the-middle.html
@@ -39725,6 +39728,7 @@ https://www.goodreads.com/book/show/6829004-algebra
 https://www.goodreads.com/book/show/6829192-ggplot2
 https://www.goodreads.com/book/show/683007.Fourier_Analysis
 https://www.goodreads.com/book/show/683008.Harmonic_Analysis
+https://www.goodreads.com/book/show/6847384-understanding-cryptography
 https://www.goodreads.com/book/show/687775.Introduction_to_Fourier_Analysis_on_Euclidean_Spaces_
 https://www.goodreads.com/book/show/703101.The_AWK_Programming_Language
 https://www.goodreads.com/book/show/703102.Compilers
@@ -41290,6 +41294,7 @@ https://www.mpi-forum.org/
 https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/winter17/comp-alg
 https://www.mpi-inf.mpg.de/home/
 https://www.mpi-magdeburg.mpg.de/projects/flexiblas
+https://www.mpi-sp.org/64883/news_publication_21986181_transferred
 https://www.mqasem.net/vectorquantization/vq.html
 https://www.mrc-bsu.cam.ac.uk/software/bugs/
 https://www.mrc-bsu.cam.ac.uk/software/bugs/openbugs
