@@ -442,6 +442,7 @@ https://allisonhorst.github.io/palmerpenguins/articles/intro.html
 https://allura.apache.org/
 https://almalinux.org/
 https://alphafold.ebi.ac.uk/
+https://alphafoldserver.com/welcome
 https://altair-viz.github.io/
 https://alternativeto.net/
 https://alt-security-keydist.info/newsgroups/
@@ -3358,6 +3359,7 @@ https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathem
 https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
 https://deepmind.google/discover/blog/nowcasting-the-next-hour-of-rain/
 https://deepmind.google/discover/blog/using-ai-to-fight-climate-change/
+https://deepmind.google/technologies/alphafold/
 https://deepmind.google/technologies/alphago/
 https://deepmind.google/technologies/gemini/
 https://deepnote.com/
@@ -7755,6 +7757,7 @@ https://en.wikipedia.org/wiki/Cascadia_Code
 https://en.wikipedia.org/wiki/Case%E2%80%93control_study
 https://en.wikipedia.org/wiki/Case_study
 https://en.wikipedia.org/wiki/Case_Western_Reserve_University
+https://en.wikipedia.org/wiki/Cash%E2%80%93Karp_method
 https://en.wikipedia.org/wiki/Casimir_I_the_Restorer
 https://en.wikipedia.org/wiki/Casio_BASIC
 https://en.wikipedia.org/wiki/Cassandra
@@ -10474,6 +10477,7 @@ https://en.wikipedia.org/wiki/Derealization
 https://en.wikipedia.org/wiki/De_Re_Atari
 https://en.wikipedia.org/wiki/Deriche_edge_detector
 https://en.wikipedia.org/wiki/Derivation_(differential_algebra)
+https://en.wikipedia.org/wiki/Derivative_(finance)
 https://en.wikipedia.org/wiki/Derivative-free_optimization
 https://en.wikipedia.org/wiki/Derivative_test
 https://en.wikipedia.org/wiki/Derive_(computer_algebra_system)
@@ -10801,6 +10805,7 @@ https://en.wikipedia.org/wiki/Don_Woods_(programmer)
 https://en.wikipedia.org/wiki/Dooble
 https://en.wikipedia.org/wiki/Doom_metal
 https://en.wikipedia.org/wiki/Doomsday_Clock
+https://en.wikipedia.org/wiki/Dormand%E2%80%93Prince_method
 https://en.wikipedia.org/wiki/Dorothy_E._Denning
 https://en.wikipedia.org/wiki/Dorothy_Hodgkin
 https://en.wikipedia.org/wiki/Dorothy_Lewis_Bernstein
@@ -11355,6 +11360,7 @@ https://en.wikipedia.org/wiki/Equihash
 https://en.wikipedia.org/wiki/Equilibrium_unfolding
 https://en.wikipedia.org/wiki/Equipartition_theorem
 https://en.wikipedia.org/wiki/Equipo_Nizkor
+https://en.wikipedia.org/wiki/Equity_(finance)
 https://en.wikipedia.org/wiki/Equivalence_principle
 https://en.wikipedia.org/wiki/Equivalent_definitions_of_mathematical_structures
 https://en.wikipedia.org/wiki/EqWorld
@@ -30842,6 +30848,7 @@ https://link.springer.com/book/10.1007/978-3-540-73725-4
 https://link.springer.com/book/10.1007/978-3-540-77647-5
 https://link.springer.com/book/10.1007/978-3-540-77659-8
 https://link.springer.com/book/10.1007/978-3-540-77974-2
+https://link.springer.com/book/10.1007/978-3-540-78862-1
 https://link.springer.com/book/10.1007/978-3-540-85146-2
 https://link.springer.com/book/10.1007/978-3-540-87777-6
 https://link.springer.com/book/10.1007/978-3-540-87847-6
@@ -30857,6 +30864,7 @@ https://link.springer.com/book/10.1007/978-3-642-03331-5
 https://link.springer.com/book/10.1007/978-3-642-03545-6
 https://link.springer.com/book/10.1007/978-3-642-03980-5
 https://link.springer.com/book/10.1007/978-3-642-04101-3
+https://link.springer.com/book/10.1007/978-3-642-05221-7
 https://link.springer.com/book/10.1007/978-3-642-05261-3
 https://link.springer.com/book/10.1007/978-3-642-05472-3
 https://link.springer.com/book/10.1007/978-3-642-13574-3
@@ -41052,14 +41060,18 @@ https://www.mathworks.com/help/fuzzy/
 https://www.mathworks.com/help/fuzzy/types-of-fuzzy-inference-systems.html
 https://www.mathworks.com/help/matlab/examples.html
 https://www.mathworks.com/help/matlab/getting-started-with-matlab.html
+https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html
 https://www.mathworks.com/help/matlab/mathematics.html
 https://www.mathworks.com/help/matlab/math/solve-nonstiff-odes.html
 https://www.mathworks.com/help/matlab/math/solve-stiff-odes.html
 https://www.mathworks.com/help/matlab/ordinary-differential-equations.html
 https://www.mathworks.com/help/matlab/ref/double.svd.html
 https://www.mathworks.com/help/matlab/referencelist.html
+https://www.mathworks.com/help/matlab/ref/ode45.html
+https://www.mathworks.com/help/matlab/ref/ode.html
 https://www.mathworks.com/help/optim/solver-based-nonlinear-optimization.html
 https://www.mathworks.com/help/optim/ug/linear-programming-algorithms.html
+https://www.mathworks.com/help/pdf_doc/otherdocs/ode_suite.pdf
 https://www.mathworks.com/help/reinforcement-learning/ug/what-is-reinforcement-learning.html
 https://www.mathworks.com/help/symbolic/heaviside.html
 https://www.mathworks.com/help/symbolic/sym.functionalderivative.html
@@ -41436,6 +41448,7 @@ https://www.nature.com/articles/d41586-024-01609-0
 https://www.nature.com/articles/d41586-024-01732-y
 https://www.nature.com/articles/d41586-024-02005-4
 https://www.nature.com/articles/d41586-024-03224-5
+https://www.nature.com/articles/d41586-024-03708-4
 https://www.nature.com/articles/nature06402
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
@@ -43134,6 +43147,7 @@ https://www.sciencedirect.com/science/article/pii/016764239190036W
 https://www.sciencedirect.com/science/article/pii/0304397587900454
 https://www.sciencedirect.com/science/article/pii/0304397594901783
 https://www.sciencedirect.com/science/article/pii/0304397595001824
+https://www.sciencedirect.com/science/article/pii/0771050X80900133
 https://www.sciencedirect.com/science/article/pii/0895717788905249
 https://www.sciencedirect.com/science/article/pii/092622459290011B
 https://www.sciencedirect.com/science/article/pii/S0010448521001305
@@ -44326,6 +44340,7 @@ https://www.unidata.ucar.edu/software/udunits/
 https://www.unido.org/
 https://www.unifiedkillchain.com/
 https://www.unifr.ch/ecopub/en/teaching/master/the-economics-of-politics.html#:~:text=The%20economics%20of%20politics%20is,instead%20of%20general%20social%20welfare.
+https://www.unige.ch/~hairer/software.html
 https://www.uni-goettingen.de/
 https://www.uni-hamburg.de/
 https://www.uni-hamburg.de/stellenangebote.html
