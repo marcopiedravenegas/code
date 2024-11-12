@@ -7338,6 +7338,7 @@ https://en.wikipedia.org/wiki/Bodhisattva
 https://en.wikipedia.org/wiki/Body_of_Secrets
 https://en.wikipedia.org/wiki/Boehm_garbage_collector
 https://en.wikipedia.org/wiki/Boehmians
+https://en.wikipedia.org/wiki/Bogacki%E2%80%93Shampine_method
 https://en.wikipedia.org/wiki/Bogdanov_affair
 https://en.wikipedia.org/wiki/BogoMips
 https://en.wikipedia.org/wiki/Bohr%E2%80%93Mollerup_theorem
@@ -8409,6 +8410,7 @@ https://en.wikipedia.org/wiki/Category:Robust_statistics
 https://en.wikipedia.org/wiki/Category:Root-finding_algorithms
 https://en.wikipedia.org/wiki/Category:Rothamsted_statisticians
 https://en.wikipedia.org/wiki/Category:Rule_engines
+https://en.wikipedia.org/wiki/Category:Runge%E2%80%93Kutta_methods
 https://en.wikipedia.org/wiki/Category:Safety
 https://en.wikipedia.org/wiki/Category:Sampling_(statistics)
 https://en.wikipedia.org/wiki/Category:Sampling_techniques
@@ -19091,6 +19093,7 @@ https://en.wikipedia.org/wiki/Polyalphabetic_cipher
 https://en.wikipedia.org/wiki/Polybius
 https://en.wikipedia.org/wiki/Polychoric_correlation
 https://en.wikipedia.org/wiki/Polyfill_(programming)
+https://en.wikipedia.org/wiki/Polygonal_chain
 https://en.wikipedia.org/wiki/Polygon_triangulation
 https://en.wikipedia.org/wiki/Polylogarithm
 https://en.wikipedia.org/wiki/Polymer_(library)
@@ -19657,6 +19660,7 @@ https://en.wikipedia.org/wiki/Quantitative_linguistics
 https://en.wikipedia.org/wiki/Quantitative_psychology
 https://en.wikipedia.org/wiki/Quantities_of_information
 https://en.wikipedia.org/wiki/Quantization_(signal_processing)
+https://en.wikipedia.org/wiki/Quantized_state_systems_method
 https://en.wikipedia.org/wiki/Quantum
 https://en.wikipedia.org/wiki/Quantum_annealing
 https://en.wikipedia.org/wiki/Quantum_Break
