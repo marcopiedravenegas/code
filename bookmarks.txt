@@ -5577,12 +5577,6 @@ https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
 https://eniko.itch.io/kitsunetails
 https://en.ilmatieteenlaitos.fi/
-https://en.m.wikipedia.org/wiki/Banach_fixed-point_theorem
-https://en.m.wikipedia.org/wiki/Contraction_mapping
-https://en.m.wikipedia.org/wiki/Lipschitz_continuity
-https://en.m.wikipedia.org/wiki/Metric_map
-https://en.m.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem
-https://en.m.wikipedia.org/wiki/Visual_odometry
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
@@ -9713,6 +9707,7 @@ https://en.wikipedia.org/wiki/Contour_advection
 https://en.wikipedia.org/wiki/Contour_integration
 https://en.wikipedia.org/wiki/Contour_line
 https://en.wikipedia.org/wiki/Contract_bridge
+https://en.wikipedia.org/wiki/Contraction_mapping
 https://en.wikipedia.org/wiki/Contract_theory
 https://en.wikipedia.org/wiki/Contrast_(statistics)
 https://en.wikipedia.org/wiki/Control_character
@@ -11681,6 +11676,7 @@ https://en.wikipedia.org/wiki/FastCGI
 https://en.wikipedia.org/wiki/Faster-than-light
 https://en.wikipedia.org/wiki/Fast_Fourier_transform
 https://en.wikipedia.org/wiki/Fast_inverse_square_root
+https://en.wikipedia.org/wiki/Fast_Kalman_filter
 https://en.wikipedia.org/wiki/Fast_Library_for_Number_Theory
 https://en.wikipedia.org/wiki/Fastmail
 https://en.wikipedia.org/wiki/FastText
@@ -23579,6 +23575,7 @@ https://en.wikipedia.org/wiki/Visual_descriptor
 https://en.wikipedia.org/wiki/Visual_flight_rules
 https://en.wikipedia.org/wiki/Visual_kei
 https://en.wikipedia.org/wiki/Visual_novel
+https://en.wikipedia.org/wiki/Visual_odometry
 https://en.wikipedia.org/wiki/Visual_perception
 https://en.wikipedia.org/wiki/Visual_Studio_Code
 https://en.wikipedia.org/wiki/Vitali_covering_lemma
@@ -30724,6 +30721,7 @@ https://link.springer.com/book/10.1007/978-3-031-48910-5
 https://link.springer.com/book/10.1007/978-3-031-48956-3
 https://link.springer.com/book/10.1007/978-3-031-49306-5
 https://link.springer.com/book/10.1007/978-3-031-51436-4
+https://link.springer.com/book/10.1007/978-3-031-51609-2
 https://link.springer.com/book/10.1007/978-3-031-53744-8
 https://link.springer.com/book/10.1007/978-3-031-55964-8
 https://link.springer.com/book/10.1007/978-3-031-60099-9
@@ -30849,6 +30847,7 @@ https://link.springer.com/book/10.1007/978-3-540-72943-3
 https://link.springer.com/book/10.1007/978-3-540-72962-4
 https://link.springer.com/book/10.1007/978-3-540-73542-7
 https://link.springer.com/book/10.1007/978-3-540-73725-4
+https://link.springer.com/book/10.1007/978-3-540-74703-1
 https://link.springer.com/book/10.1007/978-3-540-77647-5
 https://link.springer.com/book/10.1007/978-3-540-77659-8
 https://link.springer.com/book/10.1007/978-3-540-77974-2
@@ -31124,6 +31123,7 @@ https://link.springer.com/book/9783030715205
 https://link.springer.com/book/9783031414398
 https://link.springer.com/book/9783031421433
 https://link.springer.com/book/9783031558542
+https://link.springer.com/book/9783031705830
 https://link.springer.com/book/9783540345633
 https://link.springer.com/book/9783662693582
 https://link.springer.com/book/9798868801983
