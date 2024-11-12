@@ -3976,10 +3976,12 @@ https://distrowatch.com/table.php?distribution=debian
 https://distrowatch.com/table.php?distribution=devuan
 https://distrowatch.com/table.php?distribution=freebsd
 https://distrowatch.com/table.php?distribution=gentoo
+https://distrowatch.com/table.php?distribution=grml
 https://distrowatch.com/table.php?distribution=haiku
 https://distrowatch.com/table.php?distribution=lfs
 https://distrowatch.com/table.php?distribution=mint
 https://distrowatch.com/table.php?distribution=netbsd
+https://distrowatch.com/table.php?distribution=nixos
 https://distrowatch.com/table.php?distribution=openbsd
 https://distrowatch.com/table.php?distribution=parrot
 https://distrowatch.com/table.php?distribution=qubes
@@ -31278,6 +31280,7 @@ https://linus.schreibt.jetzt/
 https://linuxfoundation.eu/
 https://linuxfromscratch.org/
 https://linuxmint.com/
+https://linuxnews.de/
 https://linux.org/
 https://lips.cs.princeton.edu/
 https://lisci-lab.github.io/SOM.jl/v0.0.2/
@@ -38626,6 +38629,7 @@ https://www.debian.org/doc/manuals/securing-debian-manual/automatic-harden.en.ht
 https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html
 https://www.debian.org/legal/licenses/
 https://www.debian.org/lts/security/
+https://www.debian.org/News/
 https://www.debian.org/security/crossreferences
 https://www.debian.org/social_contract
 https://www.deceptive.design/
@@ -40743,6 +40747,7 @@ https://www.limesurvey.org/
 https://www.limetorrents.lol/
 https://www.linaro.org/
 https://www.linux.com/
+https://www.linux-community.de/
 https://www.linuxformat.com/
 https://www.linuxfoundation.org/
 https://www.linuxfoundation.org/blog/delta-lake-2.0-an-innovative-open-storage-format?hs_amp=true
@@ -40750,8 +40755,10 @@ https://www.linuxfoundation.org/projects
 https://www.linuxfoundation.org/tools/census-ii-of-free-and-open-source-software-application-libraries/
 https://www.linuxfromscratch.org/
 https://www.linuxjournal.com/
+https://www.linux-magazin.de/
 https://www.linuxmint.com/
 https://www.linux.org/
+https://www.linuxtoday.com/
 https://www.linx.net/
 https://www.liquibase.com/
 https://www.lirmm.fr/~giorgi/
@@ -42365,6 +42372,7 @@ https://www.project-syndicate.org/section/environment-sustainability
 https://www.project-syndicate.org/section/innovation-technology
 https://www.project-syndicate.org/section/politics-world-affairs
 https://www.projekt-gutenberg.org/autoren/namen/schwab.html
+https://www.pro-linux.de/
 https://www.prolog-heritage.org/en/Prolog_50.html
 https://www.proofpoint.com/us
 https://www.proofpoint.com/us/products/email-protection/open-source-email-solution
@@ -42373,6 +42381,7 @@ https://www.propublica.org/
 https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
 https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers
 https://www.prowlapp.com/
+https://www.proxmox.com/
 https://www.proxmox.com/en/
 https://www.proxyaddress.org/
 https://www.prq.se/
@@ -43361,6 +43370,7 @@ https://www.senate.gov/
 https://www.sensesofcinema.com
 https://www.sensesofcinema.com/2013/cteq/death-has-no-master-roger-corman-and-the-masque-of-the-red-death/
 https://www.sensorsconverge.com/
+https://www.serverhunter.com/
 https://www.seti.org/
 https://www.sfml-dev.org/
 https://www.sfml-dev.org/download/csfml/
@@ -43455,6 +43465,7 @@ https://www.smithsonianmag.com/
 https://www.smithsonianmag.com/history/what-does-the-zapruder-film-really-tell-us-14194/
 https://www.smithsonianmag.com/science-nature/what-math-180975882/
 https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/
+https://www.snel.com/
 https://www.snia.org/computational
 https://www.snitcr.go.cr/
 https://www.snort.org/
