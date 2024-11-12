@@ -688,7 +688,11 @@ https://archive.blogs.harvard.edu/pamphlet/2012/03/06/an-efficient-journal/
 https://archive.epic.org/crypto/clipper/
 https://archive.ics.uci.edu/
 https://archive.ics.uci.edu/dataset/164/bag+of+words
+https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset
 https://archive.ics.uci.edu/dataset/53/iris
+https://archive.ics.uci.edu/dataset/755/accelerometer+gyro+mobile+phone+dataset
+https://archive.ics.uci.edu/dataset/779/harth
+https://archive.ics.uci.edu/dataset/780/har70
 https://archive.ics.uci.edu/datasets
 https://archive.is/
 https://archive.org/
@@ -845,6 +849,7 @@ https://arxiv.org/abs/1609.04436
 https://arxiv.org/abs/1609.04747
 https://arxiv.org/abs/1609.05807
 https://arxiv.org/abs/1611.00740
+https://arxiv.org/abs/1611.01942
 https://arxiv.org/abs/1611.05431
 https://arxiv.org/abs/1611.05431v2
 https://arxiv.org/abs/1612.01105
@@ -4118,6 +4123,7 @@ https://dl.acm.org/doi/10.1145/2976758
 https://dl.acm.org/doi/10.1145/301250.301287
 https://dl.acm.org/doi/10.1145/3025453.3025912
 https://dl.acm.org/doi/10.1145/3037697.3037725
+https://dl.acm.org/doi/10.1145/3038912.3052577
 https://dl.acm.org/doi/10.1145/3065386
 https://dl.acm.org/doi/10.1145/3076253
 https://dl.acm.org/doi/10.1145/3077136.3080789
@@ -36767,6 +36773,7 @@ https://wiki.osgeo.org/wiki/Main_Page
 https://wiki.owasp.org/index.php/Category:OWASP_Cookies_Database
 https://wiki.portal.chalmers.se/agda/pmwiki.php
 https://wiki.postgresql.org/wiki/Apt
+https://wiki.postgresql.org/wiki/Don%27t_Do_This
 https://wiki.postgresql.org/wiki/HTTP_API
 https://wiki.postmarketos.org/wiki/Device_Tree_(dtb)
 https://wiki.postmarketos.org/wiki/Main_Page
@@ -41499,6 +41506,7 @@ https://www.nature.com/articles/s41598-019-39864-1
 https://www.nature.com/articles/s41598-023-32559-8
 https://www.nature.com/articles/s41598-023-36799-6
 https://www.nature.com/articles/s41598-023-37118-9
+https://www.nature.com/articles/s41746-022-00745-z
 https://www.nature.com/articles/s41928-018-0091-3
 https://www.nature.com/articles/s42005-021-00683-4
 https://www.nature.com/articles/s42254-020-00273-3
@@ -42301,6 +42309,8 @@ https://www.postgresql.org/docs/current/ddl-partitioning.html
 https://www.postgresql.org/docs/current/functions-aggregate.html
 https://www.postgresql.org/docs/current/index.html
 https://www.postgresql.org/docs/current/mvcc.html
+https://www.postgresql.org/docs/current/plpgsql.html
+https://www.postgresql.org/docs/current/plpgsql-trigger.html
 https://www.postgresql.org/docs/current/sql-vacuum.html
 https://www.postgresql.org/docs/current/transaction-iso.html
 https://www.postgresql.org/docs/current/tutorial.html
