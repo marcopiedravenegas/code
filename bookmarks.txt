@@ -29663,6 +29663,7 @@ https://library.lol/main/06DB1C258682D62D00D5035B181533E3
 https://library.lol/main/0740EAF2D70C193A1EA6F0F272ED6DDA
 https://library.lol/main/079201FBCD6E51022C478FA34BC87237
 https://library.lol/main/082AF57FC6A4E618C497374CEF0048C9
+https://library.lol/main/09F284AB81D8446EF278C53F7C67B26C
 https://library.lol/main/0A1580FA43BC709A4AF9DDBAB025CD98
 https://library.lol/main/0A803094A0C2716E95F4ABB9C602221E
 https://library.lol/main/0A99C5835A4D38D84FD4A5A0A781B40C
@@ -29726,11 +29727,13 @@ https://library.lol/main/25D99029A40B94208619F178E9BBB265
 https://library.lol/main/2611E51EEA79460D57D89BAF977D7259
 https://library.lol/main/261AB626A8014C7F36F081EF725CF968
 https://library.lol/main/2906E8D542642F2DAEA7933454D5CDE9
+https://library.lol/main/2949FFCBD61738E0D5A5F21368DD1F9B
 https://library.lol/main/2974C8ED0EC4154CCAA6B2FAB5B323CD
 https://library.lol/main/29B20C388EB74721D3C4125C7398A849
 https://library.lol/main/2A8845E588039BEDF42AFCEC9865C374
 https://library.lol/main/2B5B9D91D2257E9497120D4EDA1F5C74
 https://library.lol/main/2C14154803980A83BA695FBC02E6124A
+https://library.lol/main/2C932639D8263BF87806B297296DBC35
 https://library.lol/main/2D0EAFB02DA783F9B7CA01B96C42580B
 https://library.lol/main/2D22877FA0BBE6A86D497AE2B891CE4E
 https://library.lol/main/2DA57B70BE7A957ABB9F7364CCBCED40
@@ -30004,6 +30007,7 @@ https://library.lol/main/C32A7D778CEE246182FEB5937364885A
 https://library.lol/main/C385278907BA764EBE81CEBD0338F955
 https://library.lol/main/C3D0A99F12D126742FF1FA7CC984472C
 https://library.lol/main/C5469066E3E18CB5E74CD8D46F9B6EBE
+https://library.lol/main/C55F240EB053B5C959406D1DE77671D8
 https://library.lol/main/C59DA252633E91D65AE25BD5F998372A
 https://library.lol/main/C65994DA217661D11D6EE26067B4CDFE
 https://library.lol/main/C6ABA1FC573E49EA77DB4B223B3B3284
@@ -32891,6 +32895,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781118164471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118164532
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118186428
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118360125
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118391686
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118514948
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118631980
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118722367
@@ -32916,6 +32921,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781119653554
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119699057
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119815068
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119952954
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781119974017
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781394189205
 https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.3746
 https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100006
@@ -38691,6 +38697,7 @@ https://www.deepspeed.ai/
 https://www.defectivebydesign.org/
 https://www.defense.gov/
 https://www.degruyter.com/
+https://www.degruyter.com/document/doi/10.12987/9780300188080/html
 https://www.degruyter.com/document/doi/10.1515/9780691219899/html
 https://www.degruyter.com/document/doi/10.1515/9781400820139/html
 https://www.degruyter.com/document/doi/10.1515/9781400829156/html
@@ -38707,11 +38714,17 @@ https://www.degruyter.com/document/doi/10.1515/9781400873173/html
 https://www.degruyter.com/document/doi/10.1515/9781400874477/html
 https://www.degruyter.com/document/doi/10.1515/9781400881895/html
 https://www.degruyter.com/document/doi/10.1515/9781400882250/html
+https://www.degruyter.com/document/doi/10.1515/9781400882809/html
 https://www.degruyter.com/document/doi/10.1515/9781400883868/html
 https://www.degruyter.com/document/doi/10.1515/9781400883899/html
+https://www.degruyter.com/document/doi/10.1515/9781400883905/html
 https://www.degruyter.com/document/doi/10.1515/9781400883929
+https://www.degruyter.com/document/doi/10.1515/9781400883950/html
 https://www.degruyter.com/document/doi/10.1515/9781400884179/html
+https://www.degruyter.com/document/doi/10.1515/9781400884193/html
+https://www.degruyter.com/document/doi/10.1515/9781400884216/html
 https://www.degruyter.com/document/doi/10.1515/9781400889143/html
+https://www.degruyter.com/document/doi/10.1515/9781400889921/html
 https://www.degruyter.com/document/doi/10.1515/9783110652864/html
 https://www.degruyter.com/document/doi/10.1515/9783110662207/html
 https://www.degruyter.com/document/doi/10.1515/9783110780147/html
@@ -38720,6 +38733,7 @@ https://www.degruyter.com/document/doi/10.1515/9783110787733/html
 https://www.degruyter.com/document/doi/10.1515/9783110787740/html
 https://www.degruyter.com/document/doi/10.1515/9783110841121/html
 https://www.degruyter.com/document/doi/10.1515/9783111290157/html?lang=en
+https://www.degruyter.com/document/doi/10.1515/9783486819663/html
 https://www.degruyter.com/document/doi/10.1515/jaa-2022-2012/pdf
 https://www.degruyter.com/document/doi/10.1515/JMC.2008.009/html
 https://www.degruyter.com/document/doi/10.1515/JMC.2009.015/html
@@ -38731,6 +38745,8 @@ https://www.degruyter.com/document/doi/10.7312/ritt94362/html
 https://www.degruyter.com/journal/key/jmc/html
 https://www.degruyter.com/serial/gsanm-b/html
 https://www.degruyter.com/serial/lbthphy-b/html
+https://www.degruyter.com/serial/pupplmp-b/html
+https://www.degruyter.com/serial/puppms-b/html
 https://www.degruyter.com/serial/puppsl-b/html
 https://www.deisenroth.cc/
 https://www.dell.com/en-us
