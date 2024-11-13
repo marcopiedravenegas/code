@@ -11942,6 +11942,7 @@ https://en.wikipedia.org/wiki/Flux
 https://en.wikipedia.org/wiki/Fluxbox
 https://en.wikipedia.org/wiki/Flux_(machine-learning_framework)
 https://en.wikipedia.org/wiki/Flynn%27s_taxonomy
+https://en.wikipedia.org/wiki/FME_(software)
 https://en.wikipedia.org/wiki/FMRIB_Software_Library
 https://en.wikipedia.org/wiki/Fn_key
 https://en.wikipedia.org/wiki/FNP_(complexity)
@@ -13128,6 +13129,7 @@ https://en.wikipedia.org/wiki/Harold_W._Kuhn
 https://en.wikipedia.org/wiki/Harris_affine_region_detector
 https://en.wikipedia.org/wiki/Harris_corner_detector
 https://en.wikipedia.org/wiki/Harry_Dexter_White
+https://en.wikipedia.org/wiki/Harry_L._Van_Trees
 https://en.wikipedia.org/wiki/Hart%27s_Rules
 https://en.wikipedia.org/wiki/Hartley_function
 https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method
@@ -24413,6 +24415,7 @@ https://epubs.siam.org/doi/book/10.1137/1.9781611975208
 https://epubs.siam.org/doi/book/10.1137/1.9781611975277
 https://epubs.siam.org/doi/book/10.1137/1.9781611975581
 https://epubs.siam.org/doi/book/10.1137/1.9781611975604
+https://epubs.siam.org/doi/book/10.1137/1.9781611975789
 https://epubs.siam.org/doi/book/10.1137/1.9781611975864
 https://epubs.siam.org/doi/book/10.1137/1.9781611975949
 https://epubs.siam.org/doi/book/10.1137/1.9781611976175
@@ -25621,6 +25624,7 @@ https://github.com/flintlib/flint/
 https://github.com/flipperdevices/flipperzero-firmware
 https://github.com/Floorp-Projects/Floorp/
 https://github.com/FlorentF9/SOMperf
+https://github.com/Florents-Tselai/pgpdf
 https://github.com/fltk/fltk
 https://github.com/FluxML/Flux.jl
 https://github.com/fmtlib/fmt
@@ -32879,6 +32883,8 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12162
 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1955.tb01148.x
 https://onlinelibrary.wiley.com/doi/book/10.1002/0470072768
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471221082
+https://onlinelibrary.wiley.com/doi/book/10.1002/0471221090
+https://onlinelibrary.wiley.com/doi/book/10.1002/0471221104
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471722138
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471729000
@@ -36078,6 +36084,7 @@ https://thebrightsideofmathematics.com/
 https://thebrightsideofmathematics.com/courses/ordinary_differential_equations/overview/
 https://thebrightsideofmathematics.com/courses/real_analysis/overview/
 https://thebulletin.org/
+https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/
 https://thebulletin.org/doomsday-clock/
 https://thebulletin.org/magazine/2023-07/
 https://thebulletin.org/premium/2023-07/an-extended-interview-with-christopher-nolan-director-of-oppenheimer/
@@ -37684,6 +37691,7 @@ https://www.cambridge.org/core/books/network-flow-algorithms/816B5B0CBE5471289D2
 https://www.cambridge.org/core/books/network-information-theory/3ABE1D86EB0F0DF6A8764E415C2CA94A
 https://www.cambridge.org/core/books/networks-crowds-and-markets/A70C7855A3003FE1079C25F8397AF641
 https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7
+https://www.cambridge.org/core/books/numerical-methods-of-statistics/ED2D1845F52AF845CCF560E3526B9B56
 https://www.cambridge.org/core/books/numerical-methods-of-statistics/ED2D1845F52AF845CCF560E3526B9B56#
 https://www.cambridge.org/core/books/online-algorithms/FAD28C0D667F7A7C959B247231DCF5F9
 https://www.cambridge.org/core/books/on-line-learning-in-neural-networks/7D901F98C2A4F1CF69648FDAEF6877CD
@@ -37768,6 +37776,7 @@ https://www.cambridge.org/core/publications/collections/cambridge-library-collec
 https://www.cambridge.org/core/series/cambridge-history-of-russia/3A1986470F824B4693DC1FCB409C6491
 https://www.cambridge.org/core/series/cambridge-library-collection-mathematics/5A30CD613E77074BE6AE746A4A379C51
 https://www.cambridge.org/core/series/cambridge-mathematical-library/F04D2C33279B5B7ED261AE5111C064D2
+https://www.cambridge.org/core/series/cambridge-series-in-statistical-and-probabilistic-mathematics/8278B98D68B759B9185B2C6E6611A054
 https://www.cambridge.org/core/series/canto-classics/272D3146AB49765AB57FDE56EF24EB71
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition
 https://www.cambridge.org/cr/universitypress/subjects/classical-studies/classical-languages/vox-graeca-pronunciation-classical-greek-3rd-edition?format=PB&isbn=9780521335553
@@ -39356,7 +39365,9 @@ https://www.gadgets360.com/
 https://www.ga.gov.au/
 https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/australias-size-compared
 https://www.gaia-gis.it/fossil/libspatialite/index
+https://www.gaia-gis.it/fossil/spatialite-tools/index
 https://www.gaia-gis.it/gaia-sins/
+https://www.gaia-gis.it/gaia-sins/index.html
 https://www.gaisler.com/index.php/products/processors/noel-v
 https://www.gallup.com/home.aspx
 https://www.gambit-project.org/
@@ -40166,6 +40177,7 @@ https://www.ibm.com/history/ctr-and-ibm
 https://www.ibm.com/history/thinkpad
 https://www.ibm.com/products/db2
 https://www.ibm.com/products/ilog-cplex-optimization-studio
+https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-cp-optimizer
 https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer
 https://www.ibm.com/products/spss-statistics
 https://www.ibm.com/security
