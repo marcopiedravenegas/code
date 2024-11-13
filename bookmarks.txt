@@ -1482,8 +1482,13 @@ https://bioinfo.uochb.cas.cz/embedsom/
 https://biopython.org/
 https://bips-hb.github.io/innsight/
 https://bitbucket.org/blaze-lib/blaze/src/master/
+https://bitcoincore.org/
+https://bitcoincore.org/bitcoin.pdf
 https://bitcoin.org/bitcoin.pdf
 https://bitcoin.org/en/
+https://bitcoin.org/en/bitcoin-core/
+https://bitcoin.org/en/full-node
+https://bitcoin.org/en/resources
 https://bitfunnel.org/
 https://bitly.com/
 https://bitsavers.org/bits/
@@ -3436,6 +3441,7 @@ https://developer.apple.com/documentation/security/keychain_services
 https://developer.apple.com/passkeys/
 https://developer.apple.com/swift/
 https://developer.arm.com/
+https://developer.bitcoin.org/
 https://developer.chrome.com/
 https://developer.chrome.com/docs/
 https://developer.hashicorp.com/
@@ -5439,6 +5445,9 @@ https://emscripten.org/
 https://emscripten.org/docs/introducing_emscripten/about_emscripten.html
 https://ems.press/
 https://ems.press/books/standalone/172
+https://en.bitcoin.it/wiki/Comparison_of_mining_pools
+https://en.bitcoin.it/wiki/Main_Page
+https://en.bitcoin.it/wiki/Script
 https://en.chessbase.com/
 https://en.chessbase.com/post/depeche-mode-we-know-we-ll-be-ghosts-again
 https://en.chessbase.com/post/magnus-carlsen-on-his-che-career
@@ -25162,6 +25171,9 @@ https://github.com/Bio7/bio7
 https://github.com/biolab/orange3
 https://github.com/biopython/biopython
 https://github.com/bitcoin/bitcoin
+https://github.com/bitcoinbook/bitcoinbook
+https://github.com/bitcoin-core/secp256k1
+https://github.com/bitcoin-wallet/bitcoin-wallet
 https://github.com/bitflags/bitflags
 https://github.com/bitwarden
 https://github.com/bitwarden/clients
@@ -26193,6 +26205,7 @@ https://github.com/meilisearch/meilisearch
 https://github.com/melpa/melpa
 https://github.com/memgraph/memgraph
 https://github.com/memorysafety/sudo-rs
+https://github.com/mempool/mempool
 https://github.com/MerginMaps/db-sync
 https://github.com/MerginMaps/mobile
 https://github.com/mermaid-js/mermaid
@@ -28282,6 +28295,7 @@ https://iacr.org/meetings/pkc/
 https://iacr.org/meetings/tcc/
 https://iam.pl/
 https://iam.pl/en
+https://iancoleman.io/bip39/
 https://ianix.com/
 https://ianix.com/pqcrypto/pqcrypto-deployment.html
 https://ianix.com/pub/chacha-deployment.html
@@ -32070,6 +32084,7 @@ https://memcached.org/
 https://memgpt.ai/
 https://memgraph.com/
 https://memomaps.de/
+https://mempool.space/
 https://mendelson.org/wpdos/index.html
 https://merely-useful.tech/py-rse/
 https://merginmaps.com/
@@ -37404,6 +37419,8 @@ https://www.bips-institut.de/
 https://www.bisg.org/
 https://www.bishopbook.com/
 https://www.b-it-center.de/
+https://www.bitcoinmining.com/
+https://www.bitcoinmining.com/what-is-proof-of-work/
 https://www.bitkom.org/
 https://www.blackberry.com/us/en/solutions/endpoint-security/mitre-attack/mitre-attack-vs-cyber-kill-chain
 https://www.blackhat.com/
