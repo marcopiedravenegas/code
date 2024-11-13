@@ -1098,6 +1098,7 @@ https://arxiv.org/abs/2302.04752
 https://arxiv.org/abs/2302.12288
 https://arxiv.org/abs/2302.12949
 https://arxiv.org/abs/2303.00814
+https://arxiv.org/abs/2303.02759
 https://arxiv.org/abs/2303.03757
 https://arxiv.org/abs/2303.11633
 https://arxiv.org/abs/2303.12712
@@ -2925,6 +2926,7 @@ https://crypto.ethz.ch/
 https://crypto.ethz.ch/~maurer/
 https://cr.yp.to/export.html
 https://cr.yp.to/factorization.html
+https://cryptography101.ca/
 https://cryptographyinrustforhackers.com/
 https://cryptography.io/en/latest/
 https://cryptography.io/en/latest/hazmat/primitives/
@@ -9869,6 +9871,7 @@ https://en.wikipedia.org/wiki/Cours-la-Reine
 https://en.wikipedia.org/wiki/Covariance
 https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)
 https://en.wikipedia.org/wiki/Covariance_and_correlation
+https://en.wikipedia.org/wiki/Covariance_function
 https://en.wikipedia.org/wiki/Covariance_matrix
 https://en.wikipedia.org/wiki/Covariant_classical_field_theory
 https://en.wikipedia.org/wiki/Covector_mapping_principle
@@ -13259,6 +13262,7 @@ https://en.wikipedia.org/wiki/Herbrandization
 https://en.wikipedia.org/wiki/Herbrand_structure
 https://en.wikipedia.org/wiki/Hercules_(emulator)
 https://en.wikipedia.org/wiki/Heresy_in_Christianity
+https://en.wikipedia.org/wiki/Herman_Chernoff
 https://en.wikipedia.org/wiki/Herman_Goldstine
 https://en.wikipedia.org/wiki/Hermann_Bottenbruch
 https://en.wikipedia.org/wiki/Hermann_Oberth
@@ -24329,6 +24333,7 @@ https://epubs.siam.org/doi/book/10.1137/1.9780898719048
 https://epubs.siam.org/doi/book/10.1137/1.9780898719055
 https://epubs.siam.org/doi/book/10.1137/1.9780898719062
 https://epubs.siam.org/doi/book/10.1137/1.9780898719079
+https://epubs.siam.org/doi/book/10.1137/1.9780898719109
 https://epubs.siam.org/doi/book/10.1137/1.9780898719116
 https://epubs.siam.org/doi/book/10.1137/1.9780898719178
 https://epubs.siam.org/doi/book/10.1137/1.9780898719185
@@ -24862,6 +24867,7 @@ https://gatling.io/
 https://gaultier.github.io/blog/kahns_algorithm.html
 https://gaultier.github.io/blog/wayland_from_scratch.html
 https://gaultier.github.io/blog/x11_x64.html
+https://gaussianprocess.org/
 https://gaussianprocess.org/gpml/
 https://gavare.se/gxemul/
 https://gazebosim.org/home
@@ -27053,6 +27059,7 @@ https://github.com/skeeto
 https://github.com/skeeto/w64devkit
 https://github.com/skiselev/8088_bios
 https://github.com/sktime/sktime
+https://github.com/slevithan/awesome-regex
 https://github.com/slicer69/sysvinit
 https://github.com/slime/slime
 https://github.com/slowkow/ggrepel
@@ -29963,6 +29970,7 @@ https://library.lol/main/AF6F756DD27460AB21BEC7C27806A9CB
 https://library.lol/main/AFA3DD3314D8108E0E0E10D9ECB6B178
 https://library.lol/main/AFE458B6FCFE968E58A040B30F5222B4
 https://library.lol/main/AFEA50AF4A9C47B5785843551DBD9F40
+https://library.lol/main/B141F22C0E796A733F9CA0B0CB88E8C5
 https://library.lol/main/B1A5E92F5EEB4919C65B865D509E1398
 https://library.lol/main/B1E0BB0DC4D5661BE6C9FBB928D12A1F
 https://library.lol/main/B1FB3ACFFE5AF85CBA01570AB90F48EF
@@ -29971,6 +29979,7 @@ https://library.lol/main/B28E0CFDD740618FB7088CA0F666DD36
 https://library.lol/main/B2F20453D6ACAA2D60AF8719B12D11B5
 https://library.lol/main/B4C05CBAD0900433E59095B326BE40FA
 https://library.lol/main/B56092538D41992FE164749FF7A29A04
+https://library.lol/main/B5EEFD123A14511521D60BCA65DAB560
 https://library.lol/main/B5F1BDC4878C2019D9C3749319140592
 https://library.lol/main/B6A0AD777B318A139216E2096D9F9B87
 https://library.lol/main/B6ED216F8D25B4B463C385295C86B80D
@@ -32865,6 +32874,7 @@ https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0870.1990.t01-2-00005.x
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12162
 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1955.tb01148.x
 https://onlinelibrary.wiley.com/doi/book/10.1002/0470072768
+https://onlinelibrary.wiley.com/doi/book/10.1002/0471221082
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471722138
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471729000
@@ -33937,6 +33947,7 @@ https://press.princeton.edu/books/hardcover/9780691190075/capital
 https://press.princeton.edu/books/hardcover/9780691190822/agent-based-and-individual-based-modeling
 https://press.princeton.edu/books/hardcover/9780691637709/the-implementation-of-prolog
 https://press.princeton.edu/books/paperback/9780691003955/game-theory-for-applied-economists
+https://press.princeton.edu/books/paperback/9780691005478/mathematical-methods-of-statistics
 https://press.princeton.edu/books/paperback/9780691005478/mathematical-methods-of-statistics-pms-9-volume-9
 https://press.princeton.edu/books/paperback/9780691011462/general-theory-of-relativity
 https://press.princeton.edu/books/paperback/9780691011929/classics-in-game-theory
@@ -34184,6 +34195,7 @@ https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4058
 https://pubsonline.informs.org/doi/abs/10.1287/opre.14.4.699
 https://pubsonline.informs.org/doi/abs/10.1287/opre.22.6.1156
 https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2021.4058
+https://pubsonline.informs.org/doi/pdf/10.1287/opre.4.1.113
 https://pubsonline.informs.org/journal/ijaa
 https://pubsonline.informs.org/journal/ijoc
 https://pubsonline.informs.org/journal/mnsc
@@ -34694,6 +34706,7 @@ https://roxygen2.r-lib.org/
 https://royalsociety.org/
 https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0169
 https://royalsocietypublishing.org/doi/10.1098/rspa.2016.0295
+https://royalsocietypublishing.org/doi/10.1098/rsta.1922.0009
 https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0237
 https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0417
 https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012
@@ -35136,6 +35149,7 @@ https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/
 https://shop.elsevier.com/books/linkers-and-loaders/levine/978-0-08-051031-6
 https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3
 https://shop.elsevier.com/books/memory-systems/jacob/978-0-12-379751-3
+https://shop.elsevier.com/books/numerical-analysis-meets-machine-learning/mishra/978-0-443-23984-7
 https://shop.elsevier.com/books/pattern-recognition/koutroumbas/978-1-59749-272-0
 https://shop.elsevier.com/books/power-and-performance/kukunas/978-0-12-800726-6
 https://shop.elsevier.com/books/principles-of-real-analysis/burkinshaw/978-0-08-057310-6
@@ -38693,6 +38707,7 @@ https://www.degruyter.com/document/doi/10.1515/9781400873173/html
 https://www.degruyter.com/document/doi/10.1515/9781400874477/html
 https://www.degruyter.com/document/doi/10.1515/9781400881895/html
 https://www.degruyter.com/document/doi/10.1515/9781400882250/html
+https://www.degruyter.com/document/doi/10.1515/9781400883868/html
 https://www.degruyter.com/document/doi/10.1515/9781400883899/html
 https://www.degruyter.com/document/doi/10.1515/9781400883929
 https://www.degruyter.com/document/doi/10.1515/9781400884179/html
@@ -38700,6 +38715,7 @@ https://www.degruyter.com/document/doi/10.1515/9781400889143/html
 https://www.degruyter.com/document/doi/10.1515/9783110652864/html
 https://www.degruyter.com/document/doi/10.1515/9783110662207/html
 https://www.degruyter.com/document/doi/10.1515/9783110780147/html
+https://www.degruyter.com/document/doi/10.1515/9783110783186/html?lang=en&srsltid=AfmBOookQpMzc7wqW8tx8C7TIoGwJCcnZvcduprJxb2GjH8omR4uQvCf
 https://www.degruyter.com/document/doi/10.1515/9783110787733/html
 https://www.degruyter.com/document/doi/10.1515/9783110787740/html
 https://www.degruyter.com/document/doi/10.1515/9783110841121/html
@@ -38713,6 +38729,7 @@ https://www.degruyter.com/document/doi/10.1515/jmc-2021-0054/html
 https://www.degruyter.com/document/doi/10.7312/ritt91596/html
 https://www.degruyter.com/document/doi/10.7312/ritt94362/html
 https://www.degruyter.com/journal/key/jmc/html
+https://www.degruyter.com/serial/gsanm-b/html
 https://www.degruyter.com/serial/lbthphy-b/html
 https://www.degruyter.com/serial/puppsl-b/html
 https://www.deisenroth.cc/
@@ -40537,6 +40554,7 @@ https://www.jstatsoft.org/article/view/v104i05
 https://www.jstatsoft.org/index
 https://www.jstor.org/
 https://www.jstor.org/journal/annamathstat
+https://www.jstor.org/stable/167523
 https://www.jstor.org/stable/1910129?origin=crossref
 https://www.jstor.org/stable/20057995
 https://www.jstor.org/stable/2031658
@@ -41071,6 +41089,7 @@ https://www-math.umd.edu/
 https://www.math.umd.edu/~lcw/
 https://www-math.umd.edu/undergraduate/88-math/undergraduate/311-textbook-list.html
 https://www.math.uni-hamburg.de/home/loewe/FotFS/
+https://www.math.uni-heidelberg.de/en/sections/numerical-analysis-optimization-and-scientific-machine-learning
 https://www.mathunion.org/
 https://www.math.utah.edu/~beebe/
 https://www.math.utah.edu/~beebe/digital-libraries.html
@@ -41515,6 +41534,7 @@ https://www.nature.com/articles/s41377-022-00714-x
 https://www.nature.com/articles/s41467-021-23719-3
 https://www.nature.com/articles/s41467-023-40593-3
 https://www.nature.com/articles/s41467-023-41486-1
+https://www.nature.com/articles/s41557-020-0544-y
 https://www.nature.com/articles/s41563-023-01737-4
 https://www.nature.com/articles/s41567-023-01975-y
 https://www.nature.com/articles/s41567-023-02269-z
@@ -43113,6 +43133,12 @@ https://www.sciencedirect.com/handbook/handbook-of-differential-equations-evolut
 https://www.sciencedirect.com/handbook/handbook-of-differential-equations-ordinary-differential-equations
 https://www.sciencedirect.com/handbook/handbook-of-differential-equations-stationary-partial-differential-equations
 https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/11/suppl/C
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/14/suppl/C
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/19/suppl/C
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/20/suppl/C
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/25/suppl/C
+https://www.sciencedirect.com/handbook/handbook-of-numerical-analysis/vol/3/suppl/C
 https://www.sciencedirect.com/handbook/handbook-of-statistics
 https://www.sciencedirect.com/handbook/handbooks-in-operations-research-and-management-science
 https://www.sciencedirect.com/handbook/handbooks-in-operations-research-and-management-science/vol/13/suppl/C
@@ -43150,6 +43176,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0004370223001170
 https://www.sciencedirect.com/science/article/abs/pii/S0020025515006003
 https://www.sciencedirect.com/science/article/abs/pii/S0020025576905545
 https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125
+https://www.sciencedirect.com/science/article/abs/pii/S0021999119306345
 https://www.sciencedirect.com/science/article/abs/pii/S0022249611000691
 https://www.sciencedirect.com/science/article/abs/pii/S0026269215001664
 https://www.sciencedirect.com/science/article/abs/pii/S0026269218307675
@@ -43189,6 +43216,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S096007799800215X
 https://www.sciencedirect.com/science/article/abs/pii/S1077314216301412
 https://www.sciencedirect.com/science/article/abs/pii/S135521980300039X?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S1568494611001761
+https://www.sciencedirect.com/science/article/abs/pii/S1570865902110015
+https://www.sciencedirect.com/science/article/abs/pii/S1570865902110039
 https://www.sciencedirect.com/science/article/abs/pii/S1574013709000203
 https://www.sciencedirect.com/science/article/abs/pii/S1751157717300500
 https://www.sciencedirect.com/science/article/abs/pii/S2210670721008933
@@ -43202,6 +43231,7 @@ https://www.sciencedirect.com/science/article/pii/016764239190036W
 https://www.sciencedirect.com/science/article/pii/0304397587900454
 https://www.sciencedirect.com/science/article/pii/0304397594901783
 https://www.sciencedirect.com/science/article/pii/0304397595001824
+https://www.sciencedirect.com/science/article/pii/0315086074900342
 https://www.sciencedirect.com/science/article/pii/0771050X80900133
 https://www.sciencedirect.com/science/article/pii/0895717788905249
 https://www.sciencedirect.com/science/article/pii/092622459290011B
@@ -43236,6 +43266,7 @@ https://www.sciencedirect.com/science/article/pii/S0747717185710061
 https://www.sciencedirect.com/science/article/pii/S0747717189800070
 https://www.sciencedirect.com/science/article/pii/S0885064X03000347
 https://www.sciencedirect.com/science/article/pii/S0885064X07000246
+https://www.sciencedirect.com/science/article/pii/S0885064X85710023
 https://www.sciencedirect.com/science/article/pii/S0890540108000527
 https://www.sciencedirect.com/science/article/pii/S0893608019300784
 https://www.sciencedirect.com/science/article/pii/S0893608021002173
@@ -44414,6 +44445,7 @@ https://www.uni-mainz.de/
 https://www.uni-muenster.de/
 https://www.uni-muenster.de/Geoinformatics/
 https://www.uni-muenster.de/Geoinformatics/en/
+https://www.uni-muenster.de/MathematicsMuenster/research/fields/numerics_ml_scientific-computing.shtml
 https://www.unionstationdc.com/
 https://www.uniprot.org/
 https://www.uni-saarland.de/
