@@ -1046,6 +1046,7 @@ https://arxiv.org/abs/2202.11214
 https://arxiv.org/abs/2202.11351
 https://arxiv.org/abs/2202.11360
 https://arxiv.org/abs/2203.02544
+https://arxiv.org/abs/2203.07208
 https://arxiv.org/abs/2203.08975
 https://arxiv.org/abs/2203.10836
 https://arxiv.org/abs/2203.12533
@@ -30615,6 +30616,7 @@ https://link.springer.com/book/10.1007/978-3-030-73839-6
 https://link.springer.com/book/10.1007/978-3-030-74896-8
 https://link.springer.com/book/10.1007/978-3-030-76124-0
 https://link.springer.com/book/10.1007/978-3-030-76275-9
+https://link.springer.com/book/10.1007/978-3-030-76974-1
 https://link.springer.com/book/10.1007/978-3-030-78017-3
 https://link.springer.com/book/10.1007/978-3-030-80507-4
 https://link.springer.com/book/10.1007/978-3-030-81455-7
@@ -31743,6 +31745,7 @@ https://man.openbsd.org/strlcpy.3
 https://man.openbsd.org/tree
 https://man.openbsd.org/tree.3
 https://man.openbsd.org/vi.1
+https://manoptjl.org/stable/
 https://manpages.bsd.lv/
 https://manpages.debian.org/
 https://manpages.debian.org/bookworm/basez/hex.1.en.html
@@ -34206,6 +34209,7 @@ https://pyimagesearch.com/
 https://pyimagesearch.com/2021/05/06/backpropagation-from-scratch-with-python/
 https://pyimagesearch.com/blog/
 https://pylonsproject.org/
+https://pymanopt.org/
 https://pymol.org/2/
 https://pymolwiki.org/index.php/Main_Page
 https://pynacl.readthedocs.io/en/latest/
@@ -34894,6 +34898,7 @@ https://scholar.google.com/citations?user=S6H-0RAAAAAJ
 https://scholar.google.com/citations?user=se0TZ2EAAAAJ
 https://scholar.google.com/citations?user=sWkxswQAAAAJ
 https://scholar.google.com/citations?user=ToxxF5oAAAAJ
+https://scholar.google.com/citations?user=WUJDTZYAAAAJ&hl=en
 https://scholar.google.com/citations?user=x_wsduUAAAAJ
 https://scholar.google.com/citations?user=zkdjit0AAAAJ
 https://scholarlycommons.pacific.edu/euler-works/530/
@@ -40948,6 +40953,7 @@ https://www.manning.com/books/designing-deep-learning-systems
 https://www.manning.com/books/practical-probabilistic-programming
 https://www.manning.com/books/real-world-cryptography
 https://www.manning.com/books/r-in-action-third-edition
+https://www.manopt.org/
 https://www.manuelrigger.at/
 https://www.m-a.org.uk/
 https://www.maplesoft.com/
@@ -41326,6 +41332,8 @@ https://www.minlp.com/home
 https://www.mipi.org/
 https://www.mirc.com/
 https://www.mis.mpg.de/
+https://www.mis.mpg.de/events/event/mathematical-foundations-of-dimensionality-reduction
+https://www.mis.mpg.de/events/series/mathematical-methods-in-data-science
 https://www.mis.mpg.de/lab
 https://www.mis.mpg.de/research/research-groups
 https://www.mit.edu/~dimitrib/dpbook.html
@@ -41768,6 +41776,7 @@ https://www.nslookup.io/
 https://www.nsnam.org/
 https://www.ntg.nl/
 https://www.ntis.gov/
+https://www.ntnu.edu/imf/fndg24
 https://www.ntp.org/
 https://www.ntpsec.org/
 https://www.ntsb.gov/Pages/home.aspx
@@ -43179,6 +43188,7 @@ https://www.sciencedirect.com/science/article/pii/0304397595001824
 https://www.sciencedirect.com/science/article/pii/0771050X80900133
 https://www.sciencedirect.com/science/article/pii/0895717788905249
 https://www.sciencedirect.com/science/article/pii/092622459290011B
+https://www.sciencedirect.com/science/article/pii/S000187081930430X
 https://www.sciencedirect.com/science/article/pii/S0010448521001305
 https://www.sciencedirect.com/science/article/pii/S0019995858800030
 https://www.sciencedirect.com/science/article/pii/S0019995863902900
@@ -43213,6 +43223,7 @@ https://www.sciencedirect.com/science/article/pii/S0890540108000527
 https://www.sciencedirect.com/science/article/pii/S0893608019300784
 https://www.sciencedirect.com/science/article/pii/S0893608021002173
 https://www.sciencedirect.com/science/article/pii/S0898122197001843
+https://www.sciencedirect.com/science/article/pii/S0926224512000939
 https://www.sciencedirect.com/science/article/pii/S0950584923001222
 https://www.sciencedirect.com/science/article/pii/S0952197624014714
 https://www.sciencedirect.com/science/article/pii/S0968090X23003157
