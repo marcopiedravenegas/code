@@ -101,11 +101,14 @@ http://library.lol/main/144E9485DDB47417A5B0AC10B64635FE
 http://library.lol/main/230BBFE06DFC8FE376BEC30A4903270B
 http://library.lol/main/2F2E39C5D6D3E7E2FCB8E20DFD70A259
 http://library.lol/main/39566EFC14DBD3A27DF401211F598A94
+http://library.lol/main/5638B20A57A419C1E054B7D54420E52C
 http://library.lol/main/66CE8B0F0D37A19585F6BE218A3C8973
 http://library.lol/main/9146C2A1290455288676A7AD6A1B1D5B
+http://library.lol/main/A12D370B55003B33E1B1BA400628FC58
 http://library.lol/main/A95F8E51DA9F428402F0A61EC3C17A71
 http://library.lol/main/CD6AAF202228C1592847541292CB3D30
 http://library.lol/main/E5E376E8A888F6A27FA8FAA52580365D
+http://library.lol/main/F05B7186207D42D6412EB0BB21CDCE1F
 http://library.lol/main/F31B7D7055B208560AC74B5C7820EB97
 http://linear.ups.edu/
 http://links.twibright.com/
@@ -2132,6 +2135,7 @@ https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-n
 https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
 https://ci.ucr.ac.cr/
 https://ci.ucr.ac.cr/auri
+https://civs1.civs.us/
 https://ckan.org/
 https://clace.io/
 https://clang.llvm.org/
@@ -6489,6 +6493,7 @@ https://en.wikipedia.org/wiki/Applied_mathematics
 https://en.wikipedia.org/wiki/Applied_mechanics
 https://en.wikipedia.org/wiki/Applied_ontology
 https://en.wikipedia.org/wiki/Applied_probability
+https://en.wikipedia.org/wiki/Applied_Probability_Trust
 https://en.wikipedia.org/wiki/Apply
 https://en.wikipedia.org/wiki/Apportionment_(politics)
 https://en.wikipedia.org/wiki/Apprenticeship_learning
@@ -6913,7 +6918,9 @@ https://en.wikipedia.org/wiki/Ballerina_(programming_language)
 https://en.wikipedia.org/wiki/Balloon_hashing
 https://en.wikipedia.org/wiki/Baltimore
 https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad
+https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox
 https://en.wikipedia.org/wiki/Banach_fixed-point_theorem
+https://en.wikipedia.org/wiki/Banach_measure
 https://en.wikipedia.org/wiki/Banach_space
 https://en.wikipedia.org/wiki/Banburismus
 https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81_brothers
@@ -12499,6 +12506,7 @@ https://en.wikipedia.org/wiki/Geometric_distribution
 https://en.wikipedia.org/wiki/Geometric_function_theory
 https://en.wikipedia.org/wiki/Geometric_integrator
 https://en.wikipedia.org/wiki/Geometric_mean
+https://en.wikipedia.org/wiki/Geometric_measure_theory
 https://en.wikipedia.org/wiki/Geometric_phase
 https://en.wikipedia.org/wiki/Geometric_programming
 https://en.wikipedia.org/wiki/Geometric_topology
@@ -13085,6 +13093,7 @@ https://en.wikipedia.org/wiki/Han_dynasty
 https://en.wikipedia.org/wiki/Hanford_Site
 https://en.wikipedia.org/wiki/Hannibal_(2001_film)
 https://en.wikipedia.org/wiki/Hans_Bethe
+https://en.wikipedia.org/wiki/Hanseatic_League
 https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)
 https://en.wikipedia.org/wiki/Hans_Morgenthau
 https://en.wikipedia.org/wiki/Hans_Munthe-Kaas
@@ -13812,6 +13821,7 @@ https://en.wikipedia.org/wiki/Inception_score
 https://en.wikipedia.org/wiki/Incidence_matrix
 https://en.wikipedia.org/wiki/Incircle_and_excircles
 https://en.wikipedia.org/wiki/Inclinometer
+https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle
 https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States
 https://en.wikipedia.org/wiki/Income_tax_in_the_United_States
 https://en.wikipedia.org/wiki/Incomplete_gamma_function
@@ -16723,6 +16733,7 @@ https://en.wikipedia.org/wiki/Means%E2%80%93ends_analysis
 https://en.wikipedia.org/wiki/Mean_shift
 https://en.wikipedia.org/wiki/Mean_squared_error
 https://en.wikipedia.org/wiki/Mean_squared_prediction_error
+https://en.wikipedia.org/wiki/Measurable_function
 https://en.wikipedia.org/wiki/Measurable_space
 https://en.wikipedia.org/wiki/Measure_(mathematics)
 https://en.wikipedia.org/wiki/Measurement_Studio
@@ -17822,6 +17833,7 @@ https://en.wikipedia.org/wiki/Nonlinear_optics
 https://en.wikipedia.org/wiki/Nonlinear_programming
 https://en.wikipedia.org/wiki/Nonlinear_regression
 https://en.wikipedia.org/wiki/Nonlinear_system
+https://en.wikipedia.org/wiki/Non-measurable_set
 https://en.wikipedia.org/wiki/Non-monotonic_logic
 https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
 https://en.wikipedia.org/wiki/Nonparametric_regression
@@ -18430,6 +18442,7 @@ https://en.wikipedia.org/wiki/Ourproject.org
 https://en.wikipedia.org/wiki/OurResearch
 https://en.wikipedia.org/wiki/Our_World_in_Data
 https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy
+https://en.wikipedia.org/wiki/Outer_measure
 https://en.wikipedia.org/wiki/Outer_Wilds
 https://en.wikipedia.org/wiki/OutGuess
 https://en.wikipedia.org/wiki/Outlier
@@ -19504,6 +19517,7 @@ https://en.wikipedia.org/wiki/Propensity_score_matching
 https://en.wikipedia.org/wiki/Proper_generalized_decomposition
 https://en.wikipedia.org/wiki/Proper_orthogonal_decomposition
 https://en.wikipedia.org/wiki/Property_is_theft!
+https://en.wikipedia.org/wiki/Property_of_Baire
 https://en.wikipedia.org/wiki/Property_Specification_Language
 https://en.wikipedia.org/wiki/Prophets_and_messengers_in_Islam
 https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller
@@ -20926,6 +20940,7 @@ https://en.wikipedia.org/wiki/Set_(abstract_data_type)
 https://en.wikipedia.org/wiki/Set_cover_problem
 https://en.wikipedia.org/wiki/Set_estimation
 https://en.wikipedia.org/wiki/Se_(text_editor)
+https://en.wikipedia.org/wiki/Set_function
 https://en.wikipedia.org/wiki/Seth
 https://en.wikipedia.org/wiki/Sethianism
 https://en.wikipedia.org/wiki/Set_inversion
@@ -23612,6 +23627,7 @@ https://en.wikipedia.org/wiki/Visual_perception
 https://en.wikipedia.org/wiki/Visual_Studio_Code
 https://en.wikipedia.org/wiki/Vitali_covering_lemma
 https://en.wikipedia.org/wiki/Vitalik_Buterin
+https://en.wikipedia.org/wiki/Vitali_set
 https://en.wikipedia.org/wiki/Vitamin_C
 https://en.wikipedia.org/wiki/Viterbi_algorithm
 https://en.wikipedia.org/wiki/Vi_(text_editor)
@@ -30516,6 +30532,7 @@ https://link.springer.com/book/10.1007/978-1-4757-1843-0
 https://link.springer.com/book/10.1007/978-1-4757-2063-1
 https://link.springer.com/book/10.1007/978-1-4757-2103-4
 https://link.springer.com/book/10.1007/978-1-4757-2226-0
+https://link.springer.com/book/10.1007/978-1-4757-2341-0
 https://link.springer.com/book/10.1007/978-1-4757-2975-7
 https://link.springer.com/book/10.1007/978-1-4757-3264-1
 https://link.springer.com/book/10.1007/978-1-4757-3458-4
@@ -35165,6 +35182,7 @@ https://shop.elsevier.com/books/data-mining/witten/978-0-12-804291-5
 https://shop.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3
 https://shop.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0
 https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0
+https://shop.elsevier.com/books/fundamentals-of-applied-probability-and-random-processes/ibe/978-0-12-800852-2
 https://shop.elsevier.com/books/introduction-to-probability-models/ross/978-0-443-18761-2
 https://shop.elsevier.com/books/introduction-to-statistical-pattern-recognition/fukunaga/978-0-08-047865-4
 https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/978-1-55860-932-7
@@ -37228,6 +37246,7 @@ https://www.apisec.ai/blog/broken-object-level-authorization
 https://www.apnews.com/
 https://www.apnic.net/
 https://www.ap.org/
+https://www.appliedprobability.org/
 https://www.apreshill.com/
 https://www.apress.com/
 https://www-apr.lip6.fr/~tasson/
@@ -37646,6 +37665,7 @@ https://www.cambridge.org/core/books/computational-introduction-to-number-theory
 https://www.cambridge.org/core/books/computational-introduction-to-number-theory-and-algebra/8C43512C31D9FDE058E360441175966C
 https://www.cambridge.org/core/books/computation-proof-machine/65FB180C5EF2970B649EE20E284C9492
 https://www.cambridge.org/core/books/computer-algebra-and-differential-equations/DC0A13A500FB431326B8F421F51E4222
+https://www.cambridge.org/core/books/concrete-abstract-algebra/9F8FD6A17FDE297BEEDA759C06B23879
 https://www.cambridge.org/core/books/cours-danalyse-de-lecole-polytechnique/0A83F049A98167EFA3C41DE1CDD03F05
 https://www.cambridge.org/core/books/cours-danalyse-de-lecole-polytechnique/42C1FAD58A2E751A7E94BED36E333086
 https://www.cambridge.org/core/books/cours-danalyse-de-lecole-polytechnique/ACC42D17E6FAF474C11020C093275CE5
@@ -38420,6 +38440,7 @@ https://www.cs.columbia.edu/~simha/preprint_isca16.pdf
 https://www.cs.columbia.edu/~smb/
 https://www.cs.columbia.edu/~tal/4261/F12/readings.html
 https://www.cs.cornell.edu/
+https://www.cs.cornell.edu/andru/
 https://www.cs.cornell.edu/andru/xsokoban.html
 https://www.cs.cornell.edu/~asampson/blog/flattening.html
 https://www.cs.cornell.edu/~asampson/blog/llvm.html
@@ -43142,6 +43163,7 @@ https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis
 https://www.sciencedirect.com/book/9780124079489/introduction-to-probability-models
 https://www.sciencedirect.com/book/9780124159501/the-art-of-multiprocessor-programming
 https://www.sciencedirect.com/book/9780128007266/power-and-performance
+https://www.sciencedirect.com/book/9780128008522/fundamentals-of-applied-probability-and-random-processes
 https://www.sciencedirect.com/book/9780128023013/software-quality-assurance
 https://www.sciencedirect.com/book/9780128038437/computer-and-information-security-handbook
 https://www.sciencedirect.com/book/9780128041536/an-invitation-to-applied-mathematics
@@ -43656,6 +43678,7 @@ https://www.springer.com/journal/291
 https://www.springer.com/journal/41884
 https://www.springer.com/journal/422
 https://www.springer.com/journal/500
+https://www.springer.com/series/0123
 https://www.springer.com/series/0136
 https://www.springer.com/series/0138
 https://www.springer.com/series/0223
@@ -44050,6 +44073,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780429502859/feynman-lectures-
 https://www.taylorfrancis.com/books/mono/10.1201/9780429507526/digital-statistical-signal-processing-anastasia-veloni-nikolaos-miridakis-erysso-boukouvala
 https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-algorithms-donald-kreher-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003081845/secure-data-science-bhavani-thuraisingham-murat-kantarcioglu-latifur-khan
+https://www.taylorfrancis.com/books/mono/10.1201/9781003089070/time-series-data-science-wayne-woodward-bivin-philip-sadler-stephen-robertson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003142331/contemporary-abstract-algebra-joseph-gallian
 https://www.taylorfrancis.com/books/mono/10.1201/9781003146216/anova-mixed-models-lukas-meier
 https://www.taylorfrancis.com/books/mono/10.1201/9781003244288/stochastic-processes-olga-korosteleva
