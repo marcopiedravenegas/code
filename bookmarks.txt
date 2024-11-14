@@ -417,6 +417,7 @@ https://alexge233.github.io/relearn/
 https://aleximmer.github.io/Laplace/
 https://alexlenail.me/NN-SVG/
 https://alex.smola.org/
+https://alexwellerstein.com/
 https://alexwellerstein.com/writing/books/restricted-data/
 https://algcomp.uwaterloo.ca/
 https://algorist.com/algorist.html
@@ -2546,6 +2547,7 @@ https://cran.r-project.org/web/packages/effectsize/index.html
 https://cran.r-project.org/web/packages/effsize/index.html
 https://cran.r-project.org/web/packages/EmbedSOM/index.html
 https://cran.r-project.org/web/packages/encryptr/readme/README.html
+https://cran.r-project.org/web/packages/energy/index.html
 https://cran.r-project.org/web/packages/entropy/index.html
 https://cran.r-project.org/web/packages/evreg/index.html
 https://cran.r-project.org/web/packages/exams/index.html
@@ -2667,6 +2669,7 @@ https://cran.r-project.org/web/packages/ranger/index.html
 https://cran.r-project.org/web/packages/raster/
 https://cran.r-project.org/web/packages/raster/index.html
 https://cran.r-project.org/web/packages/rasterVis/index.html
+https://cran.r-project.org/web/packages/RbyExample/index.html
 https://cran.r-project.org/web/packages/RColorBrewer/index.html
 https://cran.r-project.org/web/packages/Rcplex/index.html
 https://cran.r-project.org/web/packages/RcppEigen/index.html
@@ -24918,6 +24921,7 @@ https://geoip2.readthedocs.io/en/latest/
 https://geojson.org/
 https://geolibres.org.ar/
 https://geometricdeeplearning.com/
+https://geomstats.github.io/
 https://geonetwork-opensource.org/
 https://geonode.org/
 https://geopandas.org/en/stable/
@@ -30280,6 +30284,7 @@ https://link.springer.com/book/10.1007/978-0-387-68441-3
 https://link.springer.com/book/10.1007/978-0-387-68445-1
 https://link.springer.com/book/10.1007/978-0-387-68546-5
 https://link.springer.com/book/10.1007/978-0-387-68577-9
+https://link.springer.com/book/10.1007/978-0-387-68765-0
 https://link.springer.com/book/10.1007/978-0-387-69033-9
 https://link.springer.com/book/10.1007/978-0-387-69216-6
 https://link.springer.com/book/10.1007/978-0-387-70914-7
@@ -30309,6 +30314,7 @@ https://link.springer.com/book/10.1007/978-0-387-84816-7
 https://link.springer.com/book/10.1007/978-0-387-84854-9
 https://link.springer.com/book/10.1007/978-0-387-84858-7
 https://link.springer.com/book/10.1007/978-0-387-87837-9
+https://link.springer.com/book/10.1007/978-0-387-88698-5
 https://link.springer.com/book/10.1007/978-0-387-89488-1
 https://link.springer.com/book/10.1007/978-0-387-89496-6
 https://link.springer.com/book/10.1007/978-0-387-92257-7
@@ -30468,6 +30474,7 @@ https://link.springer.com/book/10.1007/978-1-4613-9444-0
 https://link.springer.com/book/10.1007/978-1-4613-9461-7
 https://link.springer.com/book/10.1007/978-1-4613-9505-8
 https://link.springer.com/book/10.1007/978-1-4613-9575-1
+https://link.springer.com/book/10.1007/978-1-4614-1365-3
 https://link.springer.com/book/10.1007/978-1-4614-3618-8
 https://link.springer.com/book/10.1007/978-1-4614-3688-1
 https://link.springer.com/book/10.1007/978-1-4614-4699-6
@@ -30801,6 +30808,7 @@ https://link.springer.com/book/10.1007/978-3-319-20436-9
 https://link.springer.com/book/10.1007/978-3-319-21936-3
 https://link.springer.com/book/10.1007/978-3-319-22321-6
 https://link.springer.com/book/10.1007/978-3-319-23395-6
+https://link.springer.com/book/10.1007/978-3-319-24277-4
 https://link.springer.com/book/10.1007/978-3-319-25823-2
 https://link.springer.com/book/10.1007/978-3-319-27889-6
 https://link.springer.com/book/10.1007/978-3-319-29638-8
@@ -31170,6 +31178,7 @@ https://link.springer.com/book/9783031414398
 https://link.springer.com/book/9783031421433
 https://link.springer.com/book/9783031558542
 https://link.springer.com/book/9783031705830
+https://link.springer.com/book/9783031760730
 https://link.springer.com/book/9783540345633
 https://link.springer.com/book/9783662693582
 https://link.springer.com/book/9798868801983
@@ -32720,6 +32729,7 @@ https://nth.skerritt.blog/
 https://ntpsec.org/
 https://ntrs.nasa.gov/api/citations/19890016401/downloads/19890016401.pdf
 https://ntruprime.cr.yp.to/
+https://nuclearsecrecy.com/nukemap/
 https://nuclearsecrecy.com/nukemap/?&kt=15&lat=9.93333&lng=-84.08333&hob_opt=2&hob_psi=5&hob_ft=1968&psi=20,5,1&zm=12
 https://nullprogram.com/
 https://nullprogram.com/about/
@@ -35479,6 +35489,7 @@ https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than
 https://spectrum.ieee.org/diy-ocxo-quartz-clock
 https://spectrum.ieee.org/does-repurposing-of-sun-microsystems-slogan-honor-history
 https://spectrum.ieee.org/drone-quadrotor
+https://spectrum.ieee.org/erol-gelenbe-profile
 https://spectrum.ieee.org/ethernet-ieee-milestone
 https://spectrum.ieee.org/euv-fel
 https://spectrum.ieee.org/five-enduring-government-it-failures
@@ -35546,6 +35557,7 @@ https://spectrum.ieee.org/try-this-new-analog-computer
 https://spectrum.ieee.org/turing-test
 https://spectrum.ieee.org/underwater-power-cable
 https://spectrum.ieee.org/vannevar-bush
+https://spectrum.ieee.org/virtual-meeting
 https://spectrum.ieee.org/waiting-for-quantum-computing-try-probabilistic-computing
 https://spectrum.ieee.org/what-is-deep-learning
 https://spectrum.ieee.org/what-is-the-uncanny-valley
@@ -42542,6 +42554,7 @@ https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical
 https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/
 https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
 https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
+https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
 https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/
