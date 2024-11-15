@@ -2594,6 +2594,7 @@ https://cran.r-project.org/web/packages/hexbin/index.html
 https://cran.r-project.org/web/packages/HH/index.html
 https://cran.r-project.org/web/packages/HMDHFDplus/index.html
 https://cran.r-project.org/web/packages/infotheo/index.html
+https://cran.r-project.org/web/packages/ISLR2/index.html
 https://cran.r-project.org/web/packages/ISLR/index.html
 https://cran.r-project.org/web/packages/iterators/index.html
 https://cran.r-project.org/web/packages/janeaustenr/index.html
@@ -2815,6 +2816,7 @@ https://cran.r-project.org/web/views/TimeSeries.html
 https://cran.rstudio.com/
 https://cran.rstudio.com/web/packages/caret/
 https://cran.rstudio.com/web/packages/ISLR2/
+https://cran.rstudio.com/web/packages/MASS/index.html
 https://cran.rstudio.com/web/packages/spacetime/index.html
 https://cran.rstudio.com/web/packages/trajectories/index.html
 https://cran.rstudio.com/web/packages/xlsx/
@@ -11910,6 +11912,8 @@ https://en.wikipedia.org/wiki/FLAC
 https://en.wikipedia.org/wiki/Flajolet%E2%80%93Martin_algorithm
 https://en.wikipedia.org/wiki/Flashrom_(utility)
 https://en.wikipedia.org/wiki/Flask_(web_framework)
+https://en.wikipedia.org/wiki/Flatiron_District
+https://en.wikipedia.org/wiki/Flatiron_Institute
 https://en.wikipedia.org/wiki/Flatpak
 https://en.wikipedia.org/wiki/Flattening
 https://en.wikipedia.org/wiki/Fleetwood_Mac
@@ -14523,6 +14527,7 @@ https://en.wikipedia.org/wiki/JH_(hash_function)
 https://en.wikipedia.org/wiki/J._H._Wilkinson_Prize_for_Numerical_Software
 https://en.wikipedia.org/wiki/Jiawei_Han
 https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)
+https://en.wikipedia.org/wiki/Jim_Simons
 https://en.wikipedia.org/wiki/Jingle_(protocol)
 https://en.wikipedia.org/wiki/Jinja_(template_engine)
 https://en.wikipedia.org/wiki/Jinn
@@ -21127,6 +21132,7 @@ https://en.wikipedia.org/wiki/Simone_Simons
 https://en.wikipedia.org/wiki/Simon_Kuznets
 https://en.wikipedia.org/wiki/Simon_Newcomb
 https://en.wikipedia.org/wiki/Simon_Peyton_Jones
+https://en.wikipedia.org/wiki/Simons_Foundation
 https://en.wikipedia.org/wiki/Simon_Wardley
 https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
@@ -42580,14 +42586,17 @@ https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-en
 https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702
 https://www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
 https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/
+https://www.quantamagazine.org/biology/
 https://www.quantamagazine.org/chaos-theory-in-ecology-predicts-future-populations-20151013/
 https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/
+https://www.quantamagazine.org/computer-science/
 https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/
 https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511/
 https://www.quantamagazine.org/cryptographers-achieve-perfect-secrecy-with-imperfect-devices-20220225/
 https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/
 https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/
 https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
+https://www.quantamagazine.org/how-is-ai-changing-the-science-of-prediction-20241107/
 https://www.quantamagazine.org/how-mathematicians-make-sense-of-chaos-20220302/
 https://www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/
 https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/
@@ -42596,6 +42605,7 @@ https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redef
 https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419/
 https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/
 https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/
+https://www.quantamagazine.org/mathematics/
 https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/
 https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/
 https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
@@ -42604,6 +42614,7 @@ https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-2024
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
 https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/
+https://www.quantamagazine.org/physics/
 https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/
 https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/
 https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
@@ -43585,6 +43596,7 @@ https://www.sigsam.org/
 https://www.silverliningsinfo.com/
 https://www.similarweb.com/website/news.ycombinator.com/competitors/
 https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008
+https://www.simonsfoundation.org/
 https://www.singular.uni-kl.de/
 https://www.sirgas.org/
 https://www.sirgas.org/en/
@@ -45097,6 +45109,7 @@ https://www.youtube.com/playlist?list=PLqBYJxX9LhVa8do9gI5LK6QBnhT_cS01U
 https://www.youtube.com/playlist?list=PLqYmG7hTraZBy7J_4ynYPc0Ml1RUGcLmD
 https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc
 https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5
+https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L
 https://www.youtube.com/playlist?list=PLuURUb4s1kMh6QMBn82CVLziR8CeBTe7P
