@@ -7776,6 +7776,8 @@ https://en.wikipedia.org/wiki/Carl_von_Clausewitz
 https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele
 https://en.wikipedia.org/wiki/CaRMetal
 https://en.wikipedia.org/wiki/Carmichael_function
+https://en.wikipedia.org/wiki/Carmina_Burana
+https://en.wikipedia.org/wiki/Carmina_Burana_(Orff)
 https://en.wikipedia.org/wiki/Carnegie_Endowment_for_International_Peace
 https://en.wikipedia.org/wiki/Carnegie_Mellon_University
 https://en.wikipedia.org/wiki/Carnot_heat_engine
@@ -11328,6 +11330,7 @@ https://en.wikipedia.org/wiki/English_Renaissance_theatre
 https://en.wikipedia.org/wiki/English_Standard_Version
 https://en.wikipedia.org/wiki/English_words_of_Greek_origin
 https://en.wikipedia.org/wiki/ENIAC
+https://en.wikipedia.org/wiki/Enigma_(German_band)
 https://en.wikipedia.org/wiki/Enigma_machine
 https://en.wikipedia.org/wiki/Enigma_rotor_details
 https://en.wikipedia.org/wiki/Enlightened_absolutism
@@ -12913,6 +12916,7 @@ https://en.wikipedia.org/wiki/Gravitoelectromagnetism
 https://en.wikipedia.org/wiki/Gravity
 https://en.wikipedia.org/wiki/Gravity%27s_Rainbow
 https://en.wikipedia.org/wiki/Gravity_model_of_trade
+https://en.wikipedia.org/wiki/Gravity_of_Love
 https://en.wikipedia.org/wiki/Gravity_the_Seducer
 https://en.wikipedia.org/wiki/Gravity_wave
 https://en.wikipedia.org/wiki/Gray_Areas
@@ -16711,6 +16715,7 @@ https://en.wikipedia.org/wiki/McAfee
 https://en.wikipedia.org/wiki/McCullagh%27s_parametrization_of_the_Cauchy_distributions
 https://en.wikipedia.org/wiki/McEliece_cryptosystem
 https://en.wikipedia.org/wiki/McGill_University
+https://en.wikipedia.org/wiki/MCMXC_a.D.
 https://en.wikipedia.org/wiki/McNemar%27s_test
 https://en.wikipedia.org/wiki/Mcrypt
 https://en.wikipedia.org/wiki/MCS-51
@@ -16915,6 +16920,7 @@ https://en.wikipedia.org/wiki/Michael_Artin
 https://en.wikipedia.org/wiki/Michael_Berry_(physicist)
 https://en.wikipedia.org/wiki/Michael_Burrows
 https://en.wikipedia.org/wiki/Michael_Cates
+https://en.wikipedia.org/wiki/Michael_Cretu
 https://en.wikipedia.org/wiki/Michael_F._Singer
 https://en.wikipedia.org/wiki/Michael_Genesereth
 https://en.wikipedia.org/wiki/Michael_Green_(physicist)
@@ -18070,6 +18076,7 @@ https://en.wikipedia.org/wiki/Official_scripts_of_India
 https://en.wikipedia.org/wiki/Official_statistics
 https://en.wikipedia.org/wiki/Offline_private_key_protocol
 https://en.wikipedia.org/wiki/Off-the-record_messaging
+https://en.wikipedia.org/wiki/O_Fortuna_(Orff)
 https://en.wikipedia.org/wiki/OGC_Reference_Model
 https://en.wikipedia.org/wiki/Ogg
 https://en.wikipedia.org/wiki/Ohio_Scientific
@@ -19636,6 +19643,7 @@ https://en.wikipedia.org/wiki/PureVPN
 https://en.wikipedia.org/wiki/Purification_theorem
 https://en.wikipedia.org/wiki/Pursuit%E2%80%93evasion
 https://en.wikipedia.org/wiki/Pushdown_automaton
+https://en.wikipedia.org/wiki/Push_the_Limits
 https://en.wikipedia.org/wiki/Putinism
 https://en.wikipedia.org/wiki/Putt%27s_Law_and_the_Successful_Technocrat
 https://en.wikipedia.org/wiki/PuTTY
@@ -20563,6 +20571,7 @@ https://en.wikipedia.org/wiki/S3_(programming_language)
 https://en.wikipedia.org/wiki/Saadi_Shirazi
 https://en.wikipedia.org/wiki/Sacred_king
 https://en.wikipedia.org/wiki/Sad_clown_paradox
+https://en.wikipedia.org/wiki/Sadeness_(Part_I)
 https://en.wikipedia.org/wiki/Safe_and_Sophie_Germain_primes
 https://en.wikipedia.org/wiki/Safe_house
 https://en.wikipedia.org/wiki/SafeInCloud
@@ -20609,6 +20618,7 @@ https://en.wikipedia.org/wiki/Samy_Bengio
 https://en.wikipedia.org/wiki/San_Bernardino,_California
 https://en.wikipedia.org/wiki/San_Bernardino_County,_California
 https://en.wikipedia.org/wiki/San_Diego_County,_California
+https://en.wikipedia.org/wiki/Sandra_(singer)
 https://en.wikipedia.org/wiki/San_Francisco_Bay_Area
 https://en.wikipedia.org/wiki/Sanity_check
 https://en.wikipedia.org/wiki/Sanjeev_Arora
@@ -22575,6 +22585,7 @@ https://en.wikipedia.org/wiki/The_Satanic_Scriptures
 https://en.wikipedia.org/wiki/The_Satanic_Temple
 https://en.wikipedia.org/wiki/The_Scarlet_Letter
 https://en.wikipedia.org/wiki/The_Science_of_Nature
+https://en.wikipedia.org/wiki/The_Screen_Behind_the_Mirror
 https://en.wikipedia.org/wiki/The_Secret_Agent
 https://en.wikipedia.org/wiki/The_Sense_of_Style
 https://en.wikipedia.org/wiki/The_Shadow_Factory
@@ -25311,6 +25322,7 @@ https://github.com/cinnyapp/cinny
 https://github.com/Ciphey/Ciphey
 https://github.com/cirosantilli/linux-kernel-module-cheat
 https://github.com/cisco/chezscheme
+https://github.com/cisco/ChezScheme
 https://github.com/cisco/openh264
 https://github.com/Cisco-Talos/pyrebox
 https://github.com/CISOfy/lynis
@@ -25423,6 +25435,7 @@ https://github.com/davisking/dlib
 https://github.com/daya6489/SmartEDA/
 https://github.com/dbt-labs/dbt-core
 https://github.com/ddsjoberg/gtsummary
+https://github.com/Debian
 https://github.com/decalage2/awesome-security-hardening
 https://github.com/deegree/deegree3
 https://github.com/deegree/deegree3/
@@ -26709,6 +26722,7 @@ https://github.com/pyca/pyopenssl
 https://github.com/pyca/service-identity
 https://github.com/pycrypto/pycrypto
 https://github.com/pygeos/pygeos
+https://github.com/PyGreSQL/PyGreSQL
 https://github.com/pyg-team/pytorch_geometric
 https://github.com/pymc-devs/pymc
 https://github.com/pymc-devs/pytensor
@@ -34284,6 +34298,7 @@ https://pydata.org/
 https://pygeoapi.io/
 https://py.geocompx.org/
 https://pyg.org/
+https://pygresql.org/
 https://pyimagesearch.com/
 https://pyimagesearch.com/2021/05/06/backpropagation-from-scratch-with-python/
 https://pyimagesearch.com/blog/
@@ -34930,9 +34945,11 @@ https://saga-gis.sourceforge.io/en/index.html
 https://sahovski.com/
 https://sail.software/
 https://salsa.debian.org
+https://salsa.debian.org/apt-team/apt
 https://salsa.debian.org/extrepo-team/extrepo
 https://salsa.debian.org/extrepo-team/extrepo-data
 https://salsa.debian.org/fonts-team/fonts-cascadia-code
+https://salsa.debian.org/public
 https://samarskii.ru/en/
 https://samplics-org.github.io/samplics/
 https://samwho.dev/hashing/
