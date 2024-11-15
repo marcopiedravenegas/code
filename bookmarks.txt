@@ -17270,6 +17270,7 @@ https://en.wikipedia.org/wiki/Mozilla_Foundation
 https://en.wikipedia.org/wiki/Mozilla_Public_License
 https://en.wikipedia.org/wiki/Mozilla_Thunderbird
 https://en.wikipedia.org/wiki/Mozilla_VPN
+https://en.wikipedia.org/wiki/MPICH
 https://en.wikipedia.org/wiki/MPIR_(mathematics_software)
 https://en.wikipedia.org/wiki/MPMC
 https://en.wikipedia.org/wiki/MPS_(format)
@@ -17383,6 +17384,7 @@ https://en.wikipedia.org/wiki/Mutual_information
 https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares
 https://en.wikipedia.org/wiki/Mutual_recursion
 https://en.wikipedia.org/wiki/MuZero
+https://en.wikipedia.org/wiki/MVAPICH
 https://en.wikipedia.org/wiki/M._Visvesvaraya
 https://en.wikipedia.org/wiki/Mycenae
 https://en.wikipedia.org/wiki/Mycenaean_Greece
@@ -26650,6 +26652,7 @@ https://github.com/plk/biblatex
 https://github.com/plotly/plotly.py
 https://github.com/pluja/awesome-privacy
 https://github.com/pmndrs/gltfjsx
+https://github.com/pmodels/mpich
 https://github.com/pocoproject/poco
 https://github.com/podofo/podofo
 https://github.com/Pointcept/Pointcept
@@ -28136,6 +28139,8 @@ https://houseofgraphs.org/
 https://hovav.net/ucsd/dist/geometry.pdf
 https://howardism.org/Technical/Emacs/new-window-manager.html
 https://hpbn.co/
+https://hpcc.umd.edu/
+https://hpc.llnl.gov/
 https://hpc.pnl.gov/globalarrays/
 https://hpc-tutorials.llnl.gov/
 https://hpc-tutorials.llnl.gov/mpi/
@@ -32412,6 +32417,7 @@ https://music.youtube.com/playlist?list=OLAK5uy_mZEBW4eKtEbs4GNN2syfrjgepgJlUf7Y
 https://musl.libc.org/
 https://musopen.org/
 https://muxup.com/2023q4/storing-data-in-pointers
+https://mvapich.cse.ohio-state.edu/
 https://mwhittaker.github.io/papers/
 https://mxlinux.org/
 https://mxnet.apache.org/versions/1.9.1/
@@ -36989,6 +36995,7 @@ https://www3.risc.jku.at/education/phd/phd.html
 https://www3.risc.jku.at/people/winkler/
 https://www3.risc.jku.at/publications/download/risc_3531/paper_36.pdf
 https://www3.risc.jku.at/software/casa/
+https://www6.slac.stanford.edu/
 https://www.7-cpu.com/cpu/Mips4K.html
 https://www.8bitclassics.com/
 https://www.8bitclassics.com/product-category/computers/atari-8-bit-computer/
@@ -37521,6 +37528,7 @@ https://www.bmwk.de/Navigation/DE/Home/home.html
 https://www.bmwk.de/Redaktion/DE/Dossier/fachkraeftesicherung.html
 https://www.bnf.fr/fr
 https://www.bnlearn.com/
+https://www.bnl.gov/
 https://www.boazbarak.org/
 https://www.bodleian.ox.ac.uk/csb
 https://www.bookbrowse.com/
@@ -38664,6 +38672,7 @@ https://www.datacamp.com/tutorial/tutorial-time-series-forecasting
 https://www.datacenterdynamics.com/en/
 https://www.datacenterdynamics.com/en/analysis/
 https://www.datacenterdynamics.com/en/analysis/ovhcloud-fire-france-data-center/
+https://www.datacenterknowledge.com/
 https://www.datacentermap.com/
 https://www.datacentermap.com/cloud/
 https://www.datacentermap.com/datacenters/
@@ -39112,6 +39121,7 @@ https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://www.epa.gov/pm-pollution/particulate-matter-pm-basics
 https://www.epicreads.com/blog/completed-book-series-binge/
 https://www.episciences.org/
+https://www.epm.ornl.gov/pvm/pvm_home.html
 https://www.epochconverter.com/
 https://www.eprints.org/uk/
 https://www.ereserve.com.au/
@@ -40221,6 +40231,7 @@ https://www.icanw.org/
 https://www.icao.int/
 https://www.icecast.org/
 https://www.icj-cij.org/
+https://www.ictp.it/
 https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
 https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html
 https://www.ida.liu.se/labs/pelab/ceniit/
@@ -40874,6 +40885,7 @@ https://www.lix.polytechnique.fr/~bournez/i.php/Main/HomePage
 https://www.lix.polytechnique.fr/~bournez/i.php?n=Main.ResearchNotFancy
 https://www.lix.polytechnique.fr/~hermann/conf.php
 https://www.lix.polytechnique.fr/~morain/
+https://www.llnl.gov/
 https://www.lmfdb.org/
 https://www.lms.ac.uk/
 https://www.lmu.de/
@@ -41485,6 +41497,7 @@ https://www.mpfr.org/
 https://www.mpg.de/
 https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x
 https://www.mpg.de/de
+https://www.mpich.org/
 https://www.mpi-forum.org/
 https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/winter17/comp-alg
 https://www.mpi-inf.mpg.de/home/
