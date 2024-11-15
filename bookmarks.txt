@@ -674,6 +674,7 @@ https://apps.gnome.org/Wike/
 https://apps.gnome.org/Workbench/
 https://apps.gnome.org/Yelp/
 https://apps.gnome.org/Zap/
+https://appsilon.github.io/rhino/index.html
 https://apps.kde.org/
 https://apps.kde.org/konsole/
 https://apps.kde.org/ktorrent/
@@ -1557,6 +1558,8 @@ https://blog.cloudflare.com/
 https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
 https://blog.cloudflare.com/author/john-graham-cumming
 https://blog.cloudflare.com/branch-predictor
+https://blog.cloudflare.com/building-d1-a-global-database/
+https://blog.cloudflare.com/cloud-computing-without-containers/
 https://blog.cloudflare.com/harnessing-office-chaos
 https://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer
 https://blog.cloudflare.com/how-to-execute-an-object-file-part-1
@@ -1783,6 +1786,7 @@ https://bookshop.org/p/books/do-not-erase-mathematicians-and-their-chalkboards-j
 https://booksite.elsevier.com/9780124104099/
 https://books.osborne.economics.utoronto.ca/
 https://book.spatstat.org/
+https://books.ropensci.org/targets/
 https://bookstore.ams.org/
 https://bookstore.ams.org/amstext-2
 https://bookstore.ams.org/amstext-28/
@@ -1885,6 +1889,7 @@ https://builder.sourceware.org/
 https://buildroot.org/
 https://builtwith.com/
 https://builtwithdot.net/
+https://business-science.github.io/correlationfunnel/
 https://business-science.github.io/timetk/
 https://busybox.net/
 https://butcher.tidymodels.org/
@@ -3520,6 +3525,7 @@ https://developers.cloudflare.com/api/
 https://developers.cloudflare.com/d1/
 https://developers.cloudflare.com/dns/
 https://developers.cloudflare.com/fundamentals/
+https://developers.cloudflare.com/hyperdrive/
 https://developers.cloudflare.com/images/
 https://developers.cloudflare.com/kv/
 https://developers.cloudflare.com/load-balancing/
@@ -4582,6 +4588,7 @@ https://docs.bokeh.org/en/latest/
 https://docs.codeberg.org/
 https://docs.conda.io/projects/miniconda/en/latest/
 https://docs.enthought.com/mayavi/mayavi/
+https://docs.expo.dev/
 https://docs.fedoraproject.org/en-US/docs/
 https://docs.fedoraproject.org/en-US/emerging/
 https://docs.fedoraproject.org/en-US/epel/
@@ -24592,6 +24599,7 @@ https://explorabl.es/
 https://explorer.opensyllabus.org/
 https://exploring-data.com/
 https://expo.dev/
+https://expo.dev/go
 https://expressjs.com/
 https://expressjs.com/en/advanced/best-practice-security.html
 https://expressjs.com/en/starter/examples.html
@@ -24630,6 +24638,7 @@ https://fas.org/
 https://fas.org/initiative/status-world-nuclear-forces/
 https://fasta.bioch.virginia.edu/fasta_www2/fasta_list2.shtml
 https://fastcgi-archives.github.io/
+https://fastlane.tools/
 https://fasttext.cc/
 https://fastverse.r-universe.dev/packages
 https://fauna.com/
@@ -25454,6 +25463,7 @@ https://github.com/DeepLcom/deepl-python
 https://github.com/deeplearning4j/deeplearning4j
 https://github.com/deepmind/alphafold
 https://github.com/defermelowie/bare-metal-rust-on-riscv
+https://github.com/DefinitelyTyped/DefinitelyTyped
 https://github.com/dendisuhubdy/scythe
 https://github.com/DenisIzmaylov/awesome-telegram-bots
 https://github.com/denji/awesome-http-benchmark
@@ -25598,6 +25608,7 @@ https://github.com/espressif/arduino-esp32
 https://github.com/espressif/esp-idf
 https://github.com/etcd-io/etcd
 https://github.com/ether/etherpad-lite
+https://github.com/EvanLi/Github-Ranking
 https://github.com/eventql/eventql
 https://github.com/everywall/ladder
 https://github.com/exaexa/EmbedSOM
@@ -25606,6 +25617,7 @@ https://github.com/exiftool/exiftool
 https://github.com/expipiplus1/vector-sized
 https://github.com/explosion/ml-datasets
 https://github.com/explosion/spaCy
+https://github.com/expo/expo
 https://github.com/extremecoders-re/re-list
 https://github.com/f3d-app/f3d
 https://github.com/fabacab/awesome-cybersecurity-blueteam
@@ -25643,6 +25655,7 @@ https://github.com/Farama-Foundation/PettingZoo
 https://github.com/Farama-Foundation/Shimmy
 https://github.com/Farama-Foundation/stable-retro
 https://github.com/FarGroup/FarManager
+https://github.com/fastlane/fastlane
 https://github.com/fcambus
 https://github.com/fcambus/
 https://github.com/fcambus/ansiweather
@@ -25988,6 +26001,7 @@ https://github.com/jedisct1/siphash-js
 https://github.com/jeffpar/basicdos
 https://github.com/jeffpar/pcjs
 https://github.com/jekyll/jekyll
+https://github.com/jellyfin/jellyfin
 https://github.com/jemalloc/jemalloc
 https://github.com/jenkinsci/jenkins
 https://github.com/jennybc
@@ -26312,6 +26326,7 @@ https://github.com/microsoft/torchgeo
 https://github.com/microsoft/TypeScript
 https://github.com/microsoft/vcpkg
 https://github.com/microsoft/verona
+https://github.com/Microsoft/vscode
 https://github.com/Microsoft/vscode-cpptools
 https://github.com/microsoft/vscode-gradle
 https://github.com/Microsoft/vscode-mssql
@@ -26625,6 +26640,7 @@ https://github.com/pallets/jinja
 https://github.com/pallets/werkzeug
 https://github.com/pandas-dev/pandas
 https://github.com/paolostivanin/libbaseencode
+https://github.com/paperless-ngx/paperless-ngx
 https://github.com/papers-we-love/papers-we-love
 https://github.com/papers-we-love/papers-we-love/tree/main/cryptography
 https://github.com/paperswithcode
@@ -26689,6 +26705,7 @@ https://github.com/Pointcept/Pointcept
 https://github.com/pola-rs/polars/
 https://github.com/pop-os/pop
 https://github.com/p-org/P
+https://github.com/porsager/postgres
 https://github.com/posit-dev/positron
 https://github.com/posit-dev/r-shinylive
 https://github.com/postcss/postcss
@@ -27086,6 +27103,7 @@ https://github.com/semver/semver
 https://github.com/sentinel-hub/eo-learn
 https://github.com/sequelize/sequelize
 https://github.com/serde-rs/serde
+https://github.com/sereneblue/awesome-oss
 https://github.com/sergeybratus/HammerPrimer
 https://github.com/Serial-Studio/Serial-Studio
 https://github.com/servo/euclid
@@ -27197,6 +27215,7 @@ https://github.com/supabase/supabase
 https://github.com/surrealdb/surrealdb
 https://github.com/suryakantamangaraj/AwesomeRISC-VResources
 https://github.com/svaksha/Julia.jl
+https://github.com/sveltejs/svelte
 https://github.com/swiftlang/vscode-swift
 https://github.com/SWI-Prolog/packages-pengines
 https://github.com/SWI-Prolog/pengines
@@ -27371,6 +27390,7 @@ https://github.com/triska/proloxy
 https://github.com/triska/the-power-of-prolog
 https://github.com/tsenart/vegeta
 https://github.com/Tunnelblick/Tunnelblick
+https://github.com/tursodatabase/libsql
 https://github.com/tutao/tutanota
 https://github.com/twisted/twisted
 https://github.com/tylerha97/awesome-reversing
@@ -28956,6 +28976,7 @@ https://jdsp.dev/
 https://jeffe.cs.illinois.edu/
 https://jeffe.cs.illinois.edu/teaching/algorithms/
 https://jekyllrb.com/
+https://jellyfin.org/
 https://jennybc.github.io/gapminder/
 https://jennybc.github.io/repurrrsive/
 https://jeremykun.com/
@@ -32861,6 +32882,7 @@ https://ocindex.net/
 https://ocrmypdf.readthedocs.io/en/latest/
 https://octave.org/
 https://octave.sourceforge.io/octave/function/svd.html
+https://octoverse.github.com/2018/projects.html
 https://ocw.mit.edu/
 https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/pages/readings/
 https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/pages/readings/
@@ -33336,6 +33358,7 @@ https://packetstormsecurity.com/
 https://packetstormsecurity.com/news/
 https://pacmanattack.com/
 https://padloc.app/
+https://pages.cloudflare.com/
 https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html
 https://pages.cs.wisc.edu/~larus/larus.html
 https://pages.cs.wisc.edu/~markhill/DineroIV/
@@ -34504,6 +34527,8 @@ https://re2c.org/index.html
 https://reactbyexample.github.io/
 https://react.dev/
 https://react.dev/learn/reusing-logic-with-custom-hooks
+https://reactnative.dev/
+https://reactnative.dev/showcase
 https://reactormag.com/
 https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/
 https://reactos.org/
@@ -34765,6 +34790,7 @@ https://rocket.rs/
 https://rocksdb.org/
 https://rockylinux.org/
 https://roi.r-forge.r-project.org/
+https://roi.r-forge.r-project.org/index.html
 https://roklema.pl/
 https://rolf.esecurity.ch/?page_id=100
 https://romaninscriptionsofbritain.org/
@@ -34775,6 +34801,7 @@ https://rome.tools/
 https://root.cern/
 https://ropengov.r-universe.dev/packages
 https://ropensci.org/
+https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/
 https://ropensci.org/packages/
 https://ropensci.org/packages/all/
 https://ropensci.org/r-universe/
@@ -34849,6 +34876,7 @@ https://rss.org.uk/
 https://r-statistics.co/Time-Series-Analysis-With-R.html
 https://rstats.wtf/
 https://rstudio-education.github.io/hopr/
+https://rstudio.github.io/bslib/
 https://rstudio.github.io/cheatsheets/
 https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html
 https://rstudio.github.io/cheatsheets/html/data-import.html
@@ -34874,6 +34902,7 @@ https://rstudio.github.io/learnr/
 https://rstudio.github.io/packrat/
 https://rstudio.github.io/r2d3/
 https://rstudio.github.io/renv/
+https://rstudio.github.io/renv/articles/renv.html
 https://rstudio.github.io/reticulate/
 https://rstudio.github.io/r-manuals/
 https://rstudio.github.io/r-manuals/r-admin/
@@ -35198,6 +35227,7 @@ https://servo.org/
 https://sfconservancy.org/
 https://sfconservancy.org/GiveUpGitHub/
 https://sfconservancy.org/projects/current/
+https://sfirke.github.io/janitor/index.html
 https://sfwriter.com/
 https://sfwriter.com/wordstar.htm
 https://sfwriter.com/ws7.htm
@@ -36439,6 +36469,8 @@ https://tunnelbroker.net/
 https://tuprints.ulb.tu-darmstadt.de/5807/1/hermann-langsec-diss.pdf
 https://turingmachine.io/
 https://turingmachinesimulator.com/
+https://turso.tech/
+https://turso.tech/libsql
 https://tuta.com/
 https://tuta.com/best-protonmail-alternative
 https://tuta.com/blog/posts/fourteen-eyes-countries
@@ -39044,6 +39076,8 @@ https://www.ecmwf.int/en/forecasts/dataset/machine-learning-model-data
 https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model
 https://www.ecmwf.int/en/forecasts/documentation-and-support/medium-range-forecasts
 https://www.econ.lmu.de/de/
+https://www.econometrics-with-r.org/
+https://www.econometrics-with-r.org/5.5-the-gauss-markov-theorem.html
 https://www.economics.utoronto.ca/osborne/cgt/
 https://www.economist.com/culture/2022/10/13/chip-war-traces-the-evolution-of-the-semiconductor-industry
 https://www.econpol.eu/
@@ -42521,6 +42555,10 @@ https://www.privacyfoundation.ch/
 https://www.privacyguides.org/en/
 https://www.privacy-handbuch.de/download/privacy-handbuch_win.pdf
 https://www.privacytools.io/
+https://www.privatdozent.co/
+https://www.privatdozent.co/p/kurt-godels-brilliant-madness
+https://www.privatdozent.co/p/nashs-invention-of-non-cooperative
+https://www.privatdozent.co/p/the-von-neumann-morgenstern-collaboration
 https://www.privateinternetaccess.com/
 https://www.privoxy.org/
 https://www.probabilistic-numerics.org/
@@ -44018,6 +44056,7 @@ https://www.system-rescue.org/
 https://www.systems-thinking.org/
 https://www.tableau.com/
 https://www.tableau.com/learn/articles/best-data-visualization-blogs
+https://www.tableau.com/learn/articles/data-science-blogs
 https://www.tableau.com/learn/articles/time-series-analysis
 https://www.tableau.com/learn/articles/time-series-analysis-books
 https://www.tableau.com/learn/articles/time-series-forecasting
