@@ -19698,6 +19698,7 @@ https://en.wikipedia.org/wiki/Qualcomm_Snapdragon
 https://en.wikipedia.org/wiki/Qualitative_research
 https://en.wikipedia.org/wiki/Quality_control
 https://en.wikipedia.org/wiki/Quantile
+https://en.wikipedia.org/wiki/Quantile_regression
 https://en.wikipedia.org/wiki/Quantinuum
 https://en.wikipedia.org/wiki/Quantitative_Discourse_Analysis_Package
 https://en.wikipedia.org/wiki/Quantitative_linguistics
@@ -34407,6 +34408,8 @@ https://quoteinvestigator.com/2014/01/12/history-rhymes/
 https://qupath.github.io/
 https://qutip.org/
 https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world
+https://qz.com/1063071/the-great-r-versus-python-for-data-science-debate
+https://qz.com/1206229/this-is-the-best-book-for-learning-modern-statistics-its-free
 https://qz.com/1269525/capitalism-is-unfolding-exactly-as-karl-marx-predicted
 https://r4ds.hadley.nz/
 https://r4ds.hadley.nz/arrow
@@ -36796,10 +36799,17 @@ https://wiki.dlang.org/DMD
 https://wiki.dlang.org/GDC
 https://wiki.dlang.org/LDC
 https://wiki.dlang.org/The_D_Programming_Language
+https://wiki.evageeks.org/Adam
 https://wiki.evageeks.org/Classified_Information_(Translation)
 https://wiki.evageeks.org/Contact_Experiment
+https://wiki.evageeks.org/Dead_Sea_Scrolls
 https://wiki.evageeks.org/Episode_13
 https://wiki.evageeks.org/FGC:Episode_11_Scene_01
+https://wiki.evageeks.org/First_Impact
+https://wiki.evageeks.org/Kaworu_Nagisa
+https://wiki.evageeks.org/Lilith
+https://wiki.evageeks.org/Second_Impact
+https://wiki.evageeks.org/Seele
 https://wiki.fa-fo.de/orga:about
 https://wiki.fricas.org/FrontPage
 https://wiki.f-si.org/
@@ -38152,7 +38162,9 @@ https://www.citusdata.com/blog
 https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/
 https://www.citusdata.com/product/community
 https://www.cityscapes-dataset.com/
+https://www.cjas.org/
 https://www.cjas.org/~echen/articles/spring97/05_03b.html
+https://www.cjas.org/~leng/
 https://www.cjas.org/~leng/lain.htm
 https://www.cjr.org/
 https://www.clamav.net/
@@ -43853,6 +43865,7 @@ https://www.statisticswithoutborders.org/
 https://www.statistik.uu.se/?languageId=1
 https://www.statlearning.com/
 https://www.statlearning.com/online-course
+https://www.statlearning.com/resources-second-edition
 https://www.statmethods.net/
 https://www.statmethods.net/about/books.html
 https://www.statmethods.net/advgraphs/layout.html
