@@ -3649,6 +3649,8 @@ https://de.wikipedia.org/wiki/Bundeszentrale_f%C3%BCr_politische_Bildung
 https://de.wikipedia.org/wiki/%C3%96ffentlichkeit
 https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk
 https://de.wikipedia.org/wiki/%C3%9Cber_die_spezielle_und_die_allgemeine_Relativit%C3%A4tstheorie
+https://de.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F
+https://de.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi
 https://de.wikipedia.org/wiki/CASED
 https://de.wikipedia.org/wiki/Centrum_f%C3%BCr_Hochschulentwicklung
 https://de.wikipedia.org/wiki/Chaos_Communication_Congress
@@ -3777,6 +3779,7 @@ https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft
 https://de.wikipedia.org/wiki/Leibniz-Institut_f%C3%BCr_Europ%C3%A4ische_Geschichte
 https://de.wikipedia.org/wiki/Leipzig
 https://de.wikipedia.org/wiki/Le_Monde_diplomatique
+https://de.wikipedia.org/wiki/Leonhard_Euler
 https://de.wikipedia.org/wiki/Lernmatrix
 https://de.wikipedia.org/wiki/Liebe_ist_f%C3%BCr_alle_da
 https://de.wikipedia.org/wiki/Liste_der_Artikel_des_Grundgesetzes
@@ -3825,6 +3828,7 @@ https://de.wikipedia.org/wiki/Passau
 https://de.wikipedia.org/wiki/Pergamonmuseum
 https://de.wikipedia.org/wiki/Philipps-Universit%C3%A4t_Marburg
 https://de.wikipedia.org/wiki/Physikalisch-Technische_Bundesanstalt
+https://de.wikipedia.org/wiki/Pierre-Simon_Laplace
 https://de.wikipedia.org/wiki/Politikwissenschaft
 https://de.wikipedia.org/wiki/Politique_%C3%A9trang%C3%A8re
 https://de.wikipedia.org/wiki/Politische_Philosophie
@@ -6024,6 +6028,7 @@ https://en.wikipedia.org/wiki/Aleksandr_Lyapunov
 https://en.wikipedia.org/wiki/Alekseev%E2%80%93Gr%C3%B6bner_formula
 https://en.wikipedia.org/wiki/Alemanni
 https://en.wikipedia.org/wiki/Alessandra_Celletti_(mathematician)
+https://en.wikipedia.org/wiki/Alexander_Aitken
 https://en.wikipedia.org/wiki/Alexander_Bogomolny
 https://en.wikipedia.org/wiki/Alexander_Hamilton
 https://en.wikipedia.org/wiki/Alexander_Osterwalder
@@ -9944,6 +9949,7 @@ https://en.wikipedia.org/wiki/Criticism_of_Amazon
 https://en.wikipedia.org/wiki/Criticism_of_capitalism
 https://en.wikipedia.org/wiki/Criticism_of_Huawei
 https://en.wikipedia.org/wiki/Criticism_of_religion
+https://en.wikipedia.org/wiki/Criticisms_of_econometrics
 https://en.wikipedia.org/wiki/Critique_of_political_economy
 https://en.wikipedia.org/wiki/CRIU
 https://en.wikipedia.org/wiki/Cromwell%27s_rule
@@ -12417,6 +12423,7 @@ https://en.wikipedia.org/wiki/Generalized_Fourier_series
 https://en.wikipedia.org/wiki/Generalized_function
 https://en.wikipedia.org/wiki/Generalized_hypergeometric_function
 https://en.wikipedia.org/wiki/Generalized_inverse
+https://en.wikipedia.org/wiki/Generalized_least_squares
 https://en.wikipedia.org/wiki/Generalized_linear_array_model
 https://en.wikipedia.org/wiki/Generalized_linear_mixed_model
 https://en.wikipedia.org/wiki/Generalized_linear_model
@@ -13264,6 +13271,7 @@ https://en.wikipedia.org/wiki/Henri_Bergson
 https://en.wikipedia.org/wiki/Henri_Cohen_(number_theorist)
 https://en.wikipedia.org/wiki/Henri_Lefebvre
 https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9
+https://en.wikipedia.org/wiki/Henri_Theil
 https://en.wikipedia.org/wiki/Henry_Hallett_Dale
 https://en.wikipedia.org/wiki/Henry_Kissinger
 https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
@@ -23830,6 +23838,7 @@ https://en.wikipedia.org/wiki/Web_worker
 https://en.wikipedia.org/wiki/Weierstrass_transform
 https://en.wikipedia.org/wiki/Weight
 https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
+https://en.wikipedia.org/wiki/Weighted_least_squares
 https://en.wikipedia.org/wiki/Weird_fiction
 https://en.wikipedia.org/wiki/Weird_machine
 https://en.wikipedia.org/wiki/Weisfeiler_Leman_graph_isomorphism_test
@@ -24857,6 +24866,7 @@ https://fr.wikipedia.org/wiki/C%C5%93ur_de_pirate
 https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon
 https://fr.wikipedia.org/wiki/Le_Monde_diplomatique
 https://fr.wikipedia.org/wiki/M83_(groupe)
+https://fr.wikipedia.org/wiki/Pierre-Simon_de_Laplace
 https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
 https://fs.blog/gian-carlo-rota/
 https://fs.blog/the-feynman-lectures-on-physics/
@@ -30629,6 +30639,7 @@ https://link.springer.com/book/10.1007/978-3-030-14734-1
 https://link.springer.com/book/10.1007/978-3-030-15142-3
 https://link.springer.com/book/10.1007/978-3-030-15453-0
 https://link.springer.com/book/10.1007/978-3-030-15915-3
+https://link.springer.com/book/10.1007/978-3-030-20790-8
 https://link.springer.com/book/10.1007/978-3-030-22044-0
 https://link.springer.com/book/10.1007/978-3-030-24261-9
 https://link.springer.com/book/10.1007/978-3-030-25165-9
@@ -32941,6 +32952,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/0471221090
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471221104
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471722138
+https://onlinelibrary.wiley.com/doi/book/10.1002/0471725218
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471729000
 https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316436
@@ -32951,6 +32963,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9780470630617
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470746684
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118023471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118033197
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118150702
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118164471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118164532
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118186428
@@ -33990,6 +34003,7 @@ https://pressforward.org/
 https://press.princeton.edu/books/ebook/9780691184302/origins-of-the-kabbalah
 https://press.princeton.edu/books/ebook/9781400829156/classics-in-game-theory
 https://press.princeton.edu/books/ebook/9781400846221/invisible-in-the-storm
+https://press.princeton.edu/books/hardcover/9780691010182/econometrics
 https://press.princeton.edu/books/hardcover/9780691032160/harmonic-analysis-pms-43-volume-43
 https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis
 https://press.princeton.edu/books/hardcover/9780691080789/introduction-to-fourier-analysis-on-euclidean-spaces-pms-32-volume-32
@@ -34035,6 +34049,7 @@ https://press.princeton.edu/books/paperback/9780691175997/heavenly-mathematics
 https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
 https://press.princeton.edu/books/paperback/9780691208411/trust-in-numbers
 https://press.princeton.edu/books/paperback/9780691242057/the-mathematical-mechanic
+https://press.princeton.edu/books/paperback/9780691601595/the-practice-of-data-analysis
 https://press.princeton.edu/books/paperback/9780691625393/flows-in-networks
 https://press.princeton.edu/books/paperback/9780691625423/applied-dynamic-programming
 https://press.princeton.edu/catalogs/ancient-world
@@ -38795,6 +38810,7 @@ https://www.degruyter.com/document/doi/10.1515/9781400835560/html
 https://www.degruyter.com/document/doi/10.1515/9781400835881/html
 https://www.degruyter.com/document/doi/10.1515/9781400840557/html
 https://www.degruyter.com/document/doi/10.1515/9781400842643/html
+https://www.degruyter.com/document/doi/10.1515/9781400851607/html
 https://www.degruyter.com/document/doi/10.1515/9781400863440/html
 https://www.degruyter.com/document/doi/10.1515/9781400873173/html
 https://www.degruyter.com/document/doi/10.1515/9781400874477/html
@@ -42296,6 +42312,7 @@ https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-i-fundamentals/
 https://www.pearson.com/en-us/subject-catalog/p/core-java-volume-ii-advanced-features/P200000013004/9780135371732
 https://www.pearson.com/en-us/subject-catalog/p/c-programming-language/P200000000368/9780137460847
 https://www.pearson.com/en-us/subject-catalog/p/data-abstraction--problem-solving-with-c-walls-and-mirrors/P200000003514/9780137516759
+https://www.pearson.com/en-us/subject-catalog/p/data-analysis-and-regression-a-second-course-in-statistics-classic-version/P200000006295/9780134995335
 https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-boundary-value-problems-computing-and-modeling/P200000007099
 https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-boundary-value-problems-computing-and-modeling/P200000007099/9780137540365
 https://www.pearson.com/en-us/subject-catalog/p/differential-equations-and-linear-algebra/P200000006173
@@ -42499,6 +42516,7 @@ https://www.press.jhu.edu/books/title/10678/matrix-computations
 https://www.primekey.com/
 https://www.princeton.edu/news
 https://www.princeton.edu/~rblee/frog/
+https://www.principlesofeconometrics.com/
 https://www.privacyfoundation.ch/
 https://www.privacyguides.org/en/
 https://www.privacy-handbuch.de/download/privacy-handbuch_win.pdf
@@ -44862,6 +44880,9 @@ https://www.wiley.com/en-us/Ordinary+Differential+Equations%2C+4th+Edition-p-978
 https://www.wiley.com/en-us/Phishing+Dark+Waters%3A+The+Offensive+and+Defensive+Sides+of+Malicious+Emails-p-9781118958483
 https://www.wiley.com/en-us/Planning+of+Experiments-p-9780471574293
 https://www.wiley.com/en-us/Practical+Reverse+Engineering%3A+x86%2C+x64%2C+ARM%2C+Windows+Kernel%2C+Reversing+Tools%2C+and+Obfuscation-p-9781118787397
+https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781118452271
+https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944
+https://www.wiley.com/en-us/Principles+of+Econometrics-p-9780471858454
 https://www.wiley.com/en-us/Principles+of+Modeling+and+Simulation%3A+A+Multidisciplinary+Approach-p-9781118210949
 https://www.wiley.com/en-us/Queueing+Systems%2C+Volume+2%3A+Computer+Applications-p-9780471491118
 https://www.wiley.com/en-us/Queueing+Systems%2C+Volume+I-p-9780471491101
