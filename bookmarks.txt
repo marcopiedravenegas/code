@@ -5626,6 +5626,9 @@ https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
 https://eniko.itch.io/kitsunetails
 https://en.ilmatieteenlaitos.fi/
+https://en.m.wikipedia.org/wiki/Communicative_action
+https://en.m.wikipedia.org/wiki/Communicative_rationality
+https://en.m.wikipedia.org/wiki/The_Theory_of_Communicative_Action
 https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
@@ -9551,6 +9554,7 @@ https://en.wikipedia.org/wiki/Computational_RAM
 https://en.wikipedia.org/wiki/Computational_resource
 https://en.wikipedia.org/wiki/Computational_science
 https://en.wikipedia.org/wiki/Computational_social_choice
+https://en.wikipedia.org/wiki/Computational_social_science
 https://en.wikipedia.org/wiki/Computational_sociology
 https://en.wikipedia.org/wiki/Computational_statistics
 https://en.wikipedia.org/wiki/Computational_Statistics_%26_Data_Analysis
@@ -10063,6 +10067,7 @@ https://en.wikipedia.org/wiki/Culture_of_ancient_Rome
 https://en.wikipedia.org/wiki/Culture_of_Greece
 https://en.wikipedia.org/wiki/Culture_of_Poland
 https://en.wikipedia.org/wiki/Culture_war
+https://en.wikipedia.org/wiki/Culturomics
 https://en.wikipedia.org/wiki/Cumulative_distribution_function
 https://en.wikipedia.org/wiki/Cuneiform
 https://en.wikipedia.org/wiki/CuPy
@@ -15442,6 +15447,7 @@ https://en.wikipedia.org/wiki/Lightweight_programming_language
 https://en.wikipedia.org/wiki/Lightweight_protocol
 https://en.wikipedia.org/wiki/LIGO
 https://en.wikipedia.org/wiki/Likelihood_function
+https://en.wikipedia.org/wiki/Likelihoodist_statistics
 https://en.wikipedia.org/wiki/Likelihood_principle
 https://en.wikipedia.org/wiki/Likelihood-ratio_test
 https://en.wikipedia.org/wiki/Likert_scale
@@ -17884,6 +17890,7 @@ https://en.wikipedia.org/wiki/Nonparametric_regression
 https://en.wikipedia.org/wiki/Nonparametric_statistics
 https://en.wikipedia.org/wiki/Nonprobability_sampling
 https://en.wikipedia.org/wiki/Nonprofit_organization
+https://en.wikipedia.org/wiki/Nonprofit_studies
 https://en.wikipedia.org/wiki/Non-standard_model_of_arithmetic
 https://en.wikipedia.org/wiki/Non-standard_positional_numeral_systems
 https://en.wikipedia.org/wiki/Non-uniform_memory_access
@@ -30365,6 +30372,7 @@ https://link.springer.com/book/10.1007/978-0-387-22757-3
 https://link.springer.com/book/10.1007/978-0-387-26677-0
 https://link.springer.com/book/10.1007/978-0-387-35434-7
 https://link.springer.com/book/10.1007/978-0-387-38983-7
+https://link.springer.com/book/10.1007/978-0-387-39351-3
 https://link.springer.com/book/10.1007/978-0-387-40065-5
 https://link.springer.com/book/10.1007/978-0-387-48742-7
 https://link.springer.com/book/10.1007/978-0-387-48807-3
@@ -30385,6 +30393,7 @@ https://link.springer.com/book/10.1007/978-0-387-69216-6
 https://link.springer.com/book/10.1007/978-0-387-70914-7
 https://link.springer.com/book/10.1007/978-0-387-70984-0
 https://link.springer.com/book/10.1007/978-0-387-71597-1
+https://link.springer.com/book/10.1007/978-0-387-71887-3
 https://link.springer.com/book/10.1007/978-0-387-72831-5
 https://link.springer.com/book/10.1007/978-0-387-73512-2
 https://link.springer.com/book/10.1007/978-0-387-74725-5
@@ -30467,6 +30476,7 @@ https://link.springer.com/book/10.1007/978-1-4419-6655-1
 https://link.springer.com/book/10.1007/978-1-4419-6870-8
 https://link.springer.com/book/10.1007/978-1-4419-7165-4
 https://link.springer.com/book/10.1007/978-1-4419-7288-0
+https://link.springer.com/book/10.1007/978-1-4419-7294-1
 https://link.springer.com/book/10.1007/978-1-4419-7332-0
 https://link.springer.com/book/10.1007/978-1-4419-7970-4
 https://link.springer.com/book/10.1007/978-1-4419-8489-0
@@ -30518,6 +30528,7 @@ https://link.springer.com/book/10.1007/978-1-4612-1132-7
 https://link.springer.com/book/10.1007/978-1-4612-1174-7
 https://link.springer.com/book/10.1007/978-1-4612-1362-8
 https://link.springer.com/book/10.1007/978-1-4612-1616-2
+https://link.springer.com/book/10.1007/978-1-4612-1686-5
 https://link.springer.com/book/10.1007/978-1-4612-2138-8
 https://link.springer.com/book/10.1007/978-1-4612-2162-3
 https://link.springer.com/book/10.1007/978-1-4612-3038-0
@@ -42539,6 +42550,7 @@ https://www.politics.ox.ac.uk/
 https://www.politifact.com/
 https://www.polygon.com/
 https://www.polytechnique.edu/ecole/gouvernance/actes-officiels/textes-officiels/les-eleves
+https://www.pon.harvard.edu/daily/mediation/ai-mediation-using-ai-to-help-mediate-disputes/?amp
 https://www.ponylang.io/
 https://www.popmath.eu/
 https://www.popsci.com/
@@ -43507,6 +43519,7 @@ https://www.science.org/action/doSearch?AllField=%22things+I+won%27t+work+with%2
 https://www.science.org/authored-by/Sussman/Gerald+Jay
 https://www.science.org/authored-by/Wisdom/Jack
 https://www.science.org/careers
+https://www.science.org/content/article/ai-can-help-warring-political-camps-find-common-ground
 https://www.science.org/content/article/ai-churns-out-lightning-fast-forecasts-good-weather-agencies
 https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings
 https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd
@@ -43548,6 +43561,7 @@ https://www.science.org/doi/10.1126/science.adi8474
 https://www.science.org/doi/10.1126/science.adk4858
 https://www.science.org/doi/10.1126/science.adl0426
 https://www.science.org/doi/10.1126/science.adm7168
+https://www.science.org/doi/10.1126/science.adq2852
 https://www.science.org/doi/full/10.1126/sciadv.adm8825
 https://www.science.org/doi/full/10.1126/science.aam9744
 https://www.science.org/journal/sciadv
@@ -44300,6 +44314,7 @@ https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-u
 https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/
 https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/
 https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/
+https://www.technologyreview.com/2024/10/17/1105810/ai-could-help-people-find-common-ground-during-deliberations/amp/
 https://www.technologystories.org/
 https://www.technologystories.org/ai-evolution/
 https://www.techpowerup.com/
