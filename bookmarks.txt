@@ -147,6 +147,7 @@ http://phrack.org/issues/59/6.html
 http://picat-lang.org/
 http://potrace.sourceforge.net/
 http://probcomp.csail.mit.edu/
+http://proj4js.org/
 http://psl.cs.columbia.edu/
 http://publications.csail.mit.edu/ai/
 http://quotes.cat-v.org/
@@ -1397,6 +1398,7 @@ https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a
 https://babel.dev/
 https://babel.hathitrust.org/cgi/pt?id=uc1.32106016334002&seq=116
 https://babeljs.io/
+https://babylonjs.com/
 https://backbonejs.org/
 https://backports.debian.org/
 https://bada55.cr.yp.to/
@@ -4625,6 +4627,7 @@ https://docs.kidger.site/equinox/
 https://docs.kidger.site/jaxtyping/
 https://docs.kidger.site/lineax/
 https://docs.kidger.site/optimistix/
+https://docs.maptiler.com/react-native/
 https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities
 https://docs.ntpsec.org/latest/ntpsec.html
 https://docs.nvidia.com/cudnn/index.html
@@ -24980,6 +24983,7 @@ https://geomstats.github.io/
 https://geonetwork-opensource.org/
 https://geonode.org/
 https://geopandas.org/en/stable/
+https://geoscript.net/js/
 https://geoserver.org/
 https://geospatial.netlify.app/
 https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/
@@ -27701,6 +27705,7 @@ https://global.oup.com/academic/product/an-introduction-to-the-theory-of-numbers
 https://global.oup.com/academic/product/codes-and-cryptography-9780198532873
 https://global.oup.com/academic/product/design-and-analysis-of-time-series-experiments-9780190661564
 https://global.oup.com/academic/product/microeconomic-theory-9780195073409
+https://global.oup.com/academic/product/neural-networks-for-pattern-recognition-9780198538646
 https://global.oup.com/academic/product/statistical-methods-experimental-design-and-scientific-inference-9780198522294?cc=cr&lang=en&
 https://global.oup.com/academic/product/the-algebraic-eigenvalue-problem-9780198534181
 https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207
@@ -28973,6 +28978,7 @@ https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00781-1
 https://jckantor.github.io/ND-Pyomo-Cookbook/README.html
 https://jcs.org/
 https://jdsp.dev/
+https://jedisct1.github.io/minisign/
 https://jeffe.cs.illinois.edu/
 https://jeffe.cs.illinois.edu/teaching/algorithms/
 https://jekyllrb.com/
@@ -31876,6 +31882,7 @@ https://maplibre.org/
 https://mapnik.org/
 https://map.openseamap.org/
 https://mapserver.org/
+https://mapsplatform.google.com/
 https://marabos.nl/atomics/
 https://marble.kde.org/
 https://marc.info/
@@ -32370,6 +32377,7 @@ https://mo8it.com/blog/rust-vs-julia/
 https://moa.cms.waikato.ac.nz/
 https://mobile.population.io/
 https://mobilitydb.com/
+https://mobility-toolbox-js.geops.io/
 https://mo-book.ampl.com/
 https://mochajs.org/
 https://mode.com/
@@ -32863,6 +32871,7 @@ https://oa.mg/
 https://oaspa.org/
 https://oatpp.io/
 https://oauth.net/2/
+https://observablehq.observablehq.cloud/oss-analytics/
 https://observador.cr/
 https://obsproject.com/
 https://obviouscation.cr.yp.to/
@@ -33097,6 +33106,8 @@ https://openforecast.org/adam/
 https://open-foundry.com/
 https://opengauss.org/en/
 https://opengeohub.org/
+https://opengeoscience.github.io/geojs/
+https://opengeoscience.github.io/geojs/examples/hurricanes/docs/main.html
 https://openintro-ims.netlify.app/
 https://openintro.org/
 https://openintro.org/book/ims/
@@ -35713,6 +35724,7 @@ https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
 https://stackoverflow.com/
 https://stacks.math.columbia.edu/
 https://stacks.tidymodels.org/
+https://stadiamaps.com/
 https://staff.fnwi.uva.nl/p.vanemdeboas/
 https://sta.li/
 https://stallman.org/index.html
@@ -36426,6 +36438,7 @@ https://trac.edgewall.org/browser
 https://tracker.debian.org/pkg/apt
 https://tracker.debian.org/pkg/synaptic
 https://tracking.exposed/
+https://trac.osgeo.org/metacrs/wiki
 https://tradingeconomics.com/
 https://trafficserver.apache.org/
 https://trailofbits.audio/
@@ -36467,6 +36480,7 @@ https://tune.tidymodels.org/
 https://tunnelblick.net/
 https://tunnelbroker.net/
 https://tuprints.ulb.tu-darmstadt.de/5807/1/hermann-langsec-diss.pdf
+https://turfjs.org/
 https://turingmachine.io/
 https://turingmachinesimulator.com/
 https://turso.tech/
@@ -41152,8 +41166,10 @@ https://www.m-a.org.uk/
 https://www.maplesoft.com/
 https://www.maplesoft.com/support/help/AddOns/view.aspx?path=GMP
 https://www.mapserver.org/
+https://www.mapsindoors.com/
 https://www.mapthematics.com/
 https://www.mapthematics.com/ProjectionsList.php?Projection=292
+https://www.maptiler.com/
 https://www.mapwindow.org/
 https://www.marceltheshell.org/
 https://www.march.es/es/madrid/concierto/origen-esplendor-viola-da-gamba-viola-da-gamba-tiempos-marin-marais-mr-sainte
@@ -41455,6 +41471,7 @@ https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/
 https://www.microsoft.com/en-us/research/people/
 https://www.microsoft.com/en-us/research/people/cmbishop/
 https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+https://www.microsoft.com/en-us/research/people/cmbishop/publications/
 https://www.microsoft.com/en-us/research/people/roneneldan/
 https://www.microsoft.com/en-us/research/people/satya/
 https://www.microsoft.com/en-us/research/people/yael/
@@ -41466,6 +41483,7 @@ https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/
 https://www.microsoft.com/en-us/research/project/project-verona/
 https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/
 https://www.microsoft.com/en-us/research/publication/data-cube-a-relational-aggregation-operator-generalizing-group-by-cross-tab-and-sub-totals/
+https://www.microsoft.com/en-us/research/publication/deep-learning-foundations-and-concepts/
 https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/
 https://www.microsoft.com/en-us/research/publication/neural-networks-pattern-recognition-2/
 https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/
@@ -42787,6 +42805,7 @@ https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm
 https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/Poisson
 https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/Uniform
 https://www.rdworldonline.com/
+https://www.react-simple-maps.io/
 https://www.readcube.com/
 https://www.realclearpolitics.com/
 https://www.recurse.com/blog/5-learning-c-with-gdb
@@ -43666,6 +43685,7 @@ https://www.sigplan.org/
 https://www.sigplan.org/Conferences/PLDI/
 https://www.sigsac.org/
 https://www.sigsam.org/
+https://www.sigstore.dev/
 https://www.silverliningsinfo.com/
 https://www.similarweb.com/website/news.ycombinator.com/competitors/
 https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008
