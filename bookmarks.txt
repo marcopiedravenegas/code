@@ -3781,6 +3781,7 @@ https://de.wikipedia.org/wiki/K%C3%B6nigreich_Preu%C3%9Fen
 https://de.wikipedia.org/wiki/Klaus_Schmeh
 https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases
 https://de.wikipedia.org/wiki/Konrad_Adenauer
+https://de.wikipedia.org/wiki/Kurt_Hornik
 https://de.wikipedia.org/wiki/Landesrundfunkanstalt
 https://de.wikipedia.org/wiki/L%C3%BCbisches_Recht
 https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft
@@ -6347,6 +6348,7 @@ https://en.wikipedia.org/wiki/Anekdoten
 https://en.wikipedia.org/wiki/Anemic_domain_model
 https://en.wikipedia.org/wiki/An_Essay_on_the_Application_of_Mathematical_Analysis_to_the_Theories_of_Electricity_and_Magnetism
 https://en.wikipedia.org/wiki/An_Essay_towards_solving_a_Problem_in_the_Doctrine_of_Chances
+https://en.wikipedia.org/wiki/An_Essay_Towards_Solving_a_Problem_in_the_Doctrine_of_Chances
 https://en.wikipedia.org/wiki/Angel%27s_Egg
 https://en.wikipedia.org/wiki/Angela_Dean
 https://en.wikipedia.org/wiki/Angles_(tribe)
@@ -6648,6 +6650,7 @@ https://en.wikipedia.org/wiki/Artificial_Intelligence_for_IT_Operations
 https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)
 https://en.wikipedia.org/wiki/Artificial_intelligence_of_things
 https://en.wikipedia.org/wiki/Artificial_neural_network
+https://en.wikipedia.org/wiki/Artificial_neuron
 https://en.wikipedia.org/wiki/Artistic_License
 https://en.wikipedia.org/wiki/Art_pop
 https://en.wikipedia.org/wiki/Artrosis
@@ -8380,6 +8383,7 @@ https://en.wikipedia.org/wiki/Category:Parametric_statistics
 https://en.wikipedia.org/wiki/Category:Partial_differential_equations
 https://en.wikipedia.org/wiki/Category:Particle_physics
 https://en.wikipedia.org/wiki/Category:Password_managers
+https://en.wikipedia.org/wiki/Category:Pattern_recognition
 https://en.wikipedia.org/wiki/Category:Philosophy_of_science
 https://en.wikipedia.org/wiki/Category:Photogrammetry_software
 https://en.wikipedia.org/wiki/Category:Physical_chemistry
@@ -9726,6 +9730,7 @@ https://en.wikipedia.org/wiki/Container_(type_theory)
 https://en.wikipedia.org/wiki/Containment
 https://en.wikipedia.org/wiki/Contemporary_Latin
 https://en.wikipedia.org/wiki/Content_Addressable_File_Store
+https://en.wikipedia.org/wiki/Content-addressable_memory
 https://en.wikipedia.org/wiki/Content-addressable_storage
 https://en.wikipedia.org/wiki/Content_analysis
 https://en.wikipedia.org/wiki/Content_centric_networking
@@ -11185,6 +11190,7 @@ https://en.wikipedia.org/wiki/Electric_power_distribution
 https://en.wikipedia.org/wiki/Electric_power_system
 https://en.wikipedia.org/wiki/Electric_power_transmission
 https://en.wikipedia.org/wiki/Electric_(software)
+https://en.wikipedia.org/wiki/Electrochemical_RAM
 https://en.wikipedia.org/wiki/Electrologica_X1
 https://en.wikipedia.org/wiki/Electromagnetism
 https://en.wikipedia.org/wiki/Electron
@@ -12357,6 +12363,7 @@ https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis
 https://en.wikipedia.org/wiki/Gaspard_Monge
 https://en.wikipedia.org/wiki/Gaston_Gonnet
 https://en.wikipedia.org/wiki/Gated_recurrent_unit
+https://en.wikipedia.org/wiki/Gating_mechanism
 https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)
 https://en.wikipedia.org/wiki/Gauss%27s_law
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Hermite_quadrature
@@ -15327,6 +15334,7 @@ https://en.wikipedia.org/wiki/Lemote
 https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch
 https://en.wikipedia.org/wiki/Lemuria_(album)
 https://en.wikipedia.org/wiki/Lemur_Project
+https://en.wikipedia.org/wiki/LeNet
 https://en.wikipedia.org/wiki/Length_extension_attack
 https://en.wikipedia.org/wiki/Length_measurement
 https://en.wikipedia.org/wiki/Lenin:_A_Biography
@@ -16440,6 +16448,7 @@ https://en.wikipedia.org/wiki/Malleability_(cryptography)
 https://en.wikipedia.org/wiki/Malta
 https://en.wikipedia.org/wiki/Malthusianism
 https://en.wikipedia.org/wiki/Malware_analysis
+https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture)
 https://en.wikipedia.org/wiki/MAME
 https://en.wikipedia.org/wiki/Mammon
 https://en.wikipedia.org/wiki/Mamoru_Oshii
@@ -16828,6 +16837,7 @@ https://en.wikipedia.org/wiki/Memory_segmentation
 https://en.wikipedia.org/wiki/Memristor
 https://en.wikipedia.org/wiki/MEMS
 https://en.wikipedia.org/wiki/MEMS_magnetic_field_sensor
+https://en.wikipedia.org/wiki/Memtransistor
 https://en.wikipedia.org/wiki/Men_in_Black_(The_X-Files)
 https://en.wikipedia.org/wiki/Menlo_(typeface)
 https://en.wikipedia.org/wiki/Mensheviks
@@ -17561,6 +17571,7 @@ https://en.wikipedia.org/wiki/Nearest_centroid_classifier
 https://en.wikipedia.org/wiki/Nearest_neighbor_graph
 https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
 https://en.wikipedia.org/wiki/Nearest_neighbor_search
+https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm
 https://en.wikipedia.org/wiki/Near-field_communication
 https://en.wikipedia.org/wiki/Nearly_free_electron_model
 https://en.wikipedia.org/wiki/Near-rectilinear_halo_orbit
@@ -17674,8 +17685,10 @@ https://en.wikipedia.org/wiki/Neural_network
 https://en.wikipedia.org/wiki/Neural_Network_Exchange_Format
 https://en.wikipedia.org/wiki/Neural_network_Gaussian_process
 https://en.wikipedia.org/wiki/Neural_Network_Intelligence
+https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
 https://en.wikipedia.org/wiki/Neural_network_software
 https://en.wikipedia.org/wiki/Neural_operators
+https://en.wikipedia.org/wiki/Neural_radiance_field
 https://en.wikipedia.org/wiki/Neural_scaling_law
 https://en.wikipedia.org/wiki/Neural_tangent_kernel
 https://en.wikipedia.org/wiki/Neural_Turing_machine
@@ -20868,6 +20881,7 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers)
 https://en.wikipedia.org/wiki/Self-modifying_code
 https://en.wikipedia.org/wiki/Self-organization
 https://en.wikipedia.org/wiki/Self-organizing_map
+https://en.wikipedia.org/wiki/Self-play
 https://en.wikipedia.org/wiki/Self_(programming_language)
 https://en.wikipedia.org/wiki/Self-reflection
 https://en.wikipedia.org/wiki/Self-similarity_matrix
@@ -20935,6 +20949,7 @@ https://en.wikipedia.org/wiki/Seq2seq
 https://en.wikipedia.org/wiki/Sequence_alignment
 https://en.wikipedia.org/wiki/Sequence_analysis
 https://en.wikipedia.org/wiki/Sequence_database
+https://en.wikipedia.org/wiki/Sequence_labeling
 https://en.wikipedia.org/wiki/Sequence_space
 https://en.wikipedia.org/wiki/Sequential_analysis
 https://en.wikipedia.org/wiki/Sequential_bargaining
@@ -21592,6 +21607,7 @@ https://en.wikipedia.org/wiki/Spiel_des_Jahres
 https://en.wikipedia.org/wiki/Spigot_algorithm
 https://en.wikipedia.org/wiki/Spiking_neural_network
 https://en.wikipedia.org/wiki/SPIM
+https://en.wikipedia.org/wiki/Spin_glass
 https://en.wikipedia.org/wiki/Spinlock
 https://en.wikipedia.org/wiki/SpiNNaker
 https://en.wikipedia.org/wiki/Spiral
